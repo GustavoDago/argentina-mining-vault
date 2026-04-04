@@ -4,7 +4,7 @@
 1. **Infraestructura Logística del [[Corredor Bioceanico]]**:
    - El aumento exponencial de carga por el Paso de Jama (7.000 camiones adicionales en un año) abre oportunidades para servicios de apoyo logístico, hotelería para transportistas, digitalización de trámites y mantenimiento vial en Jujuy.
 2. **Servicios para la Fase de Puesta en Marcha de Litio**:
-   - Con proyectos como **[[Hombre Muerto Oeste]]** iniciando producción en el 2do semestre 2026, hay demanda creciente de servicios de transporte de químicos, gestión de residuos mineros y mantenimiento de plantas de nanofiltración.
+   - Con proyectos como **[[Hombre Muerto Oeste]]** y **[[Rincón]]** iniciando exportaciones o completando fases críticas, hay demanda creciente de servicios de transporte de químicos, gestión de residuos mineros y mantenimiento de plantas de extracción directa (DLE).
 3. **Proveeduría Industrial para Cobre**:
    - Proyectos de escala masiva como **[[Taca Taca]]** (US$ 5.250M) y **[[Los Azules]]** demandarán infraestructura eléctrica de alta tensión, caminos mineros y servicios de construcción especializada para plantas de procesamiento.
 4. **RIGI para Proyectos Medianos**:
@@ -20,9 +20,12 @@ graph TD
     RIGI[RIGI & Marcos Regulatorios] --> |Incentivos Fiscales| TacaTaca[Taca Taca - Salta]
     RIGI --> |Incentivos Fiscales| LosAzules[Los Azules - San Juan]
     RIGI --> |Inversión US$ 6000M| VacaMuerta[Vaca Muerta - Neuquén]
+    RIGI --> |Inversión US$ 2500M| Rincon[Rincón - Salta]
+    RIGI --> |Exportación Líquidos US$ 3000M| TGS[TGS - Vaca Muerta]
 
     CBC[Corredor Bioceánico Capricornio] --> |Logística Crítica| TacaTaca
     CBC --> |Salida al Pacífico| Litio[Litio - Salta/Jujuy/Catamarca]
+    CBC --> |Logística Exportación| Rincon
 
     TacaTaca --> |Inversión US$ 5250M| PBI_Salta[Crecimiento PBI Regional]
     VacaMuerta --> |Producción Oil & Gas| Superavit[Superávit Energético US$ 15.000M]

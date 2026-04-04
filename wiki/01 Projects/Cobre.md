@@ -4,9 +4,10 @@
 
 ## Proyectos Clave (2026)
 - **[[Los Azules]]** (San Juan) - Operado por McEwen Copper. IPO de US$ 300M en preparación.
-- **[[Taca Taca]]** (Salta) - Operado por First Quantum Minerals. Inversión US$ 5.250M.
-- **Josemaría** (San Juan) - Parte del distrito Vicuña.
-- **Filo del Sol** (San Juan/Chile) - Parte del distrito Vicuña (BHP/Lundin).
+- **[[Taca Taca]]** (Salta) - Operado por First Quantum Minerals. Inversión US$ 5.250M. Acuerdo con IFC y nuevo reporte técnico NI 43-101.
+- **Distrito Vicuña** (San Juan) - Inversión masiva de **US$ 18.000 millones** oficializada. Incluye los proyectos:
+    - **Josemaría** (San Juan).
+    - **Filo del Sol** (San Juan/Chile) - Operado por BHP/Lundin Mining.
 
 ## Marco de Incentivos
 La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación.
@@ -16,5 +17,4 @@ Se estima que para acompañar la demanda global por la transición energética, 
 
 ## Conexiones
 - **[[RIGI]]**
-- **[[Minería]]**
-- **[[Análisis de Demanda Global]]**
+- **[[Mineria]]**

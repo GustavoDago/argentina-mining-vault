@@ -8,6 +8,7 @@ El yacimiento de shale es el motor principal del superávit energético de Argen
 
 ## Inversiones Recientes
 - Phoenix Global Resources: Expansión de **US$ 6.000 millones** bajo el [[RIGI]].
+- **TGS (Transportadora de Gas del Sur):** Inversión de **US$ 3.000 millones** para industrialización y exportación de líquidos derivados del gas, adherida al [[RIGI]].
 - Tecpetrol y Pampa Energía: Propuestas multimillonarias en marcha.
 
 ## Infraestructura Crítica
@@ -16,4 +17,3 @@ El yacimiento de shale es el motor principal del superávit energético de Argen
 
 ## Conexiones
 - [[RIGI]]
-- [[Análisis de Superávit Energético]]

@@ -16,6 +16,4 @@
 - Inversión de Phoenix Global Resources (US$ 6.000M) bajo el RIGI en Vaca Muerta.
 
 ## Conexiones:
-- [[Minería]]
-- [[Proyectos Energéticos]]
-- [[Superávit Energético]]
+- [[Mineria]]

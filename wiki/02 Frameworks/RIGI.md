@@ -8,10 +8,13 @@
 - Inversión total proyectada: **> US$ 26.000 millones**.
 
 ### Casos Relevantes:
+- **[[Rincón]]** (Litio - Rio Tinto, Salta). Primer proyecto minero adherido.
+- **[[Vaca Muerta]]**:
+    - Phoenix Global Resources (US$ 6.000M).
+    - **TGS** (US$ 3.000M) para exportación de líquidos derivados del gas.
 - **[[Los Azules]]** (Cobre - San Juan).
-- **[[Diablillos]]** (Plata/Oro - AbraSilver, Salta/Catamarca, US$ 760M).
-- **[[Veladero]]** (Oro/Plata - Barrick/Shandong Gold, San Juan, US$ 380M).
-- **[[Vaca Muerta]]**: Expansión de Phoenix Global Resources (US$ 6.000M).
+- **Diablillos** (Plata/Oro - AbraSilver, Salta/Catamarca, US$ 760M).
+- **Veladero** (Oro/Plata - Barrick/Shandong Gold, San Juan, US$ 380M).
 - **[[Taca Taca]]**: En proceso de adhesión (US$ 5.250M).
 
 ## Beneficios Clave
@@ -21,6 +24,5 @@
 - Acceso a arbitraje internacional.
 
 ## Conexiones
-- [[Minería]]
-- [[Energía]]
-- [[Oportunidades RIGI 2026]]
+- [[Mineria]]
+- [[Energia]]

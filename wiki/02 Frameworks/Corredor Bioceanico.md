@@ -16,7 +16,6 @@
 - Limitación en infraestructura para carga refrigerada y general en algunos tramos.
 
 ## Conexiones
-- [[Minería]] (Salta/Jujuy/Catamarca).
-- [[Puertos de Chile]]
+- [[Mineria]] (Salta/Jujuy/Catamarca).
 - [[Taca Taca]]
 - [[Litio]]

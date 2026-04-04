@@ -7,11 +7,12 @@
 Megaproyecto de cobre de clase mundial con una inversión estimada de **US$ 5.250 millones**.
 
 ## Hitos Recientes (2025-2026)
-- Acuerdo con la Corporación Financiera Internacional (IFC - Grupo Banco Mundial) para alinearse con estándares internacionales de sostenibilidad.
+- **Acuerdo IFC (Abril 2026):** Alianza con la Corporación Financiera Internacional para estándares de sostenibilidad y facilitación de financiamiento por deuda.
+- **Reporte Técnico NI 43-101:** Actualización que confirma una producción de 291.000 t/año de cobre en los primeros 10 años.
 - Preparación para solicitar la adhesión al [[RIGI]].
-- Proyecta una vida útil de más de 32 años de producción sostenida.
+- Proyecta una vida útil de más de 35 años de producción sostenida.
 
 ## Conexiones
 - [[Cobre]]
 - [[RIGI]]
-- [[Corredor Bioceánico de Capricornio]]
+- [[Corredor Bioceanico]]

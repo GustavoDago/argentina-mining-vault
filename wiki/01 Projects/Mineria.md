@@ -5,7 +5,7 @@
 ## Subsectores Críticos:
 - **[[Cobre]]**: El sector con mayor potencial de inversión masiva (US$ > 10.000M proyectados en 3 años).
 - **[[Litio]]**: Argentina busca posicionarse como el 3er productor mundial.
-- **Oro y Plata**: Producción consolidada en San Juan y Santa Cruz (**[[Veladero]]**, **[[Diablillos]]**).
+- Oro y Plata: Producción consolidada en San Juan y Santa Cruz (**Veladero**, **Diablillos**).
 
 ## Marco de Incentivos:
 - **[[RIGI]]**: 12 proyectos mineros ya aprobados (US$ 26.000M+).
@@ -15,5 +15,4 @@
 - **[[Corredor Bioceanico]]**: Conectividad crítica para exportación de minerales del NOA hacia el Pacífico.
 
 ## Conexiones:
-- [[Energía]]
-- [[Proyectos Mineros]]
+- [[Energia]]
