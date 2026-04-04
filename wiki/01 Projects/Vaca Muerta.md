@@ -8,8 +8,9 @@ El yacimiento de shale es el motor principal del superávit energético de Argen
 
 ## Inversiones Recientes
 - Phoenix Global Resources: Expansión de **US$ 6.000 millones** bajo el [[RIGI]].
-- **TGS (Transportadora de Gas del Sur):** Inversión de **US$ 3.000 millones** para industrialización y exportación de líquidos derivados del gas, adherida al [[RIGI]].
-- Tecpetrol y Pampa Energía: Propuestas multimillonarias en marcha.
+- **TGS (Transportadora de Gas del Sur):** Inversión de **US$ 3.000 millones** para industrialización y exportación de líquidos derivados del gas de Vaca Muerta, con adhesión al [[RIGI]].
+- **Pampa Energía:** Adhesión al [[RIGI]] por una inversión de **US$ 4.500 millones** destinada a exploración y producción de hidrocarburos no convencionales.
+- **Southern Energy:** Proyecto de licuefacción de gas natural en Río Negro aprobado por el [[RIGI]] por **US$ 6.900 millones**.
 
 ## Infraestructura Crítica
 - Oleoducto de Oldelval (ampliado).

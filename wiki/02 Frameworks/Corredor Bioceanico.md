@@ -10,6 +10,9 @@
 - **Alta operatividad anual:** Cierra solo 35 días al año por factores climáticos (vs. 120 días de Cristo Redentor).
 - **Conectividad estratégica:** Acceso directo a los puertos del norte de Chile (Antofagasta, Iquique).
 
+## Infraestructura Energética Estratégica:
+- **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
+
 ## Desafíos Logísticos:
 - Unificación de pesos y dimensiones de camiones entre los cuatro países.
 - Necesidad de inversión tecnológica en controles fronterizos (escáneres, digitalización).

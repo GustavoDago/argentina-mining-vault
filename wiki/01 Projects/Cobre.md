@@ -6,7 +6,7 @@
 - **[[Los Azules]]** (San Juan) - Operado por McEwen Copper. IPO de US$ 300M en preparación.
 - **[[Taca Taca]]** (Salta) - Operado por First Quantum Minerals. Inversión US$ 5.250M. Acuerdo con IFC y nuevo reporte técnico NI 43-101.
 - **Distrito Vicuña** (San Juan) - Inversión masiva de **US$ 18.000 millones** oficializada. Incluye los proyectos:
-    - **Josemaría** (San Juan).
+    - **[[Josemaría]]** (San Juan) - DIA de explotación aprobada (Marzo 2026).
     - **Filo del Sol** (San Juan/Chile) - Operado por BHP/Lundin Mining.
 
 ## Marco de Incentivos
