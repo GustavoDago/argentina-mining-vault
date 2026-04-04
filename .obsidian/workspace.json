@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "dd1beb80b9c9af81",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bdb40451b03b703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9759b7c398a790e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/01 Projects/Litio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Litio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8650876aa92000af",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7bfad3bdb095d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed14bb94f3db357c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c4683c3603e56481",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "bccaf1b86643e3c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c7139cf29075682",
+    "type": "split",
+    "children": [
+      {
+        "id": "31456b8f235e8fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42caec904a280d7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/01 Projects/Litio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Litio"
+            }
+          },
+          {
+            "id": "9beea8c68af8e704",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/01 Projects/Litio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Litio"
+            }
+          },
+          {
+            "id": "d027fb6fd2ebccad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dc10c9ae89c18662",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ddc38b90c82649b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/01 Projects/Litio.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Litio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "9759b7c398a790e0",
+  "lastOpenFiles": [
+    "JULES_SCHEDULED_TASK.md",
+    "wiki/04 Daily/2026-04-04_Daily_Report.md",
+    "wiki/03 Analysis/Oportunidades y Conexiones.md",
+    "wiki/02 Frameworks/RIGI.md",
+    "wiki/02 Frameworks/Corredor Bioceanico.md",
+    "wiki/01 Projects/Rincón.md",
+    "wiki/01 Projects/Taca Taca.md",
+    "wiki/01 Projects/Vaca Muerta.md",
+    "wiki/01 Projects/Cobre.md",
+    "raw/2026-04-04_news_mining_energy.md",
+    "raw/2026-04-03_news_mining_energy.md"
+  ]
+}
