@@ -1,3 +1,11 @@
+---
+type: project
+tags: [mining, copper]
+sources: [[2026-04-03_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-05
+---
+
 # Cobre en Argentina: El Despertar del Gigante
 
 **Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.

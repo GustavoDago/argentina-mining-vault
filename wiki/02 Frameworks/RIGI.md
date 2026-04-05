@@ -1,3 +1,11 @@
+---
+type: framework
+tags: [regulatory, mining, energy]
+sources: [[2026-04-03_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-05
+---
+
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
 **Vigencia:** 2024 - Julio 2027 (Prorrogado por un año).
