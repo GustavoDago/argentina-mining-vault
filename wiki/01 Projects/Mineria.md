@@ -1,14 +1,15 @@
 # Minería en Argentina
 
-**Estado del Sector (2026):** Motor clave del crecimiento económico nacional bajo el marco del [[RIGI]].
+**Estado del Sector (2026):** Motor clave del crecimiento económico nacional bajo el marco del [[RIGI]], liderando junto a la energía la denominada "economía a dos velocidades" (crecimiento del +15,3% en sectores dinámicos vs. estancamiento en el mercado interno).
 
-## Subsectores Críticos:
-- **[[Cobre]]**: El sector con mayor potencial de inversión masiva (US$ > 10.000M proyectados en 3 años).
+## Proyectos y Desempeño Regional:
+- **San Juan (Febrero 2026):** Liderazgo absoluto en exportaciones. La minería representó el **92,5%** de las exportaciones provinciales, con un crecimiento interanual del **60,5%** (US$ 172 millones en un solo mes).
+- **[[Cobre]]**: El sector con mayor potencial de inversión masiva (US$ > 10.000M proyectados en 3 años). La reforma de la [[Ley de Glaciares]] es vista como un catalizador crítico para destrabar estos proyectos.
 - **[[Litio]]**: Argentina busca posicionarse como el 3er productor mundial.
-- Oro y Plata: Producción consolidada en San Juan y Santa Cruz (**Veladero**, **Diablillos**).
+- **Oro y Plata**: Producción consolidada en San Juan y Santa Cruz (**[[Veladero]]**, **Diablillos**).
 
 ## Marco de Incentivos:
-- **[[RIGI]]**: 12 proyectos mineros ya aprobados (US$ 26.000M+).
+- **[[RIGI]]**: 13 proyectos mineros ya aprobados (US$ 26.000M+).
 - **Mini RIGI (Provincias)**: Incentivos regionales para la cadena de valor minera.
 
 ## Infraestructura Estratégica:
@@ -16,3 +17,4 @@
 
 ## Conexiones:
 - [[Energia]]
+- [[Ley de Glaciares]]

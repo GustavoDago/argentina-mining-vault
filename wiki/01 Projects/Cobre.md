@@ -12,6 +12,9 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026). Primer paso hacia la producción masiva.
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
+## Marco de Incentivos
+La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la reforma de la **[[Ley de Glaciares]]** (Abril 2026) se perfila como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
+
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
 - **Financiamiento:** IPO de **US$ 300 millones** en curso (Abril 2026) por parte de McEwen Copper.

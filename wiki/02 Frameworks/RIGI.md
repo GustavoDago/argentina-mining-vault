@@ -18,12 +18,15 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 5.  **[[Southern Energy]]** (Río Negro, GNL) - Inversión: **US$ 6.900M**.
 6.  **[[TGS]]** (Neuquén, Energía) - Industrialización de líquidos. Inversión: **US$ 3.000M**.
 7.  **[[Pampa Energía]]** (Neuquén, Oil) - Upstream no convencional. Inversión: **US$ 4.500M**.
-8.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M).
+8.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
 9.  **Diablillos** (AbraSilver, Salta, Plata/Oro, US$ 760M).
 10. **Veladero** (Barrick, San Juan, Oro/Plata, US$ 380M).
-11. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - En etapa final de aprobación.
+11. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - En etapa final de aprobación (US$ 5.250M).
 12. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
 13. **Proyecto Galan** (Catamarca, Litio, ampliación de fase).
+
+## Impacto Macroeconómico (2026)
+El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
 
 ## Beneficios Clave para Inversores
 - **Estabilidad Fiscal:** No se verán afectados por nuevos impuestos nacionales o aumento de tasas provinciales durante 30 años.
