@@ -19,6 +19,11 @@
 - **Veladero** (Oro/Plata - Barrick/Shandong Gold, San Juan, US$ 380M).
 - **[[Hombre Muerto Oeste]]** (Litio - Galan Lithium, US$ 217M).
 - **[[Taca Taca]]**: En proceso de adhesión (US$ 5.250M).
+- **Tecpetrol** (Gas/Vaca Muerta): Presentó proyecto por US$ 2.400M para Los Toldos II Este.
+- **GeoPark** (Oil/Vaca Muerta): Inversión estimada de hasta US$ 1.000M en Puesto Silva Oeste y Loma Jarillosa.
+
+## Impacto Macroeconómico (2026)
+El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
 
 ## Beneficios Clave
 - Exención de derechos de exportación.

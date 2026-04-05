@@ -10,7 +10,7 @@
     - **Filo del Sol** (San Juan/Chile) - Operado por BHP/Lundin Mining.
 
 ## Marco de Incentivos
-La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación.
+La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la reforma de la **[[Ley de Glaciares]]** (Abril 2026) se perfila como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
 
 ## Desafío de Producción
 Se estima que para acompañar la demanda global por la transición energética, será necesario producir un **115% más** de cobre que lo extraído históricamente antes de 2018.
