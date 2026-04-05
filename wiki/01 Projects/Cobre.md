@@ -1,20 +1,38 @@
-# Cobre en Argentina
+# Cobre en Argentina: El Despertar del Gigante
 
-**Contexto:** Argentina no produce cobre desde el cierre de la mina Alumbrera en 2018. Actualmente, cuenta con una de las carteras de proyectos sin desarrollar más importantes del mundo.
+**Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.
 
-## Proyectos Clave (2026)
-- **[[Los Azules]]** (San Juan) - Operado por McEwen Copper. IPO de US$ 300M en preparación.
-- **[[Taca Taca]]** (Salta) - Operado por First Quantum Minerals. Inversión US$ 5.250M. Acuerdo con IFC y nuevo reporte técnico NI 43-101.
-- **Distrito Vicuña** (San Juan) - Inversión masiva de **US$ 18.000 millones** oficializada. Incluye los proyectos:
-    - **[[Josemaría]]** (San Juan) - DIA de explotación aprobada (Marzo 2026).
-    - **Filo del Sol** (San Juan/Chile) - Operado por BHP/Lundin Mining.
+## La Cuenca del Cobre (2026)
+La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan y Salta).
 
-## Marco de Incentivos
-La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación.
+### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
+- **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
+- **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
+- **Proyectos Clave:**
+    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026). Primer paso hacia la producción masiva.
+    - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
-## Desafío de Producción
-Se estima que para acompañar la demanda global por la transición energética, será necesario producir un **115% más** de cobre que lo extraído históricamente antes de 2018.
+### 2. [[Los Azules]] (San Juan) - Cobre Verde
+- **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
+- **Financiamiento:** IPO de **US$ 300 millones** en curso (Abril 2026) por parte de McEwen Copper.
+- **Socios:** Stellantis (Electromovilidad) y Rio Tinto (Tecnología Nuton).
+
+### 3. [[Taca Taca]] (Salta) - Gigante del Norte
+- **Inversión:** **US$ 5.250 millones**.
+- **Hito Reciente:** Nuevo reporte técnico NI 43-101 y acuerdo con la **IFC (Banco Mundial)** para estándares de sostenibilidad.
+- **Producción:** Se estima en **291.000 t/año** de cobre.
+
+## Marco Regulatorio y RIGI
+El 100% de los proyectos de cobre de gran escala han solicitado su adhesión al [[RIGI]]. Este régimen es considerado "el habilitador" (enabler) para el desembolso de los US$ 26.000M acumulados en la industria minera y energética.
+
+## Desafío de Infraestructura
+- **Energía:** Necesidad de interconexión eléctrica de alta tensión ([[Electrificacion Puna]]).
+- **Logística:** Reactivación del Ferrocarril Belgrano Cargas y el [[Corredor Bioceanico]] para salida hacia el Pacífico (Chile).
 
 ## Conexiones
-- **[[RIGI]]**
-- **[[Mineria]]**
+- [[RIGI]]
+- [[Mineria]]
+- [[San Juan]]
+- [[Salta]]
+- [[Distrito Vicuña]]
+- [[Electromovilidad]]

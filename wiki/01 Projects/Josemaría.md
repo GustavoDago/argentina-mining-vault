@@ -14,4 +14,4 @@ Megaproyecto de cobre, oro y plata ubicado en el extremo norte de San Juan. Es p
 ## Conexiones
 - [[Cobre]]
 - [[RIGI]]
-- [[Distrito Vicuña]] (En creación)
+- [[Distrito Vicuña]]
