@@ -5,6 +5,13 @@
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
+### Estadísticas de Exportación (Enero 2026)
+- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
+- **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
+
+### Proyección de Producción (CAEM)
+La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
+
 ### 1. [[Rincón]] (Rio Tinto, Salta)
 - **Hito Histórico (Abril 2026):** Primera exportación de **200 toneladas** de carbonato de litio con destino a Shanghái.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
@@ -20,6 +27,7 @@ A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comerci
 
 ## La Mesa del Litio y Política Regional
 - **Mesa del Litio:** Salta, Jujuy y Catamarca coordinan una regalía unificada y políticas de "valor agregado local" (Leyes de Desarrollo Local Minero en San Juan y Salta).
+- **Incentivos (Abril 2026):** Bajo la presidencia de Jujuy, se lanzó un **"Mini RIGI"** destinado a atraer inversiones de menor escala (desde US$ 5 millones) para fortalecer la cadena de proveedores locales de litio.
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
 ## Mercados y Precios
@@ -31,6 +39,6 @@ A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comerci
 - [[Corredor Bioceanico]]
 - [[Electromovilidad]]
 - [[Electrificacion Puna]]
-- [[Provincias/Catamarca]]
-- [[Provincias/Salta]]
-- [[Provincias/Jujuy]]
+- [[Catamarca]]
+- [[Salta]]
+- [[Jujuy]]

@@ -1,18 +1,28 @@
+---
+type: analysis
+tags: [mining, energy, infrastructure, RIGI]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-04_news_mining_energy.md, 2026-04-05_news_mining_energy.md]
+confidence: high
+last_update: 2026-04-05
+---
+
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
 
 ## Oportunidades de Negocio Identificadas
-1. **Infraestructura Logística y Energética**:
-   - El proyecto de **electrificación de la Puna** (YPF Luz/Central Puerto) abre una ventana para subcontratistas en montaje de líneas de extra alta tensión.
+1. **Infraestructura Logística y Tecnológica**:
+   - **Paso de Jama y Corredor Bioceánico**: El incremento de 7.000 camiones anuales y el puente Porto Murtinho al 80% abren una ventana masiva para servicios de digitalización de fronteras y logística cross-border.
+   - **Electrificación de la Puna**: El acuerdo YPF Luz / Central Puerto (US$ 250M-400M) tracciona subcontratistas en montaje de líneas de extra alta tensión.
    - **Oleoducto VMOS**: La finalización de tanques de almacenamiento y la operatividad prevista para 2027 demandará servicios de mantenimiento y logística de construcción en Río Negro y Neuquén.
-2. **Servicios para el Distrito Vicuña y Alta Montaña**:
-   - Con la aprobación de la DIA de **[[Josemaría]]** y la inminente reforma de la **[[Ley de Glaciares]]**, se espera una explosión en la demanda de servicios para proyectos de cobre en San Juan.
-3. **Proveedores para Oro (San Juan)**:
+2. **Servicios de Minería de Altura en el [[Distrito Vicuña]]**:
+   - Con la aprobación de la DIA de **[[Josemaría]]** y la inminente reforma de la **[[Ley de Glaciares]]**, se espera una explosión en la demanda de construcción civil y mantenimiento en condiciones extremas (>4.000 msnm). El reporte de 117 MTn de cobre refuerza esta oportunidad.
+3. **Hub Químico en [[General Güemes]] y Proveedores para Oro**:
+   - La coincidencia de inversiones de **TGS** (gas) y **Ganfeng** (litio) en el mismo nodo permite proyectar la producción local de reactivos químicos, reduciendo costos de importación.
    - **[[Veladero]]** concentrando el 96% de las exportaciones mineras de San Juan ofrece un mercado consolidado para proveedores de insumos químicos (cianuro, reactivos) y repuestos de maquinaria pesada.
 4. **Puesta en Marcha de Litio**:
-   - **[[Hombre Muerto Oeste]]** iniciando producción tracciona servicios de transporte hacia el **[[Corredor Bioceanico]]**.
+   - **[[Hombre Muerto Oeste]]** y **[[Rincón]]** traccionan servicios de transporte pesado hacia puertos y la demanda de tecnologías DLE (Extracción Directa).
 
 ## Conexiones Estratégicas y Ocultas
-La economía argentina opera a **"dos velocidades"**. El éxito de los sectores transables (Minería, Energía, Agro) bajo el [[RIGI]] genera un desacople con el mercado interno. La reforma de la **[[Ley de Glaciares]]** es el eslabón perdido que permitirá al sector minero pasar de la exploración a la construcción masiva de minas de cobre.
+La economía argentina opera a **"dos velocidades"**. El éxito de los sectores transables (Minería, Energía, Agro) bajo el [[RIGI]] genera un desacople con el mercado interno. La reforma de la **[[Ley de Glaciares]]** es el eslabón perdido que permitirá al sector minero pasar de la exploración a la construcción masiva.
 
 ### Visualización de Conexiones (Mermaid)
 
@@ -31,9 +41,13 @@ graph TD
     CBC[Corredor Bioceánico Capricornio] --> |Logística Crítica| TacaTaca
     CBC --> |Salida al Pacífico| Litio[Litio - Salta/Jujuy/Catamarca]
     CBC --> |Infraestructura Eléctrica| PunaEnergy[Interconexión Puna YPF Luz/Central Puerto]
+    CBC --> |Hub Industrial| Guemes[General Güemes]
+
+    Diablillos[Diablillos - Salta/Catamarca] --> |Inversión US$ 760M| RIGI
+    ArgGNL[Argentina GNL - YPF/ENI/XRG] --> |Inversión US$ 12000M+| RIGI
 
     TacaTaca --> |Inversión US$ 5250M| PBI_Salta[Crecimiento PBI Regional]
-    VacaMuerta --> |Proyección US$ 16.820M| ExportEnergy[Exportaciones Energéticas Récord]
+    VacaMuerta --> |Exportaciones US$ 16.820M| ExportEnergy[Superávit Energético Récord]
 
     Josemaria[Josemaría - San Juan] --> |DIA Aprobada| Vicuña[Distrito Vicuña]
     Vicuña --> |Frontera San Juan/Chile| Cobre
@@ -43,4 +57,4 @@ graph TD
 ```
 
 ## Conclusiones
-La "revolución del cobre" y el "boom de Vaca Muerta" están blindados por el RIGI y la Ley de Glaciares. Sin embargo, la brecha con el mercado interno plantea desafíos de sostenibilidad social a largo plazo. Los inversores deben priorizar proyectos con alta integración de proveedores locales para mitigar este riesgo.
+La "revolución del cobre" y el "boom de Vaca Muerta" están blindados por el RIGI y la Ley de Glaciares. Sin embargo, el liderazgo exportador de **[[San Juan]]** (92,5% minero) demuestra una dependencia crítica que debe ser gestionada mediante el desarrollo de proveedores locales robustos, incentivados por el nuevo "Mini RIGI" de la Mesa del Litio.

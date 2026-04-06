@@ -11,14 +11,10 @@
             "id": "e1ebc36fe217a133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GEMINI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c7139cf29075682",
@@ -186,31 +181,31 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
+    "wiki/05 Tech Lead Opps",
+    "wiki/01 Projects/General Güemes.md",
+    "Prompt escéptico.md",
+    "wiki/01 Projects/Río Negro.md",
+    "wiki/01 Projects/Neuquén.md",
+    "wiki/01 Projects/Jujuy.md",
+    "wiki/01 Projects/Electromovilidad.md",
+    "wiki/01 Projects/Diablillos.md",
+    "raw/2026-04-06_news_mining_energy.md",
+    "raw/2026-04-03_news_mining_energy.md",
+    "wiki/03 Analysis/Electrificacion Puna.md",
+    "GEMINI.md",
+    "Manual de gobernanza.md",
+    "wiki/03 Analysis/Oportunidades y Conexiones.md",
+    "wiki/04 Daily/2026-04-05_Daily_Report.md",
     "wiki/01 Projects/Catamarca.md",
     "wiki/01 Projects/Salta.md",
     "wiki/01 Projects/San Juan.md",
     "wiki/01 Projects/Cobre.md",
-    "GEMINI.md",
     "San Juan.md",
-    "Manual de gobernanza.md",
-    "wiki/03 Analysis/Oportunidades y Conexiones.md",
     "wiki/01 Projects/Veladero.md",
     "wiki/02 Frameworks/RIGI.md",
     "wiki/01 Projects/Litio.md",
-    "wiki/04 Daily/2026-04-05_Daily_Report.md",
     "wiki/02 Frameworks/Ley de Glaciares.md",
-    "raw/2026-04-05_news_mining_energy.md",
-    "wiki/04 Daily/2026-04-04_Daily_Report.md",
-    "wiki/01 Projects/Southern Energy.md",
-    "raw/2026-04-03_news_mining_energy.md",
-    "wiki/01 Projects/Distrito Vicuña.md",
-    "raw/2026-04-04_news_mining_energy.md",
-    "wiki/03 Analysis/Electrificacion Puna.md",
-    "wiki/01 Projects/Pampa Energía.md",
-    "wiki/01 Projects/TGS.md",
-    "wiki/01 Projects/Josemaría.md",
-    "wiki/02 Frameworks/Corredor Bioceanico.md",
-    "wiki/01 Projects/Rincón.md",
-    "wiki/01 Projects/Taca Taca.md"
+    "raw/2026-04-05_news_mining_energy.md"
   ]
 }

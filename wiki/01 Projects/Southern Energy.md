@@ -20,4 +20,4 @@ El proyecto de **Southern Energy** en Río Negro busca consolidar la capacidad e
 - [[Vaca Muerta]]
 - [[RIGI]]
 - [[Energia]]
-- [[Rio Negro]]
+- [[Río Negro]]

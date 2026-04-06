@@ -1,27 +1,38 @@
-# Reporte Diario de Minería y Energía - 2026-04-05
+---
+type: daily
+tags: [report, mining, energy]
+last_update: 2026-04-05
+---
 
-## Resumen Ejecutivo
-Jornada marcada por la divergencia económica sectorial y avances regulatorios clave. Las proyecciones para **[[Vaca Muerta]]** alcanzan niveles históricos de exportación, mientras que la reforma de la **[[Ley de Glaciares]]** se perfila como el catalizador definitivo para la "revolución del cobre". **San Juan** consolida su liderazgo nacional con cifras de exportación minera récord en el primer bimestre.
+# Reporte Diario de Operaciones - 2026-04-05
 
-## Destacados del Día
+## Resumen de la Sesión
+Hoy se realizó una actualización profunda de la Wiki basada en las noticias del 3 al 5 de abril de 2026. Se identificaron nuevas sinergias entre el sector de Oil & Gas (Vaca Muerta) y la Minería (Cobre/Litio), catalizadas por el marco del RIGI y la inminente reforma de la Ley de Glaciares.
 
-### 🛢️ Energía y Vaca Muerta
-- **Exportaciones Proyectadas:** Potencial de alcanzar los **US$ 16.820 millones** en 2026 si los precios internacionales se mantienen elevados.
-- **Nuevas Inversiones [[RIGI]]:** Tecpetrol (**US$ 2.400M**) y GeoPark (**US$ 1.000M**) presentan planes para el desarrollo de petróleo y gas en Neuquén.
-- **Infraestructura:** Avances significativos en el oleoducto **VMOS** con la finalización de tanques de almacenamiento clave para la exportación por el Atlántico (Operatividad: 2027).
+## Operaciones Realizadas
 
-### 🏗️ Cobre y Minería Metalífera
-- **Reforma [[Ley de Glaciares]]:** El plenario de comisiones convocado para el 7 de abril busca emitir dictamen para destrabar proyectos mineros de alta montaña. Respaldo unificado de la Mesa del Cobre.
-- **San Juan Imbatible:** La minería explicó el **92,5%** de las exportaciones provinciales de febrero, con un crecimiento del **60,5%**.
-- **Predominio del Oro:** **[[Veladero]]** se mantiene como el mayor exportador, con el oro representando el 96,6% de la canasta exportadora minera de la provincia.
+### 1. Ingesta y Propagación
+- **Actualización de [[Litio]]:** Se incorporó el lanzamiento del "Mini RIGI" (inversiones desde US$ 5M) por parte de la Mesa del Litio y Jujuy.
+- **Actualización de [[San Juan]]:** Se registraron las cifras récord de exportación (92,5% minero en el primer bimestre 2026).
+- **Actualización de [[Distrito Vicuña]]:** Se consolidó el dato de inversión de US$ 18.000M y la aprobación de la DIA de Josemaría.
+- **Actualización de [[Rincón]] y [[Hombre Muerto Oeste]]:** Se documentaron los hitos de financiamiento, exportación y puesta en marcha de producción.
 
-### 🔋 Litio y Macroeconomía
-- **Economía a Dos Velocidades:** Se confirma el crecimiento asimétrico ("forma de K") con la minería y energía creciendo un **+15,3%** por encima de 2023, mientras que el mercado interno (construcción, industria) retrocede un **-4,9%**.
+### 2. Nuevas Entidades
+- **Creación de [[General Güemes]]:** Documentado como el nodo industrial y logístico donde converge el gas de Vaca Muerta con el procesamiento de litio.
 
-## Análisis de Impacto
-La sincronización entre el marco del **[[RIGI]]** y la reforma de la **[[Ley de Glaciares]]** constituye un cambio de paradigma en la seguridad jurídica del sector extractivo argentino. San Juan ya está capitalizando este modelo, transformándose en la provincia motor de las exportaciones nacionales.
+### 3. Análisis Estratégico ("Filing Back")
+- **Actualización de [[Oportunidades y Conexiones]]:**
+    - Se incluyó el análisis del hub logístico en Paso de Jama.
+    - Se incorporó el gráfico Mermaid actualizado con las nuevas inversiones del RIGI (Tecpetrol, GeoPark, Pampa Energía).
+    - Se identificó la conexión crítica entre la reforma de la Ley de Glaciares y el despegue masivo del cobre.
+
+## Estado de Salud de la Wiki
+- **Contradicciones:** No se detectaron. Las nuevas cifras de exportación de San Juan validan la tendencia de crecimiento observada en 2025.
+- **Gaps:** Se crearon vínculos hacia nuevas leyes de electromovilidad en San Juan que requerirán notas propias en el futuro.
 
 ## Próximos Pasos
-- Seguimiento del dictamen de la **[[Ley de Glaciares]]** el martes 7 de abril.
-- Monitoreo de la decisión de precios de combustibles de YPF.
-- Vigilancia sobre la evolución del Brent y su impacto en las exportaciones netas de **[[Vaca Muerta]]**.
+- Monitorear el plenario de comisiones por la Ley de Glaciares (previsto para el 7 de abril).
+- Profundizar en el impacto de las inversiones de TGS y Southern Energy en el Corredor Bioceánico.
+
+---
+*Operación realizada por Gemini CLI.*

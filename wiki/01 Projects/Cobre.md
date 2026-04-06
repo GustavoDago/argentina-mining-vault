@@ -10,6 +10,9 @@ last_update: 2026-04-05
 
 **Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.
 
+## Potencial Geológico (Abril 2026)
+Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
+
 ## La Cuenca del Cobre (2026)
 La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan y Salta).
 
@@ -25,13 +28,21 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
-- **Financiamiento:** IPO de **US$ 300 millones** en curso (Abril 2026) por parte de McEwen Copper.
+- **Financiamiento:** Inversión proyectada de **US$ 3.100 millones**. McEwen Copper presentó avances en la convención PDAC 2026 de Toronto.
 - **Socios:** Stellantis (Electromovilidad) y Rio Tinto (Tecnología Nuton).
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** **US$ 5.250 millones**.
 - **Hito Reciente:** Nuevo reporte técnico NI 43-101 y acuerdo con la **IFC (Banco Mundial)** para estándares de sostenibilidad.
-- **Producción:** Se estima en **291.000 t/año** de cobre.
+- **Producción:** Estimada en **227.000 t/año**.
+
+### 4. El Pachón (San Juan) - Gigante de Glencore
+- **Inversión:** **US$ 9.460 millones**.
+- **Proyección:** Producción de 280.000 t/año a partir de 2034.
+
+### 5. MARA (Catamarca)
+- **Operador:** Glencore.
+- **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
 ## Marco Regulatorio y RIGI
 El 100% de los proyectos de cobre de gran escala han solicitado su adhesión al [[RIGI]]. Este régimen es considerado "el habilitador" (enabler) para el desembolso de los US$ 26.000M acumulados en la industria minera y energética.

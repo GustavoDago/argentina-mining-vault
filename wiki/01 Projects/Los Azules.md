@@ -2,14 +2,15 @@
 
 **Ubicación:** Calingasta, San Juan, Argentina.
 **Operadora:** McEwen Copper (Subsidiaria de McEwen Mining).
-**Inversión Estimada (Construcción):** US$ 2.500 millones.
+**Inversión Estimada (Construcción):** US$ 3.100 millones.
 
 ## Descripción
 **Los Azules** es uno de los depósitos de cobre no desarrollados más grandes del mundo. Se destaca por su alta ley y su potencial para producir "cobre verde" mediante procesos de lixiviación en pilas, reduciendo significativamente la huella de carbono y el consumo de agua en comparación con métodos tradicionales de concentración.
 
 ## Hitos Recientes (2026)
-- **Salida a Bolsa (IPO):** En abril de 2026, **McEwen Copper** inició formalmente los preparativos para su oferta pública inicial (**IPO**) con el objetivo de captar **US$ 300 millones**. Estos fondos se destinarán a finalizar el estudio de factibilidad bancable y avanzar con las obras tempranas de infraestructura.
-- **Adhesión al RIGI:** El proyecto fue uno de los primeros en San Juan en recibir la aprobación para los beneficios del [[RIGI]], lo que garantiza estabilidad fiscal para los próximos 30 años.
+- **PDAC 2026:** En marzo de 2026, directivos de McEwen Copper (Rob McEwen y Michael Meding) se reunieron con el ministro de Minería de San Juan, Juan Pablo Perea, en Toronto para analizar los avances del proyecto. Se subrayó el potencial del proyecto para la transición energética.
+- **Financiamiento:** McEwen Copper inició preparativos para una IPO de **US$ 300 millones**. Además, la inversión total proyectada se actualizó a **US$ 3.100 millones**.
+- **Adhesión al RIGI:** El proyecto cuenta con aprobación del [[RIGI]], asegurando estabilidad fiscal y beneficios para la gran inversión.
 - **Socios Estratégicos:** Cuenta con el respaldo de **Stellantis** (Gigante automotriz que busca asegurar suministro de cobre para vehículos eléctricos) y **Rio Tinto** (a través de Nuton).
 
 ## Impacto en San Juan
