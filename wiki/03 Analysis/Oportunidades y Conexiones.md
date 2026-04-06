@@ -5,7 +5,7 @@
    - El proyecto de **electrificación de la Puna** (YPF Luz/Central Puerto) abre una ventana para subcontratistas en montaje de líneas de extra alta tensión.
    - **Oleoducto VMOS**: La finalización de tanques de almacenamiento y la operatividad prevista para 2027 demandará servicios de mantenimiento y logística de construcción en Río Negro y Neuquén.
 2. **Servicios para el Distrito Vicuña y Alta Montaña**:
-   - Con la aprobación de la DIA de **[[Josemaría]]** y la inminente reforma de la **[[Ley de Glaciares]]**, se espera una explosión en la demanda de servicios para proyectos de cobre en San Juan.
+   - Con la aprobación de la DIA de **[[Josemaría]]** y la inminente reforma de la **[[Ley de Glaciares]]**, se espera una explosión en la demanda de servicios para proyectos de cobre en San Juan. El reporte de 117 MTn de cobre refuerza esta oportunidad.
 3. **Proveedores para Oro (San Juan)**:
    - **[[Veladero]]** concentrando el 96% de las exportaciones mineras de San Juan ofrece un mercado consolidado para proveedores de insumos químicos (cianuro, reactivos) y repuestos de maquinaria pesada.
 4. **Puesta en Marcha de Litio**:
@@ -31,6 +31,9 @@ graph TD
     CBC[Corredor Bioceánico Capricornio] --> |Logística Crítica| TacaTaca
     CBC --> |Salida al Pacífico| Litio[Litio - Salta/Jujuy/Catamarca]
     CBC --> |Infraestructura Eléctrica| PunaEnergy[Interconexión Puna YPF Luz/Central Puerto]
+
+    Diablillos[Diablillos - Salta/Catamarca] --> |Inversión US$ 760M| RIGI
+    ArgGNL[Argentina GNL - YPF/ENI/XRG] --> |Inversión US$ 12000M+| RIGI
 
     TacaTaca --> |Inversión US$ 5250M| PBI_Salta[Crecimiento PBI Regional]
     VacaMuerta --> |Proyección US$ 16.820M| ExportEnergy[Exportaciones Energéticas Récord]

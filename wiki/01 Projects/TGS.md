@@ -19,4 +19,4 @@
 - [[Vaca Muerta]]
 - [[RIGI]]
 - [[Energia]]
-- [[Provincias/Neuquen]]
+- [[Neuquén]]
