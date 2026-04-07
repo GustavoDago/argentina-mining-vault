@@ -7,7 +7,8 @@
 Megaproyecto de cobre, oro y plata ubicado en el extremo norte de San Juan. Es parte fundamental del **Distrito Vicuña**, una región de clase mundial que comparte con Chile.
 
 ## Hitos Recientes (2026)
-- **Aprobación de la DIA (Marzo 2026):** El Gobierno de San Juan otorgó la Declaración de Impacto Ambiental (DIA) para la etapa de explotación tras una evaluación unificada de la primera y segunda actualización del Informe de Impacto Ambiental (IIA). Este proceso permitió agilizar los tiempos administrativos sin reducir el rigor del control.
+- **Actualización de la DIA (Abril 2026):** El Gobierno de San Juan aprobó formalmente la primera y segunda actualización de la Declaración de Impacto Ambiental (DIA) para la fase de explotación. Este hito consolida el marco legal para el inicio de las obras mayores.
+- **Integración Vicuña:** El proyecto se confirma como la punta de lanza del [[Distrito Vicuña]], con un plan de desarrollo por etapas que prioriza la puesta en marcha de Josemaría para apalancar el desarrollo de Filo del Sol.
 - **Reducción de Requerimientos:** Los condicionantes ambientales se reorganizaron de 120 a 65 ítems para optimizar la gestión y fiscalización.
 - El proyecto se posiciona como una pieza clave en la "revolución del cobre" impulsada por el [[RIGI]].
 
