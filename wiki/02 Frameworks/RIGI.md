@@ -18,6 +18,13 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 - **Inversión Total Comprometida:** **US$ 26.600 millones**.
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
 
+### Categorías Especiales
+- **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
+    - Destinado a megaproyectos de exportación (ej. GNL).
+    - Inversión mínima: **US$ 2.000 millones**.
+    - Desembolsos mínimos por etapa: **US$ 1.000 millones**.
+    - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
+
 ### Listado de Adhesiones Confirmadas (Abril 2026):
 1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero. Inversión: **US$ 1.175M**.
 2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.

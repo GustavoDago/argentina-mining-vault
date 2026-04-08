@@ -19,9 +19,13 @@ El yacimiento de shale es el motor principal del superávit energético de Argen
 
 ## Infraestructura Crítica
 - **Oleoducto Vaca Muerta Oil Sur (VMOS):** Oleoducto de gran escala para evacuar crudo hacia el Atlántico. Puesta en marcha prevista para 2027. En abril 2026 se completó el techo del tanque **TK404** (57t de aluminio) en Punta Colorada.
-- **Argentina LNG:** Proyecto liderado por **YPF** junto a **ENI** (Italia) y **XRG** (ADNOC). Solución integrada con barcos FLNG. Fase 1: 12 MTPA.
+- **Argentina LNG:** Megaproyecto de exportación liderado por **YPF** junto a **ENI** (Italia) y **XRG** (unidad de **ADNOC**, Emiratos Árabes Unidos).
+    - **Estructura:** Societariamente se divide en tercios entre los tres socios principales.
+    - **Reconfiguración:** Se confirmó la salida de **Shell** de la fase inicial, lo que redujo una etapa de 12 MTPA a 6 MTPA y llevó a YPF a buscar un nuevo socio internacional.
+    - **Hitos:** Decisión Final de Inversión (FID) prevista para mediados de 2026. Se tramitará bajo la categoría RIGI-PEELP (US$ 2.000M+).
 - **Oleoducto de Oldelval:** Ampliación en curso para destrabar cuellos de botella logísticos.
 
 ## Conexiones
 - [[RIGI]]
 - [[Energia]]
+- [[Río Negro]]

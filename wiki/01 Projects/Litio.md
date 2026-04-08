@@ -28,6 +28,8 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 ## La Mesa del Litio y Política Regional
 - **Mesa del Litio:** Salta, Jujuy y Catamarca coordinan una regalía unificada y políticas de "valor agregado local" (Leyes de Desarrollo Local Minero en San Juan y Salta).
 - **Incentivos (Abril 2026):** Bajo la presidencia de Jujuy, se lanzó un **"Mini RIGI"** destinado a atraer inversiones de menor escala (desde US$ 5 millones) para fortalecer la cadena de proveedores locales de litio.
+- **Acción Coordinada (8 de abril 2026):** Los gobernadores Gustavo Sáenz (Salta), Raúl Jalil (Catamarca) y Carlos Sadir (Jujuy) se presentaron en el Congreso Nacional para defender la reforma de la [[Ley de Glaciares]] y asegurar la continuidad del flujo de inversiones bajo el [[RIGI]].
+- **Tecnología de Extracción (Abril 2026):** Se anunció en EE.UU. el desarrollo de un reactor electroquímico de tres cámaras con membrana selectiva LICGC, prometiendo una eficiencia del **97,5%** en la extracción de litio de salmueras, lo que representa una potencial ventana de competitividad para los salares argentinos.
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
 ## Mercados y Precios
