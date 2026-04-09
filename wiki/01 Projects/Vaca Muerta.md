@@ -18,8 +18,8 @@ El yacimiento de shale es el motor principal del superávit energético de Argen
 - **TGS (Transportadora de Gas del Sur):** Inversión de **US$ 3.000 millones** para industrialización y exportación de líquidos derivados del gas.
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Oil Sur (VMOS):** Oleoducto de gran escala para evacuar crudo hacia el Atlántico. Puesta en marcha prevista para 2027. En abril 2026 se completó el techo del tanque **TK404** (57t de aluminio) en Punta Colorada.
-- **Argentina LNG:** Proyecto liderado por **YPF** junto a **ENI** (Italia) y **XRG** (ADNOC). Solución integrada con barcos FLNG. Fase 1: 12 MTPA.
+- **Oleoducto Vaca Muerta Oil Sur (VMOS):** Oleoducto de gran escala para evacuar crudo hacia el Atlántico. En abril 2026 se alcanzó un hito clave con la finalización del techo del tanque **TK404** (57t de aluminio) en la terminal de Punta Colorada.
+- **Argentina LNG:** El proyecto de YPF sumó oficialmente a **ENI** y **XRG** (ADNOC) como socios estratégicos para la fase de licuefacción flotante (FLNG).
 - **Oleoducto de Oldelval:** Ampliación en curso para destrabar cuellos de botella logísticos.
 
 ## Conexiones

@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-04_news_mining_energy.md, 2026-04-05_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-04_news_mining_energy.md, 2026-04-05_news_mining_energy.md, 2026-04-07_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-04-07
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -14,12 +14,12 @@ last_update: 2026-04-05
    - **Electrificación de la Puna**: El acuerdo YPF Luz / Central Puerto (US$ 250M-400M) tracciona subcontratistas en montaje de líneas de extra alta tensión.
    - **Oleoducto VMOS**: La finalización de tanques de almacenamiento y la operatividad prevista para 2027 demandará servicios de mantenimiento y logística de construcción en Río Negro y Neuquén.
 2. **Servicios de Minería de Altura en el [[Distrito Vicuña]]**:
-   - Con la aprobación de la DIA de **[[Josemaría]]** y la inminente reforma de la **[[Ley de Glaciares]]**, se espera una explosión en la demanda de construcción civil y mantenimiento en condiciones extremas (>4.000 msnm). El reporte de 117 MTn de cobre refuerza esta oportunidad.
+   - Con la aprobación de la actualización de la DIA de **[[Josemaría]]** (Abril 2026) y la inminente reforma de la **[[Ley de Glaciares]]**, se espera una explosión en la demanda de construcción civil y mantenimiento en condiciones extremas (>4.000 msnm). La inversión proyectada por la alianza BHP-Lundin de **US$ 790M para 2026** confirma la aceleración del clúster.
 3. **Hub Químico en [[General Güemes]] y Proveedores para Oro**:
    - La coincidencia de inversiones de **TGS** (gas) y **Ganfeng** (litio) en el mismo nodo permite proyectar la producción local de reactivos químicos, reduciendo costos de importación.
    - **[[Veladero]]** concentrando el 96% de las exportaciones mineras de San Juan ofrece un mercado consolidado para proveedores de insumos químicos (cianuro, reactivos) y repuestos de maquinaria pesada.
 4. **Puesta en Marcha de Litio**:
-   - **[[Hombre Muerto Oeste]]** y **[[Rincón]]** traccionan servicios de transporte pesado hacia puertos y la demanda de tecnologías DLE (Extracción Directa).
+   - **[[Hombre Muerto Oeste]]** y **[[Rincón]]** traccionan servicios de transporte pesado hacia puertos y la demanda de tecnologías DLE (Extracción Directa). La aprobación RIGI para la expansión de **Fénix** (Rio Tinto) por US$ 251M asegura un flujo constante de demanda de servicios en Catamarca hasta fines de 2026.
 
 ## Conexiones Estratégicas y Ocultas
 La economía argentina opera a **"dos velocidades"**. El éxito de los sectores transables (Minería, Energía, Agro) bajo el [[RIGI]] genera un desacople con el mercado interno. La reforma de la **[[Ley de Glaciares]]** es el eslabón perdido que permitirá al sector minero pasar de la exploración a la construcción masiva.

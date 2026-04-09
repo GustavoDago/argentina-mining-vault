@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md], [2026-04-07_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-04-07
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -29,8 +29,8 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 8.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
 9.  **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
 10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
-11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
-12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - En etapa final de aprobación (US$ 5.250M).
+11. **Proyecto Fénix** (Rio Tinto, Catamarca, Litio) - Expansión Fase 1B aprobada el 06/04/2026. Inversión: **US$ 251M** (ampliación).
+12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Solicitud formal presentada en Abr 2026 (US$ 5.250M). Alianza con IFC para sustentabilidad.
 13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
 
