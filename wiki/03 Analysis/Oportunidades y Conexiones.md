@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-04_news_mining_energy.md, 2026-04-05_news_mining_energy.md, 2026-04-07_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-04_news_mining_energy.md, 2026-04-05_news_mining_energy.md, 2026-04-07_news_mining_energy.md, 2026-04-09_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-07
+last_update: 2026-04-09
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -20,6 +20,8 @@ last_update: 2026-04-07
    - **[[Veladero]]** concentrando el 96% de las exportaciones mineras de San Juan ofrece un mercado consolidado para proveedores de insumos químicos (cianuro, reactivos) y repuestos de maquinaria pesada.
 4. **Puesta en Marcha de Litio**:
    - **[[Hombre Muerto Oeste]]** y **[[Rincón]]** traccionan servicios de transporte pesado hacia puertos y la demanda de tecnologías DLE (Extracción Directa). La aprobación RIGI para la expansión de **Fénix** (Rio Tinto) por US$ 251M asegura un flujo constante de demanda de servicios en Catamarca hasta fines de 2026.
+5. **Apertura de Mercados Europeos (Mercosur-UE)**:
+   - La ratificación del acuerdo comercial (Abril 2026) abre una ventana de oportunidad para proveedores de servicios con estándares europeos, especialmente en certificación de origen y huella de carbono para el litio y cobre.
 
 ## Conexiones Estratégicas y Ocultas
 La economía argentina opera a **"dos velocidades"**. El éxito de los sectores transables (Minería, Energía, Agro) bajo el [[RIGI]] genera un desacople con el mercado interno. La reforma de la **[[Ley de Glaciares]]** es el eslabón perdido que permitirá al sector minero pasar de la exploración a la construcción masiva.
@@ -34,6 +36,10 @@ graph TD
     RIGI --> |Nuevos US$ 3400M| VMNuevos[Tecpetrol/GeoPark]
     RIGI --> |Aprobado US$ 6900M| Southern[Southern Energy - Río Negro]
     RIGI --> |Inversión US$ 217M| HMW[Hombre Muerto Oeste - Catamarca]
+    RIGI --> |Avalancha de Postulantes| PoscoGlencore[Posco/Glencore/AbraSilver]
+
+    MUE[Acuerdo Mercosur-UE] --> |Seguridad Jurídica| RIGI
+    MUE --> |Mercado GNL/Litio/Cobre| UE[Unión Europea]
 
     LG[Reforma Ley de Glaciares] --> |Catalizador Normativo| Cobre[Cobre de Clase Mundial]
     LG --> |Seguridad Jurídica| Veladero[Veladero - Oro]
