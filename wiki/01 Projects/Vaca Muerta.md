@@ -1,27 +1,32 @@
+---
+type: project
+tags: [energy, oil-gas]
+sources: [[2026-04-03_news_mining_energy.md], [2026-04-10_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-10
+---
+
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista, Tecpetrol, Pampa Energía, Phoenix Global Resources (Mercuria).
+**Principales Actores:** YPF, Vista, Tecpetrol, Pampa Energía, Phoenix Global Resources.
 
 ## Panorama 2026
-El yacimiento de shale es el motor principal del superávit energético de Argentina. Según proyecciones de consultoras (Abril 2026), las exportaciones podrían duplicarse este año alcanzando los **US$ 16.820 millones** si los precios del Brent se mantienen en US$ 100/barril.
+El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético.
 
-### Coyuntura de Gas (Abril 2026)
-- **Exportaciones a Chile:** Interrupción forzosa desde el 1 de abril debido a parámetros de calidad fuera de norma en el Gasoducto del Pacífico. Afecta a las regiones de Biobío y Ñuble.
-
-## Inversiones y Proyectos Recientes (Bajo el [[RIGI]])
-- **Tecpetrol:** Proyecto Los Toldos II Este con una inversión de **US$ 2.400 millones**.
-- **Pampa Energía:** Adhesión al [[RIGI]] por una inversión de **US$ 4.500 millones** destinada a exploración y producción en Rincón de Aranda.
-- **GeoPark:** Plan de inversión de hasta **US$ 1.000 millones** en Puesto Silva Oeste y Loma Jarillosa.
-- **Phoenix Global Resources:** Expansión de **US$ 6.000 millones**.
-- **Southern Energy:** Proyecto de licuefacción de gas natural en Río Negro aprobado por el [[RIGI]] por **US$ 6.900 millones**. Socios: PAE (30%), YPF (25%), Pampa Energía, Harbor Energy, Golar LNG. Buscan financiamiento de US$ 1.000M para gasoducto dedicado.
-- **TGS (Transportadora de Gas del Sur):** Inversión de **US$ 3.000 millones** para industrialización y exportación de líquidos derivados del gas.
+### Hitos Recientes (Abril 2026)
+- **Reorganización de Activos en Neuquén (10/04/2026):** El Gobierno de Neuquén autorizó la cesión del 100% de la participación de **Pluspetrol** a favor de **YPF** en tres áreas estratégicas:
+    - **Aguada Villanueva** (Convencional, 281 km²).
+    - **Meseta Buena Esperanza** (Convencional, 303,71 km²).
+    - **Las Tacanas** (No convencional/Lote bajo evaluación, 411 km²).
+  Esta operación consolida la titularidad y operación de YPF en estos bloques, optimizando el desarrollo de la cuenca.
+- **Coyuntura de Gas:** Interrupción de exportaciones a Chile por parámetros de calidad en el Gasoducto del Pacífico (desde el 01/04/2026).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Oil Sur (VMOS):** Oleoducto de gran escala para evacuar crudo hacia el Atlántico. En abril 2026 se alcanzó un hito clave con la finalización del techo del tanque **TK404** (57t de aluminio) en la terminal de Punta Colorada.
-- **Argentina LNG:** El proyecto de YPF sumó oficialmente a **ENI** y **XRG** (ADNOC) como socios estratégicos para la fase de licuefacción flotante (FLNG).
-- **Oleoducto de Oldelval:** Ampliación en curso para destrabar cuellos de botella logísticos.
+- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción.
+- **Oleoducto VMOS:** Hitos constructivos en Punta Colorada (tanque TK404).
 
 ## Conexiones
 - [[RIGI]]
 - [[Energia]]
+- [[Neuquén]]

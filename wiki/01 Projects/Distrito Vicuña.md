@@ -1,29 +1,28 @@
+---
+type: project
+tags: [mining, copper]
+sources: [[2026-04-03_news_mining_energy.md], [2026-04-10_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-10
+---
+
 # Distrito Vicuña (San Juan)
 
 **Tipo:** Clúster Minero Binacional (Argentina - Chile).
 **Principales Actores:** BHP, Lundin Mining.
-**Estado:** Etapa de desarrollo y consolidación de inversiones.
 
-## Descripción
-El **Distrito Vicuña** es un sistema de pórfidos de cobre, oro y plata de clase mundial ubicado en la provincia de San Juan (Argentina) y la región de Atacama (Chile). Es considerado uno de los distritos mineros más prometedores del siglo XXI a nivel global.
-
-## Inversión Estratégica (Abril 2026)
-- **Compromiso 2026:** La alianza BHP-Lundin Mining proyecta desembolsos por **US$ 790 millones** durante el año 2026 específicamente en San Juan.
-- **Hito Global:** Se oficializó una inversión proyectada total de **US$ 18.000 millones** para el desarrollo integrado del distrito. El objetivo es transformar a San Juan en un hub exportador de cobre de clase mundial bajo el marco del [[RIGI]].
+## Hitos Recientes (2026)
+- **Disputa ENRE (Abril 2026):** El distrito enfrenta una oposición formal de [[Los Azules]] ante el ENRE por la prioridad de despacho y uso de la línea de 500 kV en San Juan. El desenlace definirá el ritmo de electrificación de los dos mayores proyectos de la provincia.
+- **Inversión Estratégica:** Compromiso de **US$ 790 millones** para 2026 y una inversión total proyectada de **US$ 18.000 millones** bajo el marco del [[RIGI]].
 
 ## Proyectos Integrados
-- [[Josemaría]] (Argentina): Proyecto en etapa avanzada con DIA de explotación aprobada (Marzo 2026).
-- **Filo del Sol** (Argentina/Chile): Proyecto de exploración avanzada con recursos masivos.
-- **Caserones** (Chile): Mina operativa que provee infraestructura sinérgica al distrito.
-- **Lumina Copper**: Parte de la consolidación estratégica del clúster.
-
-## Impacto Regional
-- Generación de miles de empleos directos e indirectos en San Juan.
-- Interconexión logística a través del [[Corredor Bioceanico]].
-- Adhesión masiva al [[RIGI]] para garantizar la estabilidad fiscal de las inversiones.
+- [[Josemaría]] (Argentina)
+- **Filo del Sol** (Argentina/Chile)
+- **Caserones** (Chile)
 
 ## Conexiones
 - [[Cobre]]
 - [[RIGI]]
 - [[Josemaría]]
 - [[San Juan]]
+- [[Los Azules]]

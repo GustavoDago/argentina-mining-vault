@@ -1,60 +1,51 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-04_news_mining_energy.md, 2026-04-05_news_mining_energy.md, 2026-04-07_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-07
+last_update: 2026-04-10
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
 
 ## Oportunidades de Negocio Identificadas
-1. **Infraestructura Logística y Tecnológica**:
-   - **Paso de Jama y Corredor Bioceánico**: El incremento de 7.000 camiones anuales y el puente Porto Murtinho al 80% abren una ventana masiva para servicios de digitalización de fronteras y logística cross-border.
-   - **Electrificación de la Puna**: El acuerdo YPF Luz / Central Puerto (US$ 250M-400M) tracciona subcontratistas en montaje de líneas de extra alta tensión.
-   - **Oleoducto VMOS**: La finalización de tanques de almacenamiento y la operatividad prevista para 2027 demandará servicios de mantenimiento y logística de construcción en Río Negro y Neuquén.
-2. **Servicios de Minería de Altura en el [[Distrito Vicuña]]**:
-   - Con la aprobación de la actualización de la DIA de **[[Josemaría]]** (Abril 2026) y la inminente reforma de la **[[Ley de Glaciares]]**, se espera una explosión en la demanda de construcción civil y mantenimiento en condiciones extremas (>4.000 msnm). La inversión proyectada por la alianza BHP-Lundin de **US$ 790M para 2026** confirma la aceleración del clúster.
-3. **Hub Químico en [[General Güemes]] y Proveedores para Oro**:
-   - La coincidencia de inversiones de **TGS** (gas) y **Ganfeng** (litio) en el mismo nodo permite proyectar la producción local de reactivos químicos, reduciendo costos de importación.
-   - **[[Veladero]]** concentrando el 96% de las exportaciones mineras de San Juan ofrece un mercado consolidado para proveedores de insumos químicos (cianuro, reactivos) y repuestos de maquinaria pesada.
-4. **Puesta en Marcha de Litio**:
-   - **[[Hombre Muerto Oeste]]** y **[[Rincón]]** traccionan servicios de transporte pesado hacia puertos y la demanda de tecnologías DLE (Extracción Directa). La aprobación RIGI para la expansión de **Fénix** (Rio Tinto) por US$ 251M asegura un flujo constante de demanda de servicios en Catamarca hasta fines de 2026.
+1. **Infraestructura Eléctrica y Disputas de Capacidad**:
+   - El conflicto entre **[[Los Azules]]** y **[[Distrito Vicuña]]** ante el ENRE por la línea de 500 kV revela un cuello de botella crítico en San Juan. Existe una oportunidad masiva para empresas de ingeniería eléctrica y consultoría regulatoria para gestionar soluciones de despacho y ampliación de red.
+2. **Litio: Eficiencia vs. Escala**:
+   - El hallazgo en **McDermitt (EE.UU.)** con >40 MTn de recursos presiona los precios a la baja a largo plazo. La oportunidad en Argentina se desplaza hacia la **eficiencia operativa** (tecnologías DLE más rápidas) y la purificación local para mantener márgenes competitivos frente a yacimientos de arcilla de mayor volumen.
+3. **Servicios de Minería de Alta Montaña**:
+   - La sanción de la reforma de la **[[Ley de Glaciares]]** desbloquea proyectos por US$ 30.000M. Se espera una demanda inmediata de servicios de peritaje hídrico y ambiental para validar la "función hídrica" de las geoformas periglaciales y habilitar los Informes de Impacto Ambiental (IIA) frenados.
+4. **Optimización en Vaca Muerta**:
+   - La consolidación de áreas de Pluspetrol en **YPF** (Aguada Villanueva, Meseta Buena Esperanza, Las Tacanas) tracciona contratos de servicios de perforación y completación unificados, buscando economías de escala en la operación.
 
 ## Conexiones Estratégicas y Ocultas
-La economía argentina opera a **"dos velocidades"**. El éxito de los sectores transables (Minería, Energía, Agro) bajo el [[RIGI]] genera un desacople con el mercado interno. La reforma de la **[[Ley de Glaciares]]** es el eslabón perdido que permitirá al sector minero pasar de la exploración a la construcción masiva.
+Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
 
 ### Visualización de Conexiones (Mermaid)
 
 ```mermaid
 graph TD
     RIGI[RIGI & Marcos Regulatorios] --> |Incentivos Fiscales| TacaTaca[Taca Taca - Salta]
-    RIGI --> |Incentivos Fiscales| LosAzules[Los Azules - San Juan]
-    RIGI --> |Inversión US$ 6000M| VacaMuerta[Vaca Muerta - Neuquén]
-    RIGI --> |Nuevos US$ 3400M| VMNuevos[Tecpetrol/GeoPark]
-    RIGI --> |Aprobado US$ 6900M| Southern[Southern Energy - Río Negro]
-    RIGI --> |Inversión US$ 217M| HMW[Hombre Muerto Oeste - Catamarca]
+    RIGI --> |Aprobado US$ 2700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Inversión US$ 18000M| Vicuña[Distrito Vicuña]
+    RIGI --> |Primer Proyecto| Rincon[Rincón - Salta]
 
-    LG[Reforma Ley de Glaciares] --> |Catalizador Normativo| Cobre[Cobre de Clase Mundial]
-    LG --> |Seguridad Jurídica| Veladero[Veladero - Oro]
+    LG[Sanción Ley de Glaciares 2026] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
+    LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
+    LG --> |Competencia Provincial| MesaCobre[Mesa del Cobre: SJ, SA, CA, MZ]
 
-    CBC[Corredor Bioceánico Capricornio] --> |Logística Crítica| TacaTaca
-    CBC --> |Salida al Pacífico| Litio[Litio - Salta/Jujuy/Catamarca]
-    CBC --> |Infraestructura Eléctrica| PunaEnergy[Interconexión Puna YPF Luz/Central Puerto]
-    CBC --> |Hub Industrial| Guemes[General Güemes]
+    LitioGlobal[McDermitt discovery USA] --> |Presión de Precios| Eficiencia[Tecnologías DLE Argentina]
+    Arg2nd[Argentina 2do Exportador Litio] --> |Supera a Chile| Geopolitica[Hub Regional de Baterías]
 
-    Diablillos[Diablillos - Salta/Catamarca] --> |Inversión US$ 760M| RIGI
-    ArgGNL[Argentina GNL - YPF/ENI/XRG] --> |Inversión US$ 12000M+| RIGI
+    ENRE[Conflicto ENRE Línea 500kV] --> |Cuello de Botella| LosAzules
+    ENRE --> |Disputa Prioridad| Vicuña
 
-    TacaTaca --> |Inversión US$ 5250M| PBI_Salta[Crecimiento PBI Regional]
-    VacaMuerta --> |Exportaciones US$ 16.820M| ExportEnergy[Superávit Energético Récord]
+    YPF[Consolidación YPF] --> |Cesión Pluspetrol| Tacanas[Las Tacanas/Neuquén]
+    YPF --> |Optimización| VacaMuerta[Vaca Muerta]
 
-    Josemaria[Josemaría - San Juan] --> |DIA Aprobada| Vicuña[Distrito Vicuña]
-    Vicuña --> |Frontera San Juan/Chile| Cobre
-
-    K_Econ[Economía en K] --> |Ganadores +15%| RIGI
-    K_Econ --> |Rezagados -5%| MercadoInterno[Industria/Consumo]
+    Rincon --> |10/04: 200t a Shanghái| ExportLithium[Inicio Fase Comercial]
+    TacaTaca --> |Presión RIGI Jul-2026| SenadoSalta[Avance Institucional Salta]
 ```
 
 ## Conclusiones
-La "revolución del cobre" y el "boom de Vaca Muerta" están blindados por el RIGI y la Ley de Glaciares. Sin embargo, el liderazgo exportador de **[[San Juan]]** (92,5% minero) demuestra una dependencia crítica que debe ser gestionada mediante el desarrollo de proveedores locales robustos, incentivados por el nuevo "Mini RIGI" de la Mesa del Litio.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.

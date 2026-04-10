@@ -1,6 +1,14 @@
+---
+type: project
+tags: [mining, lithium]
+sources: [[2026-04-03_news_mining_energy.md], [2026-04-10_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-10
+---
+
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** Argentina se ha consolidado como el **segundo país con mayores recursos de litio del mundo** y el cuarto productor global. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
@@ -14,7 +22,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
 - **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
-- **Hito Histórico (Abril 2026):** Primera exportación de **200 toneladas** de carbonato de litio con destino a Shanghái.
+- **Hito Histórico (10/04/2026):** Primera exportación comercial de **200 toneladas** de carbonato de litio con destino a Shanghái.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
@@ -27,6 +35,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
+- **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio:** Salta, Jujuy y Catamarca coordinan una regalía unificada y políticas de "valor agregado local".
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.

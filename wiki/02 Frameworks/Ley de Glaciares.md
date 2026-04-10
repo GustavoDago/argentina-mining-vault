@@ -1,23 +1,33 @@
+---
+type: framework
+tags: [mining, energy, regulatory]
+sources: [[2026-04-10_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-10
+---
+
 # Ley de Glaciares (Reforma 2026)
 
-**Estado:** En debate parlamentario final (Abril 2026).
-**Objetivo:** Modificar la Ley 26.639 (2010) para equilibrar la protección ambiental con el desarrollo de la minería de alta montaña.
+**Estado:** Sancionada (09/04/2026).
+**Votación:** 137 votos a favor, 111 en contra.
 
-## Puntos Clave de la Reforma
-- **Redefinición de Ambiente Periglacial:** La protección estricta se limitará a aquellos cuerpos de hielo que demuestren un “aporte hídrico relevante y comprobable” a una cuenca hídrica.
-- **Injerencia Provincial:** Las provincias tendrán mayor protagonismo en la definición del Inventario Nacional de Glaciares, basándose en el dominio originario de sus recursos naturales (Constitución Nacional).
-- **Destrabe de Inversiones:** Se estima que la normativa vigente mantenía "frenados" proyectos de cobre y oro por criterios de protección demasiado amplios o ambiguos en zonas sin glaciares reales.
+## Descripción de la Reforma
+La reforma de la Ley 26.639 representa un cambio fundamental en el federalismo ambiental argentino, devolviendo a las provincias la competencia técnica y administrativa sobre sus recursos hídricos y minerales en zonas de alta montaña.
 
-## Hitos Recientes (Abril 2026)
-- **Plenario de Comisiones (7 de abril):** Convocatoria de las comisiones de Asuntos Constitucionales y de Recursos Naturales de la Cámara de Diputados para emitir dictamen.
-- **Apoyo Político:** El gobernador de San Juan, Marcelo Orrego, encabeza el respaldo a la reforma, destacando que la minería representó el **92,5%** de las exportaciones provinciales en el primer bimestre de 2026.
-- **Mesa del Cobre:** Los gobernadores de Salta, Catamarca y San Juan sostienen que la reforma es vital para la competitividad del sector minero frente a Chile.
+## Puntos Clave Sancionados
+- **Precisión Científica del Objeto Protegido:** Se garantiza la protección absoluta de los glaciares (descubiertos y cubiertos). Sin embargo, el **ambiente periglacial** solo estará protegido si se demuestra mediante evaluaciones técnico-científicas provinciales que cumple una "función hídrica relevante y comprobable" para la cuenca.
+- **Fin de la Ambigüedad:** Se elimina la prohibición genérica de actividades en zonas mal catalogadas como glaciares, lo que permite la explotación mineral en terrenos que no forman parte del objeto de protección de la ley.
+- **Competencia Provincial:** Las provincias, como titulares del dominio originario de sus recursos (Art. 124 CN), tienen la autoridad para identificar, proteger y administrar sus reservas hídricas.
+- **Seguridad Jurídica:** El nuevo marco normativo busca eliminar "distorsiones ideológicas" y trabas que impedían el progreso, unificando criterios con los estándares internacionales de minería responsable.
 
-## Impacto en Proyectos
-- **[[Cobre]]**: Facilita la viabilidad de proyectos como Pachón, Los Azules y Vicuña.
-- **[[Veladero]]**: Brinda mayor seguridad jurídica para operaciones y expansiones futuras.
+## Impacto Inmediato (Abril 2026)
+- **Desbloqueo de Proyectos:** Se estima que la reforma destraba inversiones por más de **US$ 30.000 millones** en proyectos de cobre y oro que estaban frenados por la incertidumbre normativa, especialmente en San Juan (Pachón, Los Azules) y Salta (Taca Taca).
+- **Mesa del Cobre:** Los gobernadores de San Juan, Salta, Catamarca y Mendoza celebraron la sanción como el motor definitivo para la "revolución del cobre" en Argentina.
 
 ## Conexiones
 - [[Mineria]]
 - [[RIGI]]
 - [[Cobre]]
+- [[San Juan]]
+- [[Salta]]
+- [[Mendoza]]

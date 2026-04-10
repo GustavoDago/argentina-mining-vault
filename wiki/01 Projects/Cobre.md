@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md], [2026-04-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-04-10
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -14,7 +14,7 @@ last_update: 2026-04-05
 Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
 
 ## La Cuenca del Cobre (2026)
-La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan y Salta).
+La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan, Salta y Mendoza).
 
 ### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
@@ -24,17 +24,16 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
 ## Marco de Incentivos
-La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la reforma de la **[[Ley de Glaciares]]** (Abril 2026) se perfila como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
+La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
 - **Financiamiento:** Inversión proyectada de **US$ 3.100 millones**. McEwen Copper presentó avances en la convención PDAC 2026 de Toronto.
-- **Socios:** Stellantis (Electromovilidad) y Rio Tinto (Tecnología Nuton).
+- **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** **US$ 5.250 millones**.
-- **Hito Reciente:** Nuevo reporte técnico NI 43-101 y acuerdo con la **IFC (Banco Mundial)** para estándares de sostenibilidad.
-- **Producción:** Estimada en **227.000 t/año**.
+- **Hito Reciente:** Presentación ante el Senado de Salta (Abril 2026) para acelerar aprobación de EIA y concesiones de agua antes del vencimiento del plazo RIGI (julio 2026).
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.460 millones**.
@@ -44,17 +43,15 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
-## Marco Regulatorio y RIGI
-El 100% de los proyectos de cobre de gran escala han solicitado su adhesión al [[RIGI]]. Este régimen es considerado "el habilitador" (enabler) para el desembolso de los US$ 26.000M acumulados en la industria minera y energética.
-
-## Desafío de Infraestructura
-- **Energía:** Necesidad de interconexión eléctrica de alta tensión ([[Electrificacion Puna]]).
-- **Logística:** Reactivación del Ferrocarril Belgrano Cargas y el [[Corredor Bioceanico]] para salida hacia el Pacífico (Chile).
+## Mesa del Cobre y Contexto de Precios
+- **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
+- **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
 
 ## Conexiones
 - [[RIGI]]
 - [[Mineria]]
 - [[San Juan]]
 - [[Salta]]
+- [[Mendoza]]
 - [[Distrito Vicuña]]
 - [[Electromovilidad]]
