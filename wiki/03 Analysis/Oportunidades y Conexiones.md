@@ -9,12 +9,12 @@ last_update: 2026-04-10
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
 
 ## Oportunidades de Negocio Identificadas
-1. **Infraestructura Eléctrica y Disputas de Capacidad**:
-   - El conflicto entre **[[Los Azules]]** y **[[Distrito Vicuña]]** ante el ENRE por la línea de 500 kV revela un cuello de botella crítico en San Juan. Existe una oportunidad masiva para empresas de ingeniería eléctrica y consultoría regulatoria para gestionar soluciones de despacho y ampliación de red.
-2. **Litio: Eficiencia vs. Escala**:
-   - El hallazgo en **McDermitt (EE.UU.)** con >40 MTn de recursos presiona los precios a la baja a largo plazo. La oportunidad en Argentina se desplaza hacia la **eficiencia operativa** (tecnologías DLE más rápidas) y la purificación local para mantener márgenes competitivos frente a yacimientos de arcilla de mayor volumen.
-3. **Servicios de Minería de Alta Montaña**:
-   - La sanción de la reforma de la **[[Ley de Glaciares]]** desbloquea proyectos por US$ 30.000M. Se espera una demanda inmediata de servicios de peritaje hídrico y ambiental para validar la "función hídrica" de las geoformas periglaciales y habilitar los Informes de Impacto Ambiental (IIA) frenados.
+1. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
+   - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. La oportunidad se desplaza de la infraestructura pública hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG) para independizar el Capex de la discrecionalidad regulatoria.
+2. **Litio: Eficiencia vs. Escala (Efecto McDermitt)**:
+   - El hallazgo en **McDermitt (EE.UU.)** presiona los precios. La oportunidad en Argentina es la **eficiencia operativa** mediante tecnologías DLE avanzadas y servicios de purificación in-situ para mantener competitividad en la curva de costos global.
+3. **Cluster de Servicios Mendoza (Tier 2/3)**:
+   - La incorporación de **[[Mendoza]]** a la Mesa del Cobre y la reforma de la **[[Ley de Glaciares]]** habilitan un nuevo mercado de servicios. Existe una demanda insatisfecha por la reconversión de proveedores petroleros hacia la minería (drilling de altura, logística pesada, servicios ambientales) para dar soporte a proyectos como San Jorge y futuras exploraciones.
 4. **Optimización en Vaca Muerta**:
    - La consolidación de áreas de Pluspetrol en **YPF** (Aguada Villanueva, Meseta Buena Esperanza, Las Tacanas) tracciona contratos de servicios de perforación y completación unificados, buscando economías de escala en la operación.
 
@@ -32,13 +32,16 @@ graph TD
 
     LG[Sanción Ley de Glaciares 2026] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
-    LG --> |Competencia Provincial| MesaCobre[Mesa del Cobre: SJ, SA, CA, MZ]
+    LG --> |Reconversión Tier 2/3| ProvMZ[Proveedores Mendoza]
 
     LitioGlobal[McDermitt discovery USA] --> |Presión de Precios| Eficiencia[Tecnologías DLE Argentina]
     Arg2nd[Argentina 2do Exportador Litio] --> |Supera a Chile| Geopolitica[Hub Regional de Baterías]
 
-    ENRE[Conflicto ENRE Línea 500kV] --> |Cuello de Botella| LosAzules
-    ENRE --> |Disputa Prioridad| Vicuña
+    ENRE[Res. 079/2026 Prioridad 90%] --> |Bloqueo Sistémico| LosAzules
+    ENRE --> |Dominancia| Vicu[Distrito Vicuña]
+    
+    OffGrid[Orquestación Microgrids Off-Grid] --> |Bypass Regulatorio| LosAzules
+    OffGrid --> |Independencia Energética| ProyectosPuna[Proyectos en Puna]
 
     YPF[Consolidación YPF] --> |Cesión Pluspetrol| Tacanas[Las Tacanas/Neuquén]
     YPF --> |Optimización| VacaMuerta[Vaca Muerta]
