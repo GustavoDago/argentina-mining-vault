@@ -22,6 +22,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Proyectos Clave:**
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026). Primer paso hacia la producción masiva.
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
+    - **Piuquenes**: Andina Copper confirmó un nuevo sistema de pórfido de cobre y destinará US$ 27,5 millones para extender la exploración (Abril 2026).
 
 ## Marco de Incentivos
 La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la reforma de la **[[Ley de Glaciares]]** (Abril 2026) se perfila como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
@@ -43,6 +44,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+### 6. Cobre Mendocino (Mendoza)
+- **Hito:** Inicio de campaña de exploración impulsado por el nuevo marco normativo provincial ([[Mendoza]]).
 
 ## Marco Regulatorio y RIGI
 El 100% de los proyectos de cobre de gran escala han solicitado su adhesión al [[RIGI]]. Este régimen es considerado "el habilitador" (enabler) para el desembolso de los US$ 26.000M acumulados en la industria minera y energética.

@@ -18,7 +18,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 - **Inversión Total Comprometida:** **US$ 26.600 millones**.
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
 
-### Listado de Adhesiones Confirmadas (Abril 2026):
+### Listado de Adhesiones Confirmadas y Postulaciones (Abril 2026):
 1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero. Inversión: **US$ 1.175M**.
 2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
 3.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]].
@@ -33,6 +33,12 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Solicitud formal presentada en Abr 2026 (US$ 5.250M). Alianza con IFC para sustentabilidad.
 13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
+15. **Posco** (Salta, Litio) - Solicitud de adhesión para fases de expansión.
+16. **Glencore** (San Juan/Catamarca, Cobre) - Postulación para proyectos de gran escala.
+17. **AbraSilver** (Salta, Plata) - Postulación para el proyecto [[Diablillos]].
+
+## Alianzas Internacionales y Comercio (Abril 2026)
+- **Acuerdo Mercosur-UE:** La ratificación del tratado garantiza seguridad jurídica para las inversiones bajo el RIGI, facilitando la exportación de recursos estratégicos (GNL, Litio, Cobre) hacia el mercado europeo.
 
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.

@@ -19,14 +19,16 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
 ### 2. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
-- **Estado:** Finalización de la construcción de la Fase 1.
-- **Producción:** Inicio operativo a fines de abril de 2026.
+- **Estado:** 92% de avance en construcción (Abril 2026).
+- **Producción:** Inicio operativo previsto para el segundo trimestre de 2026.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
 ### 3. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
+- **Catamarca (Abril 2026):** La Corte de Justicia provincial levantó la medida cautelar sobre la cuenca del Río Los Patos, permitiendo avanzar con nuevas concesiones y operaciones de litio.
+- **Pastos Grandes (Salta):** El proyecto gestiona su incorporación al [[RIGI]] tras obtener la Declaración de Impacto Ambiental.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio:** Salta, Jujuy y Catamarca coordinan una regalía unificada y políticas de "valor agregado local".
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
