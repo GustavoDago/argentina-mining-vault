@@ -18,14 +18,14 @@ El yacimiento de shale es el motor principal del superávit energético de Argen
 - **TGS (Transportadora de Gas del Sur):** Inversión de **US$ 3.000 millones** para industrialización y exportación de líquidos derivados del gas.
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Oil Sur (VMOS):** Oleoducto de gran escala para evacuar crudo hacia el Atlántico. Supera el **58% de avance** (Abril 2026) y apunta a iniciar exportaciones en diciembre de 2026. Es vital para alcanzar la meta de 1,5 millones de barriles diarios hacia 2031.
-- **Argentina LNG:** El proyecto de YPF sumó oficialmente a **ENI** y **XRG** (ADNOC) como socios estratégicos para la fase de licuefacción flotante (FLNG).
+- **Oleoducto Vaca Muerta Oil Sur (VMOS):** Oleoducto de gran escala para evacuar crudo hacia el Atlántico. Puesta en marcha prevista para 2027. En abril 2026 se completó el techo del tanque **TK404** (57t de aluminio) en Punta Colorada.
+- **Argentina LNG:** Megaproyecto de exportación liderado por **YPF** junto a **ENI** (Italia) y **XRG** (unidad de **ADNOC**, Emiratos Árabes Unidos).
+    - **Estructura:** Societariamente se divide en tercios entre los tres socios principales.
+    - **Reconfiguración:** Se confirmó la salida de **Shell** de la fase inicial, lo que redujo una etapa de 12 MTPA a 6 MTPA y llevó a YPF a buscar un nuevo socio internacional.
+    - **Hitos:** Decisión Final de Inversión (FID) prevista para mediados de 2026. Se tramitará bajo la categoría RIGI-PEELP (US$ 2.000M+).
 - **Oleoducto de Oldelval:** Ampliación en curso para destrabar cuellos de botella logísticos.
-
-## Exploración de Frontera (Abril 2026)
-- **Palermo Aike (Santa Cruz):** YPF acelera la exploración buscando replicar el modelo Vaca Muerta.
-- **D-129 (Chubut):** Inicio de campañas exploratorias por parte de YPF en esta formación no convencional.
 
 ## Conexiones
 - [[RIGI]]
 - [[Energia]]
+- [[Río Negro]]
