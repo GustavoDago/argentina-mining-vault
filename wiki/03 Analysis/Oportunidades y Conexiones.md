@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-11
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -17,6 +17,8 @@ last_update: 2026-04-10
    - La incorporación de **[[Mendoza]]** a la Mesa del Cobre y la reforma de la **[[Ley de Glaciares]]** habilitan un nuevo mercado de servicios. Existe una demanda insatisfecha por la reconversión de proveedores petroleros hacia la minería (drilling de altura, logística pesada, servicios ambientales) para dar soporte a proyectos como San Jorge y futuras exploraciones.
 4. **Optimización en Vaca Muerta**:
    - La consolidación de áreas de Pluspetrol en **YPF** (Aguada Villanueva, Meseta Buena Esperanza, Las Tacanas) tracciona contratos de servicios de perforación y completación unificados, buscando economías de escala en la operación.
+5. **Aluvión de Inversiones RIGI Petrolero**:
+   - El escalamiento de inversiones de **Pampa Energía** (US$ 4.5B) y **Tecpetrol** (US$ 2.4B) genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas, ya que el mercado podría entrar en una fase de saturación de capacidad para 2027.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -25,29 +27,29 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI & Marcos Regulatorios] --> |Incentivos Fiscales| TacaTaca[Taca Taca - Salta]
-    RIGI --> |Aprobado US$ 2700M| LosAzules[Los Azules - San Juan]
-    RIGI --> |Inversión US$ 18000M| Vicuña[Distrito Vicuña]
+    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M| TacaTaca[Taca Taca - Salta]
+    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Primer Proyecto| Rincon[Rincón - Salta]
+    RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
 
-    LG[Sanción Ley de Glaciares 2026] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
+    VM --> |US$ 4.500M| Pampa[Pampa Energía]
+    VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
+    VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
+    VM --> |US$ 3.000M| TGS[TGS Industrialización]
+
+    LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
-    LG --> |Reconversión Tier 2/3| ProvMZ[Proveedores Mendoza]
 
-    LitioGlobal[McDermitt discovery USA] --> |Presión de Precios| Eficiencia[Tecnologías DLE Argentina]
-    Arg2nd[Argentina 2do Exportador Litio] --> |Supera a Chile| Geopolitica[Hub Regional de Baterías]
+    Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca[Seguridad Jurídica Catamarca]
+    Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
 
-    ENRE[Res. 079/2026 Prioridad 90%] --> |Bloqueo Sistémico| LosAzules
-    ENRE --> |Dominancia| Vicu[Distrito Vicuña]
+    ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
+    ENRE --> |Conflicto| LosAzules
     
-    OffGrid[Orquestación Microgrids Off-Grid] --> |Bypass Regulatorio| LosAzules
-    OffGrid --> |Independencia Energética| ProyectosPuna[Proyectos en Puna]
+    OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
-    YPF[Consolidación YPF] --> |Cesión Pluspetrol| Tacanas[Las Tacanas/Neuquén]
-    YPF --> |Optimización| VacaMuerta[Vaca Muerta]
-
-    Rincon --> |10/04: 200t a Shanghái| ExportLithium[Inicio Fase Comercial]
-    TacaTaca --> |Presión RIGI Jul-2026| SenadoSalta[Avance Institucional Salta]
+    VMOS[Oleoducto VM Sur: 58%] --> |Export Dic-2026| Monetizacion[Monetización Shale Oil]
 ```
 
 ## Conclusiones

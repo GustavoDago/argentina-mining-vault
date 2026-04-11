@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-11
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -12,19 +12,20 @@ last_update: 2026-04-10
 **Principales Actores:** YPF, Vista, Tecpetrol, Pampa Energía, Phoenix Global Resources.
 
 ## Panorama 2026
-El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético.
+El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
 ### Hitos Recientes (Abril 2026)
-- **Reorganización de Activos en Neuquén (10/04/2026):** El Gobierno de Neuquén autorizó la cesión del 100% de la participación de **Pluspetrol** a favor de **YPF** en tres áreas estratégicas:
-    - **Aguada Villanueva** (Convencional, 281 km²).
-    - **Meseta Buena Esperanza** (Convencional, 303,71 km²).
-    - **Las Tacanas** (No convencional/Lote bajo evaluación, 411 km²).
-  Esta operación consolida la titularidad y operación de YPF en estos bloques, optimizando el desarrollo de la cuenca.
-- **Coyuntura de Gas:** Interrupción de exportaciones a Chile por parámetros de calidad en el Gasoducto del Pacífico (desde el 01/04/2026).
+- **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen:
+    - **[[Pampa Energía]]**: Elevó su proyecto en Rincón de Aranda a **US$ 4.500 millones**.
+    - **Tecpetrol**: Amplió su inversión en Los Toldos Este II a **US$ 2.400 millones**.
+    - **Phoenix Resources**: Evalúa proyectos por **US$ 6.000 millones**.
+    - **Vista Energy**: Analiza incluir bloques como Bandurria Norte y Águila Mora bajo el RIGI.
+- **Reorganización de Activos en Neuquén (10/04/2026):** El Gobierno de Neuquén autorizó la cesión de áreas de Pluspetrol a favor de **YPF** (Aguada Villanueva, Meseta Buena Esperanza y Las Tacanas).
+- **Coyuntura de Gas:** Interrupción de exportaciones a Chile por parámetros de calidad en el Gasoducto del Pacífico.
 
 ## Infraestructura Crítica
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
 - **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción.
-- **Oleoducto VMOS:** Hitos constructivos en Punta Colorada (tanque TK404).
 
 ## Conexiones
 - [[RIGI]]
