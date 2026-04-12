@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium, copper]
-sources: []
+sources: [[2026-04-12_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-04-12
 ---
 
 # Salta

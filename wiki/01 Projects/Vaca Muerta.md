@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-12
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -14,7 +14,14 @@ last_update: 2026-04-11
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
+### Estadísticas de Producción (Febrero 2026)
+- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
+- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
+- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
+- **Gas Natural:** Caída interanual del **3,3%**.
+
 ### Hitos Recientes (Abril 2026)
+- **Expansión de la Frontera No Convencional (12/04/2026):** YPF confirmó la aceleración de la exploración en **Palermo Aike** (Santa Cruz) y el inicio de exploraciones en la formación **D-129** (Chubut), buscando replicar el modelo de eficiencia de Vaca Muerta.
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen:
     - **[[Pampa Energía]]**: Elevó su proyecto en Rincón de Aranda a **US$ 4.500 millones**.
     - **Tecpetrol**: Amplió su inversión en Los Toldos Este II a **US$ 2.400 millones**.

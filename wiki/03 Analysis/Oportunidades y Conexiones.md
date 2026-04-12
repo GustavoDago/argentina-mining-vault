@@ -1,14 +1,16 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-12
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
 
 ## Oportunidades de Negocio Identificadas
+1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
+   - La alianza de **[[Taca Taca]]** con la IFC y el financiamiento de US$ 1.175M para **[[Rincón]]** marcan un patrón: los grandes proyectos mineros están buscando "escudos multilaterales". Esta tendencia reduce el riesgo político y facilita la sindicación de deuda bancaria comercial. La oportunidad para el inversor es posicionarse en la cadena de suministros de proyectos que ya cuentan con este sello de calidad internacional.
 1. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
    - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. La oportunidad se desplaza de la infraestructura pública hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG) para independizar el Capex de la discrecionalidad regulatoria.
 2. **Litio: Eficiencia vs. Escala (Efecto McDermitt)**:
@@ -28,6 +30,7 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 ```mermaid
 graph TD
     RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M| TacaTaca[Taca Taca - Salta]
+    TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Primer Proyecto| Rincon[Rincón - Salta]
@@ -37,6 +40,7 @@ graph TD
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |Exploración| PA[Palermo Aike & D-129]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
