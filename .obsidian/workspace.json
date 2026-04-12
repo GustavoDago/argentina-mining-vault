@@ -11,10 +11,10 @@
             "id": "e1ebc36fe217a133",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/03 Analysis/Health_Check_Report.md",
+    "wiki/04 Daily/2026-04-11_Daily_Report.md",
+    "raw/2026-04-11_news_mining_energy.md",
     "wiki/05 Tech Lead Opps/2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza.md",
     "wiki/04 Daily/2026-04-10_Daily_Report.md",
     "raw/2026-04-10_news_mining_energy.md",
@@ -204,9 +207,6 @@
     "raw/2026-04-06_news_mining_energy.md",
     "raw/2026-04-03_news_mining_energy.md",
     "wiki/03 Analysis/Electrificacion Puna.md",
-    "GEMINI.md",
-    "Manual de gobernanza.md",
-    "wiki/03 Analysis/Oportunidades y Conexiones.md",
-    "wiki/04 Daily/2026-04-05_Daily_Report.md"
+    "GEMINI.md"
   ]
 }
