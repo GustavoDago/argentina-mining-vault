@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-13
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -19,6 +19,8 @@ last_update: 2026-04-11
    - La consolidación de áreas de Pluspetrol en **YPF** (Aguada Villanueva, Meseta Buena Esperanza, Las Tacanas) tracciona contratos de servicios de perforación y completación unificados, buscando economías de escala en la operación.
 5. **Aluvión de Inversiones RIGI Petrolero**:
    - El escalamiento de inversiones de **Pampa Energía** (US$ 4.5B) y **Tecpetrol** (US$ 2.4B) genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas, ya que el mercado podría entrar en una fase de saturación de capacidad para 2027.
+7. **Consolidación del NOA como Hub Surcoreano**:
+   - La adquisición de HMN por parte de **[[Posco]]** (US$ 65M) no es un evento aislado. Indica una estrategia de "acaparamiento de ley" en el Salar del Hombre Muerto. La oportunidad reside en la **logística transfronteriza y servicios compartidos** entre los bloques de Posco, Arcadium (ahora Rio Tinto) y Galan Lithium.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -43,6 +45,7 @@ graph TD
 
     Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca[Seguridad Jurídica Catamarca]
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
+    Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules

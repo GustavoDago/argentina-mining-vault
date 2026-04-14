@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-13
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -26,12 +26,16 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
-### 2. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
+### 2. [[Posco]] (Hombre Muerto Norte, Salta)
+- **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
+- **Potencial:** 15.600 toneladas/año de LCE.
+
+### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
 - **Estado:** Finalización de la construcción de la Fase 1.
 - **Producción:** Inicio operativo a fines de abril de 2026.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 3. Salar de Olaroz / Caucharí (Jujuy)
+### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional

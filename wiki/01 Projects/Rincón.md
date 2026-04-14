@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-13
 ---
 
 # Proyecto Rincón (Litio)

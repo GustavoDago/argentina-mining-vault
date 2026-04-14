@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-13
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -14,7 +14,8 @@ last_update: 2026-04-11
 ## Tablero de Control (Abril 2026)
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
 
-- **Proyectos Aprobados/En Evaluación:** +25 proyectos (tras el aluvión de abril 2026).
+- **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
+- **Proyectos Aprobados/En Evaluación:** +30 proyectos (tras el aluvión de abril 2026).
 - **Inversión Total Comprometida:** ~ **US$ 45.000 millones** (estimación post-escalamiento petrolero).
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
 
@@ -34,6 +35,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 6.  **[[TGS]]** (Neuquén, Energía) - Industrialización de líquidos. Inversión: **US$ 3.000M**.
 7.  **[[Pampa Energía]]** (Neuquén, Oil) - Upstream no convencional. Inversión: **US$ 4.500M**.
 8.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
+15. **[[Posco]]** (Hombre Muerto Norte, Salta, Litio) - Inversión inicial tras adquisición: US$ 65M (Alineado con beneficios RIGI).
 9.  **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
 10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
 11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.

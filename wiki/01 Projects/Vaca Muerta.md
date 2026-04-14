@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-13
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -15,8 +15,11 @@ last_update: 2026-04-11
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
 ### Hitos Recientes (Abril 2026)
+- **Argentina Week en Nueva York (13/04/2026):** Cierre de la misión oficial en EE.UU. con fuertes señales de inversión.
+    - **[[TGS]]**: Ratificó inversión de **US$ 3.000 millones** para planta de separación de gas.
+    - **YPF**: Confirmó conversaciones avanzadas con dos bancos internacionales para el financiamiento del proyecto GNL.
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen:
-    - **[[Pampa Energía]]**: Elevó su proyecto en Rincón de Aranda a **US$ 4.500 millones**.
+    - **[[Pampa Energía]]**: Elevó su proyecto en Rincón de Aranda a **US$ 4.500 millones** (ratificado en NYC).
     - **Tecpetrol**: Amplió su inversión en Los Toldos Este II a **US$ 2.400 millones**.
     - **Phoenix Resources**: Evalúa proyectos por **US$ 6.000 millones**.
     - **Vista Energy**: Analiza incluir bloques como Bandurria Norte y Águila Mora bajo el RIGI.
