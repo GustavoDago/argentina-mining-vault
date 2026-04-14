@@ -1,14 +1,17 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: []
+sources: [[2026-04-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-04-14
 ---
 
 # San Juan
 
 San Juan es la provincia líder en minería metalífera en Argentina, especialmente en **cobre** y **oro**.
+
+## Modernización y Transparencia (Abril 2026)
+- **Sistema Integral Minero (SIM):** Implementación obligatoria del pago del canon minero 100% online. La plataforma digital centraliza el padrón minero, deudas y estado técnico-legal, eliminando trámites presenciales y mejorando la trazabilidad en tiempo real.
 
 ## Desempeño Exportador (2026)
 - **Liderazgo Histórico:** En el primer bimestre de 2026, la minería representó el **92,5% de las exportaciones totales** de San Juan.

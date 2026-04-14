@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-13
+last_update: 2026-04-14
 ---
 
 # TGS Vaca Muerta (Industrialización)
@@ -16,6 +16,7 @@ last_update: 2026-04-13
 **TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta. El proyecto se centra en la separación e industrialización de líquidos para exportación a gran escala.
 
 ## Hitos Recientes (2026)
+- **Infraestructura de Transporte (14/04/2026):** Inicio de la ampliación del **Gasoducto Perito Moreno** y habilitación de nueva capacidad de transporte para evacuar el gas de la cuenca.
 - **Argentina Week (13/04/2026):** El CEO de TGS ratificó en Nueva York el plan de inversión de **US$ 3.000 millones** para la planta separadora de gas, destacando el marco del [[RIGI]].
 - **Ratificación de Inversión (11/04/2026):** Se confirmó el plan de inversión de **US$ 3.000 millones** para industrializar y exportar líquidos derivados del gas, aprovechando la extensión del [[RIGI]].
 - **Adhesión al RIGI (Abril 2026):** Proyecto aprobado bajo el [[RIGI]] con una inversión de **US$ 3.000 millones**.

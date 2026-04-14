@@ -15,6 +15,7 @@ last_update: 2026-04-13
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
 ### Hitos Recientes (Abril 2026)
+- **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Argentina Week en Nueva York (13/04/2026):** Cierre de la misión oficial en EE.UU. con fuertes señales de inversión.
     - **[[TGS]]**: Ratificó inversión de **US$ 3.000 millones** para planta de separación de gas.
     - **YPF**: Confirmó conversaciones avanzadas con dos bancos internacionales para el financiamiento del proyecto GNL.
