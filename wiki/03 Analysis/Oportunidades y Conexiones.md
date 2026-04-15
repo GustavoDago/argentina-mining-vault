@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-14
+last_update: 2026-04-15
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -27,6 +27,10 @@ last_update: 2026-04-14
    - La implementación obligatoria del **SIM (Sistema Integral Minero)** en San Juan elimina la fricción administrativa del canon minero. Representa una oportunidad para empresas de **software de compliance minero** y servicios de auditoría técnica que puedan integrarse con datos en tiempo real de la provincia.
 10. **Mendoza: Profesionalización ASG**:
     - El acuerdo Impulsa Mendoza-Kobrea para estándares **ASG** y el envío de la DIA del proyecto de litio **Don Luis** a la Legislatura marcan la pauta de una Mendoza que busca liderar en "minería con licencia social y rigor técnico".
+11. **Recuperación del Litio y Ventana BESS (15/04/2026)**:
+    - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
+12. **Integración Logística Argentina-Chile**:
+    - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico para el cobre de Salta y San Juan, y el litio del NOA.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -35,7 +39,7 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |US$ 5.250M| TacaTaca[Taca Taca - Salta]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Primer Proyecto| Rincon[Rincón - Salta]
@@ -55,7 +59,14 @@ graph TD
     Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca[Seguridad Jurídica Catamarca]
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
+    Litio --> |15/04: 8vo Proyecto| HMW[Hombre Muerto Oeste - Galan]
     Posco --> |Capacidad| P70[70% Planta Salta]
+
+    PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
+    BESS[Demanda BESS China] --> |Sostiene| PriceLit
+
+    Chile[Integración con Chile] --> |Logística Pacífico| Cobre
+    Chile --> |Inversión Bilateral| Litio
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules
