@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-13_news_mining_energy.md]]
+sources: [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-13
+last_update: 2026-04-14
 ---
 
 # Posco (Hombre Muerto Norte)
@@ -12,9 +12,10 @@ last_update: 2026-04-13
 **Ubicación:** Salar del Hombre Muerto, Salta, Argentina.
 
 ## Descripción
-Proyecto de litio de alta ley adquirido por la gigante surcoreana **Posco** para asegurar el suministro de materiales críticos para baterías.
+Proyecto de litio de alta ley operado por la gigante surcoreana **Posco** para asegurar el suministro de materiales críticos para baterías. La empresa consolidó su posición tras la adquisición de Hombre Muerto Norte (HMN).
 
 ## Hitos Recientes (2026)
+- **Estado Operativo (14/04/2026):** Posco confirmó que su primera planta de litio ya opera al **70% de su capacidad nominal**.
 - **Adquisición Estratégica (13/04/2026):** Posco concretó la compra del proyecto **Hombre Muerto Norte (HMN)** por **US$ 65 millones** a la canadiense Lithium South.
 - **Integración Regional:** La operación fortalece la presencia de Posco en el Salar del Hombre Muerto, donde ya desarrolla otros bloques.
 - **Marco RIGI:** El ministro Luis Caputo destacó que esta inversión se alinea con los incentivos del [[RIGI]] para grandes capitales en el NOA.

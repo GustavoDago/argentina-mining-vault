@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-13
+last_update: 2026-04-14
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -20,7 +20,13 @@ last_update: 2026-04-13
 5. **Aluvión de Inversiones RIGI Petrolero**:
    - El escalamiento de inversiones de **Pampa Energía** (US$ 4.5B) y **Tecpetrol** (US$ 2.4B) genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas, ya que el mercado podría entrar en una fase de saturación de capacidad para 2027.
 7. **Consolidación del NOA como Hub Surcoreano**:
-   - La adquisición de HMN por parte de **[[Posco]]** (US$ 65M) no es un evento aislado. Indica una estrategia de "acaparamiento de ley" en el Salar del Hombre Muerto. La oportunidad reside en la **logística transfronteriza y servicios compartidos** entre los bloques de Posco, Arcadium (ahora Rio Tinto) y Galan Lithium.
+   - La adquisición de HMN por parte de **[[Posco]]** (US$ 65M) y la confirmación de que su primera planta ya opera al **70% de capacidad** (14/04/2026) consolidan a la empresa como el jugador más dinámico del litio en Salta. La oportunidad reside en la **logística transfronteriza y servicios compartidos** entre los bloques de Posco, Rio Tinto y Galan Lithium.
+8. **RIMI y el Fortalecimiento de la Cadena de Valor**:
+   - La reglamentación del **[[RIMI]]** (Abril 2026) abre una ventana para proyectos de escala media y proveedores de servicios que no califican para el RIGI. Esto reduce el riesgo de "enclave" y fomenta la integración de la industria nacional en los desarrollos de Vaca Muerta y la minería andina.
+9. **Transparencia Digital en San Juan**:
+   - La implementación obligatoria del **SIM (Sistema Integral Minero)** en San Juan elimina la fricción administrativa del canon minero. Representa una oportunidad para empresas de **software de compliance minero** y servicios de auditoría técnica que puedan integrarse con datos en tiempo real de la provincia.
+10. **Mendoza: Profesionalización ASG**:
+    - El acuerdo Impulsa Mendoza-Kobrea para estándares **ASG** y el envío de la DIA del proyecto de litio **Don Luis** a la Legislatura marcan la pauta de una Mendoza que busca liderar en "minería con licencia social y rigor técnico".
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -34,25 +40,29 @@ graph TD
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Primer Proyecto| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
 
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
+    Mendoza --> |Litio| DonLuis[Don Luis - DIA enviada]
 
     Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca[Seguridad Jurídica Catamarca]
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
+    Posco --> |Capacidad| P70[70% Planta Salta]
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
-    VMOS[Oleoducto VM Sur: 58%] --> |Export Dic-2026| Monetizacion[Monetización Shale Oil]
+    SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
 ```
 
 ## Conclusiones
