@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-16
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -15,8 +15,8 @@ last_update: 2026-04-15
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
-- **Proyectos Aprobados/En Evaluación:** +30 proyectos (tras el aluvión de abril 2026).
-- **Inversión Total Comprometida:** ~ **US$ 45.000 millones** (estimación post-escalamiento petrolero).
+- **Proyectos Aprobados/En Evaluación:** 11 presentaciones bajo evaluación formal por la Secretaría de Energía y Minería (totalizando **US$ 22.960 millones**).
+- **Inversión Potencial:** Las cifras exceden los **US$ 50.000 millones** al incluir anuncios no formalizados (Vicuña, Phoenix, TGS).
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
 
 ### Categorías Especiales
@@ -26,8 +26,8 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
     - Desembolsos mínimos por etapa: **US$ 1.000 millones**.
     - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
 
-### Listado de Adhesiones Confirmadas (Abril 2026):
-1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero. Inversión: **US$ 1.175M**.
+### Listado de Adhesiones y Evaluaciones (Abril 2026):
+1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M** (paquete financiamiento US$ 1.175M).
 2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
 3.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]].
 4.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica.
