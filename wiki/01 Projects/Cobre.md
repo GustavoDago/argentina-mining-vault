@@ -30,6 +30,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
 - **Financiamiento:** Inversión proyectada de **US$ 3.100 millones**. McEwen Copper presentó avances en la convención PDAC 2026 de Toronto.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
+- **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** **US$ 5.250 millones**.

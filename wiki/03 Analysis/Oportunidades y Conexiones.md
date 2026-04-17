@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-17_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-17
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -31,6 +31,10 @@ last_update: 2026-04-15
     - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
 12. **Integración Logística Argentina-Chile**:
     - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico para el cobre de Salta y San Juan, y el litio del NOA.
+13. **Efecto Multiplicador del "Mini RIGI" (17/04/2026)**:
+    - El lanzamiento de incentivos para inversiones desde **US$ 5 millones** en Jujuy abre una ventana masiva para pymes tecnológicas y de servicios mineros. Representa la oportunidad de formalizar la cadena de valor que da soporte a los grandes proyectos (Exar, Sales de Jujuy) con beneficios de estabilidad.
+14. **Previsibilidad en el Cobre (Horizonte 2029)**:
+    - La definición del año 2029 para la puesta en marcha de **[[Los Azules]]** y **San Jorge** permite a los inversores en infraestructura (vial, eléctrica) sincronizar sus desembolsos con el flujo de caja operativo proyectado.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -45,6 +49,7 @@ graph TD
     RIGI --> |Primer Proyecto| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
+    RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
 
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
@@ -55,12 +60,16 @@ graph TD
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA enviada]
+    Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
 
     Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca[Seguridad Jurídica Catamarca]
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |15/04: 8vo Proyecto| HMW[Hombre Muerto Oeste - Galan]
+    Litio --> |Presidencia Mesa| Jujuy[Jujuy]
+    Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
+    Salta[Salta: Complejo Exportador #1] --> Litio
 
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
@@ -70,6 +79,8 @@ graph TD
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules
+    LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
+    SanJorge --> OpCopper
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 

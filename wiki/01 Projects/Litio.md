@@ -41,7 +41,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 ## La Mesa del Litio y Política Regional
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
-- **Mesa del Litio:** Salta, Jujuy y Catamarca coordinan una regalía unificada y políticas de "valor agregado local".
+- **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
 ## Mercados y Precios
