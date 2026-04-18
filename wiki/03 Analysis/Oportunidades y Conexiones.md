@@ -1,16 +1,16 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-18_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-18
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
-   - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. La oportunidad se desplaza de la infraestructura pública hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG) para independizar el Capex de la discrecionalidad regulatoria.
+   - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid**.
 2. **Litio: Eficiencia vs. Escala (Efecto McDermitt)**:
    - El hallazgo en **McDermitt (EE.UU.)** presiona los precios. La oportunidad en Argentina es la **eficiencia operativa** mediante tecnologías DLE avanzadas y servicios de purificación in-situ para mantener competitividad en la curva de costos global.
 3. **Cluster de Servicios Mendoza (Tier 2/3)**:
@@ -30,7 +30,9 @@ last_update: 2026-04-15
 11. **Recuperación del Litio y Ventana BESS (15/04/2026)**:
     - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
 12. **Integración Logística Argentina-Chile**:
-    - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico para el cobre de Salta y San Juan, y el litio del NOA.
+    - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico. El "apagón" de conectividad digital en el tramo chileno del Corredor Bioceánico (18/04/2026) abre una oportunidad para **servicios de telecomunicaciones satelitales (Starlink/otros)** aplicados a la logística de camiones mineros.
+13. **Mini-RIGI como catalizador de PYMES (Jujuy)**:
+    - El nuevo marco de Jujuy (US$ 5M) permite que empresas de servicios especializados, manufactura local y energías renovables de mediana escala accedan a beneficios impositivos. Esto reduce la brecha de la "economía en K" al integrar capital local.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -53,12 +55,14 @@ graph TD
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
+    LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA enviada]
 
-    Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca[Seguridad Jurídica Catamarca]
+    Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
+    Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
     Litio --> |15/04: 8vo Proyecto| HMW[Hombre Muerto Oeste - Galan]
     Posco --> |Capacidad| P70[70% Planta Salta]
 

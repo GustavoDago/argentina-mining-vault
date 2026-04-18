@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-18
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -15,9 +15,10 @@ last_update: 2026-04-15
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
-- **Proyectos Aprobados/En Evaluación:** +30 proyectos (tras el aluvión de abril 2026).
-- **Inversión Total Comprometida:** ~ **US$ 45.000 millones** (estimación post-escalamiento petrolero).
-- **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
+- **Expansión al Upstream (18/04/2026):** El Decreto 105/2026 incorporó formalmente a todo el upstream de petróleo y gas, impulsando inversiones masivas en áreas marginales de Vaca Muerta.
+- **Proyectos Aprobados/En Evaluación:** +35 proyectos.
+- **Inversión Total Comprometida:** Excede los **US$ 52.000 millones** (ratificado tras NYC y el aluvión de abril).
+- **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
 
 ### Categorías Especiales
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
@@ -42,6 +43,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Solicitud de adhesión en preparación tras reporte NI 43-101 (US$ 5.250M).
 13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
+15. **[[Posco]]** (Hombre Muerto Norte, Salta, Litio) - Inversión inicial tras adquisición: US$ 65M.
 
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
