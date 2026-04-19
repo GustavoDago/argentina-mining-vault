@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]]
+sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-14
+last_update: 2026-04-19
 ---
 
 # Mendoza (Minería y Energía)

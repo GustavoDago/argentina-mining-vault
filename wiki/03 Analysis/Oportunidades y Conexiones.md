@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-19_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-19
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -31,6 +31,10 @@ last_update: 2026-04-15
     - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
 12. **Integración Logística Argentina-Chile**:
     - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico para el cobre de Salta y San Juan, y el litio del NOA.
+13. **Exploración de Frontera (Tier 2/3 de O&G)**:
+    - El anuncio de YPF en **D-129 (Chubut)** y **Palermo Aike (Santa Cruz)** abre una ventana para proveedores de servicios de exploración especializados en formaciones de baja permeabilidad fuera de la Cuenca Neuquina. Es el inicio de la "federalización del shale".
+14. **El Factor Lunahuasi (Vaca Muerta del Cobre)**:
+    - La aparición de leyes de hasta 18% de cobre en **[[Lunahuasi]]** redefine la economía del [[Distrito Vicuña]]. Proyectos que eran marginales pueden volverse altamente rentables si se integran en una infraestructura común de procesamiento de alta ley.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -54,7 +58,10 @@ graph TD
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
-    Mendoza --> |Litio| DonLuis[Don Luis - DIA enviada]
+    Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
+
+    Cobre --> |Alta Ley| Lunahuasi[Lunahuasi - NGEx]
+    Lunahuasi --> |Clúster| Vicuña
 
     Litio[Litio Argentina] --> |11/04: Río Los Patos| Catamarca[Seguridad Jurídica Catamarca]
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]

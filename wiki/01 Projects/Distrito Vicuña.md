@@ -1,22 +1,24 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-19
 ---
 
 # Distrito Vicuña (San Juan)
 
 **Tipo:** Clúster Minero Binacional (Argentina - Chile).
-**Principales Actores:** BHP, Lundin Mining.
+**Principales Actores:** BHP, Lundin Mining, NGEx Minerals.
 
 ## Hitos Recientes (2026)
+- **Descubrimiento Lunahuasi (19/04/2026):** El reporte de leyes récord en [[Lunahuasi]] (hasta 18,9% Cu) consolida al distrito como la reserva de cobre de alta ley más prometedora a nivel global.
 - **Disputa ENRE (Abril 2026):** El distrito enfrenta una oposición formal de [[Los Azules]] ante el ENRE por la prioridad de despacho y uso de la línea de 500 kV en San Juan. El desenlace definirá el ritmo de electrificación de los dos mayores proyectos de la provincia.
 - **Inversión Estratégica:** Compromiso de **US$ 790 millones** para 2026 y una inversión total proyectada de **US$ 18.000 millones** bajo el marco del [[RIGI]].
 
 ## Proyectos Integrados
 - [[Josemaría]] (Argentina)
+- [[Lunahuasi]] (Argentina)
 - **Filo del Sol** (Argentina/Chile)
 - **Caserones** (Chile)
 

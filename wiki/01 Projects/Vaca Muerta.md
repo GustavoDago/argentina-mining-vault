@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-19
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -15,6 +15,8 @@ last_update: 2026-04-15
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
 ### Hitos Recientes (Abril 2026)
+- **Expansión de la Frontera Exploratoria (19/04/2026):** YPF anunció la aceleración de proyectos en **Palermo Aike** (Santa Cruz) y el inicio de prospección en la formación **D-129** (Chubut), buscando replicar el modelo Vaca Muerta en otras cuencas.
+- **Proyecciones de Inversión 2026-2035 (19/04/2026):** La CEPH proyecta US$ 170.000 millones de inversión total para la década, con el objetivo de superar el millón de barriles diarios hacia 2030.
 - **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
 - **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Argentina Week en Nueva York (13/04/2026):** Cierre de la misión oficial en EE.UU. con fuertes señales de inversión.
