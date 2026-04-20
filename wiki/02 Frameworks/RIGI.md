@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-20
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -16,7 +16,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
 - **Proyectos Aprobados/En Evaluación:** +30 proyectos (tras el aluvión de abril 2026).
-- **Inversión Total Comprometida:** ~ **US$ 45.000 millones** (estimación post-escalamiento petrolero).
+- **Inversión Total Comprometida:** ~ **US$ 52.000 millones** (estimación post-ratificación Taca Taca y nuevas presentaciones Vaca Muerta).
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
 
 ### Categorías Especiales
@@ -39,12 +39,15 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 9.  **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
 10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
 11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
-12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Solicitud de adhesión en preparación tras reporte NI 43-101 (US$ 5.250M).
+12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
 13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
 
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
+
+## Hitos Normativos (2026)
+- **Extensión Upstream (20/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento upstream de petróleo y gas, facilitando la adhesión de proyectos en Cuenca Austral y Chubut.
 
 ## Beneficios Clave para Inversores
 - **Estabilidad Fiscal:** No se verán afectados por nuevos impuestos nacionales o aumento de tasas provinciales durante 30 años.

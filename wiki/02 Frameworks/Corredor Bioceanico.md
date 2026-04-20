@@ -7,6 +7,7 @@
 - **Paraguay (Febrero 2026):** El BID aprobó un préstamo de **US$ 200 millones** para la construcción del Tramo II de la Ruta Nacional PY15 (Bioceánica), conectando Carmelo Peralta con Pozo Hondo (frontera con Argentina).
 - **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
 - **Salta (Abril 2026):**
+    - **Relevancia del Cobre (20/04/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 4.200M) posiciona al proyecto como el principal usuario proyectado del Corredor para exportar concentrado de cobre por el Pacífico.
     - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**, permitiendo desviar el tránsito pesado minero de las zonas urbanas de la provincia.
     - La minería se convierte en el principal complejo exportador de la provincia, traccionando la necesidad de acelerar la infraestructura del Corredor.
 

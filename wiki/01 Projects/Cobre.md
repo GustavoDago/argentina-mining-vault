@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-20
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -20,7 +20,8 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
-    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026). Primer paso hacia la producción masiva.
+    - **[[Josemaría]]**: Confirmado CAPEX inicial de **US$ 7.000 millones** (20/04/2026).
+    - **[[Lunahuasi]]**: Descubrimiento récord con leyes de hasta 18.9% Cu (20/04/2026).
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
 ## Marco de Incentivos
@@ -32,7 +33,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** **US$ 5.250 millones**.
+- **Inversión:** Ratificada en **US$ 4.200 millones** bajo el RIGI (20/04/2026).
 - **Hito Reciente:** Presentación ante el Senado de Salta (Abril 2026) para acelerar aprobación de EIA y concesiones de agua antes del vencimiento del plazo RIGI (julio 2026).
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
@@ -51,6 +52,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - [[RIGI]]
 - [[Mineria]]
 - [[San Juan]]
+- [[Lunahuasi]]
+- [[San Jorge]]
 - [[Salta]]
 - [[Mendoza]]
 - [[Distrito Vicuña]]

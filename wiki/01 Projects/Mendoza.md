@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]]
+sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-14
+last_update: 2026-04-20
 ---
 
 # Mendoza (Minería y Energía)
@@ -19,10 +19,11 @@ last_update: 2026-04-14
 
 ## Proyectos Clave
 - **Don Luis:** Proyecto de exploración de litio en el sur provincial.
-- **Proyecto San Jorge:** Reactivado bajo el nuevo marco provincial y el amparo del [[RIGI]]. Se estima una producción de 40.000 a 70.000 toneladas de cobre fino por año.
+- **[[San Jorge]]:** Se proyecta el inicio de operaciones comerciales para 2029.
 - **Potasio Río Colorado:** Proyecto estratégico para la producción de fertilizantes, clave para la diversificación exportadora.
 
 ## Conexiones
 - [[Cobre]]
 - [[RIGI]]
 - [[Ley de Glaciares]]
+- [[San Jorge]]

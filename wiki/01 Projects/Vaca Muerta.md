@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-20
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -15,6 +15,8 @@ last_update: 2026-04-15
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
 ### Hitos Recientes (Abril 2026)
+- **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
+- **Expansión a Nuevas Fronteras (20/04/2026):** YPF anunció que replicará el modelo de eficiencia de Vaca Muerta en **[[Palermo Aike]]** (Santa Cruz) y comenzará exploración en la formación D-129 (Chubut).
 - **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
 - **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Argentina Week en Nueva York (13/04/2026):** Cierre de la misión oficial en EE.UU. con fuertes señales de inversión.
@@ -36,3 +38,4 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - [[RIGI]]
 - [[Energia]]
 - [[Neuquén]]
+- [[Palermo Aike]]
