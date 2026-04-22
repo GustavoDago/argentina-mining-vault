@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-22_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-22
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -31,6 +31,8 @@ last_update: 2026-04-15
     - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
 12. **Integración Logística Argentina-Chile**:
     - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico para el cobre de Salta y San Juan, y el litio del NOA.
+13. **Fenómeno Lunahuasi y el Efecto "Vaca Muerta" del Cobre (22/04/2026)**:
+    - Las leyes de hasta 18,9% Cu en **[[Lunahuasi]]** cambian la narrativa del sector: Argentina no solo tiene volumen, sino leyes que garantizan márgenes operativos incluso en escenarios de precios bajos. Esto tracciona inversión de "majors" que tradicionalmente evitaban el riesgo local.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -44,15 +46,19 @@ graph TD
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Primer Proyecto| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
 
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
+    VM --> |Acuerdo GNL| ENI[ENI - Italia]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
+    Cobre --> |Leyes Récord| Lunahuasi[Lunahuasi - 18.9% Cu]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA enviada]
 

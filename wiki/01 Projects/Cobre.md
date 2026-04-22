@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-22
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -21,6 +21,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026). Primer paso hacia la producción masiva.
+    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes de hasta 18,9% de cobre. Calificado como la "Vaca Muerta del Cobre".
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
 ## Marco de Incentivos
@@ -33,7 +34,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** **US$ 5.250 millones**.
-- **Hito Reciente:** Presentación ante el Senado de Salta (Abril 2026) para acelerar aprobación de EIA y concesiones de agua antes del vencimiento del plazo RIGI (julio 2026).
+- **Hito Reciente (22/04/2026):** Proyecta inversiones por **US$ 790 millones** para el año 2026 mientras prepara su ingreso formal al RIGI.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.460 millones**.
