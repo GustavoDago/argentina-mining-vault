@@ -1,7 +1,7 @@
 ---
 type: framework
 tags: [mining, lithium, infrastructure, Puna]
-sources: [[2026-04-13_news_mining_energy.md]], [[Posco]], [[Rincn]]
+sources: [[2026-04-13_news_mining_energy.md]], [[Posco]], [[Rincón]]
 confidence: medium
 last_update: 2026-04-14
 ---
@@ -13,7 +13,7 @@ Estrategia de optimización de costos basada en la **infraestructura compartida*
 
 ## Actores Clave (Hub Hombre Muerto)
 - **[[Posco]]**: Adquisición de HMN (u$s 65M).
-- **[[Rincn]] (Rio Tinto)**: Primeras exportaciones y financiamiento CAF/BID.
+- **[[Rincón]] (Rio Tinto)**: Primeras exportaciones y financiamiento CAF/BID.
 - **Galan Lithium**: Proyecto Hombre Muerto Oeste (HMW).
 - **Arcadium Lithium**: (Operaciones históricas ahora de Rio Tinto).
 
