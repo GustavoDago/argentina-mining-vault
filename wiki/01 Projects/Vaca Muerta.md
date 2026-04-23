@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-13
+last_update: 2026-04-22
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -15,6 +15,11 @@ last_update: 2026-04-13
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
 ### Hitos Recientes (Abril 2026)
+- **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
+- **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
+- **Superávit Energético:** El sector alcanzó un superávit externo récord gracias al desempeño de las exportaciones de shale oil.
+- **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
+- **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Argentina Week en Nueva York (13/04/2026):** Cierre de la misión oficial en EE.UU. con fuertes señales de inversión.
     - **[[TGS]]**: Ratificó inversión de **US$ 3.000 millones** para planta de separación de gas.
     - **YPF**: Confirmó conversaciones avanzadas con dos bancos internacionales para el financiamiento del proyecto GNL.
@@ -28,7 +33,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 
 ## Infraestructura Crítica
 - **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción.
+- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
 
 ## Conexiones
 - [[RIGI]]

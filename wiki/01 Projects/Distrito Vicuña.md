@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-22
 ---
 
 # Distrito Vicuña (San Juan)
@@ -17,6 +17,7 @@ last_update: 2026-04-10
 
 ## Proyectos Integrados
 - [[Josemaría]] (Argentina)
+- [[Lunahuasi]] (Argentina) - Reciente descubrimiento con leyes récord (hasta 18,9% Cu).
 - **Filo del Sol** (Argentina/Chile)
 - **Caserones** (Chile)
 

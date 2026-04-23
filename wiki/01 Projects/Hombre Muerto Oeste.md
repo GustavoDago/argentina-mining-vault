@@ -1,10 +1,19 @@
+---
+type: project
+tags: [mining, lithium]
+sources: [[2026-04-15_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-15
+---
+
 # Proyecto Hombre Muerto Oeste (HMW - Litio)
 
 **Ubicación:** Salar del Hombre Muerto, Catamarca, Argentina.
 **Operadora:** Galan Lithium (Australia).
 
 ## Estado Actual (2026)
-- **Producción (Abril 2026):** Con un avance del **92% en la construcción**, Galan Lithium prevé iniciar la producción de litio de alta pureza en el **segundo trimestre de 2026**, convirtiéndose en el **8vo proyecto de litio en producción** en Argentina.
+- **Inicio de Procesamiento (15/04/2026):** Galan Lithium anunció que comenzará a procesar litio a fines de abril de 2026. Se confirma como el **octavo proyecto en producción** del país.
+- **Producción (Abril 2026):** Con un avance del **92% en la construcción**, se prevé la entrega del primer concentrado de cloruro de litio a mitad de año.
 - **Infraestructura:** Cuenta con una planta de nanofiltración de última tecnología y balsas de evaporación revestidas.
 - **Inversión RIGI:** El proyecto obtuvo la adhesión al [[RIGI]] con una inversión de **US$ 217 millones**.
 - Proyección: Producción inicial de 4.000 a 5.400 toneladas anuales de carbonato de litio equivalente (LCE).

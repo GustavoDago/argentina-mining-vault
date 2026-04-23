@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-13
+last_update: 2026-04-22
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -15,8 +15,9 @@ last_update: 2026-04-13
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
+- **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
 - **Proyectos Aprobados/En Evaluación:** +30 proyectos (tras el aluvión de abril 2026).
-- **Inversión Total Comprometida:** ~ **US$ 45.000 millones** (estimación post-escalamiento petrolero).
+- **Inversión Total Comprometida:** ~ **US$ 52.000 millones** (estimación actualizada tras ampliación de upstream y GNL).
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
 
 ### Categorías Especiales
@@ -39,7 +40,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 9.  **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
 10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
 11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
-12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - En etapa final de aprobación (US$ 5.250M).
+12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Solicitud de adhesión en preparación tras reporte NI 43-101 (US$ 5.250M).
 13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
 

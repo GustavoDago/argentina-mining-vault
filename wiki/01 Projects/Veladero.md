@@ -1,3 +1,11 @@
+---
+type: project
+tags: [mining, gold, silver]
+sources: [[2026-04-15_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-15
+---
+
 # Proyecto Veladero (Oro y Plata)
 
 **Ubicación:** Departamento Iglesia, San Juan, Argentina.

@@ -4,7 +4,8 @@
 
 ## Proyectos y Desempeño Regional:
 - **San Juan (Febrero 2026):** Liderazgo absoluto en exportaciones. La minería representó el **92,5%** de las exportaciones provinciales, con un crecimiento interanual del **60,5%** (US$ 172 millones en un solo mes).
-- **[[Cobre]]**: El sector con mayor potencial de inversión masiva (US$ > 10.000M proyectados en 3 años). La reforma de la [[Ley de Glaciares]] es vista como un catalizador crítico para destrabar estos proyectos.
+- **Desempeño Nacional (22/04/2026):** El sector arrancó el 2026 con exportaciones récord, consolidando a la minería como el segundo complejo exportador después del agro.
+- **[[Cobre]]**: El sector con mayor potencial de inversión masiva (US$ > 10.000M proyectados en 3 años). El hallazgo en **[[Lunahuasi]]** (leyes de hasta 18,9% Cu) posiciona a Argentina como un destino de inversión de clase mundial.
 - **[[Litio]]**: Argentina busca posicionarse como el 3er productor mundial.
 - **Oro y Plata**: Producción consolidada en San Juan y Santa Cruz (**[[Veladero]]**, **Diablillos**).
 
