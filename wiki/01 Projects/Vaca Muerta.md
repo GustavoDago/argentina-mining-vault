@@ -1,9 +1,15 @@
 ---
 type: project
 tags: [energy, oil-gas]
+<<<<<<< HEAD
 sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-22
+=======
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-16
+>>>>>>> origin/energon-daily-2026-04-16-5257330393858698847
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -21,10 +27,15 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Gas Natural:** Caída interanual del **3,3%**.
 
 ### Hitos Recientes (Abril 2026)
+<<<<<<< HEAD
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
 - **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
 - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
 - **Expansión a Nuevas Fronteras (Abril 2026):** YPF confirmó la aceleración de la exploración en **[[Palermo Aike]]** (Santa Cruz) y el inicio de exploraciones en la formación **D-129** (Chubut), buscando replicar el modelo de eficiencia de Vaca Muerta.
+=======
+- **Récord de Producción Shale (16/04/2026):** La producción de **shale oil** registró un crecimiento del **31,4% interanual** en febrero de 2026. La extracción total de crudo subió un 16,3%, compensando la caída del convencional.
+- **Desempeño Industrial:** El IPI minero (INDEC) mostró un avance del 4,4% interanual en el primer bimestre, impulsado por Vaca Muerta y el litio.
+>>>>>>> origin/energon-daily-2026-04-16-5257330393858698847
 - **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
 - **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Argentina Week en Nueva York (13/04/2026):** Cierre de la misión oficial en EE.UU. con fuertes señales de inversión.

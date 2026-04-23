@@ -27,3 +27,14 @@
 - [[Mineria]] (Salta/Jujuy/Catamarca).
 - [[Taca Taca]]
 - [[Litio]]
+
+## Diagrama de Conectividad Estratégica (Extracto)
+```mermaid
+graph TD
+    A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
+    A --> C[RN 51 - Salta]
+    C --> D[[Taca Taca]]
+    D --> E[Exportación vía Chile/Pacífico]
+    B --> F[Proyectos de Litio]
+    C --> G[Bypass Campo Quijano]
+```
