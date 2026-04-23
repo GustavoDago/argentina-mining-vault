@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [mining, energy, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]]
+sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-10
+last_update: 2026-04-20
 ---
 
 # Ley de Glaciares (Reforma 2026)
@@ -21,6 +21,7 @@ La reforma de la Ley 26.639 representa un cambio fundamental en el federalismo a
 - **Seguridad Jurídica:** El nuevo marco normativo busca eliminar "distorsiones ideológicas" y trabas que impedían el progreso, unificando criterios con los estándares internacionales de minería responsable.
 
 ## Impacto Inmediato (Abril 2026)
+- **Ratificación de Autonomía (20/04/2026):** El análisis del sector destaca que la mayor autonomía provincial sobre recursos hídricos es clave para la viabilidad técnica de los nuevos proyectos ratificados bajo el RIGI.
 - **Desbloqueo de Proyectos:** Se estima que la reforma destraba inversiones por más de **US$ 30.000 millones** en proyectos de cobre y oro que estaban frenados por la incertidumbre normativa, especialmente en San Juan (Pachón, Los Azules) y Salta (Taca Taca).
 - **Mesa del Cobre:** Los gobernadores de San Juan, Salta, Catamarca y Mendoza celebraron la sanción como el motor definitivo para la "revolución del cobre" en Argentina.
 

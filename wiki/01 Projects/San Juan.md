@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-14_news_mining_energy.md]]
+sources: [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-14
+last_update: 2026-04-20
 ---
 
 # San Juan
@@ -23,6 +23,7 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - [[Los Azules]] (Cobre Verde)
 - [[Veladero]] (Oro/Plata)
 - [[Distrito Vicuña]] (Hub Binacional)
+- [[Lunahuasi]] (Cobre de Alta Ley)
 
 ## Relevancia Estratégica
 Es pionera en la adhesión al [[RIGI]] y ha desarrollado un ecosistema de proveedores locales altamente especializado.

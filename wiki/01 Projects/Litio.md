@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-15
+last_update: 2026-04-20
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -21,8 +21,8 @@ A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comerci
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
+- **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
 - **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
-- **Hito Histórico (10/04/2026):** Primera exportación comercial de **200 toneladas** de carbonato de litio con destino a Shanghái.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
@@ -31,8 +31,8 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
-- **Estado:** Finalización de la construcción de la Fase 1.
-- **Producción:** Inicio operativo a fines de abril de 2026.
+- **Estado:** Ratificado el **92% de avance** (20/04/2026).
+- **Producción:** Inicio operativo en el segundo trimestre de 2026.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)

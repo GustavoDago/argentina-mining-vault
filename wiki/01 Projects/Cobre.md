@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-22
 ---
@@ -20,8 +20,8 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
-    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026). Primer paso hacia la producción masiva.
-    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes de hasta 18,9% de cobre. Calificado como la "Vaca Muerta del Cobre".
+    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
+    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre".
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
 ## Marco de Incentivos
@@ -33,8 +33,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** **US$ 5.250 millones**.
-- **Hito Reciente (22/04/2026):** Proyecta inversiones por **US$ 790 millones** para el año 2026 mientras prepara su ingreso formal al RIGI.
+- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y concesiones de agua antes del vencimiento del plazo RIGI.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.460 millones**.
@@ -52,6 +52,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - [[RIGI]]
 - [[Mineria]]
 - [[San Juan]]
+- [[Lunahuasi]]
+- [[San Jorge]]
 - [[Salta]]
 - [[Mendoza]]
 - [[Distrito Vicuña]]
