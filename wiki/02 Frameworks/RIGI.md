@@ -1,7 +1,7 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-22
 ---
@@ -19,6 +19,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 - **Proyectos Aprobados/En Evaluación:** +30 proyectos (tras el aluvión de abril 2026).
 - **Inversión Total Comprometida:** ~ **US$ 52.000 millones** (estimación actualizada tras ampliación de upstream, GNL y ratificación de Taca Taca).
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (22%), Oil/Gas Upstream (15%).
+- **Sinergia Regional (16/04/2026):** Los gobernadores del NOA (Jalil, Sadir, Sáenz) destacan el RIGI como el catalizador principal de la aceleración de inversiones, complementándolo con marcos locales (ej. "mini RIGI" en Jujuy para inversiones >US$ 5M).
 
 ### Categorías Especiales
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
