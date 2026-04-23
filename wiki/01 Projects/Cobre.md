@@ -1,9 +1,15 @@
 ---
 type: project
 tags: [mining, copper]
+<<<<<<< HEAD
 sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-22
+=======
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
+confidence: high
+last_update: 2026-04-18
+>>>>>>> origin/energon-daily-task-2026-04-18-440416987731572764
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -29,7 +35,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
-- **Financiamiento:** Inversión proyectada de **US$ 3.100 millones**. McEwen Copper presentó avances en la convención PDAC 2026 de Toronto.
+- **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
@@ -38,8 +44,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y concesiones de agua antes del vencimiento del plazo RIGI.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
-- **Inversión:** **US$ 9.460 millones**.
-- **Proyección:** Producción de 280.000 t/año a partir de 2034.
+- **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
+- **Proyección:** Producción de 280.000 t/año. El grupo Luksic (Antofagasta Minerals) mantiene interés estratégico en el proyecto.
 
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
