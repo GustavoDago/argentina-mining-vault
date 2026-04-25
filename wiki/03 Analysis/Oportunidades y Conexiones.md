@@ -1,16 +1,16 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-22
+last_update: 2026-04-25
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
-   - La alianza de **[[Taca Taca]]** con la IFC y el financiamiento de US$ 1.175M para **[[Rincón]]** marcan un patrón: los grandes proyectos mineros están buscando "escudos multilaterales". Esta tendencia reduce el riesgo político y facilita la sindicación de deuda bancaria comercial. La oportunidad para el inversor es posicionarse en la cadena de suministros de proyectos que ya cuentan con este sello de calidad internacional.
+   - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
    - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de inicio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG).
 3. **Cobre de Alta Ley: El Efecto [[Lunahuasi]]**:
@@ -43,6 +43,8 @@ last_update: 2026-04-22
     - El lanzamiento de incentivos para inversiones desde **US$ 5 millones** en Jujuy abre una ventana masiva para pymes tecnológicas y de servicios mineros, formalizando la cadena de valor de Exar y Sales de Jujuy.
 17. **Previsibilidad en el Cobre (Horizonte 2029)**:
     - La definición del año 2029 para la puesta en marcha de **[[Los Azules]]** y **San Jorge** permite a los inversores en infraestructura sincronizar sus desembolsos con el flujo de caja operativo proyectado.
+18. **Ajuste Fino del RIGI para Shale (Resolución 484/2026)**:
+    - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos. La oportunidad reside en proyectos de **recuperación terciaria y shale oil de ciclo largo** que ahora encuadran mejor en el régimen de incentivos.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -55,6 +57,9 @@ graph TD
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
+    RIGI --> |Res. 413/2026| Veladero
+    RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
+    RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
