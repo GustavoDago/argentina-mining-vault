@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-22
+last_update: 2026-04-26
 ---
 
 # Distrito Vicuña (San Juan)
@@ -17,6 +17,7 @@ last_update: 2026-04-22
 - **Hito de Construcción:** Inicio de construcción de Fase 1 proyectado para el **T1 2027**.
 - **PDAC 2026 (12/04/2026):** Ratificación del CAPEX inicial de US$ 7.000M y la proyección de clase mundial del distrito.
 - **Disputa ENRE (Abril 2026):** El distrito enfrenta una oposición formal de [[Los Azules]] ante el ENRE por la prioridad de despacho y uso de la línea de 500 kV en San Juan. El desenlace definirá el ritmo de electrificación de los dos mayores proyectos de la provincia.
+- **Inversión Proyectada 2026 (26/04/2026):** Se estima una inversión de **US$ 790 millones** para el año 2026. Los operadores aguardan la aprobación de la adhesión al [[RIGI]] para acelerar los desembolsos y consolidar el perfil exportador.
 - **Presupuesto 2026:** Ajustado a **US$ 800 millones** para ingeniería y preparación de sitio.
 
 ## Proyectos Integrados

@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-22
+last_update: 2026-04-26
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -51,7 +51,8 @@ El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento e
 ## Hitos Normativos (2026)
 - **Extensión Upstream (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento upstream de petróleo y gas.
 - **Ajuste de Rentabilidad (23/04/2026):** La Resolución 484/2026 elevó el umbral de rentabilidad del 30% al 35% para adaptar el régimen a la curva de declino de proyectos de shale oil y minería profunda.
-- **Nuevas Adhesiones (24/04/2026):** Aprobación de **Veladero** (Res. 413/2026) y **Minera del Altiplano** (Res. 431/2026).
+- **Nuevas Adhesiones (24/04/2026):** Aprobación formal de **Veladero** (Res. 413/2026) para expansión de fases 8 y 9, y de **Minera del Altiplano** (Res. 431/2026) para litio.
+- **Proyectos de Cobre en Espera (26/04/2026):** El [[Distrito Vicuña]] proyecta una inversión de US$ 790 millones para 2026 condicionada a su adhesión al RIGI.
 
 ## Beneficios Clave para Inversores
 - **Estabilidad Fiscal:** No se verán afectados por nuevos impuestos nacionales o aumento de tasas provinciales durante 30 años.
