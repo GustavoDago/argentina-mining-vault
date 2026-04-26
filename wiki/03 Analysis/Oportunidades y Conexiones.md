@@ -30,7 +30,7 @@ last_update: 2026-04-22
 10. **RIMI y el Fortalecimiento de la Cadena de Valor**:
     - La reglamentación del **[[RIMI]]** (Abril 2026) abre una ventana para proyectos de escala media y proveedores de servicios que no califican para el RIGI.
 11. **Transparencia Digital en San Juan**:
-    - La implementación obligatoria del **SIM (Sistema Integral Minero)** en San Juan elimina la fricción administrativa del canon minero. Representa una oportunidad para empresas de **software de compliance minero**.
+    - La implementación obligatoria del **SIM (Sistema Integral Minero)** en San Juan elimina la fricción administrativa del canon minero. Representa una oportunidad para empresas de **software de compliance minero** (ver especificación en [[SIM San Juan Canon Minero]]).
 12. **Mendoza: Profesionalización ASG**:
     - El acuerdo Impulsa Mendoza-Kobrea para estándares **ASG** y el envío de la DIA del proyecto de litio **Don Luis** a la Legislatura marcan la pauta de una Mendoza que busca liderar con rigor técnico.
 13. **Tendencia a la Autonomía Provincial**:

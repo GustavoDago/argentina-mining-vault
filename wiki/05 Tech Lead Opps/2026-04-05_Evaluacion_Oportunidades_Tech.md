@@ -8,11 +8,7 @@ last_update: 2026-04-05
 
 ## Opción A: Plataforma de Digitalización Logística Cross-Border (Paso de Jama / Corredor Bioceánico)
 
-1. **Idea central:** El Corredor Bioceánico procesa un volumen creciente de camiones de carga pesada (litio, insumos) pero opera sobre infraestructura burocrática arcaica; la oportunidad reside en un backend B2B que unifique trámites aduaneros, peajes y trazabilidad.
-2. **Trade-offs:** Ganas un mercado cautivo y escalable (7000+ camiones nuevos anuales) mediante integraciones API; sacrificas velocidad de penetración debido a las fricciones insalvables con actores estatales (Aduana, AFIP, Vialidad) y sindicatos de transporte que se benefician de la opacidad.
-3. **Riesgos críticos:** Dependencia de decisiones gubernamentales binacionales (Argentina/Chile). Un cambio de política en la AFIP o en la aduana chilena puede invalidar toda tu arquitectura de un día para el otro. El problema principal no es de software, es de economía política.
-4. **Efectos de segundo orden:** Si superas la fricción institucional, te conviertes en el peaje digital por defecto de las exportaciones mineras del NOA; acumularás datos de tránsito que valen más que el servicio logístico inicial.
-5. **Próximo movimiento recomendado:** Construir un prototipo (Proof of Concept) estricto de solo lectura para monitorear tiempos de demora en la frontera utilizando hardware IoT comercial en camiones amigos; no escribas una sola línea de código para unificar trámites estatales hasta no tener a una empresa minera o de transporte grande como cliente ancla dispuesto a forzar al Estado.
+1. **Migrado a:** [[Aduana Paso de Jama]] (Vector `06 Shadow APIs`). La especificación de interfaz y análisis de fricciones fue trasladada al nuevo estándar.
 
 ---
 

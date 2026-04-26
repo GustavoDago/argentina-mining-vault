@@ -28,6 +28,7 @@ Este documento rige la operación del agente de IA dentro de este repositorio. *
 - `03 Analysis/`: Síntesis complejas de mercado.
 - `04 Daily/`: Log cronológico de operaciones.
 - `05 Tech Lead Opps/`: Evaluaciones escépticas de oportunidades de negocio (High-Leverage tech plays).
+- `06 Shadow APIs/`: Ingeniería inversa de procesos burocráticos y especificaciones técnicas para interfaces de interoperabilidad.
 
 ---
 
@@ -37,8 +38,8 @@ Este documento rige la operación del agente de IA dentro de este repositorio. *
 Todas las páginas en `wiki/` (excepto diarios) DEBEN incluir el siguiente bloque:
 ```yaml
 ---
-type: [project | framework | analysis | daily]
-tags: [mining | energy | lithium | copper | oil-gas | regulatory]
+type: [project | framework | analysis | daily | shadow-api]
+tags: [mining | energy | lithium | copper | oil-gas | regulatory | reverse-engineering]
 sources: [[enlace_a_raw_o_url]]
 confidence: [high | medium | low]
 last_update: YYYY-MM-DD

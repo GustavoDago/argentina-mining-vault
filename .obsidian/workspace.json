@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
+                "file": "wiki/06 Shadow APIs/Aduana Paso de Jama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-05_Evaluacion_Oportunidades_Tech"
+              "title": "Aduana Paso de Jama"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
+    "wiki/06 Shadow APIs/SIM San Juan Canon Minero.md",
+    "wiki/06 Shadow APIs/ENRE Prioridad de Despacho.md",
+    "wiki/06 Shadow APIs/Aduana Paso de Jama.md",
+    "wiki/06 Shadow APIs/index.md",
+    "wiki/06 Shadow APIs",
     "wiki/04 Daily/2026-04-14_Daily_Report.md",
     "wiki/02 Frameworks/Sinergias Logisticas Puna.md",
     "wiki/05 Tech Lead Opps/2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza.md",
@@ -205,12 +211,7 @@
     "wiki/01 Projects/Mendoza.md",
     "raw/2026-04-09_news_mining_energy.md",
     "raw/2026-04-07_news_mining_energy.md",
-    "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
     "wiki/05 Tech Lead Opps",
-    "wiki/01 Projects/General Güemes.md",
-    "Prompt escéptico.md",
-    "wiki/01 Projects/Río Negro.md",
-    "wiki/01 Projects/Neuquén.md",
-    "wiki/01 Projects/Jujuy.md"
+    "wiki/01 Projects/General Güemes.md"
   ]
 }
