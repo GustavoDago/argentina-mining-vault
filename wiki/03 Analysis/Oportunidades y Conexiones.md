@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-23
+last_update: 2026-04-24
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -47,6 +47,10 @@ last_update: 2026-04-23
     - El lanzamiento de incentivos para inversiones desde **US$ 5 millones** en Jujuy abre una ventana masiva para pymes tecnológicas y de servicios mineros, formalizando la cadena de valor de Exar y Sales de Jujuy.
 17. **Previsibilidad en el Cobre (Horizonte 2029)**:
     - La definición del año 2029 para la puesta en marcha de **[[Los Azules]]** y **San Jorge** permite a los inversores en infraestructura sincronizar sus desembolsos con el flujo de caja operativo proyectado.
+18. **Sintonía Fina Regulatoria (Efecto Res. 484/2026)**:
+    - El ajuste del RIGI para el upstream no convencional demuestra una capacidad de respuesta técnica del Gobierno ante las asimetrías del sector. Esto reduce el riesgo de "default regulatorio" por incumplimiento de métricas financieras diseñadas para otros perfiles industriales.
+19. **Arbitraje de Infraestructura Escasa (ENRE 219/2026)**:
+    - La batalla legal por la línea de 500kV en San Juan confirma que el capital ya no es el cuello de botella, sino la **infraestructura de evacuación**. Existe una oportunidad masiva para desarrolladores privados de líneas de transmisión bajo esquemas de participación público-privada o consorcios de usuarios.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -56,7 +60,9 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 ```mermaid
 graph TD
     RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
-    TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
+    TacaTaca --> |Alianza 24/04| IFC[IFC - Banco Mundial]
+    RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
+    RIGI --> |Res. 484/2026| Shale[Optimización Shale]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
@@ -110,7 +116,7 @@ graph TD
     Eval --> |Espera desde 2024| Posco
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
-    ENRE --> |Conflicto| LosAzules
+    ENRE --> |Res. 219/2026| LosAzules
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
     SanJorge --> OpCopper
     
