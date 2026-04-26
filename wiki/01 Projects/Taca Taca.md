@@ -19,7 +19,7 @@ Megaproyecto de cobre de clase mundial con una inversión estimada total de **US
 - **Consolidación del Informe Técnico (16/04/2026):** La presentación formal del NI 43-101 ratifica la solidez económica. Se prevé el inicio de construcción tras el aval del [[RIGI]].
     - **Empleo:** 4.000 puestos en construcción; 2.000 en operación.
     - **Logística:** Actuará como catalizador del [[Corredor Bioceanico]] mediante inversiones en conectividad eléctrica y transporte.
-- **Alianza Estratégica IFC (12/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares ASG y fortalecer el acceso a financiamiento mediante deuda.
+- **Alianza Estratégica IFC (23/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda.
 - **Reporte Técnico NI 43-101 (Abril 2026):** El informe proyecta una capacidad inicial de 40 Mtpa y una producción promedio de **291.000 t/año de cobre** en la primera década.
 - **Fase Decisiva (13/04/2026):** El gobernador Gustavo Sáenz confirmó que el proyecto entra en una etapa determinante. El llamado a **audiencia pública** es inminente.
 - **Avance Institucional (Abril 2026):** Presentación ante el Senado de Salta. Necesidad de aprobación definitiva del EIA y concesiones de uso de agua antes de julio de 2026 para cumplir requisitos del RIGI.

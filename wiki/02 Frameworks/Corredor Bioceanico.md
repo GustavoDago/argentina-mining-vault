@@ -4,8 +4,9 @@
 
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**
-    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico. Se mantiene la meta de inauguración para junio de 2026.
-    - **Puente sobre el Río Apa (18/04/2026):** Se confirmó la construcción de un nuevo puente internacional que conectará Porto Murtinho con el departamento de Concepción (Paraguay), fortaleciendo la red capilar del corredor.
+    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de marzo 2026. Se mantiene la meta de inauguración para junio de 2026.
+    - **Puente sobre el Río Apa (24/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay).
+    - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
 - **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
 - **Salta (Abril 2026):**
