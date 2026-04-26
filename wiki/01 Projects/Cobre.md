@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-23
+last_update: 2026-04-26
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -39,7 +39,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
-- **Proyección:** Producción de 280.000 t/año. El grupo Luksic (Antofagasta Minerals) mantiene interés estratégico en el proyecto.
+- **Proyección:** Producción de 280.000 t/año.
+- **Interés de Antofagasta Plc (26/04/2026):** La minera chilena evalúa su retorno a Argentina tras 30 años, considerando asociaciones en El Pachón o exploraciones independientes. El grupo Luksic (Antofagasta Minerals) mantiene su interés estratégico en este yacimiento de cobre y molibdeno.
 
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
