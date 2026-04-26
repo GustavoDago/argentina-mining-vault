@@ -1,33 +1,18 @@
 ---
 type: project
-<<<<<<< HEAD
 tags: [mining, lithium, regulatory]
-sources: [[2026-04-17_news_mining_energy.md]]
-confidence: high
-last_update: 2026-04-17
-=======
-tags: [mining, lithium]
-sources: [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-18
->>>>>>> origin/energon-daily-task-2026-04-18-440416987731572764
 ---
 
 # Provincia de Jujuy
 
-<<<<<<< HEAD
 Jujuy es una provincia clave en el Triángulo del Litio y cuenta con importantes proyectos mineros y una estrategia proactiva de atracción de capitales.
 
 ## Hitos Recientes (Abril 2026)
-- **Presidencia de la Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional de la Región Minera del Litio. El gobernador Carlos Sadir lidera la agenda de armonización normativa y competitividad entre Jujuy, Salta y Catamarca.
-- **Lanzamiento del "Mini RIGI" (16/04/2026):** Creación de un régimen de incentivos provincial para inversiones desde **US$ 5 millones**. Este esquema busca capturar a proveedores de servicios y pymes que no alcanzan el umbral del RIGI nacional, fortaleciendo la cadena de valor local.
-=======
-Jujuy es una provincia clave en el Triángulo del Litio y cuenta con los dos proyectos en producción más antiguos de Argentina.
-
-## Hitos Recientes (2026)
-- **Presidencia Mesa del Litio (18/04/2026):** Jujuy asumió la presidencia pro-témpore del Comité Regional de la Región Minera del Litio. El gobernador Carlos Sadir liderará la coordinación con Salta y Catamarca.
-- **Lanzamiento de "Mini-RIGI" (18/04/2026):** La provincia reglamentó un régimen de incentivos para inversiones desde los **US$ 5 millones**, buscando integrar a las PYMES locales en la cadena de valor minera y energética.
->>>>>>> origin/energon-daily-task-2026-04-18-440416987731572764
+- **Presidencia de la Mesa del Litio (18/04/2026):** Jujuy asumió la presidencia del Comité Regional de la Región Minera del Litio. El gobernador Carlos Sadir lidera la agenda de armonización normativa y competitividad entre Jujuy, Salta y Catamarca.
+- **Lanzamiento del "Mini RIGI" (18/04/2026):** Creación de un régimen de incentivos provincial para inversiones desde **US$ 5 millones**. Este esquema busca capturar a proveedores de servicios y pymes que no alcanzan el umbral del RIGI nacional, fortaleciendo la cadena de valor local.
 
 ## Proyectos Clave
 - **Caucharí-Olaroz** (Minera Exar)
@@ -35,8 +20,4 @@ Jujuy es una provincia clave en el Triángulo del Litio y cuenta con los dos pro
 - **Mina Pirquitas / Chinchillas** (Plata/Plomo/Zinc)
 
 ## Marco Normativo
-<<<<<<< HEAD
 Participa en la Mesa del Litio y promueve el desarrollo de proveedores locales a través de incentivos específicos y estabilidad jurídica.
-=======
-Participa en la Mesa del Litio y promueve el desarrollo de proveedores locales mediante el nuevo mini-RIGI.
->>>>>>> origin/energon-daily-task-2026-04-18-440416987731572764
