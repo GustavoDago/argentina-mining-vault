@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-22
+last_update: 2026-04-23
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -15,7 +15,7 @@ last_update: 2026-04-22
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
-- **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
+- **Liquidación de Divisas (23/04/2026):** El BCRA ratificó que los proyectos RIGI han liquidado **US$ 762 millones netos** (US$ 1.205 millones brutos). Adicionalmente, se destaca que las empresas del sector emitieron Obligaciones Negociables por **US$ 9.900 millones** entre Oct-25 y Abr-26.
 - **Proyectos Aprobados/En Evaluación:** +35 proyectos bajo evaluación formal (con hitos como las 11 presentaciones confirmadas el 16/04/2026).
 - **Inversión Total Comprometida:** ~ **US$ 52.000 millones** (estimación actualizada tras ampliación de upstream, GNL y ratificación de Taca Taca).
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
@@ -41,6 +41,8 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
 11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
 12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
+13. **[[Gualcamayo]]** (Minas Argentinas, San Juan, Oro) - Aprobado Abr 2026. Inversión: **US$ 665M**.
+14. **Planta Fertilizantes Pampa** (Bahía Blanca) - Solicitud ingresada Abr 2026. Inversión: **US$ 2.400M**.
 13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
 15. **[[Posco]]** (Hombre Muerto Norte, Salta, Litio) - Inversión inicial tras adquisición: US$ 65M (Alineado con beneficios RIGI).

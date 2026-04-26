@@ -22,6 +22,7 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - [[Josemaría]] (Cobre)
 - [[Los Azules]] (Cobre Verde)
 - [[Veladero]] (Oro/Plata)
+- [[Gualcamayo]] (Oro/Plata - RIGI Aprobado)
 - [[Distrito Vicuña]] (Hub Binacional)
 - [[Lunahuasi]] (Cobre de Alta Ley)
 

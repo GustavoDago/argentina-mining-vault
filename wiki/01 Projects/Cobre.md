@@ -1,15 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-<<<<<<< HEAD
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-22
-=======
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
-confidence: high
-last_update: 2026-04-18
->>>>>>> origin/energon-daily-task-2026-04-18-440416987731572764
+last_update: 2026-04-23
 ---
 
 # Cobre en Argentina: El Despertar del Gigante

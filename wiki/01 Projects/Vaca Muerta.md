@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-22
+last_update: 2026-04-23
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -21,6 +21,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Gas Natural:** Caída interanual del **3,3%**.
 
 ### Hitos Recientes (Abril 2026)
+- **Downstream - Planta de Fertilizantes (23/04/2026):** **[[Pampa Energía]]** solicitó formalmente el ingreso al [[RIGI]] para una planta de fertilizantes en Bahía Blanca (Inversión: **US$ 2.400 millones**), lo que representa una integración vertical clave para el gas excedente de Vaca Muerta.
+- **Upstream RIGI (23/04/2026):** Se estima que al menos 7 proyectos de upstream se presentarán al régimen tras la modificación de los ratios de rentabilidad para áreas con bajo nivel de desarrollo inicial.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
 - **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
 - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
