@@ -22,11 +22,16 @@ Jornada de consolidación estratégica y récords operativos. El hallazgo de ley
 
 ### Vaca Muerta: RIGI y Expansión
 - **Vista Energy en Carrera:** El anuncio de Miguel Galuccio sobre el análisis del RIGI para Bandurria Norte y Águila Mora señala una nueva etapa de aceleración para la segunda productora de crudo del país.
-- **Exploración Federal:** YPF acelera planes en **Palermo Aike** y la formación D-129, buscando replicar el éxito de la Cuenca Neuquina.
+- **Exploración Federal:** YPF acelera plans en **Palermo Aike** y la formación D-129, buscando replicar el éxito de la Cuenca Neuquina.
 
 ## Oportunidades Identificadas
 - **Ingeniería de Fertilizantes:** El proyecto de Pampa Energía abre un nicho para servicios de alta complejidad técnica en el polo petroquímico de Bahía Blanca.
 - **Arbitraje de Transmisión:** El ajuste del RIGI para infraestructura eléctrica incentivará la inversión privada en líneas de alta tensión para desbloquear proyectos mineros en San Juan y la Puna.
+
+## Actualización de Último Momento (Breaking News)
+- **Megaproyectos de Cobre bajo RIGI:** Glencore presentó solicitudes para amparar **[[../01 Projects/El Pachón.md|El Pachón]]** (San Juan) por **USD 11.600 millones** y **[[../01 Projects/Agua Rica.md|Agua Rica]]** (Catamarca) por **USD 6.699 millones**.
+- **Litio:** Se confirman inversiones para **[[../01 Projects/Sal de Vida.md|Sal de Vida]]** (Rio Tinto, USD 1.380M) y **[[../01 Projects/Posco.md|Posco]]** (Sal de Oro II, USD 845M).
+- **Consolidación RIGI:** El volumen total comprometido escala a **USD 95.000 millones** a través de 36 iniciativas.
 
 ---
 **Energon** - *Experticia en Energía y Minería Argentina*

@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, Infobae (Abril 2026)]
 confidence: high
 last_update: 2026-04-27
 ---
@@ -11,10 +11,10 @@ last_update: 2026-04-27
 ## Oportunidades de Negocio Identificadas
 1. **Integración Vertical del Gas (Petroquímica/Fertilizantes)**:
    - La solicitud de **[[Pampa Energía]]** para su planta de fertilizantes (US$ 2.400M) marca el inicio de la fase de industrialización del gas de **[[Vaca Muerta]]**. Esta es una oportunidad crítica para servicios de ingeniería de procesos y logística de exportación de urea/amoniaco desde Bahía Blanca.
-2. **Dinámica del Mercado de M&A**:
-   - Con un volumen de **US$ 8.500M** en 2025, el sector energético lidera las fusiones y adquisiciones. Existe una oportunidad para firmas de due diligence técnica y legal que operen bajo estándares RIGI.
-3. **Des-riesgo Multilateral (Patrón IFC/BID)**:
-   - La alianza de **[[Taca Taca]]** con la IFC y el financiamiento de US$ 1.175M para **[[Rincón]]** marcan un patrón: los grandes proyectos mineros están buscando "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
+2. **Megaproyectos de Cobre bajo RIGI**:
+   - Las solicitudes de **[[El Pachón]]** (US$ 11.600M) y **[[Agua Rica]]** (US$ 6.699M) por parte de Glencore representan el salto definitivo del RIGI. Empresas de servicios Tier 1 y Tier 2 deben posicionarse para la fase de construcción.
+3. **Litio: Expansión de Capacidad**:
+   - Proyectos como **[[Sal de Vida]]** (US$ 1.380M) y **[[Posco]]** (Sal de Oro II - US$ 845M) demuestran que el litio sigue capturando capital a pesar de la volatilidad de precios.
 4. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
    - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de inicio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG).
 5. **Cobre de Alta Ley: El Efecto [[Lunahuasi]]**:
@@ -57,7 +57,7 @@ last_update: 2026-04-27
     - El interés de **Antofagasta Plc** por regresar a Argentina señala un cambio en la percepción de riesgo soberano para el sector minero de gran escala, especialmente bajo el paraguas del RIGI.
 
 ## Conexiones Estratégicas y Ocultas
-Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
+La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
 
 ### Visualización de Conexiones (Mermaid)
 
@@ -82,7 +82,7 @@ graph TD
     RIGI --> |Solicitud US$ 2.400M| Fert[Planta Fertilizantes]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Evaluación: US$ 95.000M| Eval[36 Proyectos en Curso]
 
     VM --> |Modelo Replicado| PA
     VM --> |Insumo Gas| Fert
