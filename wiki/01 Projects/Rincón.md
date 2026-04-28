@@ -1,15 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-<<<<<<< HEAD
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-28_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
-=======
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]]
-confidence: high
-last_update: 2026-04-16
->>>>>>> origin/energon-daily-2026-04-16-5257330393858698847
+last_update: 2026-04-28
 ---
 
 # Proyecto Rincón (Litio)
@@ -21,11 +15,8 @@ last_update: 2026-04-16
 Proyecto de litio de gran escala que utiliza tecnología de extracción directa (DLE). Es el primer proyecto minero en adherirse formalmente al [[RIGI]].
 
 ## Hitos Recientes (2026)
-<<<<<<< HEAD
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el esquema de financiamiento de **US$ 1.175 millones** (Total inversión US$ 2.500M) y el éxito de la primera exportación de 200 toneladas de carbonato de litio a Shanghái.
-=======
 - **Hito de Exportación y RIGI (16/04/2026):** Se concretó el primer envío de **200 toneladas** de carbonato de litio a Shanghái. El proyecto sirve como caso de éxito inicial para el marco del [[RIGI]].
->>>>>>> origin/energon-daily-2026-04-16-5257330393858698847
 - **Financiamiento Consolidado (11/04/2026):** Rio Tinto confirmó el paquete de financiamiento de **US$ 1.175 millones** otorgado por la CFI, BID Invest, Export Finance Australia (EFA) y el Banco Japonés para la Cooperación Internacional (JBIC).
 - **Primera Exportación Comercial (10/04/2026):** Despacho oficial de las primeras **200 toneladas** de carbonato de litio con destino a Shanghái, consolidando el inicio de la fase exportadora comercial.
 - **Apoyo Político:** Reunión de la cúpula global de Rio Tinto (Barbara Fochtman) con la Mesa del Litio para coordinar empleo calificado y mecanismos de seguimiento ágiles.
