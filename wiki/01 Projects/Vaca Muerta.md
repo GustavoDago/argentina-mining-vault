@@ -1,15 +1,15 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-04-27
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista, Tecpetrol, Pampa Energía, Phoenix Global Resources.
+**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
@@ -26,8 +26,9 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 
 ### Hitos Recientes (Abril 2026)
 - **Sintonía Fina RIGI (24/04/2026):** La **Resolución 484/2026** de la Secretaría de Energía ajustó el ratio de rentabilidad para el upstream no convencional. Al flexibilizar el umbral del 30% de flujo de caja en los primeros 3 años, se asegura que el shale oil —cuya producción declina rápidamente— no quede excluido de los beneficios de larga maduración del [[RIGI]].
-- **Downstream - Planta de Fertilizantes (23/04/2026):** **[[Pampa Energía]]** solicitó formalmente el ingreso al [[RIGI]] para una planta de fertilizantes en Bahía Blanca (Inversión: **US$ 2.400 millones**), lo que representa una integración vertical clave para el gas excedente de Vaca Muerta.
+- **Planta de Fertilizantes - RIGI (23/04/2026 - 27/04/2026):** **[[Pampa Energía]]** solicitó formalmente el ingreso al [[RIGI]] para una planta de fertilizantes en Bahía Blanca (Inversión: **US$ 2.400 millones**), lo que representa una integración vertical clave para el gas excedente de Vaca Muerta.
 - **Upstream RIGI (23/04/2026):** Se estima que al menos 7 proyectos de upstream se presentarán al régimen tras la modificación de los ratios de rentabilidad para áreas con bajo nivel de desarrollo inicial.
+- **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
 - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
 - **Proyecciones de Inversión 2026-2035 (19/04/2026):** La CEPH proyecta **US$ 170.000 millones** de inversión total para la década, con el objetivo de superar el millón de barriles diarios hacia 2030.
