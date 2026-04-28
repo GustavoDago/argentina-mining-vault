@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-28_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-04-28
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -28,6 +28,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 2. [[Posco]] (Hombre Muerto Norte, Salta)
 - **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
+- **Integración Estratégica (18/04/2026):** Confirmada la integración total del bloque HMN para optimizar la infraestructura de Sal de Oro.
 - **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
