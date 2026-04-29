@@ -19,7 +19,8 @@
 - **Conectividad estratégica:** Acceso directo a los puertos del norte de Chile (Antofagasta, Iquique).
 
 ## Infraestructura Energética Estratégica:
-- **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
+- **Interconexión Puna (AmCham Summit 2026):** Se confirmó la construcción de una línea de extra alta tensión de **400 MW** en La Puna. Esta obra es vital para electrificar los megaproyectos de litio y cobre en el NOA, integrándose a la traza del Corredor.
+- **Gasoducto Bioceánico (27/04/2026):** Argentina y Paraguay definieron las condiciones para el ducto que llevará gas de Vaca Muerta a la región de Capricornio, potenciando el desarrollo industrial a lo largo del corredor.
 
 ## Desafíos Logísticos y de Infraestructura:
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
