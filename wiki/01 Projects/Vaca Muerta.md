@@ -1,15 +1,15 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-04-27
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista, Tecpetrol, Pampa Energía, Phoenix Global Resources.
+**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
@@ -21,6 +21,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Gas Natural:** Caída interanual del **3,3%**.
 
 ### Hitos Recientes (Abril 2026)
+- **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
+- **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
 - **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
 - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.

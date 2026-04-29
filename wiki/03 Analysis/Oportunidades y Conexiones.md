@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-04-27
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -43,8 +43,10 @@ last_update: 2026-04-25
     - El lanzamiento de incentivos para inversiones desde **US$ 5 millones** en Jujuy abre una ventana masiva para pymes tecnológicas y de servicios mineros, formalizando la cadena de valor de Exar y Sales de Jujuy.
 17. **Previsibilidad en el Cobre (Horizonte 2029)**:
     - La definición del año 2029 para la puesta en marcha de **[[Los Azules]]** y **San Jorge** permite a los inversores en infraestructura sincronizar sus desembolsos con el flujo de caja operativo proyectado.
-18. **Ajuste Fino del RIGI para Shale (Resolución 484/2026)**:
-    - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos. La oportunidad reside en proyectos de **recuperación terciaria y shale oil de ciclo largo** que ahora encuadran mejor en el régimen de incentivos.
+18. **Ajuste Fino del RIGI para Shale e Infraestructura (Resolución 484/2026)**:
+    - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
+19. **Industrialización de Gas (Fertilizantes)**:
+    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -60,6 +62,7 @@ graph TD
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
+    RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
@@ -76,6 +79,7 @@ graph TD
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
+    VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
