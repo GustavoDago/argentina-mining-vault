@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-05-01_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-05-01
 ---
 
 # Proyecto Hombre Muerto Oeste (HMW - Litio)
@@ -12,6 +12,7 @@ last_update: 2026-04-20
 **Operadora:** Galan Lithium (Australia).
 
 ## Estado Actual (2026)
+- **Pre-operación (01/05/2026):** Galan Lithium mantiene el **92% de avance** y se prepara para el inicio inminente del procesamiento.
 - **Avance Crítico (20/04/2026):** Se ratifica el **92% de avance** en la construcción. La producción de litio de alta pureza iniciará en el segundo trimestre de 2026.
 - **Inicio de Procesamiento (15/04/2026):** Galan Lithium anunció que comenzará a procesar litio a fines de abril de 2026. Se confirma como el **octavo proyecto en producción** del país.
 - **Infraestructura:** Cuenta con una planta de nanofiltración de última tecnología y balsas de evaporación revestidas.

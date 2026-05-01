@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-05-01_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-18
+last_update: 2026-05-01
 ---
 
 # Proyecto Los Azules (Cobre)
@@ -16,6 +16,7 @@ last_update: 2026-04-18
 **Los Azules** es uno de los depósitos de cobre no desarrollados más grandes del mundo, enfocado en producir "cobre verde" (cátodos de cobre) mediante lixiviación en pilas, lo que reduce la huella de carbono y el consumo de agua frente a procesos tradicionales.
 
 ## Hitos Recientes (2026)
+- **Cronograma de Construcción (01/05/2026):** Se reafirma el inicio de construcción para **fines de 2026**. El proyecto busca resolver el cuello de botella energético para cumplir con los plazos.
 - **Confirmación de Inversión y Cronograma (18/04/2026):** En la CRU World Copper Conference, Michael Meding confirmó que el objetivo es iniciar la construcción hacia **fines de 2026**. La inversión total se ratificó en **US$ 2.670 millones**.
 - **Proyecciones de Producción:** Se estima una vida útil de 22 años con una producción promedio de **148.000 toneladas anuales**, alcanzando picos de 204.000 t/año en los primeros 5 años. La puesta en marcha se prevé para 2029-2030.
 - **Conflicto de Infraestructura Eléctrica (Abril 2026):** McEwen Copper formalizó ante el ENRE su oposición a la prioridad otorgada al [[Distrito Vicuña]] (BHP/Lundin) sobre la línea de alta tensión de 500 kV en San Juan.
