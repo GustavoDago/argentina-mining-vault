@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, gold, silver]
-sources: [[2026-04-15_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[2026-04-15_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-05-02
 ---
 
 # Proyecto Veladero (Oro y Plata)
@@ -15,6 +15,7 @@ last_update: 2026-04-25
 Una de las minas de oro a cielo abierto más grandes del mundo y el principal motor exportador de la provincia de San Juan.
 
 ## Desempeño Reciente (2026)
+- **Resolución RIGI (02/05/2026):** La **Resolución 413/2026** aprobó formalmente la adhesión del proyecto al RIGI para la expansión de las fases 8 y 9.
 - **Liderazgo Exportador:** En el primer bimestre de 2026, Veladero consolidó su posición como el mayor exportador de San Juan. El oro representa el **96,6%** de las ventas externas mineras de la provincia.
 - **Destinos Principales:** India y Suiza.
 - **Adhesión al [[RIGI]] (Resolución 413/2026):** Aprobación formal de la adhesión para la **Ampliación de las Fases 8 y 9** del valle de lixiviación. La inversión de **US$ 380 millones** asegura la extensión de la vida útil, producción y exportación de bullion doré.

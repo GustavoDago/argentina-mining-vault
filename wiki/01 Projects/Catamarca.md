@@ -1,14 +1,18 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-11_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-11_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-02
 ---
 
 # Catamarca
 
 Catamarca es el corazón histórico de la minería de litio en Argentina.
+
+## Hitos Recientes (Mayo 2026)
+- **Desbloqueo Río Los Patos (02/05/2026):** La Corte de Justicia de Catamarca levantó formalmente la cautelar sobre la cuenca del Río Los Patos, despejando el camino para nuevas concesiones de litio.
+- **Avance HMW (02/05/2026):** El proyecto Hombre Muerto Oeste de Galan Lithium alcanzó un **92% de avance** en su construcción.
 
 ## Hitos Recientes (Abril 2026)
 - **Levantamiento de Cautelar Río Los Patos (27/04/2026):** La ratificación judicial sobre la cuenca del Río Los Patos valida los estudios de impacto acumulado del Gobierno, habilitando definitivamente la expansión de Arcadium y Posco en el Salar del Hombre Muerto.
