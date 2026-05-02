@@ -2,6 +2,10 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
+## Estado de la Traza (Mayo 2026)
+- **Brasil - Paraguay:**
+    - **Puente Bioceánico (02/05/2026):** Se ratificó el **82,5% de avance** físico del puente Porto Murtinho - Carmelo Peralta. La meta de finalización para junio de 2026 se mantiene firme.
+
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
@@ -9,6 +13,9 @@
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
 - **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
+- **Salta (Mayo 2026):**
+    - **Taca Taca y el Corredor (02/05/2026):** La ratificación de la inversión total de **US$ 5.250 millones** en Taca Taca consolida al corredor como la vía logística crítica para la salida de concentrados hacia los puertos del norte de Chile.
+
 - **Salta (Abril 2026):**
     - **Relevancia del Cobre (20/04/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 4.200M) posiciona al proyecto como el principal usuario proyectado del Corredor para exportar concentrado de cobre por el Pacífico.
     - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**, permitiendo desviar el tránsito pesado minero de las zonas urbanas de la provincia.
