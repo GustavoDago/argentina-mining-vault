@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-05_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-05
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -19,6 +19,11 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
+
+### Hitos Recientes (Mayo 2026)
+- **Aprobación RIGI - [[TGS]] (05/05/2026):** El Gobierno aprobó el ingreso de TGS al régimen por **USD 700 millones** para la ampliación de la capacidad de transporte de gas.
+- **Aceleración Vista Energy (05/05/2026):** Vista formalizó la solicitud de adhesión al [[RIGI]] para los bloques **Bandurria Norte** y **Águila Mora**.
+- **Impacto Laboral VMOS (05/05/2026):** Se estima que el oleoducto Vaca Muerta Sur generará **3.108 puestos de trabajo** directos e indirectos.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.

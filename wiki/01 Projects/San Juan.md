@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-05-05_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-05-05
 ---
 
 # San Juan
@@ -26,4 +26,5 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - [[Lunahuasi]] (Cobre de Alta Ley)
 
 ## Relevancia Estratégica
-Es pionera en la adhesión al [[RIGI]] y ha desarrollado un ecosistema de proveedores locales altamente especializado.
+- **Liderazgo en Empleo RIGI (05/05/2026):** San Juan encabeza la creación de empleo bajo el [[RIGI]], con **12.939 puestos de trabajo** proyectados en tres proyectos clave (Los Azules, Veladero y Josemaría).
+- **Pionera Normativa:** Es pionera en la adhesión al [[RIGI]] y ha desarrollado un ecosistema de proveedores locales altamente especializado.
