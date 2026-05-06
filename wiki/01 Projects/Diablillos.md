@@ -1,19 +1,26 @@
-# Proyecto Diablillos (Oro y Plata)
+---
+type: project
+tags: [mining, gold, silver]
+sources: [[2026-04-27_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]]
+confidence: high
+last_update: 2026-05-06
+---
 
-**Ubicación:** Salta y Catamarca, Argentina.
+# Proyecto Diablillos
+
+**Ubicación:** Puna Salteña, Salta, Argentina.
 **Operadora:** AbraSilver Resource Corp.
-**Inversión Estimada (Bajo el [[RIGI]]):** US$ 760 millones.
+**Inversión Estimada:** US$ 760 millones.
 
 ## Descripción
-**Diablillos** es un proyecto de oro y plata de alta ley ubicado en la región de la Puna. Se caracteriza por ser un depósito epitermal de alta sulfuración.
+Proyecto de oro y plata de alta ley ubicado en la provincia de Salta. Se caracteriza por ser uno de los proyectos de metales preciosos más avanzados de la región, con un fuerte potencial de escalabilidad.
 
 ## Hitos Recientes (2026)
-- **Aprobación RIGI:** En febrero de 2026, el Gobierno Nacional aprobó la adhesión del proyecto al [[RIGI]] con una inversión total de **US$ 760 millones**. Se encuentra entre la "avalancha" de proyectos que buscan aprovechar el régimen para diversificar la matriz minera de Salta.
-- **Impacto Laboral:** Se estima que la construcción y operación generará más de 1.000 puestos de trabajo directos e indirectos en Salta y Catamarca.
-- **Exportaciones Proyectadas:** Se prevé que el proyecto aporte significativamente a la canasta exportadora minera del NOA una vez en fase de operación comercial.
+- **Recomendación RIGI (05/05/2026):** El comité evaluador del [[RIGI]] emitió una recomendación favorable para el proyecto, respaldando la inversión de **US$ 760 millones**. Este hito despeja el camino para la aprobación final por parte del Ministerio de Economía.
+- **Aprobación Preliminar (Febrero 2026):** El proyecto recibió las primeras señales positivas de adhesión al régimen de grandes inversiones, permitiendo acelerar los estudios de factibilidad final.
+- **Impacto Local:** Se estima que el proyecto generará cientos de empleos directos e indirectos en la Puna, traccionando la demanda de servicios en el nodo logístico de [[Salta]].
 
 ## Conexiones
-- [[Mineria]]
 - [[RIGI]]
 - [[Salta]]
-- [[Catamarca]]
+- [[Mineria]]

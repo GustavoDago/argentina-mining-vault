@@ -1,3 +1,11 @@
+---
+type: project
+tags: [energy, oil-gas]
+sources: [[2026-05-06_news_mining_energy.md]]
+confidence: high
+last_update: 2026-05-06
+---
+
 # Southern Energy (Proyecto Río Negro)
 
 **Tipo:** Planta de Licuefacción (GNL).
@@ -8,7 +16,8 @@
 El proyecto de **Southern Energy** en Río Negro busca consolidar la capacidad exportadora de gas natural licuado (GNL) de la Argentina hacia mercados globales. Es uno de los hitos más ambiciosos en materia de infraestructura energética tras la finalización del Gasoducto Presidente Néstor Kirchner.
 
 ## Hitos Recientes (2026)
-- **Adhesión al RIGI (Abril 2026):** El proyecto recibió la aprobación formal de los beneficios fiscales y aduaneros bajo el [[RIGI]], garantizando la estabilidad fiscal por 30 años.
+- **Ratificación de Socios (06/05/2026):** Pan American Energy (PAE) y Golar LNG confirmaron la inversión de **US$ 6.900 millones** para la barcaza de licuefacción en el Golfo San Matías. El proyecto operará bajo el marco del [[RIGI]].
+- **Adhesión al RIGI (Abril 2026):** El proyecto recibió la aprobación formal de los beneficios fiscales y aduaneros bajo el [[RIGI]].
 - **Inversión Confirmada:** Monto de **US$ 6.900 millones** destinados a la construcción de trenes de licuefacción y terminal de carga dedicado en la costa rionegrina.
 
 ## Impacto Estratégico
