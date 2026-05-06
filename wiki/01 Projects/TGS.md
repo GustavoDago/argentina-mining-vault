@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-05-06
 ---
 
 # TGS Vaca Muerta (Industrialización)
@@ -16,7 +16,8 @@ last_update: 2026-04-20
 **TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta. El proyecto se centra en la separación e industrialización de líquidos para exportación a gran escala.
 
 ## Hitos Recientes (2026)
-- **Consolidación del Proyecto (20/04/2026):** Se reafirmó el anuncio de inversión de **US$ 3.000 millones** para la planta de procesamiento y exportación de líquidos de gas natural, aprovechando la infraestructura de Vaca Muerta.
+- **Aprobación Expansión RIGI (06/05/2026):** TGS obtuvo la aprobación bajo el marco del [[RIGI]] para una inversión de **US$ 700 millones** destinada a la expansión de su sistema de gasoductos, complementando su plan maestro de industrialización.
+- **Consolidación del Proyecto (20/04/2026):** Se reafirmó el anuncio de inversión de **US$ 3.000 millones** para la planta de procesamiento.
 - **Infraestructura de Transporte (14/04/2026):** Inicio de la ampliación del **Gasoducto Perito Moreno** y habilitación de nueva capacidad de transporte para evacuar el gas de la cuenca.
 - **Argentina Week (13/04/2026):** El CEO de TGS ratificó en Nueva York el plan de inversión de **US$ 3.000 millones** para la planta separadora de gas, destacando el marco del [[RIGI]].
 - **Ratificación de Inversión (11/04/2026):** Se confirmó el plan de inversión de **US$ 3.000 millones** para industrializar y exportar líquidos derivados del gas, aprovechando la extensión del [[RIGI]].
