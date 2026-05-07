@@ -1,5 +1,13 @@
 # Log de Operaciones
 
+## [2026-05-07] sync | Sincronización masiva Jules Intel (28/04 - 06/05)
+- **Ingesta:** Procesados 9 reportes diarios de Jules recuperados de ramas remotas.
+- **Hitos Mineros:** Aprobación RIGI Los Azules (USD 2.672M), Ratificación Taca Taca (USD 5.250M), Desbloqueo judicial en Catamarca (Río Los Patos).
+- **Hitos Energía:** Pluspetrol solicita RIGI por USD 12.000M (Vaca Muerta), PAE/Golar confirman barcaza GNL (USD 6.900M).
+- **Actualizaciones Wiki:** `Vaca Muerta.md`, `Los Azules.md`, `Taca Taca.md`, `Rincón.md`, `RIGI.md`.
+- **Análisis:** Documentado conflicto de prioridad de despacho eléctrico en San Juan.
+
+
 ## [2026-04-27] sync | Procesada inteligencia remota y consolidación web
 - **Ingesta:** Procesado reporte `raw/2026-04-27_news_mining_energy.md` proveniente de la rama de Jules.
 - **Conflictos Resueltos:** 10 archivos de la wiki (`Catamarca.md`, `Cobre.md`, `Jujuy.md`, `Los Azules.md`, `Pampa Energía.md`, `Rincón.md`, `Taca Taca.md`, `Vaca Muerta.md`, `RIGI.md`, `Oportunidades y Conexiones.md`).

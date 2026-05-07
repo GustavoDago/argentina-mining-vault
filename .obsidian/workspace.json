@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 317.5
   },
   "right": {
     "id": "1c7139cf29075682",
@@ -185,6 +185,23 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/06 Shadow APIs/index.md",
+    "wiki/06 Shadow APIs/Aprobacion RIGI Upstream Res 484-2026.md",
+    "GEMINI.md",
+    "log.md",
+    "wiki/04 Daily/2026-04-26_Daily_Report.md",
+    "wiki/01 Projects/Sal de Vida.md",
+    "wiki/01 Projects/Agua Rica.md",
+    "wiki/01 Projects/El Pachón.md",
+    "wiki/04 Daily/2026-04-27_Daily_Report.md",
+    "raw/2026-04-27_news_mining_energy.md",
+    "Prompt escéptico.md",
+    "Manual de gobernanza.md",
+    "wiki/06 Shadow APIs/Aduana Paso de Jama.md",
+    "raw/2026-04-26_news_mining_energy.md",
+    "wiki/06 Shadow APIs/Convencion TIR Logistica Bioceanica.md",
+    "wiki/04 Daily/2026-04-25_Daily_Report.md",
+    "raw/2026-04-25_news_mining_energy.md",
     "wiki/04 Daily/2026-04-24_Daily_Report.md",
     "raw/2026-04-24_news_mining_energy.md",
     "wiki/04 Daily/2026-04-23_Daily_Report.md",
@@ -193,25 +210,8 @@
     "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
     "wiki/06 Shadow APIs/SIM San Juan Canon Minero.md",
     "wiki/06 Shadow APIs/ENRE Prioridad de Despacho.md",
-    "wiki/06 Shadow APIs/Aduana Paso de Jama.md",
-    "wiki/06 Shadow APIs/index.md",
     "wiki/06 Shadow APIs",
     "wiki/04 Daily/2026-04-14_Daily_Report.md",
-    "wiki/02 Frameworks/Sinergias Logisticas Puna.md",
-    "wiki/05 Tech Lead Opps/2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza.md",
-    "wiki/04 Daily/2026-04-13_Daily_Report.md",
-    "wiki/01 Projects/Posco.md",
-    "raw/2026-04-13_news_mining_energy.md",
-    "wiki/04 Daily/2026-04-11_Daily_Report.md",
-    "wiki/03 Analysis/Oportunidades y Conexiones.md",
-    "wiki/03 Analysis/Health_Check_Report.md",
-    "raw/2026-04-11_news_mining_energy.md",
-    "wiki/04 Daily/2026-04-10_Daily_Report.md",
-    "raw/2026-04-10_news_mining_energy.md",
-    "wiki/04 Daily/2026-04-08_Daily_Report.md",
-    "raw/2026-04-08_news_mining_energy.md",
-    "San Juan.md",
-    "wiki/04 Daily/2026-04-09_Daily_Report.md",
     "wiki/05 Tech Lead Opps"
   ]
 }

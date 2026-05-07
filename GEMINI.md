@@ -55,12 +55,23 @@ last_update: YYYY-MM-DD
 
 ## 3. Protocolos de Operación
 
-### Protocolo de Ingesta (El Efecto Ripple)
-Al procesar una nueva fuente en `raw/`:
-1. **Extraer:** Identificar hitos, datos numéricos y entidades.
-2. **Resumir:** Crear/actualizar la nota correspondiente en `wiki/04 Daily/` como reporte.
-3. **Propagar:** Actualizar TODAS las notas relacionadas en `01 Projects` y `02 Frameworks`. Si se menciona un nuevo proyecto, crearlo.
-4. **Indexar:** Asegurar que las nuevas notas estén conectadas al grafo principal.
+# WORKFLOW DE INGESTA (INGEST)
+
+Cuando el usuario te pida procesar un nuevo archivo en `00_Raw_Sources/`:
+
+1. NO modifiques el archivo original (es inmutable).
+
+2. Lee el archivo y extrae las implicancias de inversión.
+
+3. Actualiza o crea páginas relevantes en `10_Entidades/` y `20_Conceptos/` usando enlaces de Obsidian (ej: [[SENASA]]).
+
+4. Modifica las tesis en `30_Oportunidades/` si la nueva información refuerza o debilita la tesis.
+
+5. Crea un archivo de evaluación de riesgos en `40_Analisis_Esceptico/` (ej: `Esceptico_Nombre.md`) vinculándolo a la oportunidad correspondiente en `30_Oportunidades/`, si el contexto requiere un análisis de "Red Team".
+
+6. Registra SIEMPRE la acción en `log.md`.
+
+7. Actualiza `index.md` si creaste archivos nuevos.
 
 ### Protocolo de Consulta y "Filing Back"
 Las respuestas complejas generadas durante la interacción no deben morir en el chat. Si una síntesis aporta valor estratégico o comparativo, el agente debe **"Filing Back"**: crear una nueva página en `wiki/03 Analysis/` con dicha información.
@@ -72,6 +83,12 @@ El agente debe identificar periódicamente:
 - **Huérfanos:** Notas sin conexiones entrantes o salientes.
 
 ---
+# WORKFLOW DE SINCRONIZACIÓN (JULES INTEL)
+Cuando el usuario indique "Procesa la inteligencia de Jules" o "Ingesta el Pull Request":
+1. Escanea la carpeta `00_Raw_Sources/` en busca de archivos creados por Jules que aún no estén registrados en `log.md`.
+2. Procesa cada archivo uno por uno siguiendo el "WORKFLOW DE INGESTA" estándar.
+3. Al analizar la "Alerta Jules" incluida en el archivo, sé crítico: Jules es solo el recolector. Tú (Antigravity) debes decidir cómo eso impacta nuestra bóveda. ¿Refuerza el [[Latigazo_Regulatorio]]? ¿Crea una nueva tesis en `30_Oportunidades/`?
+4. Consolida todos los hallazgos del día en una sola entrada en el `log.md` (Ej: `## [YYYY-MM-DD] sync | Procesados 3 reportes de Jules`).
 
 ## 4. Trazabilidad y Control
 - **Git:** Cada sesión de trabajo debe terminar con un commit descriptivo. No se deben "stagear" cambios sin revisión si el usuario lo solicita, pero se recomienda el versionado frecuente para auditoría.

@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-07
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -24,7 +24,12 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Mayo 2026)
+- **Megaproyecto Pluspetrol (02/05/2026):** La compañía solicitó su ingreso al [[RIGI]] con una inversión masiva de **US$ 12.000 millones** para el desarrollo del bloque Bajo del Choique–La Invernada, con el objetivo de alcanzar una producción de 100.000 bpd.
+- **Aceleración de Vista Energy (06/05/2026):** Miguel Galuccio elevó la meta de producción a **143.000 boe/d** para el cierre de 2026. Confirmó que la solicitud RIGI para Bandurria Norte y Águila Mora se presentará antes de finalizar el Q2.
+- **Barcaza GNL en Río Negro (06/05/2026):** PAE y Golar LNG confirmaron una inversión de **US$ 6.900 millones** para la instalación de una unidad flotante de licuefacción (FLNG) en el Golfo San Matías, aprovechando el marco del RIGI.
+
+### Hitos de Abril 2026
 - **Sintonía Fina RIGI (24/04/2026):** La **Resolución 484/2026** de la Secretaría de Energía ajustó el ratio de rentabilidad para el upstream no convencional. Al flexibilizar el umbral del 30% de flujo de caja en los primeros 3 años, se asegura que el shale oil —cuya producción declina rápidamente— no quede excluido de los beneficios de larga maduración del [[RIGI]].
 - **Planta de Fertilizantes - RIGI (23/04/2026 - 27/04/2026):** **[[Pampa Energía]]** solicitó formalmente el ingreso al [[RIGI]] para una planta de fertilizantes en Bahía Blanca (Inversión: **US$ 2.400 millones**), lo que representa una integración vertical clave para el gas excedente de Vaca Muerta.
 - **Upstream RIGI (23/04/2026):** Se estima que al menos 7 proyectos de upstream se presentarán al régimen tras la modificación de los ratios de rentabilidad para áreas con bajo nivel de desarrollo inicial.
@@ -42,7 +47,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 
 ## Infraestructura Crítica
 - **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
+- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026. Además, se suma el proyecto de licuefacción flotante de **PAE/Golar** en Río Negro.
 
 ## Conexiones
 - [[RIGI]]

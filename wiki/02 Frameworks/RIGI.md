@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[Infobae (Abril 2026)]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-07
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -11,16 +11,11 @@ last_update: 2026-04-27
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
-## Tablero de Control (Abril 2026)
-En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
-
-- **Impacto en Reservas (24/04/2026):** El Banco Central (BCRA) confirmó que la liquidación de divisas de proyectos bajo el RIGI alcanzó los **USD 1.205 millones brutos**, con un aporte neto a las reservas de **USD 762 millones**.
-- **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
-- **Liquidación de Divisas (23/04/2026):** El BCRA ratificó que los proyectos RIGI han liquidado **US$ 762 millones netos** (US$ 1.205 millones brutos). Adicionalmente, se destaca que las empresas del sector emitieron Obligaciones Negociables por **US$ 9.900 millones** entre Oct-25 y Abr-26.
-- **Proyectos Aprobados/En Evaluación:** +35 proyectos bajo evaluación formal (con hitos como las 11 presentaciones confirmadas el 16/04/2026).
-- **Inversión Total Comprometida:** > **US$ 95.000 millones** a través de 36 iniciativas. El 98% de las solicitudes se concentran en Minería y Energía.
-- **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
-- **Sinergia Regional (16/04/2026):** Los gobernadores del NOA (Jalil, Sadir, Sáenz) destacan el RIGI como el catalizador principal de la aceleración de inversiones, complementándolo con marcos locales (ej. "mini RIGI" en Jujuy para inversiones >US$ 5M).
+## Tablero de Control (Mayo 2026)
+- **Impacto en Reservas (06/05/2026):** El BCRA confirmó que los proyectos RIGI han liquidado **USD 1.205 millones brutos** y USD 762 millones netos.
+- **Inversión Aprobada:** Se han aprobado formalmente 12 iniciativas por un total de **US$ 26.000 millones** en compromisos de inversión firme.
+- **Empleo Proyectado:** Estimación de **36.873 empleos** directos e indirectos. San Juan lidera la demanda laboral por proyectos de cobre.
+- **Concentración Sectorial:** Minería y Energía absorben el 98% de las solicitudes.
 
 ### Categorías Especiales
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
@@ -37,12 +32,14 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 5.  **[[Posco]]** (Sal de Oro II, Salta/Catamarca, Litio) - Inversión confirmada: **US$ 845M**.
 6.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
 7.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]].
-8.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica.
+8.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - **APROBADO MAY 2026**. Inversión: **US$ 2.672M**.
 9.  **[[Southern Energy]]** (Río Negro, GNL) - Inversión: **US$ 6.900M**.
 10. **[[TGS]]** (Neuquén, Energía) - Industrialización de líquidos. Inversión: **US$ 3.000M**.
 11. **[[Pampa Energía]]** (Neuquén, Oil) - Upstream no convencional. Inversión: **US$ 4.500M**.
-12. **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
-13. **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
+12. **Proyectos Vaca Muerta** (Pluspetrol, **US$ 12.000M**; Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
+13. **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - **RECOMENDACIÓN FAVORABLE MAY 2026**. Inversión: **US$ 760M**.
+...
+21. **TGS Expansión** (Gasoductos) - **APROBADO MAY 2026**. Inversión: **US$ 700M**.
 14. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
 15. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
 16. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
