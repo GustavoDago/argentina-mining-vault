@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-07_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-07
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -14,13 +14,13 @@ last_update: 2026-04-27
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
    - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de inicio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG).
 3. **Cobre de Alta Ley: El Efecto [[Lunahuasi]]**:
-   - El reporte de leyes de hasta 18.9% Cu en Lunahuasi (Abril 2026) redefine el potencial del [[Distrito Vicuña]]. Existe una oportunidad para el desarrollo de **plantas de procesamiento modulares** y servicios de exploración de alta precisión en un área que ya es apodada el "Vaca Muerta del Cobre". Proyectos marginales pueden volverse altamente rentables si se integran en una infraestructura común de procesamiento de alta ley.
+   - Resultados confirmados en Mayo 2026 con picos de 18,9% de cobre consolidan a Lunahuasi como la "Vaca Muerta del Cobre". Existe una oportunidad masiva para el desarrollo de **plantas de procesamiento modulares** y servicios de exploración de alta precisión. La cercanía con Josemaría y Filo del Sol permite proyectar un hub de procesamiento compartido en el Distrito Vicuña que maximice el retorno del RIGI.
 4. **Litio: Eficiencia vs. Escala (Efecto McDermitt)**:
    - El hallazgo en **McDermitt (EE.UU.)** presiona los precios. La oportunidad en Argentina es la **eficiencia operativa** mediante tecnologías DLE avanzadas y servicios de purificación in-situ para mantener competitividad en la curva de costos global.
 5. **Cluster de Servicios Mendoza (Tier 2/3)**:
    - La incorporación de **[[Mendoza]]** a la Mesa del Cobre y la reforma de la **[[Ley de Glaciares]]** habilitan un nuevo mercado de servicios. Existe una demanda insatisfecha por la reconversión de proveedores petroleros hacia la minería (drilling de altura, logística pesada, servicios ambientales).
 6. **Optimización en Vaca Muerta y Federalización del Shale**:
-   - La formalización de inversiones bajo el RIGI (Pampa US$ 4.5B, Tecpetrol US$ 2.4B, Phoenix) y el anuncio de YPF en **D-129 (Chubut)** y **[[Palermo Aike]] (Santa Cruz)** abre un mercado masivo para la **transferencia tecnológica y logística de servicios petroleros** hacia la Cuenca Austral y el Golfo San Jorge. Es el inicio de la "federalización del shale".
+   - Con el 70% de la producción nacional ya proveniente del shale, la entrada de **Pluspetrol** con el proyecto de USD 12.000M en bloques ex-Exxon y el avance del 58% en el **Oleoducto Vaca Muerta Sur (VMOS)** marcan un punto de inflexión. La oportunidad se desplaza hacia la **logística de exportación** y la infraestructura de evacuación que se destrabará a fines de 2026.
 7. **Aluvión de Inversiones RIGI Petrolero y Decreto 105/2026**:
    - La extensión de beneficios a todo el upstream (Decreto 105/2026) acelera proyectos de exploración en Santa Cruz y Chubut. Esto genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas.
 8. **Consolidación del NOA como Hub Surcoreano**:
@@ -55,7 +55,7 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |US$ 5.250M Ratificado| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
@@ -70,13 +70,15 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |12 Proyectos Aprobados| Approved[Aprobados USD 26.000M]
+    RIGI --> |TGS USD 700M| TGS_RIGI[TGS Ampliación]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
-    VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |US$ 12.000M| Pluspetrol[Pluspetrol ex-Exxon]
+    VM --> |58% Avance| VMOS[Oleoducto VM Sur]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
@@ -89,7 +91,7 @@ graph TD
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
     Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
 
-    Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
+    Litio[Litio Argentina] --> |Levantamiento Cautelar| Catamarca[Catamarca - Río Los Patos]
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
