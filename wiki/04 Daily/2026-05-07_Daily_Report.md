@@ -28,4 +28,6 @@ La entrada de **Pluspetrol** con USD 12.000 millones (bloques ex-Exxon) redefine
 "El capital es cobarde, pero en Argentina finalmente encontró un seguro de vida llamado RIGI. La liquidación de divisas reportada por el BCRA es la prueba ácida que faltaba. Sin embargo, no hay que dormirse: la competencia por la capacidad de las líneas de 500kV en San Juan (ENRE) podría ser el próximo cuello de botella que ralentice la 'revolución del cobre'."
 
 ---
+**Visualización:** [[Mapa_Inteligencia_Sistemica_2026-05-07]]
+
 **Backlinks:** [[RIGI]], [[Vaca Muerta]], [[Taca Taca]], [[Lunahuasi]], [[Catamarca]], [[Josemaría]].
