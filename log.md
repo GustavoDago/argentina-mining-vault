@@ -1,5 +1,12 @@
 # Log de Operaciones
 
+## [2026-05-08] sync | Consolidación Súper RIGI y Megaproyectos
+- **Ingesta:** Procesado reporte `raw/2026-05-08_news_mining_energy.md` y resolución de conflictos de rama remota.
+- **Hitos Regulatorios:** Anuncio de **Súper RIGI** (Milei, US); Levantamiento definitivo de cautelar en Río Los Patos (Catamarca).
+- **Hitos Inversión:** **Chevron** solicita RIGI por **US$ 10.000M**; **Taca Taca** ratifica **US$ 5.250M**.
+- **Conflictos Resueltos:** 8 archivos de la wiki (`RIGI.md`, `Vaca Muerta.md`, `Taca Taca.md`, `Los Azules.md`, `Catamarca.md`, `Posco.md`, `Corredor Bioceanico.md`, `Oportunidades y Conexiones.md`).
+- **Nuevas Entidades:** `wiki/01 Projects/Chevron.md`.
+
 ## [2026-05-07] opps | Investigación de Oportunidades High-Leverage
 - **Ingesta:** Escaneo transversal de la Wiki (`grep_search`) buscando "cuellos de botella" y vulnerabilidades sistémicas en infraestructura.
 - **Oportunidades Creadas (Tech Lead):**
