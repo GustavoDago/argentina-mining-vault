@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-09
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -28,13 +28,15 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
+- **Aprobación RIGI (08/05/2026):** Proyecto formalmente admitido en el [[RIGI]] para una inversión de **US$ 2.672 millones**.
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
 - **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
-- **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
+- **Conflicto Eléctrico (Mayo 2026):** McEwen Copper presentó una impugnación formal ante el ENRE (Res. 219/2026) contra la prioridad de despacho otorgada a BHP/Lundin para la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Actualización Técnica (08/05/2026):** First Quantum Minerals publicó un reporte NI 43-101 actualizado, proyectando una producción de **291.000 t/año** de cobre.
+- **Inversión:** Inversión total ratificada de **US$ 5.250 millones** bajo el esquema [[RIGI]].
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 

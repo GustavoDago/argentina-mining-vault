@@ -1,24 +1,31 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-09
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
+**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources, Pluspetrol, Chevron.
 
 ## Panorama 2026
-El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
+El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]]. En mayo de 2026, la producción no convencional alcanzó un **récord histórico**, representando el **70% del total nacional de crudo**.
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
+### Estadísticas de Producción (Mayo 2026)
+- **Shale Oil:** Récord de participación (70% nacional).
+- **Eficiencia:** Vista Energy reporta un lifting cost de **US$ 4,3/bbl**.
 - **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
+
+### Hitos Recientes (Mayo 2026)
+- **Megaproyecto Pluspetrol (09/05/2026):** La compañía solicitó el ingreso al [[RIGI]] para una inversión de **US$ 12.000 millones** en el bloque Bajo del Choique–La Invernada, tras adquirir activos de Exxon.
+- **Inversión Chevron (08/05/2026):** Presentación de proyecto [[RIGI]] para **El Trapial Este** por un monto superior a los **US$ 10.000 millones**.
+- **Consolidación Vista Energy (05/05/2026):** Aplicación formal al [[RIGI]] para Bandurria Norte y Águila Mora, con una meta de producción de 143.000 boe/d para fines de 2026.
+- **Expansión TGS (Mayo 2026):** Aprobación del [[RIGI]] para la ampliación de gasoductos por **US$ 700 millones**.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
