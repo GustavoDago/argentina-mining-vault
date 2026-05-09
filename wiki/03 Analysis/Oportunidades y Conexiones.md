@@ -52,6 +52,16 @@ last_update: 2026-05-09
 21. **Inversión en Megaproyectos RIGI (Vaca Muerta)**:
    - Las solicitudes de **Pluspetrol** (US$ 12.000M) y **Chevron** (US$ 10.000M) bajo el RIGI en mayo de 2026 saturan la demanda de servicios especializados de perforación y completación. Se abre un mercado de "segunda vuelta" para empresas locales que puedan dar soporte a estas operadoras globales en Neuquén.
 
+## Análisis de Pensamiento Lateral (Oportunidades No Evidentes)
+
+22. **Geotermia de Pozos Maduros (Reciclaje Energético)**:
+    - **Contexto:** Mientras la producción de petróleo convencional cae un **9,8%** (Proyecto Andes de YPF), miles de pozos quedan inactivos.
+    - **Oportunidad:** Reutilizar pozos maduros con gradiente térmico para generación geotérmica de baja entalpía. En lugar de sellarlos, pueden transformarse en fuentes de **energía de base 24/7** para campamentos mineros cercanos o pequeñas localidades en la Puna y Mendoza, eliminando la dependencia del diesel en zonas remotas. Es "energía verde" nacida de infraestructura "marrón" en declive.
+
+23. **Arbitraje de Contenido Local RIGI (Tokenización de Créditos)**:
+    - **Contexto:** El RIGI exige un **20% de contenido local**. Las operadoras globales (Chevron, Pluspetrol) suelen tener dificultades para alcanzar este cupo en las fases iniciales de alta tecnología.
+    - **Oportunidad:** Crear una **Plataforma de Créditos de Desarrollo de Proveedores**. Las operadoras podrían "financiar" la escalabilidad de PyMEs locales (Tier 2/3) que proveen a *otros* sectores o proyectos, obteniendo créditos certificables que computen para su propio cupo del 20%. Esto convierte una obligación regulatoria rígida en un mercado fluido de inversión en capital humano regional.
+
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
 
@@ -124,6 +134,11 @@ graph TD
     SanJorge --> OpCopper
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
+    Conventional[Declino Convencional -9.8%] --> |Reuso| Geotermia[Geotermia de Baja Entalpía]
+    Geotermia --> |Energía 24/7| ProyectosPuna
+
+    RIGI --> |Cupo 20% Local| TokenLocal[Mercado de Créditos Locales]
+    TokenLocal --> |Financia| SME[Escalabilidad PyME]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
 ```
