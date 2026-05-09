@@ -1,23 +1,26 @@
-# Southern Energy (Proyecto Río Negro)
+---
+type: project
+tags: [energy, gnl]
+sources: [[2026-05-09_news_mining_energy.md]]
+confidence: high
+last_update: 2026-05-09
+---
 
-**Tipo:** Planta de Licuefacción (GNL).
-**Ubicación:** Provincia de Río Negro, Argentina.
-**Inversión Total:** **US$ 6.900 millones**.
+# Southern Energy (Proyecto GNL)
 
-## Descripción
-El proyecto de **Southern Energy** en Río Negro busca consolidar la capacidad exportadora de gas natural licuado (GNL) de la Argentina hacia mercados globales. Es uno de los hitos más ambiciosos en materia de infraestructura energética tras la finalización del Gasoducto Presidente Néstor Kirchner.
+**Actores:** Pan American Energy (PAE) y Golar LNG.
+**Ubicación:** Golfo San Matías, Provincia de Río Negro.
 
-## Hitos Recientes (2026)
-- **Adhesión al RIGI (Abril 2026):** El proyecto recibió la aprobación formal de los beneficios fiscales y aduaneros bajo el [[RIGI]], garantizando la estabilidad fiscal por 30 años.
-- **Inversión Confirmada:** Monto de **US$ 6.900 millones** destinados a la construcción de trenes de licuefacción y terminal de carga dedicado en la costa rionegrina.
+## Descripción del Proyecto
+Confirmado en mayo de 2026, el proyecto consiste en la instalación de una barcaza de producción de Gas Natural Licuado (GNL) para exportar el excedente de producción de [[Vaca Muerta]].
 
-## Impacto Estratégico
-- Cambio en la matriz exportadora de Argentina (pasando de exportar gas regional a GNL global).
-- Generación masiva de divisas y fortalecimiento de la infraestructura costera.
-- Integración energética entre las provincias productoras (Neuquén) y exportadoras (Río Negro).
+## Inversión y Datos Clave
+- **Monto:** US$ 6.900 millones.
+- **Marco:** Solicitud de adhesión al [[RIGI]] confirmada.
+- **Impacto:** Posiciona a Argentina como un exportador global de GNL de mediana escala antes de la finalización de la planta terrestre a gran escala en Sierra Grande.
 
 ## Conexiones
 - [[Vaca Muerta]]
 - [[RIGI]]
-- [[Energia]]
 - [[Río Negro]]
+- [[Energia]]
