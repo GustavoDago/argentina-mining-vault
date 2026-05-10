@@ -54,6 +54,7 @@
 - [[Health_Check_Report]]
 - [[Oportunidades y Conexiones]]
 - [[Super RIGI e Industrializacion]] [NEW]
+- [[Riesgo Electrico San Juan Red Team]] [NEW]
 
 ## 04 Daily
 - [[2026-05-10_Daily_Report]]
@@ -65,6 +66,7 @@
 - [[2026-04-05_Evaluacion_Oportunidades_Tech]]
 - [[Middleware_eTIR_Bioceanico]]
 - [[Marketplace_Tier2_VacaMuerta]]
+- [[VPP_Mineria_San_Juan]] [NEW]
 
 ## 06 Shadow APIs
 - [[Aprobacion RIGI Upstream Res 484-2026]]

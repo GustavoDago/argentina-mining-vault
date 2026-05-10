@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/06 Shadow APIs/Aduana Paso de Jama.md",
+                "file": "wiki/05 Tech Lead Opps/Middleware_eTIR_Bioceanico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aduana Paso de Jama"
+              "title": "Middleware_eTIR_Bioceanico"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "log.md",
+    "raw/2026-05-10_news_mining_energy.md",
+    "wiki/05 Tech Lead Opps/Marketplace_Tier2_VacaMuerta.md",
+    "wiki/06 Shadow APIs/SIM San Juan Canon Minero.md",
+    "wiki/06 Shadow APIs/Aduana Paso de Jama.md",
     "wiki/06 Shadow APIs/index.md",
     "wiki/06 Shadow APIs/Aprobacion RIGI Upstream Res 484-2026.md",
     "GEMINI.md",
-    "log.md",
     "wiki/04 Daily/2026-04-26_Daily_Report.md",
     "wiki/01 Projects/Sal de Vida.md",
     "wiki/01 Projects/Agua Rica.md",
@@ -197,7 +201,6 @@
     "raw/2026-04-27_news_mining_energy.md",
     "Prompt escéptico.md",
     "Manual de gobernanza.md",
-    "wiki/06 Shadow APIs/Aduana Paso de Jama.md",
     "raw/2026-04-26_news_mining_energy.md",
     "wiki/06 Shadow APIs/Convencion TIR Logistica Bioceanica.md",
     "wiki/04 Daily/2026-04-25_Daily_Report.md",
@@ -208,10 +211,7 @@
     "wiki/01 Projects/Gualcamayo.md",
     "raw/2026-04-23_news_mining_energy.md",
     "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
-    "wiki/06 Shadow APIs/SIM San Juan Canon Minero.md",
-    "wiki/06 Shadow APIs/ENRE Prioridad de Despacho.md",
     "wiki/06 Shadow APIs",
-    "wiki/04 Daily/2026-04-14_Daily_Report.md",
     "wiki/05 Tech Lead Opps"
   ]
 }
