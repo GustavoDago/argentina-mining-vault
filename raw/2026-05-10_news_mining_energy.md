@@ -27,17 +27,22 @@ La Corte de Justicia de Catamarca levantó de forma permanente la medida cautela
 
 ### 6. Energía y GNL (02/05/2026 - 10/05/2026)
 - **Southern Energy GNL:** Pan American Energy y Golar LNG confirmaron inversión de US$ 6.900 millones para el barco de GNL en el Golfo San Matías.
-- **YPF Diesel 10 Minero:** Lanzamiento de combustible adaptado a condiciones extremas de altura y bajas temperaturas.
-- **TGS:** Inicio de ampliación del Gasoducto Perito Moreno; habilitación de nueva capacidad.
+- **Gasoducto Perito Moreno:** Aprobación RIGI para la ampliación del gasoducto (TGS) por más de **US$ 500 millones** (08/05/2026).
+- **YPF Diesel 10 Minero:** Lanzamiento de combustible adaptado a condiciones extremas de altura y bajas temperaturas (07/05/2026).
+- **YPF Shale Oil:** Récord de producción superando los **200.000 barriles diarios** de shale oil en el primer trimestre de 2026 (08/05/2026).
 - **Vista Energy:** Solicitud RIGI para bloques Bandurria Norte y Águila Mora. Target 143.000 boe/d para 2026.
 
 ### 7. Infraestructura: Corredor Bioceánico (08/05/2026)
 El puente Porto Murtinho-Carmelo Peralta alcanzó un 82,5% de avance. Salta acelera obras en la Ruta Nacional 51 para soportar el flujo de 18 proyectos mineros.
 
-### 8. Marco Regulatorio (BORA)
+### 8. Marco Regulatorio (BORA y Provincias - 08/05/2026)
+- **Decreto 105/2026 (BORA):** Reglamentación de la ampliación del RIGI al Upstream. Establece un piso de inversión de **US$ 600 millones** para desarrollos onshore de hidrocarburos líquidos y gaseosos. Prorroga formalmente el plazo de adhesión hasta el **8 de julio de 2027**. Incluye optimizaciones para la distribución de dividendos (alícuota 7%) y trazabilidad cambiaria para aportes de capital.
 - **Resolución 413/2026:** Aprobación RIGI para Veladero (Fases 8 y 9).
+- **Resolución 431/2026:** Aprobación RIGI para Expansión Fase 1B de Minera del Altiplano (Rio Tinto/Arcadium) en Catamarca por US$ 251 millones.
 - **Resolución 484/2026:** Ajuste de ratio de rentabilidad RIGI del 30% al 35% por declino de shale oil.
-- **Decreto 105/2026:** Prórroga formal de adhesión al RIGI hasta julio de 2027.
+- **Mesa Federal Minera (San Juan):** Incorporación formal de la provincia de **Río Negro** a la Mesa Federal Minera el 08/05/2026.
+- **Vaca Muerta en Mendoza:** Quintana aceleró su plan para probar el potencial de Vaca Muerta fuera del núcleo neuquino (08/05/2026).
+- **Acuerdo Región Minera del Litio (Salta/Jujuy/Catamarca):** Decreto 266 (Salta) que aprueba acta acuerdo con el CFI para asistencia técnica y gobernanza de la Región del Litio (04/05 - B.O. 06/05).
 
 ### 9. RIGI: Estadísticas BCRA (Mayo 2026)
 - Ingresos: US$ 1.205 millones brutos / US$ 762 millones netos.

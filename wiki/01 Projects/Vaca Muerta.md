@@ -21,7 +21,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Gas Natural:** Caída interanual del **3,3%**.
 
 ### Hitos Recientes (Mayo 2026)
-- **Megaproyecto RIGI - Chevron (08/05/2026):** Chevron Argentina presentó un proyecto bajo el [[RIGI]] para **El Trapial Este** con una inversión superior a los **US$ 10.000 millones**, marcando un hito para el sector upstream.
+- **Megaproyecto RIGI - Chevron (08/05/2026):** Chevron Argentina presentó un proyecto bajo el [[RIGI]] para **El Trapial Este** con una inversión superior a los **US$ 10.000 millones**, amparado en las nuevas condiciones del **Decreto 105/2026**.
+- **Récord YPF (08/05/2026):** La petrolera de bandera superó los **200.000 barriles diarios** de shale oil, registrando su mejor desempeño histórico trimestral.
 - **Análisis RIGI - Vista Energy (05/05/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro. La empresa proyecta una producción de 143.000 boe/d para 2026.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
@@ -37,8 +38,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance** (Mayo 2026). Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Gasoducto Perito Moreno:** [[TGS]] inició la ampliación y habilitó nueva capacidad de transporte para el shale gas.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance** (Mayo 2026). Se proyecta el inicio de exportaciones para diciembre de 2026.
+- **Gasoducto Perito Moreno:** Aprobación RIGI (Mayo 2026) para la ampliación de [[TGS]] por más de **US$ 500 millones**, fundamental para evacuar el excedente de gas hacia el nodo Bahía Blanca.
 - **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos. El proyecto **Southern Energy** (PAE/Golar) confirmó inversión de **US$ 6.900M** para licuefacción flotante en el Golfo San Matías.
 
 ## Conexiones

@@ -51,11 +51,11 @@ A mayo de 2026, el RIGI se ha consolidado como el motor principal de la reactiva
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
 
-## Hitos Normativos (2026)
-- **Extensión de Plazo (08/05/2026):** El Decreto 105/2026 extendió formalmente el plazo de adhesión al RIGI hasta el **8 de julio de 2027**.
+## Hitos Normativos (Mayo 2026)
+- **Reglamentación Upstream y Prórroga (08/05/2026):** El **Decreto 105/2026** reglamentó la ampliación del RIGI al Upstream con un piso de inversión de **US$ 600M** para proyectos onshore. Asimismo, extendió formalmente el plazo de adhesión hasta el **8 de julio de 2027**.
 - **Ajuste de Rentabilidad (27/04/2026):** La Resolución 484/2026 elevó el umbral de rentabilidad del 30% al 35% para adaptar el régimen a la curva de declino de proyectos de shale oil.
-- **Nuevas Adhesiones (Mayo 2026):** Aprobación formal de **Veladero** (Res. 413/2026) y **Minera del Altiplano** (Res. 431/2026).
-- **Extensión Upstream (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento upstream de petróleo y gas.
+- **Nuevas Adhesiones (Mayo 2026):** Aprobación formal de **Veladero** (Res. 413/2026), **Minera del Altiplano** (Res. 431/2026) y la ampliación del **Gasoducto Perito Moreno** de TGS (Mayo 2026).
+- **Mesa Federal Minera (08/05/2026):** Incorporación formal de la provincia de **Río Negro** al espacio de coordinación minera nacional.
 
 ## Beneficios Clave para Inversores
 - **Estabilidad Fiscal:** No se verán afectados por nuevos impuestos nacionales o aumento de tasas provinciales durante 30 años.

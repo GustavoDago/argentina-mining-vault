@@ -18,12 +18,13 @@ El Ejecutivo busca dar el salto del extractivismo a la industrialización.
 - **Impacto:** Busca atraer tecnología de punta y servicios avanzados que actualmente no tienen presencia en el país.
 
 ### 2. Hidrocarburos: El Gigante Chevron
-- **Vaca Muerta:** Chevron presentó un proyecto RIGI por **>US$ 10.000M** en el área **El Trapial Este**. Representa uno de los mayores compromisos de inversión extranjera directa en la historia reciente de la cuenca.
-- **Exportaciones:** TGS y PAE/Golar avanzan en la infraestructura de transporte y licuefacción para viabilizar el excedente de producción.
+- **Vaca Muerta:** Chevron presentó un proyecto RIGI por **>US$ 10.000M** en el área **El Trapial Este**, traccionado por las nuevas condiciones de upstream del **Decreto 105/2026**.
+- **Producción:** YPF alcanzó un récord de **200.000 bpd** de shale oil (08/05/2026).
+- **Exportaciones:** Aprobación RIGI para la ampliación del **Gasoducto Perito Moreno (TGS)** por **>US$ 500M** para aumentar la evacuación de gas.
 
 ### 3. Minería: Récord y Seguridad Jurídica
 - **Producción:** El IPI minero de marzo de 2026 alcanzó un **pico histórico (+10,4% interanual)**.
-- **Catamarca:** El fallo definitivo de la Corte de Justicia sobre el **Río Los Patos** otorga previsibilidad a las expansiones de **Arcadium Lithium** y **Posco**.
+- **Catamarca:** El fallo definitivo de la Corte de Justicia sobre el **Río Los Patos** (08/05/2026) coincide con la aprobación RIGI de la **Expansión Fase 1B** de Minera del Altiplano (Res. 431/2026) por **US$ 251M**.
 - **Cobre:** NGEx Minerals ratifica leyes de hasta **18,9% en Lunahuasi** y acelera su ingreso al RIGI para antes de julio de 2027.
 
 ### 4. Infraestructura y Logística
@@ -37,7 +38,7 @@ El Ejecutivo busca dar el salto del extractivismo a la industrialización.
 ## Próximos Pasos de Monitoreo
 1. Seguimiento de la reglamentación del Súper RIGI en el BORA.
 2. Evolución de las aprobaciones RIGI para Posco y Distrito Vicuña.
-3. Impacto de los nuevos incentivos en la cartera de proyectos de electromovilidad.
+3. Monitoreo de la integración de **Río Negro** en la Mesa Federal Minera y sus efectos en el proyecto de GNL.
 
 ---
 **Analista:** Energon
