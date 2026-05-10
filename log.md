@@ -1,5 +1,18 @@
 # Log de Operaciones
 
+## [2026-05-10] sync | Sincronización Jules Intel (09/05 - 10/05)
+- **Ingesta:** Procesados reportes `raw/2026-05-09_news_mining_energy.md` y `raw/2026-05-10_news_mining_energy.md`.
+- **Hitos Inversión:**
+    - **Vaca Muerta:** Solicitudes RIGI de **Pluspetrol** (US$ 12.000M) y **Chevron** (US$ 10.000M).
+    - **GNL:** Confirmación **Southern Energy** (US$ 6.900M) en Río Negro.
+    - **Cobre:** Ratificación **Taca Taca** (US$ 5.250M).
+- **Hitos Jurídicos/Regulatorios:**
+    - **Catamarca:** Levantamiento definitivo cautelar Río Los Patos (impacto en [[Posco]] y Arcadium).
+    - **Nacional:** Anuncio del **"Súper RIGI"** para industrialización y alta tecnología.
+- **Entidades Creadas:** `Pluspetrol.md`, `Tecpetrol.md`, `Phoenix Global Resources.md`, `Sal de Oro.md`.
+- **Actualizaciones:** `RIGI.md`, `Vaca Muerta.md`, `Cobre.md`, `Litio.md`, `Corredor Bioceanico.md`.
+- **Salud:** Limpieza de artefactos de merge en archivos raw. Resueltas 4 páginas fantasma.
+
 ## [2026-05-08] sync | Consolidación Súper RIGI y Megaproyectos
 - **Ingesta:** Procesado reporte `raw/2026-05-08_news_mining_energy.md` y resolución de conflictos de rama remota.
 - **Hitos Regulatorios:** Anuncio de **Súper RIGI** (Milei, US); Levantamiento definitivo de cautelar en Río Los Patos (Catamarca).

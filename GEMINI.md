@@ -55,7 +55,7 @@ last_update: YYYY-MM-DD
 
 ## 3. Protocolos de Operación
 
-# WORKFLOW DE INGESTA (INGEST)
+### WORKFLOW DE INGESTA (INGEST)
 
 Cuando el usuario te pida procesar un nuevo archivo en `00_Raw_Sources/`:
 
@@ -83,7 +83,7 @@ El agente debe identificar periódicamente:
 - **Huérfanos:** Notas sin conexiones entrantes o salientes.
 
 ---
-# WORKFLOW DE SINCRONIZACIÓN (JULES INTEL)
+### WORKFLOW DE SINCRONIZACIÓN (JULES INTEL)
 Cuando el usuario indique "Procesa la inteligencia de Jules" o "Ingesta el Pull Request":
 1. Escanea la carpeta `00_Raw_Sources/` en busca de archivos creados por Jules que aún no estén registrados en `log.md`.
 2. Procesa cada archivo uno por uno siguiendo el "WORKFLOW DE INGESTA" estándar.
