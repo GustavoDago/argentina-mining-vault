@@ -52,8 +52,8 @@ A mayo de 2026, el RIGI se ha consolidado como el motor principal de la reactiva
 El RIGI está consolidando una **"economía a dos velocidades"** (crecimiento en forma de "K"). Los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%**, mientras que los sectores dependientes del mercado interno enfrentan una caída del **-4,9%**.
 
 ## Hitos Normativos (2026)
-- **Extensión de Plazo y Upstream (08/05/2026):** El Decreto 105/2026 extendió el plazo de adhesión hasta julio de 2027 y habilitó beneficios para todo el segmento upstream de petróleo y gas (incluyendo Cuenca Austral y Chubut).
-- **Ajuste de Rentabilidad (27/04/2026):** La **Resolución 484/2026** elevó el umbral de rentabilidad del 30% al 35% para adaptar el régimen a la curva de declino de proyectos de shale oil y minería profunda.
+- **Extensión de Plazo y Upstream (08/05/2026):** El Decreto 105/2026 extendió el plazo de adhesión hasta julio de 2027 y habilitó beneficios para todo el segmento upstream de petróleo y gas.
+- **Ajuste de Rentabilidad (27/04/2026):** La **Resolución 484/2026** elevó el umbral de rentabilidad del 30% al **35%** para adaptar el régimen a la curva de declino de proyectos de shale oil e infraestructura eléctrica.
 - **Nuevas Adhesiones (Mayo 2026):** Aprobación formal de Veladero (Res. 413/2026) y Minera del Altiplano (Res. 431/2026).
 
 ## Beneficios Clave para Inversores

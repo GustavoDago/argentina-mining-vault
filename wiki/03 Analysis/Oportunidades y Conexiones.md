@@ -11,10 +11,10 @@ last_update: 2026-05-10
 ## Oportunidades de Negocio Identificadas
 
 1.  **Súper RIGI e Industrialización de Base (10/05/2026)**:
-    - El anuncio del **"Súper RIGI"** abre una ventana sin precedentes para la **industrialización de recursos naturales**. Sectores como el refinamiento de cobre, fabricación de baterías de litio y autos eléctricos ahora cuentan con incentivos superiores. Oportunidad para atraer fabricantes de tecnología renovable y electromovilidad.
+    - El anuncio del **"Súper RIGI"** abre una ventana sin precedentes para la **industrialización de recursos naturales** (baterías, refinado de cobre) y sectores de **Alta Tecnología** (IA, Datacenters). Oportunidad de simbiosis: Datacenters traccionando energía renovable y beneficiándose de la estabilidad térmica minera.
 
 2.  **Megaproyectos de "Big Capital" y Saturación de Servicios**:
-    - Las solicitudes de **[[Pluspetrol]]** (US$ 12.000M), **[[Chevron]]** (US$ 10.000M), **[[El Pachón]]** (US$ 11.600M) y **[[Agua Rica]]** (US$ 6.699M) confirman que el RIGI está logrando atraer capitales de escala global. Esto satura la demanda de servicios especializados (perforación, completación), abriendo un mercado de "segunda vuelta" para empresas locales.
+    - Las solicitudes de **[[Pluspetrol]]** (US$ 12.000M), **[[Chevron]]** (US$ 10.000M), **[[El Pachón]]** (US$ 11.600M) y **[[Agua Rica]]** (US$ 6.699M) saturan la demanda de servicios especializados, abriendo un mercado de "segunda vuelta" para empresas locales.
 
 3.  **Infraestructura Eléctrica y Arbitraje de Despacho**:
     - El conflicto entre **[[Los Azules]]** y **[[Distrito Vicuña]]** (BHP/Lundin) por la prioridad de la línea de 500 kV (Res. ENRE 079/2026 y 219/2026) confirma que el cuello de botella sistémico es la evacuación eléctrica. Oportunidad masiva para la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + GNL).
@@ -37,14 +37,14 @@ last_update: 2026-05-10
 9.  **Tokenización de Contenido Local**:
     - Creación de un mercado secundario de créditos para cumplir con el requisito de 20% de inversión en proveedores locales bajo el RIGI, permitiendo a grandes empresas "comprar" cumplimiento de pymes certificadas.
 
-10. **Geotermia en Pozos Maduros**:
-    - Reutilización de pozos de petróleo convencional abandonados (en declino del 9.8%) para generación geotérmica (heat-to-power) en regiones mineras, proporcionando energía de base 24/7.
+10. **Geotermia en Pozos Maduros (Reuso Energético)**:
+    - Reutilización de pozos de petróleo convencional abandonados (en declino del 9.8%) para generación geotérmica (heat-to-power) de baja entalpía, proporcionando energía de base 24/7 para campamentos mineros.
 
 11. **Des-riesgo Multilateral (Patrón IFC/BID)**:
     - Los acuerdos de **[[Taca Taca]]** y **[[Rincón]]** con la IFC/BID consolidan el cumplimiento de estándares ASG como requisito *de facto* para financiamiento bajo el RIGI.
 
-12. **Efecto Multiplicador del "Mini RIGI" (Jujuy)**:
-    - Incentivos para inversiones desde US$ 5 millones en Jujuy formalizan la cadena de valor de pymes tecnológicas y de servicios mineros.
+12. **Cluster de Servicios Mendoza (Tier 2/3)**:
+    - La incorporación de **[[Mendoza]]** a la Mesa del Cobre y la reforma de la **[[Ley de Glaciares]]** habilitan la reconversión de proveedores petroleros hacia la minería (drilling de altura, logística pesada).
 
 ## Conexiones Estratégicas y Ocultas
 

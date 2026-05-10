@@ -27,6 +27,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Aprobación RIGI TGS (08/05/2026):** **[[TGS]]** recibió aprobación formal para expansión de gasoductos por **US$ 700 millones**.
 - **Barcaza GNL en Río Negro (06/05/2026):** PAE y Golar LNG (Southern Energy) confirmaron inversión de **US$ 6.900 millones** para unidad flotante de licuefacción (FLNG) en el Golfo San Matías.
 - **Aceleración de Vista Energy (06/05/2026):** Miguel Galuccio elevó la meta a **143.000 boe/d** para fines de 2026 y aplicó formalmente al [[RIGI]] para Bandurria Norte y Águila Mora.
+- **Expansión GeoPark (05/05/2026):** Anuncio de inversión de **US$ 600 millones** adicionales en sus áreas shale, buscando elevar la producción a 6.500 bbl/d.
 - **YPF Diesel 10 Minero (08/05/2026):** Lanzamiento de combustible especializado para condiciones extremas, reforzando la sinergia con la [[Mineria]] de altura.
 - **Planta de Fertilizantes (27/04/2026):** **[[Pampa Energía]]** solicitó RIGI para planta de urea en Bahía Blanca (**US$ 2.400 millones**), con capacidad de 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción (Argentina LNG).

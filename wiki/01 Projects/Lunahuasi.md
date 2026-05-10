@@ -12,7 +12,10 @@ last_update: 2026-05-10
 **Operadora:** NGEx Minerals (Grupo Lundin / Distrito Vicuña).
 
 ## Descripción
-Proyecto de exploración avanzada y descubrimiento de clase mundial caracterizado por concentraciones excepcionalmente altas de cobre. Es considerado por expertos como la "Vaca Muerta del Cobre" por su potencial de escala y calidad extraordinaria del recurso.
+Proyecto de exploración avanzada y descubrimiento de clase mundial caracterizado por concentraciones excepcionalmente altas de cobre. Es considerado por expertos como la **"Vaca Muerta del Cobre"** por su potencial de escala y calidad extraordinaria del recurso (leyes récord de hasta 18,9%).
+
+## Hitos Recientes (Mayo 2026)
+- **Confirmación de Potencial (Mayo 2026):** Los últimos resultados de exploración ratificaron leyes extraordinarias con picos de **18,9% de cobre**, consolidando su estatus como uno de los yacimientos de más alta ley a nivel global.
 
 ## Hitos Recientes (Mayo 2026)
 - **Aceleración RIGI (10/05/2026):** NGEx Minerals anunció que buscará completar el informe económico antes de mediados de 2027 para asegurar el ingreso de Lunahuasi al [[RIGI]] antes del vencimiento del plazo.
