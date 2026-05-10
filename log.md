@@ -20,6 +20,7 @@
 - **Marketplace Vaca Muerta:** Creado `Esceptico_Marketplace_Tier2_VacaMuerta.md`. Expuesta la resistencia de las operadoras a compartir secretos industriales y el riesgo de monopsonio.
 - **Middleware eTIR:** Creado `Esceptico_Middleware_eTIR_Bioceanico.md`. Riesgo de sabotaje sindical y falta de retrocompatibilidad en APIs estatales.
 - **Shadow APIs (RIGI & ENRE):** Creados `Esceptico_Aprobacion_RIGI_Res484.md` y `Esceptico_ENRE_Prioridad_Despacho.md`. Riesgo de reacción regulatoria adversa y captura de renta (peajes fantasma).
+- **SIM San Juan:** Creado `Esceptico_SIM_San_Juan.md`. Se cuestionó el TAM y el riesgo de asumir responsabilidad civil por tareas administrativas de bajo valor pero alto impacto legal.
 - **Índice:** Actualizado `index.md` con la nueva sección completa.
 
 ## [2026-05-10] opps | Infraestructura Crítica y VPP
