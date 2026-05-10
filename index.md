@@ -84,6 +84,7 @@
 - [[Esceptico_Aprobacion_RIGI_Res484]] [NEW]
 - [[Esceptico_ENRE_Prioridad_Despacho]] [NEW]
 - [[Esceptico_SIM_San_Juan]] [NEW]
+- [[Esceptico_Tokenizacion_Contenido_Local]] [NEW]
 
 ---
 *Ultima actualización sincronizada: 2026-05-10 20:50*
