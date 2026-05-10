@@ -68,6 +68,10 @@
 
 ## 06 Shadow APIs
 - [[Aprobacion RIGI Upstream Res 484-2026]]
+- [[Aduana Paso de Jama]]
+- [[Convencion TIR Logistica Bioceanica]]
+- [[ENRE Prioridad de Despacho]]
+- [[SIM San Juan Canon Minero]]
 
 ---
 *Ultima actualización sincronizada: 2026-05-10 19:50*

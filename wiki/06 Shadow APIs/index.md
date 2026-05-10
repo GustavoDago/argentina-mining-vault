@@ -19,3 +19,10 @@ Cada documento en este directorio debe seguir la lógica de un endpoint de softw
 - **Latencia Real:** Tiempo SLA normativo vs. Tiempo de latencia en el mundo real.
 - **Fallas (Error Codes):** Puntos donde el trámite se traba (fricciones, arbitrio humano).
 - **Oportunidad de Abstracción:** Cómo automatizar o puentear esta deficiencia mediante software privado.
+
+## Shadow APIs Documentadas
+- [[Aprobacion RIGI Upstream Res 484-2026]]: Ingeniería del Cociente de Rentabilidad.
+- [[Aduana Paso de Jama]]: Procesamiento de despachos en frontera.
+- [[Convencion TIR Logistica Bioceanica]]: Interoperabilidad aduanera internacional.
+- [[ENRE Prioridad de Despacho]]: Arbitraje de acceso a capacidad eléctrica.
+- [[SIM San Juan Canon Minero]]: Automatización de cumplimiento provincial.
