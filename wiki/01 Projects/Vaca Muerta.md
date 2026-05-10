@@ -1,10 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-<<<<<<< HEAD
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]], [[2026-05-08_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]], [[2026-05-08_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-08
+last_update: 2026-05-10
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -17,7 +16,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 
 ### Eficiencia y Récords (Mayo 2026)
 - **Producción Nacional:** El shale oil ya representa el **70% de la producción total** de crudo de Argentina.
-- **Récord de Fractura:** Se alcanzó un hito de **1.700 etapas de fractura** mensuales en abril de 2026.
+- **Récord de Fractura:** Se alcanzó un hito de **1.700 etapas de fractura** mensuales (ratificado en abril y mayo de 2026).
 - **Proyección 2026:** Se estima cerrar el año con un récord histórico de **900.000 bpd**, superando ampliamente los 610.000 bpd de inicios de año.
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 
@@ -25,28 +24,28 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Megaproyecto Pluspetrol (02/05/2026):** Solicitud RIGI por **US$ 12.000 millones** para Bajo del Choique–La Invernada (meta: 100.000 bpd).
 - **Megaproyecto Chevron (08/05/2026):** **Chevron Argentina** anunció proyecto RIGI por **>US$ 10.000 millones** para El Trapial Este.
 - **Aprobación RIGI TGS (08/05/2026):** **[[TGS]]** recibió aprobación formal para expansión de gasoductos por **US$ 700 millones**.
-- **Barcaza GNL en Río Negro (06/05/2026):** PAE y Golar LNG confirmaron inversión de **US$ 6.900 millones** para unidad flotante de licuefacción (FLNG).
-- **Aceleración de Vista Energy (06/05/2026):** Meta elevada a **143.000 boe/d** para fines de 2026.
+- **Barcaza GNL en Río Negro (06/05/2026):** PAE y Golar LNG (Southern Energy) confirmaron inversión de **US$ 6.900 millones** para unidad flotante de licuefacción (FLNG) en el Golfo San Matías.
+- **Aceleración de Vista Energy (06/05/2026):** Miguel Galuccio elevó la meta a **143.000 boe/d** para fines de 2026 y evalúa el [[RIGI]] para bloques clave (Bandurria Norte, Águila Mora y Bajo del Toro).
 - **YPF Diesel 10 Minero (08/05/2026):** Lanzamiento de combustible especializado para condiciones extremas, reforzando la sinergia con la [[Mineria]] de altura.
+- **Planta de Fertilizantes (27/04/2026):** **[[Pampa Energía]]** solicitó RIGI para planta de urea en Bahía Blanca (**US$ 2.400 millones**), con capacidad de 2,1 millones de toneladas anuales.
+- **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción (Argentina LNG).
 
 ### Hitos de Abril 2026
 - **Sintonía Fina RIGI (24/04/2026):** La **Resolución 484/2026** flexibilizó el ratio de rentabilidad al 35% para upstream no convencional, clave para proyectos de shale oil.
-- **Planta de Fertilizantes (27/04/2026):** **[[Pampa Energía]]** solicitó RIGI para planta en Bahía Blanca (**US$ 2.400 millones**).
 - **Inversiones RIGI Confirmadas:** Phoenix Resources (US$ 6.000M), Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M).
+- **Expansión del RIGI al Upstream (18/04/2026):** El Decreto 105/2026 extendió los beneficios del [[RIGI]] a todo el segmento del upstream de petróleo y gas.
+- **Traspaso de Activos (18/04/2026):** Traspaso de áreas Aguada Villanueva, Meseta Buena Espera y Las Tacanas de Pluspetrol a **YPF**.
+- **Expansión a Nuevas Fronteras:** YPF confirmó aceleración en **[[Palermo Aike]]** (Santa Cruz) y exploraciones en formación **D-129** (Chubut).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance** (08/05/2026). Fundamental para evacuar el incremento de producción previsto; inicio de exportaciones proyectado para diciembre de 2026.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos (Acuerdo ratificado el 22/04/2026).
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance** (Mayo 2026). Fundamental para evacuar el incremento de producción previsto; inicio de exportaciones proyectado para diciembre de 2026.
+- **Gasoducto Perito Moreno:** [[TGS]] inició la ampliación y habilitó nueva capacidad de transporte para el shale gas.
+- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos.
 
 ## Conexiones
 - [[RIGI]]
 - [[Energia]]
 - [[Neuquén]]
 - [[Palermo Aike]]
-
-
-## Conexiones
-- [[RIGI]]
-- [[Energia]]
-- [[Neuquén]]
-- [[Palermo Aike]]
+- [[TGS]]
+- [[Mineria]]

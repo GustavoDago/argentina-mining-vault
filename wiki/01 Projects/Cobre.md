@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[Infobae (Abril 2026)]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]], [[Infobae (Abril 2026)]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-10
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -21,7 +21,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
-    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre".
+    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Ratificado mayo 2026). Calificado como la "Vaca Muerta del Cobre".
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
 ## Marco de Incentivos
@@ -41,6 +41,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 4. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
+- **Hito Reciente (Mayo 2026):** Proyecta inversiones por **US$ 790 millones para el año 2026**. Presentación ante el Senado de Salta para acelerar aprobación de EIA y concesiones de agua antes del vencimiento del plazo RIGI. El proyecto es clave para la viabilidad del [[Corredor Bioceanico]].
 
 ### 5. [[Agua Rica]] - MARA (Catamarca)
 - **Operador:** Glencore.
@@ -49,8 +50,10 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
-- **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino.
-- **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y Mendoza.
+- **Industrialización (10/05/2026):** El anuncio del **Súper RIGI** abre la puerta al refinamiento y laminado de cobre en territorio nacional.
+- **Reactivación (Mayo 2026):** Austral Gold retomó la producción en **Casposo** (San Juan), proyectando exportaciones por US$ 60 millones.
+- **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
+- **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
 
 ## Conexiones
 - [[RIGI]]
