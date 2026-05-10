@@ -6,7 +6,7 @@ confidence: high
 last_update: 2026-04-27
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Reaprovechamiento Geotérmico de Pozos Maduros (Mayo 2026)**:
+    - La declinación acelerada de pozos convencionales en cuencas maduras abre una oportunidad para la **geotermia de baja entalpía**. El uso del gradiente geotérmico de pozos petroleros abandonados para generación de energía de base (24/7) y calor industrial en zonas mineras alejadas puede reducir drásticamente el OPEX y mejorar el perfil ESG.
+21. **Tokenización de Local Content RIGI (Mayo 2026)**:
+    - Ante la dificultad de algunos megaproyectos para alcanzar el 20% de inversión en proveedores locales PyME, surge la oportunidad de crear un **mercado de créditos de contenido local**. Proyectos que excedan su cupo podrían tokenizar ese excedente para venderlo a otros VPUs, arbitrando la eficiencia en el desarrollo de la cadena de valor regional.
+22. **Súper RIGI y el Hub Tecnológico (Mayo 2026)**:
+    - La nueva iniciativa legislativa para atraer sectores de IA y servicios avanzados crea una oportunidad de **simbiosis energética**. La instalación de grandes Data Centers puede traccionar la demanda de energía renovable (solar/eólica) y beneficiarse de la estabilidad térmica de las minas subterráneas o el enfriamiento por GNL.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.

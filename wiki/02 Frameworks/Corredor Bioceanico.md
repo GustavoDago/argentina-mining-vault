@@ -2,9 +2,9 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (Mayo 2026)
 - **Brasil - Paraguay:**
-    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
+    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico (confirmado al 08/05/2026). La meta de inauguración técnica se mantiene para junio de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
@@ -36,8 +36,12 @@
 graph TD
     A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
     A --> C[RN 51 - Salta]
+    A --> P[Puente Porto Murtinho-Carmelo Peralta 82.5%]
+    P --> At[Salida Atlántico - Brasil]
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
     B --> F[Proyectos de Litio]
     C --> G[Bypass Campo Quijano]
+    D -.-> H[Ferrocarril Belgrano Cargas]
+    H --> E
 ```
