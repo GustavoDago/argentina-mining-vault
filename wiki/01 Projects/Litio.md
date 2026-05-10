@@ -1,14 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-08_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-08_news_mining_energy.md]], [[2026-05-09_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
 confidence: high
 last_update: 2026-05-10
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país. En mayo de 2026, la Cámara Minera de Chile expresó preocupación por la creciente competitividad argentina impulsada por el [[RIGI]].
 
 ## Proyectos y Producción (2026)
 A mayo de 2026, la Argentina cuenta con **8 proyectos en operación comercial**. La producción minera alcanzó un **récord histórico en marzo de 2026** (IPI +10,4%), traccionada principalmente por el litio y Vaca Muerta.
@@ -21,7 +21,7 @@ A mayo de 2026, la Argentina cuenta con **8 proyectos en operación comercial**.
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
-- **Ratificación de Inversión (08/05/2026):** Rio Tinto ratificó una inversión total de **US$ 2.500 millones** tras consolidar su posición con la adquisición de Arcadium.
+- **Ratificación de Inversión (08/05/2026):** Rio Tinto ratificó una inversión total de **US$ 2.500 millones** tras completar la adquisición de Arcadium Lithium y consolidar su posición bajo el RIGI.
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
@@ -40,7 +40,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
-- **Hito Judicial en Catamarca (08/05/2026):** La Corte de Justicia provincial levantó de forma **permanente** la medida cautelar sobre la cuenca del **Río Los Patos**. Este fallo valida los estudios de impacto ambiental acumulado y despeja el camino para la expansión de los proyectos de **Arcadium Lithium** (Fénix) y **Posco** (Sal de Oro).
+- **Hito Judicial en Catamarca (08/05/2026):** La Corte de Justicia provincial levantó de forma **permanente** la medida cautelar sobre la cuenca del **Río Los Patos**. Este fallo valida los estudios de impacto ambiental acumulado y despeja el camino para la expansión sin restricciones judiciales de los proyectos de **Arcadium Lithium** (Fénix) y **Posco** (Sal de Oro).
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
