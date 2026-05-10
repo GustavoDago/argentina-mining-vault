@@ -17,7 +17,10 @@
 - **Estructura:** Creación de la capa `wiki/07 Analisis Esceptico/` siguiendo la directiva de la constitución (GEMINI.md).
 - **VPP San Juan:** Creado `Esceptico_VPP_San_Juan.md`. Se identificó que la resistencia no es técnica, sino el riesgo de que las mineras cedan el control de su generación a un tercero (Single Point of Failure).
 - **Sat-Edge Bioceánico:** Creado `Esceptico_Sat-Edge_Bioceanico.md`. Riesgo estructural: la fricción aduanera es intencional; digitalizarla no fuerza su adopción por parte de funcionarios aduaneros hostiles.
-- **Índice:** Actualizado `index.md` con la nueva sección.
+- **Marketplace Vaca Muerta:** Creado `Esceptico_Marketplace_Tier2_VacaMuerta.md`. Expuesta la resistencia de las operadoras a compartir secretos industriales y el riesgo de monopsonio.
+- **Middleware eTIR:** Creado `Esceptico_Middleware_eTIR_Bioceanico.md`. Riesgo de sabotaje sindical y falta de retrocompatibilidad en APIs estatales.
+- **Shadow APIs (RIGI & ENRE):** Creados `Esceptico_Aprobacion_RIGI_Res484.md` y `Esceptico_ENRE_Prioridad_Despacho.md`. Riesgo de reacción regulatoria adversa y captura de renta (peajes fantasma).
+- **Índice:** Actualizado `index.md` con la nueva sección completa.
 
 ## [2026-05-10] opps | Infraestructura Crítica y VPP
 - **Investigación:** Profundización en los riesgos eléctricos de San Juan y el "Apagón Digital" del Corredor Bioceánico.

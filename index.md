@@ -79,6 +79,10 @@
 ## 07 Analisis Esceptico
 - [[Esceptico_VPP_San_Juan]] [NEW]
 - [[Esceptico_Sat-Edge_Bioceanico]] [NEW]
+- [[Esceptico_Marketplace_Tier2_VacaMuerta]] [NEW]
+- [[Esceptico_Middleware_eTIR_Bioceanico]] [NEW]
+- [[Esceptico_Aprobacion_RIGI_Res484]] [NEW]
+- [[Esceptico_ENRE_Prioridad_Despacho]] [NEW]
 
 ---
 *Ultima actualización sincronizada: 2026-05-10 20:50*
