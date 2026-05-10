@@ -67,6 +67,7 @@
 - [[Middleware_eTIR_Bioceanico]]
 - [[Marketplace_Tier2_VacaMuerta]]
 - [[VPP_Mineria_San_Juan]] [NEW]
+- [[Sat-Edge_Bioceanico]] [NEW]
 
 ## 06 Shadow APIs
 - [[Aprobacion RIGI Upstream Res 484-2026]]

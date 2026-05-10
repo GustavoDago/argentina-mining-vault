@@ -13,6 +13,14 @@
 - **Actualizaciones:** `RIGI.md`, `Vaca Muerta.md`, `Cobre.md`, `Litio.md`, `Corredor Bioceanico.md`.
 - **Salud:** Limpieza de artefactos de merge en archivos raw. Resueltas 4 páginas fantasma.
 
+## [2026-05-10] opps | Infraestructura Crítica y VPP
+- **Investigación:** Profundización en los riesgos eléctricos de San Juan y el "Apagón Digital" del Corredor Bioceánico.
+- **Shadow APIs:** Refinada [[Aprobacion RIGI Upstream Res 484-2026]] incorporando la Unidad de Evaluación RIGI (UER).
+- **Nuevas Tesis (Tech Lead):**
+    - `VPP_Mineria_San_Juan.md`: Orquestación de micro-redes para bypass de red interconectada saturada.
+    - `Sat-Edge_Bioceanico.md`: Solución satelital y edge computing para digitalización de aduanas en zonas remotas.
+- **Análisis Escéptico:** Creado [[Riesgo Electrico San Juan Red Team.md]] y [[Super RIGI e Industrializacion.md]].
+
 ## [2026-05-08] sync | Consolidación Súper RIGI y Megaproyectos
 - **Ingesta:** Procesado reporte `raw/2026-05-08_news_mining_energy.md` y resolución de conflictos de rama remota.
 - **Hitos Regulatorios:** Anuncio de **Súper RIGI** (Milei, US); Levantamiento definitivo de cautelar en Río Los Patos (Catamarca).
