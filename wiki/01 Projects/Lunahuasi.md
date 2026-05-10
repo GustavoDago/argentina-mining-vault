@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper, gold, silver]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-10
 ---
 
 # Proyecto Lunahuasi (Cobre, Oro, Plata)
@@ -12,7 +12,10 @@ last_update: 2026-04-27
 **Operadora:** NGEx Minerals (Grupo Lundin / Distrito Vicuña).
 
 ## Descripción
-Proyecto de exploración avanzada y descubrimiento de clase mundial caracterizado por concentraciones excepcionalmente altas de cobre. Es considerado por expertos como la "Vaca Muerta del Cobre" por su potencial de escala y calidad extraordinaria del recurso.
+Proyecto de exploración avanzada y descubrimiento de clase mundial caracterizado por concentraciones excepcionalmente altas de cobre. Es considerado por expertos como la **"Vaca Muerta del Cobre"** por su potencial de escala y calidad extraordinaria del recurso (leyes récord de hasta 18,9%).
+
+## Hitos Recientes (Mayo 2026)
+- **Confirmación de Potencial (Mayo 2026):** Los últimos resultados de exploración ratificaron leyes extraordinarias con picos de **18,9% de cobre**, consolidando su estatus como uno de los yacimientos de más alta ley a nivel global.
 
 ## Hitos Recientes (Abril 2026)
 - **"Vaca Muerta del Cobre" (27/04/2026):** El titular de CAEM, Roberto Cacciola, ratificó el potencial de clase mundial del proyecto, destacando las leyes récord y la necesidad del [[RIGI]] para viabilizar los US$ 40.000 millones necesarios para el desarrollo integral del distrito.

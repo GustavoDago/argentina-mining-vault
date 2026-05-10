@@ -1,15 +1,20 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-10
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
-**Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
+**Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente por el Decreto 105/2026).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
+
+## Hitos Normativos y Evolución (Mayo 2026)
+- **"Súper RIGI" (08/05/2026):** El Poder Ejecutivo anunció una ampliación del régimen destinada a sectores de alta tecnología (IA, centros de datos, servicios avanzados) y mayor valor agregado industrial (baterías de litio, refinamiento de cobre).
+- **Ajuste de Rentabilidad (Res. 484/2026):** El Ministerio de Economía modificó el ratio de rentabilidad exigido del 30% al **35%**, adaptando el marco a las especificidades de los proyectos de shale oil (declino acelerado) y grandes obras de infraestructura eléctrica.
+- **Impacto en el Empleo:** Proyecciones oficiales estiman la creación de **36.873 empleos directos e indirectos** a partir de los proyectos ya aprobados. San Juan lidera el ranking provincial con 12.939 nuevos puestos.
 
 ## Tablero de Control (Abril 2026)
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
@@ -28,8 +33,12 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
     - Desembolsos mínimos por etapa: **US$ 1.000 millones**.
     - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
 
-### Listado de Adhesiones y Evaluaciones (Abril 2026):
-1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M** (paquete financiamiento US$ 1.175M).
+### Listado de Adhesiones y Evaluaciones (Mayo 2026):
+1.  **[[Vaca Muerta]] (Chevron)** - El Trapial Este. Inversión: **US$ 10.000M** (08/05/2026).
+2.  **[[Vaca Muerta]] (Pluspetrol)** - Bajo del Choique-La Invernada. Inversión: **US$ 12.000M** (Mayo 2026).
+3.  **[[Los Azules]]** (McEwen Copper, San Juan) - Aprobado formalmente Mayo 2026. Inversión: **US$ 2.672M**.
+4.  **[[TGS]]** (Neuquén) - Expansión de gasoductos. Inversión: **US$ 700M** (Mayo 2026).
+5.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M** (paquete financiamiento US$ 1.175M).
 2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
 3.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]].
 4.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica.
