@@ -13,6 +13,12 @@
 - **Actualizaciones:** `RIGI.md`, `Vaca Muerta.md`, `Cobre.md`, `Litio.md`, `Corredor Bioceanico.md`.
 - **Salud:** Limpieza de artefactos de merge en archivos raw. Resueltas 4 páginas fantasma.
 
+## [2026-05-10] red-team | Ejecución de Análisis Escéptico
+- **Estructura:** Creación de la capa `wiki/07 Analisis Esceptico/` siguiendo la directiva de la constitución (GEMINI.md).
+- **VPP San Juan:** Creado `Esceptico_VPP_San_Juan.md`. Se identificó que la resistencia no es técnica, sino el riesgo de que las mineras cedan el control de su generación a un tercero (Single Point of Failure).
+- **Sat-Edge Bioceánico:** Creado `Esceptico_Sat-Edge_Bioceanico.md`. Riesgo estructural: la fricción aduanera es intencional; digitalizarla no fuerza su adopción por parte de funcionarios aduaneros hostiles.
+- **Índice:** Actualizado `index.md` con la nueva sección.
+
 ## [2026-05-10] opps | Infraestructura Crítica y VPP
 - **Investigación:** Profundización en los riesgos eléctricos de San Juan y el "Apagón Digital" del Corredor Bioceánico.
 - **Shadow APIs:** Refinada [[Aprobacion RIGI Upstream Res 484-2026]] incorporando la Unidad de Evaluación RIGI (UER).

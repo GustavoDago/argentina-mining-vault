@@ -76,5 +76,10 @@
 - [[ENRE Prioridad de Despacho]]
 - [[SIM San Juan Canon Minero]]
 
+## 07 Analisis Esceptico
+- [[Esceptico_VPP_San_Juan]] [NEW]
+- [[Esceptico_Sat-Edge_Bioceanico]] [NEW]
+
 ---
-*Ultima actualización sincronizada: 2026-05-10 19:50*
+*Ultima actualización sincronizada: 2026-05-10 20:50*
+
