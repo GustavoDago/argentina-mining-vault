@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-10
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -11,10 +11,10 @@ last_update: 2026-04-27
 **Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
 ## Proyectos y Producción (2026)
-A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+A mayo de 2026, la Argentina cuenta con **8 proyectos en operación comercial**. La producción minera alcanzó un **récord histórico en marzo de 2026** (IPI +10,4%), traccionada principalmente por el litio y Vaca Muerta.
 
-### Estadísticas de Exportación (Enero 2026)
-- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
+### Estadísticas de Exportación (2026)
+- **Récord Mensual (Enero):** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**.
 - **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
 
 ### Proyección de Producción (CAEM)
@@ -40,14 +40,15 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
-- **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
+- **Hito Judicial en Catamarca (08/05/2026):** La Corte de Justicia provincial levantó de forma **permanente** la medida cautelar sobre la cuenca del **Río Los Patos**. Este fallo valida los estudios de impacto ambiental acumulado y despeja el camino para la expansión de los proyectos de **Arcadium Lithium** (Fénix) y **Posco** (Sal de Oro).
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
 ## Mercados y Precios
-- **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS en China.
+- **Industrialización (10/05/2026):** El lanzamiento del **Súper RIGI** busca incentivar la fabricación local de **baterías de litio** y autos eléctricos con beneficios impositivos superiores.
+- **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, impulsado por la demanda de sistemas BESS en China.
 - Tras la volatilidad de 2024-2025, el precio del litio muestra signos de recuperación sólida en 2026 debido a la demanda sostenida de la industria de la **[[Electromovilidad]]** y el almacenamiento de energía renovable.
 
 ## Conexiones
