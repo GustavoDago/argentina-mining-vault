@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-11_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-11
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+21. **Arbitraje de Infraestructura en San Juan**:
+    - El conflicto entre **[[Los Azules]]** y **[[Distrito Vicuña]]** (BHP/Lundin) por la línea de 500kV abre una ventana para proyectos de **transmisión privada** o la aceleración de **parques solares dedicados** con almacenamiento para bypassar el sistema nacional saturado.
+22. **Súper RIGI: Industrialización de Punta**:
+    - El anuncio de Caputo (10/05/2026) sobre incentivos para baterías y refinación de cobre local redirecciona el interés hacia **proveedores de tecnología química y metalúrgica de precisión**. No es solo extraer, es procesar.
+23. **Logística Bioceánica Consolidada**:
+    - El avance del 82.5% en el puente de Carmelo Peralta y la aceleración de la RN51 en Salta configuran un **corredor de servicios logísticos** que reducirá drásticamente el OPEX de exportación hacia Asia por el Pacífico.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -63,6 +69,7 @@ graph TD
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
+    RIGI --> |US$ 12.000M| Pluspetrol[Pluspetrol - Vaca Muerta]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
@@ -73,6 +80,7 @@ graph TD
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
 
     VM --> |Modelo Replicado| PA
+    Pluspetrol --> VM
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
@@ -86,10 +94,12 @@ graph TD
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
     Cobre --> |Leyes Récord| Lunahuasi[Lunahuasi - 18.9% Cu]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
+    LG --> |Debate Congreso| Prov[Autonomía Provincial Hídrica]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
     Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
 
     Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
+    Catamarca --> |Fin Cautelar Permanente| RioLosPatos[Desbloqueo Hombre Muerto]
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
@@ -97,6 +107,7 @@ graph TD
     Litio --> |Presidencia Mesa| Jujuy[Jujuy]
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
+    Posco --> |Expansión| RioLosPatos
     Salta[Salta: Complejo Exportador #1] --> Litio
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
