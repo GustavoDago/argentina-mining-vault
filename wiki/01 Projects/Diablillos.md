@@ -2,13 +2,15 @@
 
 **Ubicación:** Salta y Catamarca, Argentina.
 **Operadora:** AbraSilver Resource Corp.
-**Inversión Estimada (Bajo el [[RIGI]]):** US$ 760 millones.
+**Inversión Aprobada ([[RIGI]]):** US$ 481 millones.
+**Accionistas Principales:** AbraSilver Resource Corp, Central Puerto (9,9% vía Proener S.A.U.).
 
 ## Descripción
 **Diablillos** es un proyecto de oro y plata de alta ley ubicado en la región de la Puna. Se caracteriza por ser un depósito epitermal de alta sulfuración.
 
 ## Hitos Recientes (2026)
-- **Aprobación RIGI:** En febrero de 2026, el Gobierno Nacional aprobó la adhesión del proyecto al [[RIGI]] con una inversión total de **US$ 760 millones**. Se encuentra entre la "avalancha" de proyectos que buscan aprovechar el régimen para diversificar la matriz minera de Salta.
+- **Aprobación Formal RIGI (11/05/2026):** El Ministerio de Economía aprobó formalmente la adhesión del proyecto al [[RIGI]] por una inversión total de **US$ 481 millones**. El compromiso incluye una inversión mínima de US$ 352,4 millones durante los primeros dos años (acreditando el 40% del monto total).
+- **Consolidación de Central Puerto:** La energética argentina se consolidó como el mayor accionista de AbraSilver, marcando su desembarco estratégico en la minería metálica.
 - **Impacto Laboral:** Se estima que la construcción y operación generará más de 1.000 puestos de trabajo directos e indirectos en Salta y Catamarca.
 - **Exportaciones Proyectadas:** Se prevé que el proyecto aporte significativamente a la canasta exportadora minera del NOA una vez en fase de operación comercial.
 
@@ -17,3 +19,4 @@
 - [[RIGI]]
 - [[Salta]]
 - [[Catamarca]]
+- [[Pampa Energía]] (Sinergia sector energético)
