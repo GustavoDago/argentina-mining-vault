@@ -1,20 +1,21 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-13
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En mayo de 2026, Argentina consolida su posición como potencia exportadora. El sector registra récords históricos de producción impulsados por el marco del [[RIGI]].
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
-### Estadísticas de Exportación (Enero 2026)
-- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
+### Estadísticas y Récords (2026)
+- **IPI Minero (Marzo 2026):** El INDEC reportó un **récord histórico** para el Índice de Producción Industrial Minero, con una suba del **10,4% interanual**, impulsada fuertemente por la extracción de carbonato de litio.
+- **Exportaciones (Enero 2026):** Exportaciones por **US$ 96 millones** (+74,5% interanual).
 - **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
 
 ### Proyección de Producción (CAEM)
@@ -40,7 +41,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
-- **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
+- **Hito Judicial en Catamarca (13/05/2026):** La Corte de Justicia de Catamarca ratificó el levantamiento definitivo de la cautelar sobre la cuenca del Río Los Patos. Esta decisión valida los estudios de impacto acumulado y despeja el camino para las expansiones de **Arcadium** (Fénix) y **Posco** (Sal de Oro).
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
