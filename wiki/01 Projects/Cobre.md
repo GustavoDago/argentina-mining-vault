@@ -1,22 +1,24 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-14
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
 
 **Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.
 
-## Potencial Geológico (Abril 2026)
-Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
+## Potencial Geológico (Mayo 2026)
+- **Proyección 2035:** El Secretario de Minería, Luis Lucero, proyectó exportaciones de cobre por **USD 20.600 millones** para 2035, con una producción de entre 1,2 y 1,6 millones de toneladas anuales.
+- **Recursos:** Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados".
 
 ## La Cuenca del Cobre (2026)
 La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan, Salta y Mendoza).
 
 ### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
+- **Estatus RIGI:** El "Proyecto Vicuña" solicitó la adhesión al [[RIGI]] como Proyecto de Exportación Estratégica de Largo Plazo (PEELP).
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
@@ -47,6 +49,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
 ## Mesa del Cobre y Contexto de Precios
+- **Conflicto Eléctrico (14/05/2026):** La puja por la capacidad de transporte en la línea de 500kV en San Juan (Res. 219/2026 ENRE) evidencia un cuello de botella crítico para el desarrollo simultáneo de Josemaría y otros proyectos del distrito.
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.

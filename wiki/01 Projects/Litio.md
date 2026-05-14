@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-14
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -38,6 +38,9 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+
+### 5. La Rioja (Exploración)
+- **Litios del Oeste (14/05/2026):** Registro de cuatro nuevas manifestaciones de descubrimiento (Belle 9, 16, 17 y 18) en el departamento Rosario Vera Peñaloza. La provincia atrae interés exploratorio a pesar de no haber adherido aún al [[RIGI]].
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.

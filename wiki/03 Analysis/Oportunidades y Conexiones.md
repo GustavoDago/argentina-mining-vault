@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-14_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-14
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Sinergia Gas-Minería (Efecto TGS)**:
+    - La aprobación de la expansión del Gasoducto Perito Moreno (**[[TGS]]**) bajo el RIGI (Mayo 2026) garantiza la base energética para futuros proyectos de industrialización de litio y procesos mineros intensivos en la Puna.
+21. **Cuellos de Botella Eléctricos (Prioridad de Despacho)**:
+    - El conflicto en el ENRE (Res. 219/2026) por la capacidad de transporte en San Juan subraya la necesidad de un **nuevo mercado de inversión privada en transporte de extra alta tensión** que encuadre en el RIGI de infraestructura.
+22. **Mendoza: De Petrolera a Minera**:
+    - La inauguración del primer parque solar RIGI y la reactivación minera posicionan a Mendoza como un hub de **energías limpias aplicadas a la minería**, capturando proveedores que migran desde la Cuenca Neuquina.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -70,13 +76,17 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Evaluación: USD 40.000M| Eval[Proyectos en Evaluación]
+    RIGI --> |Res. 676/2026| TGS
+    RIGI --> |Res. 562/2026| PacRim[Pacific Rim - Diablillos]
+    RIGI --> |M&A +65%| KPMG[KPMG Report]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |Res. 676/2026| GPM[Gasoducto Perito Moreno]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
@@ -110,8 +120,8 @@ graph TD
 
     Eval --> |Espera desde 2024| Posco
 
-    ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
-    ENRE --> |Conflicto| LosAzules
+    ENRE[ENRE Res. 219/2026] --> |Corrección Capacidad| Vicuña
+    ENRE --> |Pujan por Red| LosAzules
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
     SanJorge --> OpCopper
     
