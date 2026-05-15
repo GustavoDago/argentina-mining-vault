@@ -1,16 +1,18 @@
 ---
 type: project
 tags: [mining, copper, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-05-15_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-05-15
 ---
 
 # Mendoza (Minería y Energía)
 
 **Contexto:** En 2026, la provincia de Mendoza ha iniciado una reactivación histórica de su sector minero metalífero, adaptando su normativa y sumándose a las mesas regionales de coordinación.
 
-## Hitos Recientes (Abril 2026)
+## Hitos Recientes (Mayo 2026)
+- **Hito RIGI San Jorge (14/05/2026):** Se oficializó la aprobación del proyecto [[San Jorge]] bajo el [[RIGI]] con una inversión de **USD 891 millones**. Es el primer hito tangible de la nueva política minera metalífera de la provincia.
+- **Inauguración El Quemado (14/05/2026):** Inauguración del parque solar "El Quemado", primer proyecto de energía renovable en la provincia operando bajo el marco [[RIGI]].
 - **Operación San Jorge 2029 (Abril 2026):** El Gobierno Nacional proyecta que el proyecto de cobre San Jorge entrará en operación para 2029, marcando el retorno de Mendoza a la gran minería metalífera de clase mundial.
 - **Exploración de Litio (Abril 2026):** El proyecto **Don Luis** (San Rafael/Malargüe) avanza con el envío de su DIA a la Legislatura. Es el primer proyecto de litio en Mendoza que busca validación legislativa bajo la Ley 7722.
 - **Interés Petrolero (22/04/2026):** Mendoza recibió 5 ofertas para 4 áreas de hidrocarburos convencionales (Vega Grande y otras), evidenciando renovado interés inversor.

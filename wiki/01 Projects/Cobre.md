@@ -34,7 +34,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Inversión:** Reporte NI 43-101 (Mayo 2026) ratifica inversión de **USD 5.250 millones**.
+- **Hito Reciente (15/05/2026):** Preparación de la solicitud formal al [[RIGI]] tras la actualización técnica que proyecta 291.000 t/año de cobre.
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
@@ -57,7 +58,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - [[San Juan]]
 - [[Lunahuasi]]
 - [[San Jorge]]
-- [[Salta]]
 - [[Mendoza]]
+- [[Salta]]
 - [[Distrito Vicuña]]
 - [[Electromovilidad]]

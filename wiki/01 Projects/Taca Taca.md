@@ -17,11 +17,11 @@ Megaproyecto de cobre de clase mundial con una inversión estimada total de **US
 ## Hitos Recientes (2025-2026)
 - **Alianza Estratégica IFC (27/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda y ratificando la inversión total de **US$ 5.250 millones**.
 - **Ratificación de Inversión RIGI (19/04/2026):** Se confirmó una inversión de **US$ 4.200 millones** enfocada en el desarrollo de infraestructura y planta, vinculando el proyecto con el [[Corredor Bioceanico]] de Capricornio para la salida por el Pacífico.
-- **Consolidación del Informe Técnico (16/04/2026):** La presentación formal del NI 43-101 ratifica la solidez económica. Se prevé el inicio de construcción tras el aval del [[RIGI]].
+- **Consolidación del Informe Técnico (Mayo 2026):** La publicación del informe técnico NI 43-101 actualizado por First Quantum Minerals ratifica una inversión de **USD 5.250 millones** y una producción anual de **291.000 toneladas de cobre** durante los primeros 10 años.
+    - **Financiamiento:** El informe es clave para la evaluación de opciones de financiamiento y la solicitud formal de adhesión al [[RIGI]].
     - **Empleo:** 4.000 puestos en construcción; 2.000 en operación.
     - **Logística:** Actuará como catalizador del [[Corredor Bioceanico]] mediante inversiones en conectividad eléctrica y transporte.
 - **Alianza Estratégica IFC (23/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda.
-- **Reporte Técnico NI 43-101 (Abril 2026):** El informe proyecta una capacidad inicial de 40 Mtpa y una producción promedio de **291.000 t/año de cobre** en la primera década.
 - **Fase Decisiva (13/04/2026):** El gobernador Gustavo Sáenz confirmó que el proyecto entra en una etapa determinante. El llamado a **audiencia pública** es inminente.
 - **Avance Institucional (Abril 2026):** Presentación ante el Senado de Salta. Necesidad de aprobación definitiva del EIA y concesiones de uso de agua antes de julio de 2026 para cumplir requisitos del RIGI.
 
