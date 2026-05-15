@@ -20,7 +20,11 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Mayo 2026)
+- **Récord de Producción YPF (08/05/2026):** YPF alcanzó un récord histórico de **200.000 barriles diarios** de shale oil. La producción total de Vaca Muerta ya representa el 70% del crudo nacional.
+- **Competitividad RIGI (14/05/2026):** El gobernador de Neuquén, Rolando Figueroa, afirmó que el [[RIGI]] otorga a Vaca Muerta una paridad impositiva y competitividad similar a las operaciones en Estados Unidos.
+- **Megaproyecto Pluspetrol (Mayo 2026):** Pluspetrol solicitó el ingreso al [[RIGI]] para un proyecto de **USD 12.000 millones** en el bloque Bajo del Choique–La Invernada tras adquirir activos de Exxon.
+- **Confirmación Chevron (10/05/2026):** Chevron ratificó su proyecto RIGI para El Trapial Este, con una inversión total superior a **USD 10.000 millones**.
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.

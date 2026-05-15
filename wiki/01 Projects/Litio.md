@@ -37,6 +37,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
+- **Expansión RIGI (14/05/2026):** Se aprobó la adhesión al [[RIGI]] para la ampliación del proyecto Cauchari-Olaroz (Ganfeng/America Lithium/JEMSE) con una inversión de **USD 1.241 millones**. El objetivo es escalar la capacidad a 40.000 toneladas anuales de carbonato de litio.
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional

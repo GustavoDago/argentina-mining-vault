@@ -6,7 +6,7 @@ confidence: high
 last_update: 2026-04-27
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Sinergia: Expansión de Gas y Electrificación de la Puna**:
+    - La aprobación del RIGI para la ampliación del Gasoducto Perito Moreno (**[[TGS]]**) garantiza el flujo para el mercado interno y exportación. Existe una oportunidad latente en conectar esta expansión con la demanda energética de la Puna (Salta/Jujuy) para sustituir el uso de diesel en proyectos de litio por gas natural o energía generada a partir de gas.
+21. **Servicios Mineros de Clase Mundial en Mendoza**:
+    - Con la aprobación del RIGI para **[[San Jorge]]**, se abre oficialmente el mercado de servicios de minería metalífera en Mendoza. Proveedores locales de Oil & Gas tienen la ventaja competitiva para reconvertirse rápidamente hacia el cobre.
+22. **Expansión del Litio 'Brownfield'**:
+    - La aprobación de la expansión de Cauchari-Olaroz (**[[Jujuy]]**) demuestra que el RIGI es efectivo para proyectos "brownfield". Inversores deben mirar proyectos en operación que necesiten CAPEX para duplicar capacidad, ya que el riesgo geológico es menor y la aprobación RIGI parece ser más fluida.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -55,9 +61,12 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |US$ 5.250M NI 43-101| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Res. 676/2026| TGS_GPM[TGS: Gasoducto Perito Moreno]
+    RIGI --> |Aprobado Mayo 2026| SanJorge[San Jorge - Mendoza]
+    RIGI --> |Aprobado Mayo 2026| Cauchari[Expansión Cauchari-Olaroz - Jujuy]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
