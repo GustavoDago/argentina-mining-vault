@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Súper RIGI e Industrialización de Base**:
+    - El anuncio del **"Súper RIGI"** (Mayo 2026) con una alícuota del 15% para Ganancias abre una ventana masiva para la **industrialización en origen**. Proyectos de refinado de cobre en San Juan/Salta y plantas de cátodos de litio en el NOA ahora tienen un incentivo fiscal superior al extractivo puro.
+21. **Escala Global en Vaca Muerta (Efecto LLL Oil)**:
+    - El megaproyecto de **USD 25.000 millones** de YPF (LLL Oil) redefine la logística de servicios. La demanda de 1.152 pozos generará un mercado cautivo para proveedores de sets de fractura, arenas y agua con contratos de largo plazo (15 años), permitiendo la amortización de equipos de última generación.
+22. **Seguridad Jurídica Definitiva en Catamarca**:
+    - El levantamiento permanente de la cautelar en el **Río Los Patos** (Mayo 2026) elimina el principal riesgo no-geológico de la cuenca. Esto acelera la valorización de activos marginales en el Salar del Hombre Muerto que ahora cuentan con un precedente judicial sólido.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -57,7 +63,11 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 graph TD
     RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
-    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Aprobado USD 2.672M| LosAzules[Los Azules - San Juan]
+    RIGI --> |USD 25.000M| LLL[LLL Oil - YPF]
+    RIGI --> |Súper RIGI 15%| Ind[Industrialización Local]
+    Ind --> |Refinado| Cobre
+    Ind --> |Baterías| Litio
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
@@ -80,6 +90,7 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> LLL
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
@@ -109,6 +120,8 @@ graph TD
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
 
     Eval --> |Espera desde 2024| Posco
+
+    Ind -.-> |Valor Agregado| CBC[Corredor Bioceánico]
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules

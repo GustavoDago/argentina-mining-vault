@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-16_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-16
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -21,8 +21,8 @@ A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comerci
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
+- **Ratificación de Inversión (Mayo 2026):** Rio Tinto ratificó una inversión total de **USD 2.500 millones** tras la consolidación de la adquisición de Arcadium.
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
-- **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
@@ -37,9 +37,12 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
+- **Expansión RIGI (Mayo 2026):** Aprobación formal del RIGI para la expansión de **Cauchari-Olaroz** (Ganfeng/America Lithium/JEMSE) por **USD 1.241 millones**, apuntando a una capacidad de 40.000 t/año.
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
+- **Hito Judicial en Catamarca (08/05/2026):** La Corte de Justicia de Catamarca levantó definitivamente la medida cautelar sobre la cuenca del Río Los Patos, habilitando la expansión de los proyectos de Arcadium y Posco.
+- **Súper RIGI e Industrialización (Mayo 2026):** El anuncio del "Súper RIGI" por parte del Ministro Caputo abre la puerta a incentivos específicos para la **fabricación de baterías de litio** y vehículos eléctricos en el país (Ganancias al 15%).
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
