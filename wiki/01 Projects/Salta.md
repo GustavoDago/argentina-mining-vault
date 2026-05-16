@@ -1,16 +1,18 @@
 ---
 type: project
 tags: [mining, lithium, copper]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-05-16_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-05-16
 ---
 
 # Salta
 
 Salta se destaca por su seguridad jurídica y su potencial diversificado en **litio** y **cobre**. En 2026, la minería se consolidó como el principal motor exportador de la provincia.
 
-## Hitos Recientes (Abril 2026)
+## Hitos Recientes (Mayo 2026)
+- **Ratificación Taca Taca (16/05/2026):** Inversión ratificada por **USD 4.200 millones** con un aumento del 13% en reservas de cobre.
+- **Rio Tinto Rincón (Mayo 2026):** Ratificación de inversión total por **USD 2.500 millones**.
 - **Complejo Exportador Líder (16/04/2026):** La minería se consolidó como el principal complejo exportador de Salta, representando más de la mitad de las ventas externas en el primer bimestre de 2026, con un crecimiento interanual del 70%.
 - **Liderazgo en Litio (17/04/2026):** El Reporte Nacional 2026 ratificó a Salta como la provincia con la mayor cartera de proyectos de litio (14 desarrollos) y el mayor volumen de recursos medidos e indicados en la Puna.
 - **Taca Taca (15/04/2026):** Presentación del reporte NI 43-101 y preparación para la adhesión al [[RIGI]] del megaproyecto de cobre de First Quantum.

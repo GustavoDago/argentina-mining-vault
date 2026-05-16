@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-16_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-16
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -27,14 +27,18 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 ## Marco de Incentivos
 La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
 
+### Súper RIGI e Industrialización (Mayo 2026)
+El Gobierno nacional anunció el esquema **"Súper RIGI"**, que contempla beneficios adicionales para el **refinado y laminado de cobre** en territorio nacional. Este esquema busca reducir la alícuota de Ganancias al 15% (vs 25% del RIGI estándar) para proyectos que integren valor agregado.
+
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
-- **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
-- **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
+- **Hito RIGI (Mayo 2026):** Aprobación formal bajo el RIGI para una inversión de **USD 2.672 millones**.
+- **Conflicto Eléctrico (Mayo 2026):** Continúa la disputa ante el ENRE (Res. 219/2026) contra BHP/Lundin por la prioridad de la línea de 500 kV. Audiencia pública fijada para el 3 de junio de 2026.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Inversión:** Ratificación de inversión por **USD 4.200 millones** (Mayo 2026) por parte de First Quantum Minerals.
+- **Hito Técnico (Mayo 2026):** Actualización del reporte NI 43-101 con un aumento del 13% en reservas probadas. Proyección de 291.000 t/año.
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
