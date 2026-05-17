@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-17_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-17
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -39,6 +39,10 @@ last_update: 2026-04-27
     - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
 15. **Integración Logística Argentina-Chile y Telecomunicaciones**:
     - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico. El "apagón" de conectividad digital en el tramo chileno (18/04/2026) abre una oportunidad para **servicios de telecomunicaciones satelitales (Starlink/otros)** aplicados a la logística de camiones mineros.
+21. **Súper RIGI: Incentivo a la Industrialización (Mayo 2026)**:
+    - La confirmación del 15% de Ganancias para valor agregado (baterías, refino de cobre) abre una oportunidad para empresas de tecnología que busquen socios locales en minería para "joint ventures" de procesamiento final.
+22. **Logística de Grandes Cargas (VMOS y Gasoductos)**:
+    - Con el avance del 58% en el oleoducto VMOS y la expansión de TGS aprobada, se dispara la demanda de **servicios de montaje industrial especializado** y mantenimiento de ductos de gran escala.
 16. **Efecto Multiplicador del "Mini RIGI" (Jujuy)**:
     - El lanzamiento de incentivos para inversiones desde **US$ 5 millones** en Jujuy abre una ventana masiva para pymes tecnológicas y de servicios mineros, formalizando la cadena de valor de Exar y Sales de Jujuy.
 17. **Previsibilidad en el Cobre (Horizonte 2029)**:
@@ -55,19 +59,23 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |US$ 140.000M Pipeline| Pipeline[Pipeline Mayo 2026]
+    Pipeline --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
-    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Aprobado US$ 2.672M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
-    RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
+    RIGI --> |Ratificado US$ 2.500M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
+    RIGI --> |Aprobado US$ 1.241M| Cauchari[Cauchari-Olaroz]
+    RIGI --> |Aprobado US$ 891M| SanJorge
+    RIGI --> |Expansión TGS| GPM[Gasoducto Perito Moreno]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
@@ -76,9 +84,12 @@ graph TD
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
+    VM --> |US$ 25.000M LLL| YPF
+    VM --> |US$ 12.000M| Pluspetrol
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
-    VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
+    VM --> |Récord 200k bpd| YPF_Prod[Producción YPF]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
+    VM --> |GNL PAE/Golar US$ 6.9B| SE[Southern Energy]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
