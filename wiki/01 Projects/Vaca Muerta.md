@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-19_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-19
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -19,6 +19,12 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
+
+### Hitos Recientes (Mayo 2026)
+- **Mega-Proyecto YPF (19/05/2026):** **YPF** anunció una inversión récord de **USD 25.000 millones** bajo el [[RIGI]] para el bloque Loma La Lata - Sierra Barrosa. Prevé 1.152 pozos y una producción de 240.000 bpd para 2032.
+- **Aprobación RIGI TGS (19/05/2026):** El Gobierno oficializó el ingreso de **[[TGS]]** al [[RIGI]] para ampliar el Gasoducto Perito Moreno (USD 550M + USD 200M adicionales), sumando 14 MMm3/día de capacidad.
+- **Competitividad Global (14/05/2026):** El gobernador Rolando Figueroa destacó que el [[RIGI]] iguala la carga fiscal de Vaca Muerta con EE.UU. (25% Ganancias), permitiendo competir por mercados internacionales.
+- **Expansión Chevron (10/05/2026):** **Chevron** confirmó un proyecto de inversión superior a los **USD 10.000 millones** para El Trapial Este bajo el marco del [[RIGI]].
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
