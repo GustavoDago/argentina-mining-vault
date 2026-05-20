@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-20_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-20
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+21. **Seguridad Logística RIGI (Mesa de Seguridad)**:
+    - La creación de la **Mesa de Coordinación para la Seguridad de Inversiones Estratégicas** (Res. 461/2026) abre una oportunidad para empresas de **tecnología de trazabilidad, monitoreo satelital y seguridad privada especializada** en infraestructuras críticas. El enfoque en prevenir el narcotráfico y la criminalidad organizada en las cadenas de suministro de energía y minería se vuelve un estándar de cumplimiento RIGI.
+22. **Gigantismo en Vaca Muerta (YPF LLL Oil)**:
+    - El anuncio de YPF para Loma La Lata - Sierra Barrosa (US$ 25.000M) tracciona una demanda masiva de **equipos de perforación de última generación y sistemas de transporte de crudo**. La escala del proyecto (1.152 pozos) obligará a una profesionalización extrema de la cadena de suministro en Neuquén.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -56,7 +60,9 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 ```mermaid
 graph TD
     RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
-    TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
+    TacaTaca --> |Alianza 20/05| IFC[IFC - Banco Mundial]
+    RIGI --> |US$ 1.241M Aprobado| CO[Cauchari-Olaroz - Jujuy]
+    RIGI --> |Res. 461/2026| MS[Mesa de Seguridad RIGI]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
@@ -65,6 +71,7 @@ graph TD
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
+    RIGI --> |YPF US$ 25.000M| LLL[LLL Oil - YPF]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
@@ -73,6 +80,7 @@ graph TD
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
 
     VM --> |Modelo Replicado| PA
+    VM --> |US$ 25.000M| LLL
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
