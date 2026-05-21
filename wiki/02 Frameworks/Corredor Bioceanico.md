@@ -2,9 +2,9 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (Mayo 2026)
 - **Brasil - Paraguay:**
-    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
+    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,58% de avance** físico (20/05/2026). Se mantiene la meta de inauguración para fines de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
@@ -19,6 +19,7 @@
 - **Conectividad estratégica:** Acceso directo a los puertos del norte de Chile (Antofagasta, Iquique).
 
 ## Infraestructura Energética Estratégica:
+- **Eje Vaca Muerta - Litio (20/05/2026):** Argentina y Chile buscan profundizar la integración energética mediante un tratado bilateral que combine el gas excedente de Vaca Muerta con las energías renovables chilenas para alimentar los proyectos mineros del NOA y el norte chileno.
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
