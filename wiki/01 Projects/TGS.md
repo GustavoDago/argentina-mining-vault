@@ -1,32 +1,28 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]], [[2026-05-11_news_mining_energy.md]], [[2026-05-17_news_mining_energy.md]], [[2026-05-19_news_mining_energy.md]], [[2026-05-21_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-10
+last_update: 2026-05-21
 ---
 
-# TGS Vaca Muerta (Industrialización)
+# TGS Vaca Muerta (Industrialización y Transporte)
 
 **Compañía:** Transportadora de Gas del Sur (TGS).
-**Inversión Total:** **US$ 3.700 millones** (Incluye nueva expansión aprobada en Mayo 2026).
-**Proyecto:** Proyecto de industrialización y exportación de líquidos del gas natural (Etano, GLP, Gasolina).
+**Inversión Total:** **US$ 3.750 millones** (Incluye la ampliación del Gasoducto Perito Moreno).
+**Proyecto:** Planta de industrialización y exportación de líquidos de gas natural (Complejo General Cerri) y expansión de infraestructura mayor de transporte en Vaca Muerta.
 
 ## Descripción
-**TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta. El proyecto se centra en la separación e industrialización de líquidos para exportación a gran escala.
+**TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta (separación de GLP, Etano y Gasolina) y la expansión de la capacidad de transporte para evacuar la producción no convencional no restringida.
 
-## Hitos Recientes (2026)
-- **Nueva Expansión RIGI (Mayo 2026):** Recibió aprobación del [[RIGI]] para una inversión adicional de **US$ 700 millones** destinada a la expansión de su sistema de gasoductos, elevando la inversión total comprometida a US$ 3.700 millones.
-- **Consolidación del Proyecto (20/04/2026):** Se reafirmó el anuncio de inversión de **US$ 3.000 millones** para la planta de procesamiento y exportación de líquidos de gas natural, aprovechando la infraestructura de Vaca Muerta.
-- **Infraestructura de Transporte (14/04/2026):** Inicio de la ampliación del **Gasoducto Perito Moreno** y habilitación de nueva capacidad de transporte para evacuar el gas de la cuenca.
-- **Argentina Week (13/04/2026):** El CEO de TGS ratificó en Nueva York el plan de inversión de **US$ 3.000 millones** para la planta separadora de gas, destacando el marco del [[RIGI]].
-- **Ratificación de Inversión (11/04/2026):** Se confirmó el plan de inversión de **US$ 3.000 millones** para industrializar y exportar líquidos derivados del gas, aprovechando la extensión del [[RIGI]].
-- **Adhesión al RIGI (Abril 2026):** Proyecto aprobado bajo el [[RIGI]] con una inversión de **US$ 3.000 millones**.
-- **Infraestructura:** Proceso de ampliación de la planta de Tratamiento de Gas y el Complejo General Cerri.
+## Hitos Recientes (Mayo 2026)
+- **Aprobación RIGI - Gasoducto Perito Moreno (21/05/2026):** El Gobierno nacional oficializó la aprobación de ingreso al RIGI del proyecto de TGS para la ampliación del Tramo I del **Gasoducto Perito Moreno** (ex Néstor Kirchner). La inversión asciende a **US$ 550 millones** de base más **US$ 200 millones complementarios**.
+- **Impacto del Gasoducto:** Esta obra de compresión y tendido permitirá adicionar de forma inmediata **14 millones de m³/día (MMm³/día)** de capacidad de evacuación de gas natural desde la cuenca neuquina al anillo metropolitano.
+- **Planta Separadora de Líquidos (20/04/2026):** Se mantiene firme la inversión troncal de **US$ 3.000 millones** bajo RIGI para la construcción y adecuación del sistema separador de líquidos de gas, orientando la producción industrializada de GLP a mercados externos.
 
 ## Objetivo Estratégico
 - Maximizar el valor de la producción de [[Vaca Muerta]] exportando productos terminados en lugar de gas en bruto.
-- Generación de ingresos netos por exportaciones industriales de alto valor agregado.
+- Generación de ingresos netos por exportaciones industriales de alto valor agregado y desbloqueo de capacidad ocluida de transporte.
 
 ## Conexiones
 - [[Vaca Muerta]]

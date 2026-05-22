@@ -1,26 +1,27 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-08_news_mining_energy.md, 2026-05-09_news_mining_energy.md, 2026-05-10_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-08_news_mining_energy.md, 2026-05-09_news_mining_energy.md, 2026-05-10_news_mining_energy.md, 2026-05-11_news_mining_energy.md, 2026-05-14_news_mining_energy.md, 2026-05-16_news_mining_energy.md, 2026-05-20_news_mining_energy.md, 2026-05-21_news_mining_energy.md]
 confidence: high
-last_update: 2026-05-10
+last_update: 2026-05-21
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 
-1.  **Súper RIGI e Industrialización de Base (10/05/2026)**:
-    - El anuncio del **"Súper RIGI"** abre una ventana sin precedentes para la **industrialización de recursos naturales** (baterías, refinado de cobre) y sectores de **Alta Tecnología** (IA, Datacenters). Oportunidad de simbiosis: Datacenters traccionando energía renovable y beneficiándose de la estabilidad térmica minera.
+1.  **Súper RIGI e Industrialización de Base (21/05/2026)**:
+    - El anuncio ministerial (Luis Caputo) del **"Súper RIGI"** abre incentivos fiscales drásticos para la **industrialización local de recursos naturales** (producción de cátodos/laminado de cobre, baterías de litio, fertilizantes complejos) y **Alta Tecnología** (IA y Datacenters). 
+    - *Beneficio disruptivo:* La alícuota de Ganancias para proyectos del Súper RIGI se reduce al **15%** (frente al 25% del RIGI estándar y 35% general), con arancel cero a la exportación, traccionando proyectos de infraestructura conjunta.
 
 2.  **Megaproyectos de "Big Capital" y Saturación de Servicios**:
-    - Las solicitudes de **[[Pluspetrol]]** (US$ 12.000M), **[[Chevron]]** (US$ 10.000M), **[[El Pachón]]** (US$ 11.600M) y **[[Agua Rica]]** (US$ 6.699M) saturan la demanda de servicios especializados, abriendo un mercado de "segunda vuelta" para empresas locales.
+    - Las solicitudes de YPF **[[Proyecto LLL Oil]]** (US$ 25.000M), **[[Pluspetrol]]** (US$ 12.000M) en Bajo del Choique-La Invernada, **[[Chevron]]** (US$ 10.000M), **[[El Pachón]]** (US$ 11.600M) y **[[Agua Rica]]** (US$ 6.699M) saturan la demanda de servicios especializados. Surge un mercado masivo de proveedores locales calificados y Tier 2/3.
 
 3.  **Infraestructura Eléctrica y Arbitraje de Despacho**:
-    - El conflicto entre **[[Los Azules]]** y **[[Distrito Vicuña]]** (BHP/Lundin) por la prioridad de la línea de 500 kV (Res. ENRE 079/2026 y 219/2026) confirma que el cuello de botella sistémico es la evacuación eléctrica. Oportunidad masiva para la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + GNL).
+    - El conflicto de prioridades bajo la **Res. ENRE 219/2026** entre **[[Los Azules]]** y **[[Distrito Vicuña]]** (Josemaría/BHP/Lundin) confirma la saturación de la red de 500kV. Esto representa una oportunidad única para la **Orquestación de Microgrids Off-Grid** (plantas solares y sistemas de almacenamiento BESS financiados como infraestructura compartida bajo el RIGI).
 
-4.  **Cobre de Alta Ley: El Efecto [[Lunahuasi]]**:
-    - Leyes récord de hasta 18.9% Cu redefinen el potencial del Distrito Vicuña. Oportunidad para **plantas de procesamiento modulares** y servicios de exploración de alta precisión en el "Vaca Muerta del Cobre".
+4.  **Cobre de Alta Ley: El Efecto [[Lunahuasi]] y San Jorge**:
+    - Resultados exploratorios excepcionales en Lunahuasi (hasta 18.9% Cu) y la aprobación del RIGI para **[[San Jorge]]** (US$ 891M) en Mendoza (bypass a la prohibición de reactivos de la Ley 7722) reconfiguran el mapa de cobre nacional. 
 
 5.  **Federalización del Shale y Transferencia Tecnológica**:
     - El anuncio de YPF en **D-129 (Chubut)** y **[[Palermo Aike]] (Santa Cruz)** abre un mercado para la transferencia de servicios petroleros especializados (frack crews, arenas) hacia la Cuenca Austral y el Golfo San Jorge.

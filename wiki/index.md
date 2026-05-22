@@ -4,8 +4,8 @@
 
 ### 🏗️ [[01 Projects|Proyectos Estratégicos]]
 - **Cobre:** [[Los Azules]], [[Taca Taca]], [[El Pachón]], [[Josemaría]].
-- **Litio:** [[Rincón]], [[Posco]], [[Sal de Vida]], [[Hombre Muerto Oeste]].
-- **Oil & Gas:** [[Vaca Muerta]], [[Palermo Aike y Nuevas Fronteras No Convencionales]].
+- **Litio:** [[Rincón]], [[Posco]], [[Sal de Vida]], [[Cauchari-Olaroz]] (Nuevo).
+- **Oil & Gas:** [[Vaca Muerta]], [[Proyecto LLL Oil]] (Nuevo), [[Palermo Aike y Nuevas Fronteras No Convencionales]].
 
 ### 📜 [[02 Frameworks|Marcos Regulatorios]]
 - [[RIGI]] (Régimen de Incentivo para Grandes Inversiones)
@@ -17,7 +17,8 @@
 - [[Oportunidades y Conexiones]]
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
+- [[2026-05-22_Daily_Report]] (Nuevo)
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-05-07*
+*Última actualización: 2026-05-22*

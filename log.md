@@ -1,5 +1,23 @@
 # Log de Operaciones
 
+## [2026-05-22] sync | Ingesta masiva y consolidación de Inteligencia Jules (11/05 - 21/05)
+- **Ingesta:** Procesados 10 reportes diarios de Jules (del 11 de mayo al 21 de mayo de 2026, sin reporte el 18 de mayo).
+- **Hitos Inversión:**
+    - **Cobre:** Aprobación RIGI de **San Jorge** (US$ 891M) en Mendoza (bypass a la Ley 7722), **Los Azules** (US$ 2.672M) en San Juan y presentación del reporte NI 43-101 de **Taca Taca** (US$ 5.250M) con alineación IFC.
+    - **Litio:** Aprobación de la expansión RIGI de **Cauchari-Olaroz** (US$ 1.241M) y ratificación de **Rincón** (US$ 2.500M) por Rio Tinto.
+    - **Oil & Gas:** Solicitud RIGI de YPF para **Proyecto LLL Oil** (US$ 25.000M) y **Pluspetrol** (US$ 12.000M) en Bajo del Choique-La Invernada; aprobación RIGI para **TGS** (US$ 550M).
+- **Hitos Regulatorios:**
+    - **Catamarca:** Levantamiento permanente y definitivo de la cautelar de Río Los Patos para Posco y Arcadium.
+    - **Mesa de Seguridad RIGI:** Creación de la Mesa de Coordinación de Seguridad bajo la Res. 461/2026.
+    - **Súper RIGI:** Anuncio ministerial de reducción de Ganancias al 15% para industrialización de recursos.
+- **Entidades Creadas:** `Cauchari-Olaroz.md`, `Proyecto LLL Oil.md`, `2026-05-22_Daily_Report.md`.
+- **Análisis Escépticos Creados:**
+    - `Esceptico_Seguridad_RIGI.md`: Análisis de riesgos territoriales de la militarización estratégica (Res. 461/2026).
+    - `Esceptico_Choque_Vicuña_Azules.md`: Escrutinio sobre el choque de prioridad eléctrica bajo la Res. ENRE 219/2026.
+    - `Esceptico_LLL_Oil_YPF.md`: Evaluación escéptica sobre la viabilidad del balance y Capex de YPF en Loma La Lata.
+- **Actualizaciones:** `RIGI.md`, `Cuello de Botella Electrico San Juan.md`, `Oportunidades y Conexiones.md`, e índices generales (`index.md` raíz e `index.md` wiki).
+- **Salud:** Limpieza de marcadores de conflicto y resueltas páginas fantasma y huérfanas de la wiki.
+
 ## [2026-05-10] sync | Sincronización Jules Intel (09/05 - 10/05)
 - **Ingesta:** Procesados reportes `raw/2026-05-09_news_mining_energy.md` y `raw/2026-05-10_news_mining_energy.md`.
 - **Hitos Inversión:**

@@ -3,6 +3,7 @@
 ## 01 Projects
 - [[Agua Rica]]
 - [[Catamarca]]
+- [[Cauchari-Olaroz]] [NEW]
 - [[Chevron]]
 - [[Cobre]]
 - [[Diablillos]]
@@ -26,6 +27,7 @@
 - [[Phoenix Global Resources]] [NEW]
 - [[Pluspetrol]] [NEW]
 - [[Posco]]
+- [[Proyecto LLL Oil]] [NEW]
 - [[Rincón]]
 - [[Río Negro]]
 - [[Sal de Oro]] [NEW]
@@ -57,6 +59,7 @@
 - [[Riesgo Electrico San Juan Red Team]] [NEW]
 
 ## 04 Daily
+- [[2026-05-22_Daily_Report]] [NEW]
 - [[2026-05-10_Daily_Report]]
 - [[2026-05-09_Daily_Report]]
 - [[2026-05-08_Daily_Report]]
@@ -85,7 +88,10 @@
 - [[Esceptico_ENRE_Prioridad_Despacho]] [NEW]
 - [[Esceptico_SIM_San_Juan]] [NEW]
 - [[Esceptico_Tokenizacion_Contenido_Local]] [NEW]
+- [[Esceptico_Seguridad_RIGI]] [NEW]
+- [[Esceptico_Choque_Vicuña_Azules]] [NEW]
+- [[Esceptico_LLL_Oil_YPF]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-10 20:50*
+*Ultima actualización sincronizada: 2026-05-22 00:30*
 
