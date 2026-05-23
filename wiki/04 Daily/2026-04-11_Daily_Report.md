@@ -20,7 +20,7 @@ El sector de hidrocarburos ha reaccionado con agresividad a la extensión de los
 - **Vaca Muerta:** Se estima que el volumen de inversión bajo el RIGI podría alcanzar los **US$ 45.000 millones** tras las actualizaciones de hoy.
     - **[[Pampa Energía]]**: Escaló su compromiso a **US$ 4.500 millones** para el bloque Rincón de Aranda.
     - **Tecpetrol**: Elevó su plan en Los Toldos Este II a **US$ 2.400 millones**.
-    - **Phoenix Resources**: Proyecta inversiones por **US$ 6.000 millones**.
+    - **[[Phoenix Global Resources|Phoenix Resources]]**: Proyecta inversiones por **US$ 6.000 millones**.
 - **Infraestructura:** El **Oleoducto Vaca Muerta Sur** (VMOS) alcanza un **58% de ejecución**, asegurando la ventana de exportación para fines de 2026. **[[TGS]]** ratificó US$ 3.000 millones para industrialización de líquidos.
 
 ## 2. Minería: Cobre y Litio en Fase de Ejecución

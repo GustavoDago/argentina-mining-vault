@@ -3,10 +3,10 @@ type: analysis
 tags: [mining, energy, infrastructure, RIGI]
 sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-23
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,25 +47,37 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+21. **Súper RIGI: El Salto a la Industrialización (15% Ganancias)**:
+   - La confirmación de una tasa reducida del 15% para proyectos que industrialicen litio (baterías), cobre (refinación/laminado) y fertilizantes (urea/nitratos) cambia el cálculo de retorno. Se abre una oportunidad masiva para **Joint Ventures entre mineras y tecnólogos de baterías** y para la petroquímica de alto nivel.
+22. **Seguridad Patrimonial como Servicio (Res. 461/2026)**:
+   - La creación de la 'Mesa de Coordinación para la Seguridad de Inversiones Estratégicas' formaliza la necesidad de **servicios de seguridad privada de élite, inteligencia logística y monitoreo satelital de activos** integrados con las fuerzas federales para mitigar riesgos de crimen organizado y narcotráfico en zonas de frontera y yacimientos.
+23. **Pivot a 'Green Copper' y Financiamiento ESG de Nueva Generación**:
+   - El enfoque de **[[Los Azules]]** en cobre cero emisiones y la búsqueda de financiamiento por **US$ 4.000 millones** vía US EXIM/DFC marca el camino para el resto de los proyectos. Existe una oportunidad crítica para proveedores de **maquinaria eléctrica para minería, soluciones de energía solar a gran escala y certificados de carbono**.
+24. **Consolidación Logística de Vaca Muerta (VMOS y Ductos)**:
+   - Con el oleoducto **Vaca Muerta Sur (VMOS)** al 58% y la expansión de **[[TGS]]** (Gasoducto Perito Moreno), la oportunidad reside en la **logística de última milla y servicios de mantenimiento predictivo para ductos** bajo estándares internacionales (ASME B.31.4 2024).
 
 ## Conexiones Estratégicas y Ocultas
-Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
+Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)**, ahora reforzada por la estabilidad judicial definitiva en Catamarca (Río Los Patos) y el marco de seguridad federal, configura un ecosistema de inversión blindado.
 
 ### Visualización de Conexiones (Mermaid)
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |Pipeline US$ 140.000M| Impacto[Impacto Macro]
+    RIGI --> |Super RIGI: 15% Ganancias| Industrializacion[Industrialización Litio/Cobre/Fertilizantes]
+    RIGI --> |US$ 5.250M NI 43-101| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
-    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
-    LosAzules --> |Inicio 2026| Const[Construcción]
+    RIGI --> |Aprobado US$ 2.672M| LosAzules[Los Azules - San Juan]
+    LosAzules --> |Green Copper / Zero Diesel| Const[Construcción Fines 2026]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
-    RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    RIGI --> |YPF LLL US$ 25.000M| VM[Vaca Muerta]
+    RIGI --> |Pluspetrol US$ 12.000M| VM
+    RIGI --> |Chevron US$ 10.000M| VM
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
@@ -75,15 +87,15 @@ graph TD
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
-    VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
+    VM --> |US$ 6.000M| Phoenix[[Phoenix Global Resources|Phoenix Resources]]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
-    VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
+    VM --> |Récord 200k bpd YPF| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
-    VM --> |Análisis RIGI| Vista[Vista Energy]
-    TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    VM --> |58% Avance| VMOS[Vaca Muerta Sur]
+    TGS --> |RIGI US$ 550M| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
-    LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
+    LG --> |Hito Judicial Permanente| Catamarca[Catamarca - Seguridad Jurídica]
     Cobre --> |Leyes Récord| Lunahuasi[Lunahuasi - 18.9% Cu]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
