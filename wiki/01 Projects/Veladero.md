@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, gold, silver]
-sources: [[2026-04-15_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[2026-04-15_news_mining_energy]], [[2026-04-25_news_mining_energy]]
 confidence: high
 last_update: 2026-04-25
 ---

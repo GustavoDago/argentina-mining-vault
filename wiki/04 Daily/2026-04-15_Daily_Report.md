@@ -1,7 +1,7 @@
 ---
 type: daily
 tags: [mining, energy, regulatory, lithium, copper]
-sources: [[2026-04-15_news_mining_energy.md]]
+sources: [[2026-04-15_news_mining_energy]]
 confidence: high
 last_update: 2026-04-15
 ---
