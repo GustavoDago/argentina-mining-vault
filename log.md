@@ -1,5 +1,17 @@
 # Log de Operaciones
 
+## [2026-05-26] sync | Ingesta consolidada de Inteligencia Jules (26/05)
+- **Ingesta:** Procesados y consolidados reportes de Jules del 26 de mayo de 2026.
+- **Hitos Inversión:**
+    - **Súper RIGI:** Envío formal al Congreso del régimen complementario de US$ 1.000M+ para celdas/baterías de litio, IA y semiconductores (Ganancias preferencial al 15%).
+    - **Cobre:** Presentación del reporte NI 43-101 de **[[Taca Taca]]** ratificando Capex de **US$ 5.250M** y capacidad de 40-60 Mtpa. Estudio CRU muestra reducción de carga efectiva tributaria al 38%.
+    - **Litio:** Compra de Hombre Muerto Norte por **[[Posco]]** (US$ 65M) a Lithium South. Rio Tinto coordina agenda de logística pesada RN 52 en Jujuy (120 camiones/día).
+    - **Vaca Muerta:** Resolución 119/2026 actualiza normas técnicas para transporte por oleoductos a estándares ASME B.31.4 2024.
+- **Entidades Creadas/Actualizadas:**
+    - Actualizados `Litio.md`, `Vaca Muerta.md`, `Taca Taca.md`, `Corredor Bioceanico.md` y `RIGI.md`.
+    - Integrado reporte diario `2026-05-26_Daily_Report.md`.
+- **Ramas:** Rama remota de Jules `energon-daily-update-2026-05-26-13614009535256058895` consolidada e integrada exitosamente en `main`.
+
 ## [2026-05-26] pre-mortem | Ejecución Profunda de 3 Pre-Mortems Prioritarios
 - **Framework:** Aplicación completa del [[Pre-Mortem Framework]] (6 fases: escenario catastrófico, panel de expertos, historias forenses, matriz de riesgo, antídotos tácticos, validación adversarial).
 - **Análisis Ejecutados:**

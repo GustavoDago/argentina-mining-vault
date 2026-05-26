@@ -63,6 +63,7 @@
 - [[Riesgo Electrico San Juan Red Team]]
 
 ## 04 Daily
+- [[2026-05-26_Daily_Report]] [NEW]
 - [[2026-05-25_Daily_Report]] [NEW]
 - [[2026-05-24_Daily_Report]] [NEW]
 - [[2026-05-23_Daily_Report]] [NEW]
@@ -79,7 +80,7 @@
 - [[VPP_Mineria_San_Juan]]
 - [[Sat-Edge_Bioceanico]]
 - [[HydroTrust_Puna_Hidrico]] [NEW]
-- [[RIGI_Shield_Seguridad]] [NEW]
+- [[AndesLogistics_Puna_Logistica]] [NEW]
 - [[ShaleFlow_Anelo_Supply]] [NEW]
 
 ## 06 Shadow APIs
@@ -106,5 +107,5 @@
 - [[PreMortem_RIGI_Shield]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-26 00:55*
+*Ultima actualización sincronizada: 2026-05-26 20:30*
 

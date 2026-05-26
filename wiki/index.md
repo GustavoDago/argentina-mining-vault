@@ -17,8 +17,8 @@
 - [[Oportunidades y Conexiones]]
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
-- [[2026-05-22_Daily_Report]] (Nuevo)
+- [[2026-05-26_Daily_Report]] (Nuevo)
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-05-22*
+*Última actualización: 2026-05-26*
