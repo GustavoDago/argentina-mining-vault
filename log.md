@@ -1,5 +1,17 @@
 # Log de Operaciones
 
+## [2026-05-25] sync | Ingesta consolidada de Inteligencia Jules (23/05 - 25/05)
+- **Ingesta:** Procesados y consolidados 3 reportes de Jules (del 23 al 25 de mayo de 2026).
+- **Hitos Inversión:**
+    - **Vaca Muerta:** Consolidación del récord de producción de **200.000 bpd** de shale oil por YPF. Megaproyecto YPF de **US$ 25.000M** para Loma La Lata - Sierra Barrosa bajo RIGI; récord Upstream 1T 2026 con inversión trimestral de **US$ 1.370M** entre YPF, Vista y Pampa Energía (Vista reportando 52,1% EBITDA).
+    - **Cobre:** Megaproyectos de **Los Azules** (US$ 2.672M) y **San Jorge** (US$ 891M) formalmente en RIGI. Ratificación de **Taca Taca** (US$ 5.250M) con NI 43-101 y alianza IFC.
+    - **Litio:** Levantamiento definitivo y permanente de la cautelar sobre la cuenca del Río Los Patos por la Corte de Catamarca, reactivando expansiones de Arcadium y Posco.
+- **Entidades Creadas/Actualizadas:**
+    - Creado `Arcadium Lithium.md` y `YPF.md`.
+    - Actualizado `Vaca Muerta.md`.
+    - Importados reportes diarios `2026-05-23_Daily_Report.md`, `2026-05-24_Daily_Report.md` y `2026-05-25_Daily_Report.md`.
+- **Ramas:** Ramas remotas procesadas y consolidadas en `main`.
+
 ## [2026-05-22] sync | Ingesta masiva y consolidación de Inteligencia Jules (11/05 - 21/05)
 - **Ingesta:** Procesados 10 reportes diarios de Jules (del 11 de mayo al 21 de mayo de 2026, sin reporte el 18 de mayo).
 - **Hitos Inversión:**

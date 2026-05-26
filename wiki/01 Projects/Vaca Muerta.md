@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]], [[2026-05-08_news_mining_energy.md]], [[2026-05-09_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]], [[2026-05-11_news_mining_energy.md]], [[2026-05-16_news_mining_energy.md]], [[2026-05-17_news_mining_energy.md]], [[2026-05-19_news_mining_energy.md]], [[2026-05-21_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-23_news_mining_energy.md]], [[2026-04-24_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-02_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]], [[2026-05-08_news_mining_energy.md]], [[2026-05-09_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]], [[2026-05-11_news_mining_energy.md]], [[2026-05-16_news_mining_energy.md]], [[2026-05-17_news_mining_energy.md]], [[2026-05-19_news_mining_energy.md]], [[2026-05-21_news_mining_energy.md]], [[2026-05-25_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-21
+last_update: 2026-05-25
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -15,6 +15,7 @@ last_update: 2026-05-21
 El yacimiento de shale de clase mundial continúa consolidándose como el motor energético y principal generador de divisas del país gracias al paraguas legal del [[RIGI]]. La producción no convencional representa actualmente el **70% del total nacional de crudo**, evidenciando un retroceso sostenido de las cuencas convencionales.
 
 ### Eficiencia y Récords (Mayo 2026)
+- **Récord Upstream 1T 2026 (25/05/2026):** YPF, Vista y Pampa Energía alcanzaron un crecimiento simultáneo en EBITDA e inversión conjunta de **US$ 1.370 millones** en el trimestre; Vista lideró con un margen EBITDA del 52,1%.
 - **Récord YPF (17/05/2026):** YPF alcanzó un hito histórico de producción de **200.000 bpd (barriles por día)** de shale oil el 8 de mayo de 2026.
 - **Récord de Fractura:** Se mantiene un ritmo de **1.700 etapas de fractura** mensuales en toda la cuenca.
 - **Competitividad Cambiaria:** El gobernador Rolando Figueroa remarcó que la reducción impositiva del RIGI (Ganancias al 25%) iguala los ratios de EE.UU. e impulsa la captación de deuda corporativa internacional de gran escala.

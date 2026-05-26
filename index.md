@@ -2,8 +2,9 @@
 
 ## 01 Projects
 - [[Agua Rica]]
+- [[Arcadium Lithium]] [NEW]
 - [[Catamarca]]
-- [[Cauchari-Olaroz]] [NEW]
+- [[Cauchari-Olaroz]]
 - [[Chevron]]
 - [[Cobre]]
 - [[Diablillos]]
@@ -24,24 +25,25 @@
 - [[Neuquén]]
 - [[Palermo Aike]]
 - [[Pampa Energía]]
-- [[Phoenix Global Resources]] [NEW]
-- [[Pluspetrol]] [NEW]
+- [[Phoenix Global Resources]]
+- [[Pluspetrol]]
 - [[Posco]]
-- [[Proyecto LLL Oil]] [NEW]
+- [[Proyecto LLL Oil]]
 - [[Rincón]]
 - [[Río Negro]]
-- [[Sal de Oro]] [NEW]
+- [[Sal de Oro]]
 - [[Sal de Vida]]
 - [[Salta]]
 - [[San Jorge]]
 - [[San Juan]]
 - [[Southern Energy]]
-- [[Tecpetrol]] [NEW]
+- [[Tecpetrol]]
 - [[TGS]]
 - [[Taca Taca]]
 - [[Vaca Muerta Sur]]
 - [[Vaca Muerta]]
 - [[Veladero]]
+- [[YPF]] [NEW]
 
 ## 02 Frameworks
 - [[Corredor Bioceanico]]
@@ -55,11 +57,14 @@
 - [[Electrificacion Puna]]
 - [[Health_Check_Report]]
 - [[Oportunidades y Conexiones]]
-- [[Super RIGI e Industrializacion]] [NEW]
-- [[Riesgo Electrico San Juan Red Team]] [NEW]
+- [[Super RIGI e Industrializacion]]
+- [[Riesgo Electrico San Juan Red Team]]
 
 ## 04 Daily
-- [[2026-05-22_Daily_Report]] [NEW]
+- [[2026-05-25_Daily_Report]] [NEW]
+- [[2026-05-24_Daily_Report]] [NEW]
+- [[2026-05-23_Daily_Report]] [NEW]
+- [[2026-05-22_Daily_Report]]
 - [[2026-05-10_Daily_Report]]
 - [[2026-05-09_Daily_Report]]
 - [[2026-05-08_Daily_Report]]
@@ -69,8 +74,8 @@
 - [[2026-04-05_Evaluacion_Oportunidades_Tech]]
 - [[Middleware_eTIR_Bioceanico]]
 - [[Marketplace_Tier2_VacaMuerta]]
-- [[VPP_Mineria_San_Juan]] [NEW]
-- [[Sat-Edge_Bioceanico]] [NEW]
+- [[VPP_Mineria_San_Juan]]
+- [[Sat-Edge_Bioceanico]]
 
 ## 06 Shadow APIs
 - [[Aprobacion RIGI Upstream Res 484-2026]]
@@ -80,18 +85,18 @@
 - [[SIM San Juan Canon Minero]]
 
 ## 07 Analisis Esceptico
-- [[Esceptico_VPP_San_Juan]] [NEW]
-- [[Esceptico_Sat-Edge_Bioceanico]] [NEW]
-- [[Esceptico_Marketplace_Tier2_VacaMuerta]] [NEW]
-- [[Esceptico_Middleware_eTIR_Bioceanico]] [NEW]
-- [[Esceptico_Aprobacion_RIGI_Res484]] [NEW]
-- [[Esceptico_ENRE_Prioridad_Despacho]] [NEW]
-- [[Esceptico_SIM_San_Juan]] [NEW]
-- [[Esceptico_Tokenizacion_Contenido_Local]] [NEW]
-- [[Esceptico_Seguridad_RIGI]] [NEW]
-- [[Esceptico_Choque_Vicuña_Azules]] [NEW]
-- [[Esceptico_LLL_Oil_YPF]] [NEW]
+- [[Esceptico_VPP_San_Juan]]
+- [[Esceptico_Sat-Edge_Bioceanico]]
+- [[Esceptico_Marketplace_Tier2_VacaMuerta]]
+- [[Esceptico_Middleware_eTIR_Bioceanico]]
+- [[Esceptico_Aprobacion_RIGI_Res484]]
+- [[Esceptico_ENRE_Prioridad_Despacho]]
+- [[Esceptico_SIM_San_Juan]]
+- [[Esceptico_Tokenizacion_Contenido_Local]]
+- [[Esceptico_Seguridad_RIGI]]
+- [[Esceptico_Choque_Vicuña_Azules]]
+- [[Esceptico_LLL_Oil_YPF]]
 
 ---
-*Ultima actualización sincronizada: 2026-05-22 00:30*
+*Ultima actualización sincronizada: 2026-05-25 23:55*
 
