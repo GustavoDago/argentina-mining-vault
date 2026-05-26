@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-26_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-26
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+21. **Nuevas Industrias Tecnológicas (Súper RIGI)**:
+    - El envío del "Súper RIGI" (Mayo 2026) abre un mercado de **US$ 1.000M+** en sectores como IA, semiconductores y biotecnología. Existe una oportunidad crítica para la creación de **infraestructura digital estratégica** (Data Centers) y la manufactura de **baterías de litio**, cerrando la brecha entre la extracción de mineral y la tecnología de alto valor.
+22. **Retorno de Austrade y Servicios de Consultoría**:
+    - El regreso de Austrade y la creación de una Cámara Binacional (26/05/2026) señalan una oportunidad para servicios de **intermediación corporativa y consultoría técnica** especializada en los estándares mineros australianos (los más altos del mundo).
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -71,6 +75,9 @@ graph TD
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Súper RIGI US$ 1.000M| Tech[Nuevas Industrias: IA/Baterías]
+    RIGI --> |Seguridad Res. 461/2026| Safe[Protección de Activos]
+    RIGI --> |IED Australia US$ 970M| Austrade[Retorno Austrade]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -100,6 +107,7 @@ graph TD
     Salta[Salta: Complejo Exportador #1] --> Litio
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
+    Cobre --> |Estudio CRU| Comp[Mejor Competitividad que Chile/Perú]
     Vicuña --> Lunahuasi
 
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio

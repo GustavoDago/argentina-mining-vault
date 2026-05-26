@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-26_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-26
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -20,15 +20,15 @@ A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comerci
 ### Proyección de Producción (CAEM)
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
-### 1. [[Rincón]] (Rio Tinto, Salta)
+### 1. [[Rincón]] (Rio Tinto, Salta/Jujuy)
+- **Agenda Operativa 2026 (26/05/2026):** Rio Tinto coordinó con el Gobierno de Jujuy la expansión de su agenda tras la integración de Arcadium Lithium, enfocándose en logística por la RN 52 (120 camiones/día).
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
-- **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
 ### 2. [[Posco]] (Hombre Muerto Norte, Salta)
+- **Consolidación de Activos (26/05/2026):** Posco formalizó la compra de Hombre Muerto Norte (HMN) por **US$ 65 millones**, fortaleciendo su integración productiva en la región.
 - **Consolidación (27/04/2026):** Integración del 100% de HMN para optimizar el proyecto Sal de Oro.
-- **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
 - **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)

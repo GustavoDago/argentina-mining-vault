@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-26_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-26
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -31,8 +31,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Traspaso de Activos (18/04/2026):** La provincia de Neuquén autorizó la transferencia de las áreas Aguada Villanueva, Meseta Buena Espera y Las Tacanas desde Pluspetrol a favor de **YPF**.
 - **Desempeño Industrial (16/04/2026):** El IPI minero (INDEC) mostró un avance del 4,4% interanual en el primer bimestre, impulsado por el dinamismo de Vaca Muerta.
 - **Expansión a Nuevas Fronteras (Abril 2026):** YPF confirmó la aceleración de la exploración en **[[Palermo Aike]]** (Santa Cruz) y el inicio de exploraciones en la formación **D-129** (Chubut), buscando replicar el modelo de eficiencia de Vaca Muerta en otras cuencas.
+- **Actualización Técnica de Transporte (26/05/2026):** La Resolución 119/2026 actualizó los estándares técnicos para oleoductos (ASME B.31.4 2024), optimizando la seguridad y eficiencia de los despachos desde Añelo.
 - **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
-- **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
