@@ -32,6 +32,7 @@
 - [[RIGI]]
 
 ## Diagrama de Conectividad Estratégica
+
 ```mermaid
 graph TD
     A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
