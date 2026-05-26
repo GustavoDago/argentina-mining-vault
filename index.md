@@ -76,6 +76,9 @@
 - [[Marketplace_Tier2_VacaMuerta]]
 - [[VPP_Mineria_San_Juan]]
 - [[Sat-Edge_Bioceanico]]
+- [[HydroTrust_Puna_Hidrico]] [NEW]
+- [[RIGI_Shield_Seguridad]] [NEW]
+- [[ShaleFlow_Anelo_Supply]] [NEW]
 
 ## 06 Shadow APIs
 - [[Aprobacion RIGI Upstream Res 484-2026]]

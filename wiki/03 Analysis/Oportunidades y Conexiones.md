@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-08_news_mining_energy.md, 2026-05-09_news_mining_energy.md, 2026-05-10_news_mining_energy.md, 2026-05-11_news_mining_energy.md, 2026-05-14_news_mining_energy.md, 2026-05-16_news_mining_energy.md, 2026-05-20_news_mining_energy.md, 2026-05-21_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-08_news_mining_energy.md, 2026-05-09_news_mining_energy.md, 2026-05-10_news_mining_energy.md, 2026-05-11_news_mining_energy.md, 2026-05-14_news_mining_energy.md, 2026-05-16_news_mining_energy.md, 2026-05-20_news_mining_energy.md, 2026-05-21_news_mining_energy.md, 2026-05-25_news_mining_energy.md]
 confidence: high
-last_update: 2026-05-21
+last_update: 2026-05-25
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Mayo 2026
@@ -47,6 +47,15 @@ last_update: 2026-05-21
 12. **Cluster de Servicios Mendoza (Tier 2/3)**:
     - La incorporación de **[[Mendoza]]** a la Mesa del Cobre y la reforma de la **[[Ley de Glaciares]]** habilitan la reconversión de proveedores petroleros hacia la minería (drilling de altura, logística pesada).
 
+13. **Gobernanza Hídrica Inmutable (HydroTrust - 25/05/2026)**:
+    - Oportunidad SaaS de monitoreo hídrico IoT cifrado en origen (Blockchain) para des-riesgo legal y blindaje de licencia social en el NOA tras el fallo de Catamarca. Ver: [[HydroTrust_Puna_Hidrico]].
+
+14. **Escolta Virtual y Telemetría Crítica (RIGI-Shield - 25/05/2026)**:
+    - Suite logística híbrida (Starlink/Edge) y Shadow API conectada directamente con la nueva 'Mesa de Seguridad' del Ministerio bajo la Res. 461/2026. Ver: [[RIGI_Shield_Seguridad]].
+
+15. **Alineación de Repuestos para Shale (ShaleFlow Añelo - 25/05/2026)**:
+    - SaaS de detección predictiva de fatiga y micro-hubs CNC/3D en Añelo para contrarrestar el desgaste de frack crews ante récords físicos. Ver: [[ShaleFlow_Anelo_Supply]].
+
 ## Conexiones Estratégicas y Ocultas
 
 ### Visualización de Conexiones (Mermaid)
@@ -61,14 +70,18 @@ graph TD
     RIGI --> |Pluspetrol US$ 12.000M| Plus[Bajo del Choique]
     RIGI --> |Res. 484/2026| Profit[Rentabilidad 35%]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
+    RIGI --> |Res. 461/2026| SecurityTable[Mesa de Seguridad Nacional]
+    SecurityTable --> |Shadow API Enlace| RS[RIGI-Shield Escolta]
     
     VM[Vaca Muerta] --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Federalización| PA[Palermo Aike / D-129]
     VM --> |Diesel 10 Minero| YPFM[YPF Combustible Minero]
+    Fractura --> |Aceleración Física| SF[ShaleFlow Añelo CNC]
     
     LG[Justicia Catamarca] --> |Desbloqueo Río Los Patos| Catamarca[Hombre Muerto]
     Catamarca --> Posco[Posco - Sal de Oro]
     Catamarca --> Arc[Arcadium - Fénix]
+    Catamarca -.-> |Monitoreo Hídrico| HT[HydroTrust IoT]
     
     Cobre[Cobre Hub] --> |Leyes Récord| Lunahuasi[Lunahuasi 18.9% Cu]
     Cobre --> |Favorable| Diablillos[Diablillos - Plata/Oro]
@@ -82,3 +95,4 @@ graph TD
 
 ## Conclusiones
 La "economía a dos velocidades" se profundiza. Con una cartera RIGI que escaló a **US$ 95.000 millones**, la restricción ya no es el capital sino la **infraestructura física** (líneas de 500kV en San Juan, Ruta 51 en Salta) y la **capacidad de ejecución**. El **Súper RIGI** busca romper el sesgo extractivo mediante la industrialización (baterías, refinamiento), pero el éxito inmediato sigue anclado en la eficiencia de la Puna y Vaca Muerta.
+

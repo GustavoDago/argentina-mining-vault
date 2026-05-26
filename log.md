@@ -1,5 +1,14 @@
 # Log de Operaciones
 
+## [2026-05-25] opps | Creación de Oportunidades RIGI de Alto Apalancamiento
+- **Tesis Creadas:**
+    - `HydroTrust_Puna_Hidrico.md`: Monitoreo hídrico inmutable (Blockchain) para des-riesgo legal y social tras el levantamiento de la cautelar de Catamarca.
+    - `RIGI_Shield_Seguridad.md`: Suite de escolta virtual y enlace API de seguridad crítica con la Mesa Nacional de Seguridad RIGI (Res. 461/2026).
+    - `ShaleFlow_Anelo_Supply.md`: Detección predictiva de fatiga y micro-hubs CNC/3D en Añelo para contrarrestar cuellos de botella en frack crews de Vaca Muerta.
+- **Actualizaciones:**
+    - `Oportunidades y Conexiones.md` actualizado con las nuevas oportunidades e integración al mapa de conexiones Mermaid.
+    - `index.md` actualizado con las nuevas referencias.
+
 ## [2026-05-25] sync | Ingesta consolidada de Inteligencia Jules (23/05 - 25/05)
 - **Ingesta:** Procesados y consolidados 3 reportes de Jules (del 23 al 25 de mayo de 2026).
 - **Hitos Inversión:**
