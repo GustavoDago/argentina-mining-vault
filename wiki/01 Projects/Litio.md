@@ -1,9 +1,6 @@
----
-type: project
-tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]]
 confidence: high
-last_update: 2026-05-21
+last_update: 2026-05-26
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -19,14 +16,16 @@ A mayo de 2026, la Argentina cuenta con un ecosistema operativo que se expande h
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
 - **Consolidación Hegemónica (17/05/2026):** Rio Tinto ratificó formalmente su plan de inversión total de **US$ 2.500 millones** tras completar la absorción integral de Arcadium Lithium. Consolida el control directo de Rincón y optimiza sinergias logísticas con Fénix (Catamarca).
-- **Estructura:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]] (amparando el paquete de US$ 1.175 millones del consorcio IFC/BID Invest).
+- **Agenda Operativa y Logística (26/05/2026):** Coordinó con el Gobierno de Jujuy la expansión operativa e infraestructura de conectividad para el flujo pesado de transporte por la RN 52 (120 camiones diarios).
+- **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** (consorcio de IFC, BID Invest y JBIC) y la primera exportación exitosa de 200 toneladas a China.
+- **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
 ### 2. [[Cauchari-Olaroz]] (Minera Exar, Jujuy)
-- **Expansión RIGI (21/05/2026):** Proyecto de expansión formalmente aprobado bajo el RIGI por una inversión comprometida de **US$ 1.241 millones** (joint venture Ganfeng, Lithium Americas y la estatal JEMSE).
-- **Proyección:** Apunta a consolidar un output de **40.000 toneladas anuales (t/año)** de carbonato de litio equivalente.
+- **Expansión RIGI (21/05/2026):** Proyecto de expansión formalmente aprobado bajo el RIGI por una inversión comprometida de **US$ 1.241 millones** (joint venture Ganfeng, Lithium Americas y la estatal JEMSE). Apunta a consolidar un output de **40.000 toneladas anuales (t/año)** de carbonato de litio equivalente.
 
-### 3. [[Posco]] (Sal de Oro, Salta)
-- **Estado:** Producción de 15.600 t/año de LCE proyectada en su fase inicial (Sal de Oro). Beneficiada directamente por el desbloqueo judicial permanente de los recursos hídricos compartidos en la cuenca de la Puna.
+### 3. [[Posco]] (Sal de Oro / Hombre Muerto Norte, Salta)
+- **Consolidación de Activos (26/05/2026):** Posco concretó formalmente la compra del proyecto Hombre Muerto Norte (HMN) por **US$ 65 millones** a Lithium South, logrando una integración regional estratégica para optimizar el proyecto Sal de Oro.
+- **Producción:** Proyecta una fase inicial de **15.600 t/año LCE** (Sal de Oro), beneficiándose del desbloqueo judicial permanente de los recursos hídricos compartidos en la cuenca de la Puna.
 
 ### 4. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
 - **Estado:** Puesta en marcha operativa y procesamiento de salmuera iniciados en Q2 2026. Proyecto amparado bajo RIGI por una inversión de US$ 217 millones.

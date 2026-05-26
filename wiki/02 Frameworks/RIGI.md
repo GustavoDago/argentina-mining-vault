@@ -1,14 +1,14 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-26_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-12_news_mining_energy]], [[2026-05-13_news_mining_energy]], [[2026-05-14_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-26_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-12_news_mining_energy]], [[2026-05-13_news_mining_energy]], [[2026-05-14_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]]
 confidence: high
-last_update: 2026-05-21
+last_update: 2026-05-26
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
-**Vigencia:** 2024 - 8 de julio de 2027 (Prorrogado formalmente el 11/04/2026 y ratificado por Decreto 105/2026 para capturar la ventana de inversión minera/energética).
+**Vigencia:** 2024 - julio de 2027 (Prorrogado formalmente por un año mediante Decreto 105/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
 ## Tablero de Control (Mayo 2026)
@@ -21,7 +21,7 @@ A mayo de 2026, el RIGI se ha consolidado como el motor principal de la reactiva
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
 
 ### Categorías Especiales
-- **Súper RIGI (Mayo 2026):** Régimen complementario anunciado por el Ejecutivo para incentivar la **industrialización de recursos naturales** (ej. baterías de litio, laminado de cobre, fertilizantes de potasio/fósforo) y sectores de alta tecnología (IA, Datacenters). Ofrece beneficios superiores para actividades inexistentes en el país.
+- **Súper RIGI (Mayo 2026):** Régimen complementario anunciado por el Ejecutivo para incentivar la **industrialización de recursos naturales** (ej. celdas y baterías de litio, laminado de cobre, fertilizantes de potasio/fósforo) y sectores de alta tecnología (IA, semiconductores, Datacenters). Ofrece beneficios superiores para actividades inexistentes en el país.
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
     - Destinado a megaproyectos de exportación (ej. GNL).
     - Inversión mínima: **US$ 2.000 millones**.
@@ -52,10 +52,14 @@ A mayo de 2026, el RIGI se ha consolidado como el motor principal de la reactiva
 El RIGI está consolidando una **"economía a dos velocidades"** (crecimiento en forma de "K"). Los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%**, mientras que los sectores dependientes del mercado interno enfrentan una caída del **-4,9%**.
 
 ## Hitos Normativos (2026)
-- **Extensión de Plazo y Upstream (08/05/2026):** El Decreto 105/2026 extendió el plazo de adhesión hasta julio de 2027 y habilitó beneficios para todo el segmento upstream de petróleo y gas.
-- **Mesa de Seguridad RIGI (Res. 461/2026):** El Ministerio de Seguridad de la Nación creó la *"Mesa de Coordinación para la Seguridad de Inversiones Estratégicas"*. Su propósito es blindar cadenas logísticas y activos críticos de proyectos RIGI ante riesgos de crimen organizado y conflictividad territorial.
+- **Súper RIGI (26/05/2026):** Envío formal al Congreso del proyecto de ley "Régimen de Incentivo para Grandes Inversiones en Nuevas Industrias".
+    - Inversión mínima: **US$ 1.000 millones**.
+    - Sectores: IA, semiconductores, biotecnología avanzada, infraestructura digital, hidrógeno verde, reactores nucleares pequeños (SMR), baterías de litio y vehículos eléctricos.
+    - Beneficios: Tasa de Ganancias reducida al **15%**, amortización acelerada, libre disponibilidad de divisas y estabilidad fiscal por 30 años.
+- **Mesa de Seguridad RIGI (Res. 461/2026 - 20/05/2026):** El Ministerio de Seguridad de la Nación creó la *"Mesa de Coordinación para la Seguridad de Inversiones Estratégicas"* para blindar cadenas logísticas y activos críticos de proyectos RIGI ante riesgos de conflictividad y delito complejo.
 - **Ajuste de Rentabilidad (27/04/2026):** La **Resolución 484/2026** elevó el umbral de rentabilidad del 30% al **35%** para adaptar el régimen a la curva de declino de proyectos de shale oil e infraestructura eléctrica.
-- **Nuevas Aprobaciones (Mayo 2026):** Resoluciones aprobatorias formalizadas para Minera San Jorge (USD 891M), Cauchari-Olaroz (USD 1.241M), TGS Expansión (USD 750M acumulados) y Los Azules (USD 2.672M), además de Veladero (Res. 413/2026) y Minera del Altiplano (Res. 431/2026).
+- **Extensión Upstream y Prórroga (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento upstream de petróleo y gas, y oficializó la prórroga de adhesión por un año (hasta julio de 2027).
+- **Nuevas Aprobaciones (Mayo 2026):** Resoluciones aprobatorias formalizadas para Minera San Jorge (US$ 891M), Cauchari-Olaroz (US$ 1.241M), TGS Expansión (US$ 700M), Los Azules (US$ 2.672M), Veladero (Res. 413/2026) y Minera del Altiplano (Res. 431/2026).
 
 ## Beneficios Clave para Inversores
 - **Estabilidad Fiscal:** Protección por 30 años contra nuevos impuestos o aumentos de tasas.
