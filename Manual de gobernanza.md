@@ -109,9 +109,16 @@ En un entorno de autoría automatizada, la trazabilidad es la garantía de respo
 
 El agente debe registrar cada movimiento en un formato parseable: `## [YYYY-MM-DD] operación | Título del documento/consulta` Esto permite entender la evolución del pensamiento del sistema y auditar las fuentes de cada cambio.
 
-### Integración con Git: Supervisión Humana
+### Integración con Git: Supervisión Humana y Consolidación Remota
 
-El repositorio debe estar bajo control de versiones de **Git**. El uso de `git diff` y `git log` constituye la capa de supervisión humana definitiva. Permite validar exactamente qué líneas de texto ha alterado la IA, revertir "alucinaciones" estructurales y mantener un historial de evidencia infalible para la gobernanza empresarial.
+El repositorio debe estar bajo control de versiones de **Git**. El uso de `git diff` y `git log` constituye la capa de supervisión humana definitiva.
+
+Al finalizar con éxito cada proceso de ingesta o sincronización de inteligencia, el agente debe seguir el **Flujo de Consolidación de Git**:
+1. Realizar un commit descriptivo y estructurado de los cambios.
+2. Actualizar la rama remota de producción (`git push origin main`).
+3. Eliminar de forma segura las ramas de trabajo locales y remotas asociadas al lote integrado (ej. `git branch -d nombre-rama` y `git push origin --delete nombre-rama`), asegurando que no queden ramas efímeras o redundantes de Jules acumuladas.
+
+Este flujo automatizado previene desviaciones de ramas y reduce la deuda de versionado a cero.
 
 --------------------------------------------------------------------------------
 

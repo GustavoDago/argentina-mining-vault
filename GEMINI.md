@@ -79,5 +79,9 @@ Cuando el usuario indique "Procesa la inteligencia de Jules" o "Ingesta el Pull 
 4. Consolida todos los hallazgos del día en una sola entrada en el `log.md` (Ej: `## [YYYY-MM-DD] sync | Procesados 3 reportes de Jules`).
 
 ## 4. Trazabilidad y Control
-- **Git:** Cada sesión de trabajo debe terminar con un commit descriptivo. No se deben "stagear" cambios sin revisión si el usuario lo solicita, pero se recomienda el versionado frecuente para auditoría.
+- **Git (Flujo de Consolidación):** Al finalizar con éxito cada protocolo de ingesta o sincronización de inteligencia, el agente debe consolidar los cambios en la rama principal:
+  1. Realizar un commit descriptivo de los cambios.
+  2. Subir y actualizar la rama `main` remota (`git push origin main`).
+  3. Eliminar de forma segura las ramas de trabajo locales y remotas que ya hayan sido integradas o procesadas (ej. `git branch -d nombre-rama` y `git push origin --delete nombre-rama`), manteniendo el árbol de Git limpio de ramas efímeras de Jules o de trabajo temporal.
+  4. No se deben stagear cambios sin revisión solo si el usuario lo solicita específicamente, priorizando siempre la automatización de la sincronización segura con el remoto.
 - **Logs:** `wiki/04 Daily/` es el registro histórico de la evolución de la Wiki.
