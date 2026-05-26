@@ -101,7 +101,10 @@
 - [[Esceptico_Seguridad_RIGI]]
 - [[Esceptico_Choque_Vicuña_Azules]]
 - [[Esceptico_LLL_Oil_YPF]]
+- [[PreMortem_ShaleFlow]] [NEW]
+- [[PreMortem_HydroTrust]] [NEW]
+- [[PreMortem_RIGI_Shield]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-25 23:55*
+*Ultima actualización sincronizada: 2026-05-26 00:55*
 
