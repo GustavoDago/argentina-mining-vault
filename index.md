@@ -49,6 +49,7 @@
 ## 02 Frameworks
 - [[Corredor Bioceanico]]
 - [[Ley de Glaciares]]
+- [[Pre-Mortem Framework]] [NEW]
 - [[RIGI]]
 - [[RIMI]]
 - [[Sinergias Logisticas Puna]]
