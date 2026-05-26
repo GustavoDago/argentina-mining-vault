@@ -1,7 +1,7 @@
 ---
 type: daily
 tags: [mining, energy, RIGI, VacaMuerta, Lithium, Copper]
-sources: [[2026-05-23_news_mining_energy.md]]
+sources: [[2026-05-23_news_mining_energy]]
 last_update: 2026-05-23
 ---
 

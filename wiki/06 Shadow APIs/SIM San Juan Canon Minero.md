@@ -1,7 +1,7 @@
 ---
 type: shadow-api
 tags: [reverse-engineering, regulatory, compliance, san-juan]
-sources: [[Oportunidades y Conexiones.md]]
+sources: [[Oportunidades y Conexiones]]
 confidence: high
 last_update: 2026-04-26
 ---

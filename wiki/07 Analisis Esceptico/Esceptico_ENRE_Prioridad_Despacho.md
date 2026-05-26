@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, energy, enre, shadow-api]
-sources: [[ENRE Prioridad de Despacho.md]]
+sources: [[ENRE Prioridad de Despacho]]
 confidence: high
 last_update: 2026-05-10
 ---

@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [infrastructure, energy, oil-gas]
-sources: [[2026-05-09_news_mining_energy.md]]
+sources: [[2026-05-09_news_mining_energy]]
 confidence: high
 last_update: 2026-05-09
 ---

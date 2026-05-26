@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [regulatory, industrialization, RIGI]
-sources: [[2026-05-10_news_mining_energy.md]]
+sources: [[2026-05-10_news_mining_energy]]
 confidence: high
 last_update: 2026-05-10
 ---

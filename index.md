@@ -17,6 +17,7 @@
 - [[Hombre Muerto Oeste]]
 - [[Josemaría]]
 - [[Jujuy]]
+- [[La Rioja]] [NEW]
 - [[Litio]]
 - [[Los Azules]]
 - [[Lunahuasi]]

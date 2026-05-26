@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [regulatory, energy, mining]
-sources: [[2026-05-20_news_mining_energy.md]], [[2026-05-21_news_mining_energy.md]]
+sources: [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]]
 confidence: medium
 last_update: 2026-05-22
 ---

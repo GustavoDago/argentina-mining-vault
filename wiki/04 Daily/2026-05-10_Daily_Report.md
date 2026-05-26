@@ -34,4 +34,4 @@ Jornada marcada por el despliegue masivo del [[RIGI]] en Vaca Muerta y avances c
 - **Riesgo de Infraestructura:** El cuello de botella eléctrico en San Juan es el principal limitante para la simultaneidad de megaproyectos de cobre. El ENRE será el árbitro decisivo de la velocidad del sector.
 
 ---
-**Backlinks:** [[2026-05-10_news_mining_energy.md]], [[Vaca Muerta]], [[Taca Taca]], [[RIGI]], [[Cobre]], [[Litio]], [[Corredor Bioceanico]].
+**Backlinks:** [[2026-05-10_news_mining_energy]], [[Vaca Muerta]], [[Taca Taca]], [[RIGI]], [[Cobre]], [[Litio]], [[Corredor Bioceanico]].

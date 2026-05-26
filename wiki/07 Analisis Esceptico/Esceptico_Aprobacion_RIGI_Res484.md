@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, regulatory, rigi, shadow-api]
-sources: [[Aprobacion RIGI Upstream Res 484-2026.md]]
+sources: [[Aprobacion RIGI Upstream Res 484-2026]]
 confidence: high
 last_update: 2026-05-10
 ---

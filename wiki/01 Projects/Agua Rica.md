@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[Infobae (Abril 2026)]]
+sources: Infobae (Abril 2026)
 confidence: high
 last_update: 2026-04-27
 ---

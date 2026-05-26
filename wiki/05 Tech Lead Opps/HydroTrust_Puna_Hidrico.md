@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [opportunity, technology, lithium, regulatory]
-sources: [[2026-05-25_news_mining_energy.md]], [[Catamarca.md]], [[Arcadium Lithium.md]], [[Posco.md]], [[RIGI.md]]
+sources: [[2026-05-25_news_mining_energy]], [[Catamarca]], [[Arcadium Lithium]], [[Posco]], [[RIGI]]
 confidence: high
 last_update: 2026-05-25
 ---

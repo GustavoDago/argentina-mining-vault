@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, logistics, sat-edge, bioceanico]
-sources: [[Sat-Edge_Bioceanico.md]]
+sources: [[Sat-Edge_Bioceanico]]
 confidence: medium
 last_update: 2026-05-10
 ---

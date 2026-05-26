@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, logistics, bioceanico, shadow-api]
-sources: [[Middleware_eTIR_Bioceanico.md]]
+sources: [[Middleware_eTIR_Bioceanico]]
 confidence: high
 last_update: 2026-05-10
 ---

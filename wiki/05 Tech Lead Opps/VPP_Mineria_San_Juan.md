@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [opportunity, technology, energy, mining]
-sources: [[Riesgo Electrico San Juan Red Team.md]], [[RIGI.md]]
+sources: [[Riesgo Electrico San Juan Red Team]], [[RIGI]]
 confidence: medium
 last_update: 2026-05-10
 ---

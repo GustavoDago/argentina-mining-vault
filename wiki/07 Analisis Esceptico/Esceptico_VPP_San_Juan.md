@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, energy, san-juan, vpp, mining]
-sources: [[VPP_Mineria_San_Juan.md]]
+sources: [[VPP_Mineria_San_Juan]]
 confidence: medium
 last_update: 2026-05-10
 ---

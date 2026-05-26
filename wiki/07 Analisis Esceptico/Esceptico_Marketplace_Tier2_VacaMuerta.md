@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, oil-gas, vaca-muerta, marketplace]
-sources: [[Marketplace_Tier2_VacaMuerta.md]]
+sources: [[Marketplace_Tier2_VacaMuerta]]
 confidence: high
 last_update: 2026-05-10
 ---

@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, regulatory, compliance, san-juan, shadow-api]
-sources: [[SIM San Juan Canon Minero.md]]
+sources: [[SIM San Juan Canon Minero]]
 confidence: high
 last_update: 2026-05-10
 ---

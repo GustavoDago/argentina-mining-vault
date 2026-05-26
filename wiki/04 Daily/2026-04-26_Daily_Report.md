@@ -6,8 +6,8 @@ La jornada del 26 de abril destaca por la consolidación del sector minero como 
 ## Hitos del Día
 
 ### Minería y Cobre
-- **[[../01 Projects/Distrito Vicuña.md|Distrito Vicuña]] (San Juan):** El mayor proyecto de cobre del país proyecta invertir US$ 790 millones en 2026. La operadora aguarda la aprobación de su adhesión al [[../02 Frameworks/RIGI.md|RIGI]] para acelerar el desarrollo.
-- **Retorno de Gigantes:** La chilena **Antofagasta Plc** evalúa volver a Argentina después de 30 años, analizando opciones en **El Pachón** o exploraciones independientes en [[../01 Projects/San Juan.md|San Juan]].
+- **[[Distrito Vicuña|Distrito Vicuña]] (San Juan):** El mayor proyecto de cobre del país proyecta invertir US$ 790 millones en 2026. La operadora aguarda la aprobación de su adhesión al [[RIGI|RIGI]] para acelerar el desarrollo.
+- **Retorno de Gigantes:** La chilena **Antofagasta Plc** evalúa volver a Argentina después de 30 años, analizando opciones en **El Pachón** o exploraciones independientes en [[San Juan|San Juan]].
 - **Crecimiento Dispar:** El sector minero creció un 9,9% interanual, mientras que la industria general se desplomó un 8,7%, evidenciando la resiliencia de las actividades extractivas.
 
 ### RIGI y Macroeconomía
@@ -24,4 +24,4 @@ La jornada del 26 de abril destaca por la consolidación del sector minero como 
 
 ---
 **Energon** - *Experticia en Energía y Minería Argentina*
-[[../../raw/2026-04-26_news_mining_energy.md|Ver fuentes originales]]
+[[2026-04-26_news_mining_energy|Ver fuentes originales]]

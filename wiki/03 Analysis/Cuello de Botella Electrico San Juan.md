@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [mining, copper, regulatory, san-juan]
-sources: [[2026-05-02_news_mining_energy.md]], [[2026-05-06_news_mining_energy.md]], [[2026-05-14_news_mining_energy.md]], [[2026-05-16_news_mining_energy.md]]
+sources: [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-14_news_mining_energy]], [[2026-05-16_news_mining_energy]]
 confidence: high
 last_update: 2026-05-21
 ---

@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [opportunity, technology, regulatory, infrastructure]
-sources: [[2026-05-24_news_mining_energy.md]], [[RIGI.md]], [[Corredor Bioceanico.md]]
+sources: [[2026-05-24_news_mining_energy]], [[RIGI]], [[Corredor Bioceanico]]
 confidence: high
 last_update: 2026-05-25
 ---

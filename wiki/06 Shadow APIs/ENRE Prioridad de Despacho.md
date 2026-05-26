@@ -1,7 +1,7 @@
 ---
 type: shadow-api
 tags: [reverse-engineering, energy, enre, grid]
-sources: [[2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza.md]], [[Oportunidades y Conexiones.md]]
+sources: [[2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza]], [[Oportunidades y Conexiones]]
 confidence: high
 last_update: 2026-04-26
 ---

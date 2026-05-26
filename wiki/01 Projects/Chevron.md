@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [energy, oil-gas, RIGI]
-sources: [[2026-05-08_news_mining_energy.md]], [[2026-05-17_news_mining_energy.md]], [[2026-05-19_news_mining_energy.md]]
+sources: [[2026-05-08_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]]
 confidence: high
 last_update: 2026-05-21
 ---

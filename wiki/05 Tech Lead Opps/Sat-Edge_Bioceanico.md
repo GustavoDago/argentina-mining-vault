@@ -1,7 +1,7 @@
 ---
 type: tech-lead-opp
 tags: [logistics, connectivity, satcom, edge-computing, bioceanico]
-sources: [[Corredor Bioceanico.md]], [[2026-05-10_Daily_Report.md]]
+sources: [[Corredor Bioceanico]], [[2026-05-10_Daily_Report]]
 confidence: high
 last_update: 2026-05-10
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/05 Tech Lead Opps/Middleware_eTIR_Bioceanico.md",
+                "file": "wiki/01 Projects/Catamarca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Middleware_eTIR_Bioceanico"
+              "title": "Catamarca"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/01 Projects/Litio.md",
+                "file": "wiki/01 Projects/Catamarca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Litio"
+              "title": "Enlaces entrantes de Catamarca"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/01 Projects/Litio.md",
+                "file": "wiki/01 Projects/Catamarca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Litio"
+              "title": "Enlaces salientes de Catamarca"
             }
           },
           {
@@ -165,12 +165,12 @@
               "title": "Esquema de Litio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +185,13 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/01 Projects/La Rioja.md",
+    "wiki/05 Tech Lead Opps/ShaleFlow_Anelo_Supply.md",
+    "wiki/05 Tech Lead Opps/RIGI_Shield_Seguridad.md",
+    "wiki/05 Tech Lead Opps/HydroTrust_Puna_Hidrico.md",
+    "wiki/01 Projects/Arcadium Lithium.md",
+    "wiki/01 Projects/YPF.md",
+    "wiki/05 Tech Lead Opps/Middleware_eTIR_Bioceanico.md",
     "log.md",
     "raw/2026-05-10_news_mining_energy.md",
     "wiki/05 Tech Lead Opps/Marketplace_Tier2_VacaMuerta.md",
@@ -204,13 +211,6 @@
     "raw/2026-04-26_news_mining_energy.md",
     "wiki/06 Shadow APIs/Convencion TIR Logistica Bioceanica.md",
     "wiki/04 Daily/2026-04-25_Daily_Report.md",
-    "raw/2026-04-25_news_mining_energy.md",
-    "wiki/04 Daily/2026-04-24_Daily_Report.md",
-    "raw/2026-04-24_news_mining_energy.md",
-    "wiki/04 Daily/2026-04-23_Daily_Report.md",
-    "wiki/01 Projects/Gualcamayo.md",
-    "raw/2026-04-23_news_mining_energy.md",
-    "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
     "wiki/06 Shadow APIs",
     "wiki/05 Tech Lead Opps"
   ]

@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-05-08_news_mining_energy.md]], [[2026-05-10_news_mining_energy.md]]
+sources: [[2026-05-08_news_mining_energy]], [[2026-05-10_news_mining_energy]]
 confidence: high
 last_update: 2026-05-10
 ---

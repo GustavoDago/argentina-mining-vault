@@ -1,7 +1,7 @@
 ---
 type: shadow-api
 tags: [reverse-engineering, logistics, regulatory, bioceanico]
-sources: [[Corredor Bioceanico]], [[2026-04-25_Daily_Report.md]]
+sources: [[Corredor Bioceanico]], [[2026-04-25_Daily_Report]]
 confidence: high
 last_update: 2026-04-26
 ---

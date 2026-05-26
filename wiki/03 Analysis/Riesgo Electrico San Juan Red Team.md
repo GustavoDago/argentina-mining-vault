@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [mining, energy, san-juan, risk-assessment]
-sources: [[2026-05-10_Daily_Report.md]], [[Cuello de Botella Electrico San Juan.md]]
+sources: [[2026-05-10_Daily_Report]], [[Cuello de Botella Electrico San Juan]]
 confidence: high
 last_update: 2026-05-10
 ---

@@ -1,7 +1,7 @@
 ---
 type: shadow-api
 tags: [reverse-engineering, logistics, customs, afip]
-sources: [[2026-04-05_Evaluacion_Oportunidades_Tech.md]]
+sources: [[2026-04-05_Evaluacion_Oportunidades_Tech]]
 confidence: high
 last_update: 2026-04-26
 ---

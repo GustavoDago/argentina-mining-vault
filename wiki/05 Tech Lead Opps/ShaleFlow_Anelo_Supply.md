@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [opportunity, technology, energy, oil-gas]
-sources: [[2026-05-25_news_mining_energy.md]], [[Vaca Muerta.md]], [[RIGI.md]], [[Proyecto LLL Oil.md]]
+sources: [[2026-05-25_news_mining_energy]], [[Vaca Muerta]], [[RIGI]], [[Proyecto LLL Oil]]
 confidence: high
 last_update: 2026-05-25
 ---

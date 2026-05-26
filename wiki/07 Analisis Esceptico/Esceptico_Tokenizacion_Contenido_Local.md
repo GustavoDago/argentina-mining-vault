@@ -1,7 +1,7 @@
 ---
 type: analysis-esceptico
 tags: [red-team, rigi, compliance, fintech]
-sources: [[Oportunidades y Conexiones.md]]
+sources: [[Oportunidades y Conexiones]]
 confidence: high
 last_update: 2026-05-10
 ---

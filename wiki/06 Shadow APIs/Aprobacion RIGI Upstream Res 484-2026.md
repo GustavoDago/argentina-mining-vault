@@ -1,7 +1,7 @@
 ---
 type: shadow-api
 tags: [reverse-engineering, regulatory, oil-gas, RIGI]
-sources: [[RIGI.md]], [[Vaca Muerta.md]]
+sources: [[RIGI]], [[Vaca Muerta]]
 confidence: high
 last_update: 2026-05-10
 ---

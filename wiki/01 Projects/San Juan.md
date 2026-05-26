@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-26_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy]], [[2026-04-14_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-26_news_mining_energy]]
 confidence: high
 last_update: 2026-04-26
 ---

@@ -42,4 +42,4 @@ Se estructuraron tres análisis críticos en la Wiki (`wiki/07 Analisis Esceptic
 3.  **[[Esceptico_LLL_Oil_YPF]]**: Cuestionamiento riguroso sobre la viabilidad del Capex de US$ 25.000 millones de YPF en Loma La Lata, dadas las restricciones financieras y de cadena de suministro (sets de fractura y arenas).
 
 ---
-**Backlinks:** [[2026-05-11_news_mining_energy.md]], [[2026-05-12_news_mining_energy.md]], [[2026-05-13_news_mining_energy.md]], [[2026-05-14_news_mining_energy.md]], [[2026-05-15_news_mining_energy.md]], [[2026-05-16_news_mining_energy.md]], [[2026-05-17_news_mining_energy.md]], [[2026-05-19_news_mining_energy.md]], [[2026-05-20_news_mining_energy.md]], [[2026-05-21_news_mining_energy.md]], [[RIGI]], [[Cobre]], [[Litio]], [[Vaca Muerta]].
+**Backlinks:** [[2026-05-11_news_mining_energy]], [[2026-05-12_news_mining_energy]], [[2026-05-13_news_mining_energy]], [[2026-05-14_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[RIGI]], [[Cobre]], [[Litio]], [[Vaca Muerta]].

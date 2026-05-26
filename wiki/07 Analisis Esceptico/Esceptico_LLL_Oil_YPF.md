@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [oil-gas, regulatory, risk-assessment]
-sources: [[2026-05-16_news_mining_energy.md]], [[2026-05-20_news_mining_energy.md]]
+sources: [[2026-05-16_news_mining_energy]], [[2026-05-20_news_mining_energy]]
 confidence: medium
 last_update: 2026-05-22
 ---

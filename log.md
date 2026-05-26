@@ -69,7 +69,7 @@
 - **Nuevas Tesis (Tech Lead):**
     - `VPP_Mineria_San_Juan.md`: Orquestación de micro-redes para bypass de red interconectada saturada.
     - `Sat-Edge_Bioceanico.md`: Solución satelital y edge computing para digitalización de aduanas en zonas remotas.
-- **Análisis Escéptico:** Creado [[Riesgo Electrico San Juan Red Team.md]] y [[Super RIGI e Industrializacion.md]].
+- **Análisis Escéptico:** Creado [[Riesgo Electrico San Juan Red Team]] y [[Super RIGI e Industrializacion]].
 
 ## [2026-05-08] sync | Consolidación Súper RIGI y Megaproyectos
 - **Ingesta:** Procesado reporte `raw/2026-05-08_news_mining_energy.md` y resolución de conflictos de rama remota.

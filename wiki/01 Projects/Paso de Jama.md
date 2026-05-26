@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [infrastructure, logistics, jujuy]
-sources: [[Corredor Bioceanico.md]], [[Aduana Paso de Jama.md]]
+sources: [[Corredor Bioceanico]], [[Aduana Paso de Jama]]
 confidence: high
 last_update: 2026-05-10
 ---
