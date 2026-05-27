@@ -1,13 +1,17 @@
 # Log de Operaciones
 
-## [2026-05-26] pre-mortem | Ejecución de 3 Pre-Mortems Estratégicos Adicionales
-- **Framework:** Aplicación profunda del [[Pre-Mortem Framework]] a tres tesis críticas adicionales de la wiki para actuar como filtro adversarial definitivo.
+## [2026-05-26] pre-mortem | Ejecución de 3 Pre-Mortems Adicionales (Batch 2)
+- **Framework:** Aplicación completa del [[Pre-Mortem Framework]] (6 fases) sobre 3 oportunidades críticas sin análisis forense previo.
 - **Análisis Ejecutados:**
-    - `PreMortem_AndesLogistics.md`: 4 agentes (Operaciones de Flota, Legal CCT 40/89, Finanzas, IoT Embebido). Veredicto: **REDISEÑAR** → pivotar propuesta de valor de ahorro de combustible a ventanilla única aduanera/puerto seco, rediseñar interfaz a copiloto del chofer, y usar jaulas e inversores galvánicos rugerizados.
-    - `PreMortem_VPP_San_Juan.md`: 4 agentes (Regulación del MEM, Ciberseguridad OT IEC 62443, Project Finance, BESS en altura). Veredicto: **REDISEÑAR** → legalizar vía régimen MATER (Res. 281-E), implementar arquitectura Edge Appliance air-gapped local, y refrigeración por glicol líquido sobredimensionada.
-    - `PreMortem_Marketplace_Tier2_VacaMuerta.md`: 4 agentes (Operaciones de Perforación, Legal CCT 644/12, Finanzas Pymes, Suscripción de Seguros de Londres). Veredicto: **REDISEÑAR** → implementar motor de coincidencia cifrado (Zero-Knowledge Proofs), fideicomiso financiero pool de equipamiento RIGI, y seguro global unificado corporativo.
-- **Hito de Integración:** Resuelto conflicto latente de merge en `Oportunidades y Conexiones.md` consolidando fuentes al 2026-05-26.
-- **Actualizaciones:** `index.md` global actualizado con las nuevas referencias.
+    - `PreMortem_VPP_SanJuan.md`: 4 agentes (Regulación Eléctrica CAMMESA, Generación Térmica en Altura, Project Finance Energético, Ciberseguridad Industrial ICS). Veredicto: **REDISEÑAR** → pivotar a Energy Advisor SaaS (sin despacho ni SCADA), luego JV con IPP establecido.
+    - `PreMortem_Marketplace_Tier2.md`: 4 agentes (Operaciones de Fractura, Derecho Antitrust, Upstream Finance, Seguros Industriales). Veredicto: **REDISEÑAR (riesgo ABORTAR)** → pivote radical a Marketplace de Servicios Tier 3/Complementarios (arena, wireline, campamentos), abandonar equipos de alta presión.
+    - `PreMortem_TIR_Connect.md`: 4 agentes (Despachante de Aduana, Integración Legacy, Comercio Exterior/VUCE, Geopolítica Bilateral). Veredicto: **REDISEÑAR** → pivotar a Supply Chain Visibility ("AndesTrack"), aliarse con FADEEAC como partner tecnológico TIR.
+- **Hallazgos Transversales:**
+    - Los 3 veredictos son REDISEÑAR, ninguno PROCEDER. Patrón recurrente: las tesis asumen que la tecnología puede bypasear barreras institucionales, gremiales y regulatorias que son estructurales.
+    - Riesgo antitrust del Marketplace por intercambio de CSI entre competidores (Ley 27.442).
+    - Sistema María de AFIP no tiene API REST; el scraping es ilegal (Art. 153 bis CP).
+    - Estándares IEC 62443 de BHP prohíben APIs externas en redes SCADA de mina.
+- **Actualizaciones:** `index.md` actualizado con 3 nuevas referencias en Sección 07.
 
 ## [2026-05-26] sync | Ingesta consolidada de Inteligencia Jules (26/05)
 - **Ingesta:** Procesados y consolidados reportes de Jules del 26 de mayo de 2026.
