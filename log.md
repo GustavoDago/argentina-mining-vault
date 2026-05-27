@@ -1,5 +1,16 @@
 # Log de Operaciones
 
+## [2026-05-26] pre-mortem | Ejecución Forense de Segundo Grado (Pre-Mortem de los Pivotes)
+- **Análisis de Resiliencia:** Creación del documento maestro [[Resiliencia_de_los_Pivotes]] cruzando los 15 pivotes de la bóveda para diagnosticar su viabilidad final frente a vulnerabilidades secundarias y fricción operativa en Argentina.
+- **Pre-Mortem de Segundo Grado:** Deep-dive forense y destrucción controlada sobre los 5 modelos re-diseñados más críticos:
+    - *RIGI Upstream ("RIGI Fiscal Ledger"):* El Escenario Catastrófico de Segundo Grado reveló que la AFIP rechaza el ZKP On-Premise considerándolo obstrucción fiscal (inversión de la carga de la prueba), sumado a picos de cálculo en variables Monte Carlo flotantes. Mitigación: Parche de Divulgación Híbrida y ZK-Rollup.
+    - *AndesLogistics ("AndesLogistics Edge & Off-Road"):* Bloqueo de encendido (brickeo) por parte del firmware propietario de Caterpillar/Komatsu en puertos J1939, sumado a contracción de TAM por cintas eléctricas. Mitigación: Transcriptor de Solo Lectura pasivo opto-aislado (Optocoupler Isolation Shield) y Mesh Wi-Fi.
+    - *Geotermia Madura ("Geotermia San Jorge"):* Solubilidad de isobutano en la salmuera andina, causando desgasificación inflamable y contaminación en acuíferos de agua dulce patagónicos, y cancelación de pasivos de YPF en balances SEC. Mitigación: Columna de destilación Stripper al vacío e Isobutano Stripper, y Seguro Ambiental LOP en Londres.
+    - *Des-riesgo Multilateral ("Financiación Híbrida & Co-Gobernanza"):* El costo usurario del crédito privado bridge ahogó la liquidez ante la baja del litio en 2027; la intervención de la ONU fue vetada por caudillos provinciales como injerencia soberana. Mitigación: Swap Collar de tasas e interés, y Comité de Enlace Soberano en el Conicet/IANIGLA de back-office.
+    - *Petroquímica Urea:* El coqueo rápido en los catalizadores Haber-Bosch por reformado de propano, e incautaciones de GLP criogénico por el Estado ante emergencias de invierno. Mitigación: Catalizadores de níquel promovidos con tierras raras, y Tanques Esferas de almacenamiento de 45 días declarados activos nacionales CIADI.
+- **Veredicto:** **PROCEDER CON PARCHES CORRECTIVOS DE SEGUNDO GRADO** para lograr resiliencia de alta fidelidad.
+- **Actualizaciones:** Integrado el análisis en `index.md` raíz.
+
 ## [2026-05-26] pre-mortem | Ejecución de 3 Pre-Mortems de Gran Capital y Actualización del Framework (Batch 5)
 - **Framework:** Modificación estructural del [[Pre-Mortem Framework]] en la wiki para soportar "Big Capital, Finanzas e Ingeniería Industrial Pesada". Incorporación de 3 nuevos arquetipos (Ingeniería de Procesos Químicos, Escrutador ASG Multilateral, Especialista en Project Finance/Hedging) y pautas de mitigación financiera/industrial.
 - **Análisis Ejecutados:**

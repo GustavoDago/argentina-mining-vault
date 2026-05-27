@@ -59,8 +59,9 @@
 - [[Electrificacion Puna]]
 - [[Health_Check_Report]]
 - [[Oportunidades y Conexiones]]
-- [[Super RIGI e Industrializacion]]
+- [[Resiliencia_de_los_Pivotes]] [NEW]
 - [[Riesgo Electrico San Juan Red Team]]
+- [[Super RIGI e Industrializacion]]
 
 ## 04 Daily
 - [[2026-05-26_Daily_Report]] [NEW]
@@ -119,6 +120,6 @@
 - [[PreMortem_Financiacion_Multilateral]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-26 22:20*
+*Ultima actualización sincronizada: 2026-05-26 22:38*
 
 
