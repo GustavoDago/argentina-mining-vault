@@ -108,7 +108,11 @@
 - [[PreMortem_VPP_SanJuan]] [NEW]
 - [[PreMortem_Marketplace_Tier2]] [NEW]
 - [[PreMortem_TIR_Connect]] [NEW]
+- [[PreMortem_AndesLogistics]] [NEW]
+- [[PreMortem_SatEdge_Bioceanico]] [NEW]
+- [[PreMortem_Tokenizacion_Contenido_Local]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-26 21:20*
+*Ultima actualización sincronizada: 2026-05-26 21:45*
+
 
