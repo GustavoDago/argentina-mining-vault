@@ -41,9 +41,15 @@ Desarrolla tu análisis paso a paso siguiendo rigurosamente las siguientes 6 fas
 
 Declara formalmente que el proyecto ha resultado ser un fracaso rotundo en tres horizontes temporales distintos:
 
-- HORIZONTE OPERATIVO (90 días): ¿Qué falló en la ejecución inmediata? Foco en dependencias técnicas, proveedores, permisos y cash burn.
-- HORIZONTE REGULATORIO (12-18 meses): ¿Qué cambió en el marco legal, político o institucional que destruyó la viabilidad? Foco en resoluciones ministeriales, fallos judiciales provinciales, cambios de gobierno, presión social.
+- HORIZONTE OPERATIVO (90 días): ¿Qué falló en la ejecución inmediata? 
+  * Para SaaS/Tech: Foco en dependencias técnicas, APIs, bugs de scraping, fallas de gateway Edge, proveedores y cash burn.
+  * Para Big Capital/Industrial: Foco en Capex Overruns, fallas termodinámicas o de diseño físico de planta, inconsistencias geológicas/caudal, latencia en firmas de desembolsos multilaterales (CPs) e importación de maquinaria crítica.
+- HORIZONTE REGULATORIO (12-18 meses): ¿Qué cambió en el marco legal, político o institucional que destruyó la viabilidad? 
+  * Para SaaS/Tech: Foco en resoluciones de AFIP/UER, regulaciones de telecomunicaciones (Subtel/ENACOM), amparos judiciales de datos personales (AAIP) y resistencia sindical.
+  * Para Big Capital/Industrial: Foco en reglamentaciones de seguridad química y combustión, amparos colectivos basados en la Ley de Glaciares, denegaciones de licencias ambientales y clawbacks retroactivos de estabilidad RIGI.
 - HORIZONTE ESTRUCTURAL (3-5 años): ¿Qué ciclo de mercado, commodity o tendencia tecnológica global convirtió los supuestos del plan en obsoletos?
+  * Para SaaS/Tech: Foco en obsolescencia por conectividad celular bilateral (5G), desinterés del TAM por consolidación minera o exigencias inmediatas de FCF.
+  * Para Big Capital/Industrial: Foco en el colapso prolongado de precios de commodities (cobre, litio, urea, gas), directrices mundiales ASG de desinversión en fósiles por la banca de desarrollo, e industrialización o sustitución tecnológica del recurso primario.
 
 El único propósito del comité es realizar una autopsia forense para descubrir la raíz del fracaso en cada horizonte; no se busca rescatar el plan.
 
@@ -57,6 +63,9 @@ Selecciona 4 agentes de los siguientes arquetipos de dominio. Elige los 4 que re
 4. ANTROPÓLOGO SOCIAL / ESPECIALISTA EN LICENCIA SOCIAL: Estudia las dinámicas de comunidades locales, sindicatos, pueblos originarios y ONGs ambientalistas. Detecta riesgos de bloqueo social, sabotaje y pérdida de licencia social para operar.
 5. INGENIERO DE SOFTWARE / ARQUITECTO DE SISTEMAS: Evalúa la viabilidad técnica de plataformas SaaS, IoT, APIs gubernamentales, ciberseguridad y adopción tecnológica en entornos de baja conectividad.
 6. GEOPOLÍTICO / ANALISTA DE INTELIGENCIA: Estudia riesgos de cadena de suministro global, sanciones internacionales, competencia entre países productores (Chile, Australia, Congo) y dependencia de mercados (China, EE.UU., UE).
+7. INGENIERO DE PROCESOS QUÍMICOS / ENERGÍA INDUSTRIAL [NEW]: Experto en plantas petroquímicas, geotermia profunda, ciclos binarios ORC, reactores químicos y termodinámica a escala. Detecta riesgos mecánicos y cuellos de botella de conversión física.
+8. ESCRUTADOR DE BANCA MULTILATERAL Y ESTÁNDARES ASG [NEW]: Auditor experto en directrices de la IFC (Corporación Financiera Internacional), BID Invest, Principios de Ecuador y auditorías de sostenibilidad ambiental y social en préstamos sindicados.
+9. ESPECIALISTA EN PROJECT FINANCE Y COBERTURA (HEDGING) [NEW]: Experto en sindicación de deuda corporativa estructurada, estructuración de SPVs (Special Purpose Vehicles), swaps de commodities y estructuración de contratos Offtake de compra firme ("Take-or-Pay").
 
 Para cada agente seleccionado, presenta: nombre ficticio, rol técnico, y la justificación metodológica de por qué dicho perfil es idóneo para encontrar las fisuras invisibles de este proyecto en particular.
 
@@ -89,6 +98,8 @@ Para cada uno de los 3 vectores de riesgo macro, entrega un antídoto procesable
 
 **Antídoto #N: [Nombre descriptivo]**
 - Acción específica: [Qué hacer exactamente]
+  * Para SaaS/Tech: Pivotes algorítmicos, HITL (Humano en el Bucle), On-Premise blindados, encriptación local, APIs de gobierno.
+  * Para Big Capital/Industrial: Estructuras financieras SPV, coberturas (hedging) de swaps de commodities, contratos Offtake "Take-or-Pay", alianzas tecnológicas EPC Turnkey internacionales y sindicación de seguros de riesgo político (MIGA/Banco Mundial).
 - Responsable sugerido: [Rol o perfil que debe ejecutar]
 - Plazo de implementación: [Antes de qué fecha o hito]
 - Costo estimado del antídoto: [Rango en US$]

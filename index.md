@@ -114,8 +114,11 @@
 - [[PreMortem_RIGI_Upstream]] [NEW]
 - [[PreMortem_SIM_SanJuan]] [NEW]
 - [[PreMortem_Mendoza_Cluster]] [NEW]
+- [[PreMortem_Petroquimica_Urea]] [NEW]
+- [[PreMortem_Geotermia_Madura]] [NEW]
+- [[PreMortem_Financiacion_Multilateral]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-26 22:00*
+*Ultima actualización sincronizada: 2026-05-26 22:20*
 
 

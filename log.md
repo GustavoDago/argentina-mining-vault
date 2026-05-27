@@ -1,5 +1,13 @@
 # Log de Operaciones
 
+## [2026-05-26] pre-mortem | Ejecución de 3 Pre-Mortems de Gran Capital y Actualización del Framework (Batch 5)
+- **Framework:** Modificación estructural del [[Pre-Mortem Framework]] en la wiki para soportar "Big Capital, Finanzas e Ingeniería Industrial Pesada". Incorporación de 3 nuevos arquetipos (Ingeniería de Procesos Químicos, Escrutador ASG Multilateral, Especialista en Project Finance/Hedging) y pautas de mitigación financiera/industrial.
+- **Análisis Ejecutados:**
+    - `PreMortem_Petroquimica_Urea.md`: 4 agentes (Procesos Químicos/Industrial, Derecho Ambiental Bonaerense/OPDS, Commodities/Project Finance, Relaciones Gremiales SPIQYP). Veredicto: **REDISEÑAR** → pivotar a un pool de contratos de compra obligatoria floor "Offtake Take-or-Pay" con exportadores agrícolas locales (Bunge, ACA) y commodities swap de gas; canalizar inversión mediante SPV internacional con seguro de riesgo político MIGA contra parálisis de OPDS; y rediseñar reformadores Haber-Bosch a dual-feedstock con propano criogénico de respaldo para evitar cortes de invierno de TGS.
+    - `PreMortem_Geotermia_Madura.md`: 4 agentes (Geotermia de Baja Entalpía, Regulación e Hidrocarburos de Santa Cruz, LCOE Off-Grid, Operaciones ORC/Corrosión). Veredicto: **REDISEÑAR** → instalar tuberías aisladas al vacío (VIT concéntricas) para anular la pérdida de calor en el ascenso y asegurar balance de potencia neto positivo; pivotar de intercambiadores de placas de titanio a columnas de contacto directo (DCHX) con recuperador de isobutano para anular el scaling de carbonatos; y estructurar Fideicomiso Tripartito de reuso energético y coparticipación de pasivos P&A con YPF y la provincia.
+    - `PreMortem_Financiacion_Multilateral.md`: 4 agentes (Project Finance Estructurado, Consulta Previa OIT 169, Finanzas Multilaterales de Derechos Humanos, Hidrogeología y ASG). Veredicto: **REDISEÑAR** → estructurar project finance híbrido con un tramo de crédito privado bridge de libre disponibilidad inmediata (40% de la deuda) para amortiguar parálisis de desembolsos multilaterales; protocolizar la Consulta Previa con el PNUD/ACNUDH firmando acuerdos IBA de regalía directa del 1% inalterable; y co-diseñar el modelo hidrogeológico en un Consorcio Científico Abierto con IANIGLA/Conicet para blindar el reporte técnico.
+- **Actualizaciones:** `index.md` raíz actualizado con 3 nuevas referencias en la Sección 07.
+
 ## [2026-05-26] pre-mortem | Ejecución de 3 Pre-Mortems Adicionales y Cierre de Bóveda (Batch 4)
 - **Framework:** Aplicación completa del [[Pre-Mortem Framework]] (6 fases) sobre 3 oportunidades de nicho y de la mesa del cobre para consolidar un total de 12 análisis de destrucción controlada en la wiki.
 - **Análisis Ejecutados:**
