@@ -111,8 +111,11 @@
 - [[PreMortem_AndesLogistics]] [NEW]
 - [[PreMortem_SatEdge_Bioceanico]] [NEW]
 - [[PreMortem_Tokenizacion_Contenido_Local]] [NEW]
+- [[PreMortem_RIGI_Upstream]] [NEW]
+- [[PreMortem_SIM_SanJuan]] [NEW]
+- [[PreMortem_Mendoza_Cluster]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-26 21:45*
+*Ultima actualización sincronizada: 2026-05-26 22:00*
 
 
