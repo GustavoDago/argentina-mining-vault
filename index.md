@@ -105,7 +105,10 @@
 - [[PreMortem_ShaleFlow]] [NEW]
 - [[PreMortem_HydroTrust]] [NEW]
 - [[PreMortem_RIGI_Shield]] [NEW]
+- [[PreMortem_AndesLogistics]] [NEW]
+- [[PreMortem_VPP_San_Juan]] [NEW]
+- [[PreMortem_Marketplace_Tier2_VacaMuerta]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-26 20:30*
+*Ultima actualización sincronizada: 2026-05-26 21:15*
 

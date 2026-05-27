@@ -1,5 +1,14 @@
 # Log de Operaciones
 
+## [2026-05-26] pre-mortem | Ejecución de 3 Pre-Mortems Estratégicos Adicionales
+- **Framework:** Aplicación profunda del [[Pre-Mortem Framework]] a tres tesis críticas adicionales de la wiki para actuar como filtro adversarial definitivo.
+- **Análisis Ejecutados:**
+    - `PreMortem_AndesLogistics.md`: 4 agentes (Operaciones de Flota, Legal CCT 40/89, Finanzas, IoT Embebido). Veredicto: **REDISEÑAR** → pivotar propuesta de valor de ahorro de combustible a ventanilla única aduanera/puerto seco, rediseñar interfaz a copiloto del chofer, y usar jaulas e inversores galvánicos rugerizados.
+    - `PreMortem_VPP_San_Juan.md`: 4 agentes (Regulación del MEM, Ciberseguridad OT IEC 62443, Project Finance, BESS en altura). Veredicto: **REDISEÑAR** → legalizar vía régimen MATER (Res. 281-E), implementar arquitectura Edge Appliance air-gapped local, y refrigeración por glicol líquido sobredimensionada.
+    - `PreMortem_Marketplace_Tier2_VacaMuerta.md`: 4 agentes (Operaciones de Perforación, Legal CCT 644/12, Finanzas Pymes, Suscripción de Seguros de Londres). Veredicto: **REDISEÑAR** → implementar motor de coincidencia cifrado (Zero-Knowledge Proofs), fideicomiso financiero pool de equipamiento RIGI, y seguro global unificado corporativo.
+- **Hito de Integración:** Resuelto conflicto latente de merge en `Oportunidades y Conexiones.md` consolidando fuentes al 2026-05-26.
+- **Actualizaciones:** `index.md` global actualizado con las nuevas referencias.
+
 ## [2026-05-26] sync | Ingesta consolidada de Inteligencia Jules (26/05)
 - **Ingesta:** Procesados y consolidados reportes de Jules del 26 de mayo de 2026.
 - **Hitos Inversión:**
