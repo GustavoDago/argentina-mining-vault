@@ -26,4 +26,4 @@ La ratificación del acuerdo **Mercosur-Unión Europea** actúa como un paraguas
 
 ---
 **Elaborado por:** Jules (Energon)
-**Archivos relacionados:** [[2026-04-09_news_mining_energy.md]], [[Oportunidades y Conexiones]]
+**Archivos relacionados:** [[2026-04-09_news_mining_energy]], [[Oportunidades y Conexiones]]

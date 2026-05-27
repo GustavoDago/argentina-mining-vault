@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-27_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-27
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -20,7 +20,9 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Mayo 2026)
+- **Mega-Proyecto RIGI YPF (27/05/2026):** YPF presentó el mayor proyecto bajo el [[RIGI]] hasta la fecha: **USD 25.000 millones** para perforar 1.152 pozos en 15 años. El objetivo es alcanzar 240.000 bpd para 2032, destinados íntegramente a la exportación vía el oleoducto **VMOS**.
+- **Desembarco de Continental Resources (27/05/2026):** La provincia de **[[Río Negro]]** busca atraer a Continental Resources ("Rey del Fracking") para operar bloques de shale, marcando la entrada de tecnología de punta de EE.UU. a la cuenca neuquina rionegrina.
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.

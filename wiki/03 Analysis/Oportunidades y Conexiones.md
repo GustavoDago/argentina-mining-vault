@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Consolidación Global del Litio (Top 10)**:
+    - La inclusión de **[[Cauchari-Olaroz]]**, Olaroz y Hombre Muerto-Fénix en el ranking mundial (Mayo 2026) valida la estrategia de los salares argentinos. La oportunidad reside en capturar el "premium" de valoración para atraer financiamiento de menor costo.
+21. **Salto de Escala en Vaca Muerta (YPF USD 25B)**:
+    - El mega-proyecto de YPF bajo el RIGI redefine el techo de producción. Se abre una ventana masiva para la consolidación de flotas de fractura y servicios de evacuación de crudo.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -55,7 +59,9 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |USD 25.000M| YPF_RIGI[YPF Mega-Exportación]
+    RIGI --> |USD 1.241M| Cauchari_RIGI[Cauchari-Olaroz Expansión]
+    RIGI --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
@@ -89,7 +95,8 @@ graph TD
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
     Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
 
-    Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
+    Litio[Litio Argentina] --> |Puesto 7 Global| Cauchari[Cauchari-Olaroz]
+    Litio --> |Catamarca: Río Los Patos| Catamarca
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]

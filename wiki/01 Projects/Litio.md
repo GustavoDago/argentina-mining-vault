@@ -1,21 +1,28 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-27_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-27
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En mayo de 2026, Argentina consolidó su relevancia global al posicionar tres proyectos en el **Top 10 mundial** de activos de litio mejor valorados.
+
+## Panorama Global (Mayo 2026)
+Según el ranking internacional de Mining.com.au, la Puna argentina alberga tres de las diez operaciones más relevantes del mundo:
+- **[[Cauchari-Olaroz]] (Jujuy):** Puesto 7.
+- **Salar de Olaroz (Jujuy):** Puesto 8.
+- **Salar del Hombre Muerto-Fénix (Catamarca/Salta):** Puesto 10.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
-### Estadísticas de Exportación (Enero 2026)
-- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
-- **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
+### Estadísticas de Exportación (Mayo 2026)
+- **Récord 1T 2026:** Exportaciones por **US$ 456 millones**, un crecimiento interanual del **124,6%**.
+- **Participación:** El litio representa el 18,9% de las exportaciones mineras totales del país.
+- **Destinos:** China (80%), Corea del Sur, Japón y EE.UU.
 
 ### Proyección de Producción (CAEM)
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
@@ -36,8 +43,14 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Producción:** Inicio operativo en el segundo trimestre de 2026.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 4. Salar de Olaroz / Caucharí (Jujuy)
-- Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+### 4. [[Cauchari-Olaroz]] (Lithium Argentina / Ganfeng, Jujuy)
+- **Estatus:** 7mo proyecto más valorado del mundo.
+- **RIGI:** Aprobó una inversión de **USD 1.241 millones** para la expansión de su capacidad nominal a 40.000 tpa.
+- **Hito:** Es el mayor proyecto de litio inaugurado en el país en los últimos 20 años.
+
+### 5. Salar de Olaroz (Rio Tinto, Jujuy)
+- **Estatus:** 8vo proyecto más valorado del mundo.
+- **Capacidad:** 42.500 tpa LCE tras completar la Etapa 2.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
