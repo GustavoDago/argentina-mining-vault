@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]]
 confidence: high
 last_update: 2026-04-22
 ---
