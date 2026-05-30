@@ -2,6 +2,14 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
+## Estado de la Traza (Mayo 2026)
+- **Brasil - Paraguay:**
+    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,58% de avance** al 28 de mayo de 2026.
+- **Argentina (Salta y Jujuy):**
+    - Jujuy afianzó vínculos con Brasil en Brasilia (21/05/2026) para fortalecer el nodo logístico de Paso de Jama.
+    - Salta busca acelerar la infraestructura ante el crecimiento exponencial del litio y la ratificación de [[Taca Taca]] (USD 5.250M).
+    - Los gobernadores del NOA apuestan a la salida por los puertos chilenos de Antofagasta e Iquique como ruta prioritaria hacia Asia.
+
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
@@ -30,6 +38,8 @@
 - [[Mineria]] (Salta/Jujuy/Catamarca).
 - [[Taca Taca]]
 - [[Litio]]
+- [[Cauchari-Olaroz]]
+- [[Diablillos]]
 
 ## Diagrama de Conectividad Estratégica (Extracto)
 ```mermaid
@@ -39,5 +49,9 @@ graph TD
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
     B --> F[Proyectos de Litio]
+    B --> H[[Cauchari-Olaroz]]
     C --> G[Bypass Campo Quijano]
+    C --> I[[Diablillos]]
+    I --> E
+    H --> E
 ```
