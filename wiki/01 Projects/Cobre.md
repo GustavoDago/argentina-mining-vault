@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-31_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-31
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -34,6 +34,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
+- **Reporte Técnico (31/05/2026):** First Quantum presentó el NI 43-101. Inversión de **US$ 5.250 millones** y capacidad de 40 Mtpa.
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.

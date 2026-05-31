@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-05-31_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-31
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -13,6 +13,10 @@ last_update: 2026-04-27
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
+
+### Hitos de Mayo 2026
+- **Megaproyecto YPF RIGI (31/05/2026):** YPF anunció la adhesión al [[RIGI]] de un plan de inversión de **US$ 25.000 millones** para el área Loma La Lata - Sierra Barrosa. El proyecto contempla 1.152 pozos y una producción de 240.000 bpd para 2032, con exportaciones proyectadas por US$ 100.000 millones.
+- **Récords de YPF:** La compañía alcanzó su mejor EBITDA histórico en el 1T 2026, impulsada por la eficiencia en el shale oil.
 
 ### Estadísticas de Producción (Febrero 2026)
 - **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
