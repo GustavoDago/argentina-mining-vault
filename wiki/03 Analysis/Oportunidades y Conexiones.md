@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-01_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-01
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -46,7 +46,13 @@ last_update: 2026-04-27
 18. **Ajuste Fino del RIGI para Shale e Infraestructura (Resolución 484/2026)**:
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
-    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta.
+20. **Arranque del Cobre Mendocino**:
+    - La aprobación RIGI de **[[San Jorge]]** (Junio 2026) rompe el tabú minero en Mendoza. Oportunidad masiva para el cluster de servicios industriales de la provincia que ya servía a Vaca Muerta.
+21. **El "Súper RIGI" y la Frontera Tecnológica**:
+    - El nuevo marco para inversiones >US$ 1.000M abre una ventana para proyectos de **hidrógeno verde, plantas de celdas de litio y centros de datos de IA**.
+22. **Logística Bioceánica Real**:
+    - El litio ya no espera al puente; está circulando hacia Chile. Oportunidad en **servicios de flete internacional, seguros de carga y puertos secos**.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -62,7 +68,10 @@ graph TD
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
+    RIGI --> |Res. 801/2026| SanJorge
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
+    RIGI --> |Vista 2 Proyectos| VM
+    RIGI --> |Súper RIGI > US$ 1.000M| Tech[IA / Semicon / H2V]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
@@ -93,7 +102,7 @@ graph TD
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
-    Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
+    Litio --> |Producción 28/05| HMW[Hombre Muerto Oeste - Galan]
     Litio --> |Presidencia Mesa| Jujuy[Jujuy]
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
@@ -106,6 +115,7 @@ graph TD
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
+    Chile --> |CEPAL: -10 días vs Atlántico| Asia[Mercado Asia]
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
 
     Eval --> |Espera desde 2024| Posco

@@ -1,17 +1,18 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-06-01_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-06-01
 ---
 
 # San Juan
 
 San Juan es la provincia líder en minería metalífera en Argentina, especialmente en **cobre** y **oro**.
 
-## Modernización y Transparencia (Abril 2026)
-- **Sistema Integral Minero (SIM):** Implementación obligatoria del pago del canon minero 100% online. La plataforma digital centraliza el padrón minero, deudas y estado técnico-legal, eliminando trámites presenciales y mejorando la trazabilidad en tiempo real.
+## Hitos de Infraestructura y Energía (2026)
+- **Parque Solar Hunuc I (01/06/2026):** Central Puerto solicitó el ingreso al Mercado Eléctrico Mayorista (MEM) para su nuevo parque de 140 MW en el Departamento Sarmiento. Conexión prevista en 132 kV.
+- **Sistema Integral Minero (SIM - Abril 2026):** Implementación obligatoria del pago del canon minero 100% online para mejorar trazabilidad y eficiencia.
 
 ## Desempeño Exportador (2026)
 - **Liderazgo Histórico:** En el primer bimestre de 2026, la minería representó el **92,5% de las exportaciones totales** de San Juan.
