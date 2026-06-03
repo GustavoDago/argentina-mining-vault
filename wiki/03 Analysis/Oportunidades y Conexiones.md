@@ -3,10 +3,10 @@ type: analysis
 tags: [mining, energy, infrastructure, RIGI]
 sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-03
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+21. **Súper RIGI y Tech-Mining Synergy (Junio 2026)**:
+    - La propuesta del "Súper RIGI" para IA y semiconductores abre una conexión directa con la minería: la demanda de metales críticos (litio, cobre, tierras raras) para infraestructura de IA. Existe una oportunidad para clusters que integren minería de precisión con centros de cómputo de alto rendimiento.
+22. **Logística Bioceánica: El Salto del Pacífico**:
+    - La consolidación de la ruta vía Chile (CEPAL: -10 días a Asia) reconfigura la ventaja competitiva de Salta y Jujuy. La oportunidad está en el desarrollo de **puertos secos y servicios de consolidación de carga** en el nodo de General Güemes.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -71,6 +75,11 @@ graph TD
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Súper RIGI| AI[AI & Semiconductors]
+    RIGI --> |Inversión US$ 12.000M| Pluspetrol[Pluspetrol - VM]
+    RIGI --> |Inversión US$ 10.000M| Chevron[Chevron - VM]
+    RIGI --> |Solicitud 150kt/a| Ganfeng[Pozuelos-Pastos Grandes]
+    RIGI --> |Res. 801/2026| SJorge[San Jorge - Mendoza]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -80,7 +89,9 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Synergy| Vista
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    ENRGE[ENRGE - Unificación] --> |Regulación| VM
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
@@ -90,6 +101,9 @@ graph TD
     Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
 
     Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
+    Catamarca --> |Fin Injunction| RioLosPatos[Río Los Patos Basin]
+    RioLosPatos --> Posco
+    RioLosPatos --> Arcadium
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
@@ -107,6 +121,7 @@ graph TD
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Logistics --> |Saving 10 days| Asia[Asian Markets]
 
     Eval --> |Espera desde 2024| Posco
 
