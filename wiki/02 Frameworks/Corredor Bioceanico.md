@@ -9,10 +9,10 @@
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
 - **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
-- **Salta (Abril 2026):**
+## Salta (Junio 2026)
+- **Caso de Éxito Eramine (03/06/2026):** La empresa consolidó su logística de exportación de carbonato de litio vía Paso de Jama hacia el puerto chileno de Angamos. El uso del Corredor permitió **reducir 10 días** el tiempo de navegación hacia China en comparación con la ruta atlántica.
+- **Cuello de Botella RN 51:** A pesar del avance en el bypass de Campo Quijano (70%), persisten **91 km sin asfaltar** en la Ruta Nacional 51, lo que representa el principal obstáculo físico para la escala industrial del Corredor en territorio argentino.
     - **Relevancia del Cobre (20/04/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 4.200M) posiciona al proyecto como el principal usuario proyectado del Corredor para exportar concentrado de cobre por el Pacífico.
-    - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**, permitiendo desviar el tránsito pesado minero de las zonas urbanas de la provincia.
-    - La minería se convierte en el principal complejo exportador de la provincia, traccionando la necesidad de acelerar la infraestructura del Corredor.
 
 ## Ventajas Comparativas del Paso de Jama:
 - **Alta operatividad anual:** Cierra solo 35 días al año por factores climáticos (vs. 120 días de Cristo Redentor).

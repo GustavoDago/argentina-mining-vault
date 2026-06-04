@@ -1,15 +1,23 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-03
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
+
+## Tablero de Control (Junio 2026)
+- **Súper RIGI (01/06/2026):** El Poder Ejecutivo envió al Congreso un proyecto de ley para extender los beneficios del RIGI a sectores de alta tecnología (IA, semiconductores, centros de datos).
+    - **Inversión mínima:** USD 1.000 millones.
+    - **Beneficio principal:** Alícuota reducida de Ganancias al **15%**.
+- **Adhesión Récord - Chevron (03/06/2026):** Presentación del megaproyecto El Trapial por **USD 13.800 millones**, consolidando el flujo de inversión en Oil & Gas.
+- **Aprobación San Jorge (03/06/2026):** Formalización vía Resolución 801/2026 (USD 891M), marcando el regreso de Mendoza a la minería de gran escala.
+- **Aprobación Expansión Fénix (03/06/2026):** Resolución 431/2026 aprueba la Fase 1B de Arcadium (USD 530M).
 
 ## Tablero de Control (Abril 2026)
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
@@ -45,6 +53,8 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
 15. **[[Posco]]** (Hombre Muerto Norte, Salta) - Inversión inicial tras adquisición: US$ 65M. En espera de aprobación final para planta de litio (>18 meses).
 16. **Pampa Energía** (Bahía Blanca, Fertilizantes) - Solicitud de adhesión para planta de urea de US$ 2.400M.
+17. **[[Chevron]]** (El Trapial, Neuquén) - Solicitud de ingreso por **USD 13.800M**.
+18. **[[San Jorge]]** (Mendoza, Cobre) - Aprobado (Res. 801/2026) por **USD 891M**.
 
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
@@ -66,3 +76,14 @@ El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento e
 - [[Cobre]]
 - [[Litio]]
 - [[Distrito Vicuña]]
+- [[Chevron]]
+- [[San Jorge]]
+
+```mermaid
+graph TD
+    RIGI[RIGI Principal] --> O&G[Oil & Gas: Chevron USD 13.8B]
+    RIGI --> Mining[Minería: San Jorge, Fénix Expansion]
+    RIGI --> SuperRIGI[Súper RIGI: IA & Semiconductores - 15% Tax]
+    Mining --> Copper[Cobre: Los Azules, Josemaría, Taca Taca]
+    Mining --> Lithium[Litio: Fénix, Rincón, Galan]
+```

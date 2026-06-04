@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-03
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -40,6 +40,9 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
+- **Reunión Cumbre en Jujuy (03/06/2026):** Los gobernadores de la Mesa del Litio se reunieron en San Salvador de Jujuy con representantes del Banco Mundial, BID y CEPAL.
+    - **Objetivo:** Coordinar inversiones en infraestructura vial (RN 51) y energética ([[Electrificacion Puna]]).
+    - **Logística:** Se validó el modelo de exportación por el Pacífico vía [[Corredor Bioceanico|Paso de Jama]], citando el caso de **Eramine** que ahorró 10 días de flete hacia Asia.
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.

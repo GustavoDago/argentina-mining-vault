@@ -1,14 +1,24 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-03_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-03
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
-## Oportunidades de Negocio Identificadas
+## Oportunidades de Negocio Identificadas (Junio 2026)
+1. **Convergencia Tech-Energía (Súper RIGI):**
+   - El envío del proyecto de ley "Súper RIGI" (01/06/2026) abre una oportunidad masiva para centros de datos y minería de criptomonedas alimentados por gas de Vaca Muerta o energía renovable. La estabilidad de 30 años y la tasa del 15% en Ganancias atraen a gigantes tecnológicos globales que requieren grandes volúmenes de energía estable y barata.
+2. **Consolidación de la Ruta del Pacífico:**
+   - El éxito de **Eramine** (ahorro de 10 días de flete) valida la tesis del [[Corredor Bioceanico]]. Existe una oportunidad para el desarrollo de hubs logísticos y depósitos fiscales en Salta y Jujuy que funcionen como "puertos secos" para la salida por Chile.
+3. **Servicios Especializados para Mega-Inversiones (Efecto Chevron):**
+   - El ingreso de **[[Chevron]]** con USD 13.800M genera una demanda sin precedentes de servicios de perforación, completación y logística en Neuquén. Las pymes que logren certificar estándares internacionales de Chevron tendrán contratos asegurados por la próxima década.
+4. **Infraestructura de Transmisión Independiente:**
+   - Ante la demora del ENRE en resolver el acceso a la red de 500 kV en San Juan (03/06/2026), surge la oportunidad de desarrollar líneas de transmisión privadas o esquemas off-grid a gran escala para proyectos como [[Josemaría]] y [[Los Azules]].
+
+## Oportunidades de Negocio Identificadas (Abril 2026)
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
@@ -71,6 +81,8 @@ graph TD
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Súper RIGI| Tech[Alta Tecnología: 15% Tax]
+    RIGI --> |USD 13.800M| Chevron[[Chevron]]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
