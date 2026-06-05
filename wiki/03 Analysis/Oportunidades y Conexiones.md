@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-05_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-05
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Consolidación del Polo Petroquímico y Shale Megainvestments**:
+    - La megainversión de **[[Chevron]]** (US$ 13.800M) en El Trapial (Junio 2026) junto con los registros de fractura récord consolidan una demanda masiva de servicios de estimulación hidráulica y logística de arenas para la próxima década.
+21. **Escalamiento del Litio Jujuy**:
+    - La aprobación de la ampliación de **[[Cauchari-Olaroz]]** (US$ 1.166M) para alcanzar 85.000 t/año tracciona la necesidad de infraestructura energética y química pesada en la Puna jujeña.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -65,6 +69,8 @@ graph TD
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
+    RIGI --> |Chevron US$ 13.800M| Chevron[Chevron - El Trapial]
+    RIGI --> |Exar US$ 1.166M| Exar[Ampliación Cauchari-Olaroz]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
@@ -77,7 +83,7 @@ graph TD
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
-    VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
+    VM --> |Récord 2484 Etapas| Fractura[Eficiencia Operativa Mayo 26]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
