@@ -1,5 +1,24 @@
 # Log de Operaciones
 
+## [2026-06-04] sync | Ingesta masiva y consolidación de Inteligencia Jules (27/05 - 03/06)
+- **Ingesta:** Procesados 7 reportes diarios de Jules (del 27 de mayo al 3 de junio de 2026, sin reporte el 28 de mayo).
+- **Hitos Inversión:**
+    - **Cobre:** Oficialización RIGI de **San Jorge** (Resolución 801/2026, US$ 891M total) en Mendoza, y actualización de **Chevron** (El Trapial Este por USD 13.800M) como la segunda mayor inversión histórica en Vaca Muerta.
+    - **Litio:** Primera producción comercial de cloruro de litio en **Hombre Muerto Oeste** (Galan Lithium, 28 de mayo) con 10.000 t LCE acumuladas en pozas, y solicitud RIGI de Ganfeng para **Pozuelos - Pastos Grandes** (proyección 150.000 t/año). Aprobación RIGI de Fénix Expansión Fase 1B (Resolución 431/2026, USD 530M).
+    - **Vaca Muerta:** Récord de fractura en mayo con **2.484 etapas de fractura**, oleoducto VMOS al 60% e inicio de tendido submarino en Río Negro.
+- **Hitos Regulatorios:**
+    - **ENRGE:** Creación del Ente Nacional Regulador del Gas y la Electricidad (ENRGE) unificando ENRE y ENARGAS; desarrollo de la audiencia de la línea de 500kV en San Juan (Res. 219/2026) el 3 de junio con prórroga de 30 días para dictaminar.
+    - **Súper RIGI:** Envío formal al Congreso del proyecto complementario con Ganancias preferencial al 15% para inversiones mayores a USD 1.000M.
+    - **Decreto 105/2026:** Regulación de upstream onshore (inversión mínima de USD 600M y 50% de contenido local para pymes).
+- **Entidades Creadas:** `Pozuelos - Pastos Grandes.md`, `2026-06-04_Daily_Report.md`.
+- **Análisis Escépticos Creados:**
+    - `Esceptico_Super_RIGI_Congreso.md`: Escrutinio sobre el cebo fiscal del 15% frente a las realidades logísticas y el riesgo político legislativo.
+    - `Esceptico_ENRGE_Regulador_Unico.md`: Análisis de riesgos de parálisis burocrática por fusión de entes y retrasos en prioridad de la línea de 500kV.
+    - `Esceptico_Ganfeng_Pozuelos_PastosGrandes.md`: Escrutinio sobre la viabilidad hídrica de la meta de 150.000 t/año y play de reserva especulativa.
+    - `Esceptico_MesaLitio_Regalias.md`: Riesgos de cartelización fiscal regional por gobernadores mineros y pérdida de competitividad global.
+- **Actualizaciones:** `San Jorge.md`, `Chevron.md`, `Hombre Muerto Oeste.md`, `Cauchari-Olaroz.md`, `Litio.md`, `Vaca Muerta.md`, `TGS.md`, `RIGI.md`, `Cuello de Botella Electrico San Juan.md`, `Oportunidades y Conexiones.md` e índices generales.
+- **Salud:** Verificación de links, frontmatter y consistencia de cifras.
+
 ## [2026-05-26] pre-mortem | Ejecución Forense de Segundo Grado (Pre-Mortem de los Pivotes)
 - **Análisis de Resiliencia:** Creación del documento maestro [[Resiliencia_de_los_Pivotes]] cruzando los 15 pivotes de la bóveda para diagnosticar su viabilidad final frente a vulnerabilidades secundarias y fricción operativa en Argentina.
 - **Pre-Mortem de Segundo Grado:** Deep-dive forense y destrucción controlada sobre los 5 modelos re-diseñados más críticos:

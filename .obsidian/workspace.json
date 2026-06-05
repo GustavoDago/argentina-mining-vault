@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/03 Analysis/Oportunidades y Conexiones.md",
-                "mode": "source",
-                "source": false
+                "file": "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Oportunidades y Conexiones"
+              "title": "Resiliencia_de_los_Pivotes"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/01 Projects/Catamarca.md",
+                "file": "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Catamarca"
+              "title": "Enlaces entrantes de Resiliencia_de_los_Pivotes"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/03 Analysis/Oportunidades y Conexiones.md",
+                "file": "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Oportunidades y Conexiones"
+              "title": "Enlaces salientes de Resiliencia_de_los_Pivotes"
             }
           },
           {
@@ -166,8 +165,7 @@
               "title": "Esquema de Litio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,6 +185,10 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "San Juan.md",
+    "Pre_mortem.json",
+    "wiki/03 Analysis/Oportunidades y Conexiones.md",
+    "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
     "wiki/07 Analisis Esceptico/PreMortem_Financiacion_Multilateral.md",
     "wiki/07 Analisis Esceptico/PreMortem_Geotermia_Madura.md",
     "wiki/07 Analisis Esceptico/PreMortem_Petroquimica_Urea.md",
@@ -196,7 +198,6 @@
     "wiki/07 Analisis Esceptico/PreMortem_Mendoza_Cluster.md",
     "wiki/07 Analisis Esceptico/PreMortem_SIM_SanJuan.md",
     "wiki/07 Analisis Esceptico/PreMortem_RIGI_Upstream.md",
-    "wiki/03 Analysis/Oportunidades y Conexiones.md",
     "wiki/07 Analisis Esceptico/PreMortem_Tokenizacion_Contenido_Local.md",
     "wiki/07 Analisis Esceptico/PreMortem_SatEdge_Bioceanico.md",
     "wiki/07 Analisis Esceptico/PreMortem_AndesLogistics.md",
@@ -211,8 +212,6 @@
     "wiki/05 Tech Lead Opps/RIGI_Shield_Seguridad.md",
     "wiki/05 Tech Lead Opps/HydroTrust_Puna_Hidrico.md",
     "wiki/01 Projects/Arcadium Lithium.md",
-    "wiki/01 Projects/YPF.md",
-    "wiki/05 Tech Lead Opps/Middleware_eTIR_Bioceanico.md",
     "wiki/06 Shadow APIs",
     "wiki/05 Tech Lead Opps"
   ]

@@ -4,7 +4,7 @@
 
 ### 🏗️ [[01 Projects|Proyectos Estratégicos]]
 - **Cobre:** [[Los Azules]], [[Taca Taca]], [[El Pachón]], [[Josemaría]].
-- **Litio:** [[Rincón]], [[Posco]], [[Sal de Vida]], [[Cauchari-Olaroz]] (Nuevo).
+- **Litio:** [[Rincón]], [[Posco]], [[Sal de Vida]], [[Cauchari-Olaroz]] (Nuevo), [[Pozuelos - Pastos Grandes]] (Nuevo).
 - **Oil & Gas:** [[Vaca Muerta]], [[Proyecto LLL Oil]] (Nuevo), [[Palermo Aike y Nuevas Fronteras No Convencionales]].
 
 ### 📜 [[02 Frameworks|Marcos Regulatorios]]
@@ -17,8 +17,8 @@
 - [[Oportunidades y Conexiones]]
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
-- [[2026-05-26_Daily_Report]] (Nuevo)
+- [[2026-06-04_Daily_Report]] (Nuevo)
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-05-26*
+*Última actualización: 2026-06-04*

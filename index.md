@@ -27,9 +27,10 @@
 - [[Palermo Aike]]
 - [[Pampa Energía]]
 - [[Phoenix Global Resources]]
-- [[Pluspetrol]]
+- [[Pluspetrol]] [NEW]
 - [[Posco]]
-- [[Proyecto LLL Oil]]
+- [[Pozuelos - Pastos Grandes]] [NEW]
+- [[Proyecto LLL Oil]] [NEW]
 - [[Rincón]]
 - [[Río Negro]]
 - [[Sal de Oro]]
@@ -64,6 +65,7 @@
 - [[Super RIGI e Industrializacion]]
 
 ## 04 Daily
+- [[2026-06-04_Daily_Report]] [NEW]
 - [[2026-05-26_Daily_Report]] [NEW]
 - [[2026-05-25_Daily_Report]] [NEW]
 - [[2026-05-24_Daily_Report]] [NEW]
@@ -100,9 +102,13 @@
 - [[Esceptico_ENRE_Prioridad_Despacho]]
 - [[Esceptico_SIM_San_Juan]]
 - [[Esceptico_Tokenizacion_Contenido_Local]]
-- [[Esceptico_Seguridad_RIGI]]
-- [[Esceptico_Choque_Vicuña_Azules]]
-- [[Esceptico_LLL_Oil_YPF]]
+- [[Esceptico_Seguridad_RIGI]] [NEW]
+- [[Esceptico_Choque_Vicuña_Azules]] [NEW]
+- [[Esceptico_LLL_Oil_YPF]] [NEW]
+- [[Esceptico_Super_RIGI_Congreso]] [NEW]
+- [[Esceptico_ENRGE_Regulador_Unico]] [NEW]
+- [[Esceptico_Ganfeng_Pozuelos_PastosGrandes]] [NEW]
+- [[Esceptico_MesaLitio_Regalias]] [NEW]
 - [[PreMortem_ShaleFlow]] [NEW]
 - [[PreMortem_HydroTrust]] [NEW]
 - [[PreMortem_RIGI_Shield]] [NEW]
@@ -120,6 +126,6 @@
 - [[PreMortem_Financiacion_Multilateral]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-05-26 22:38*
+*Ultima actualización sincronizada: 2026-06-04 23:20*
 
 
