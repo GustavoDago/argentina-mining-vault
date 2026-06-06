@@ -2,13 +2,14 @@
 
 ## [2026-06-06] sync | Ingesta de Alertas del Midstream & Gas Day 2026
 - **Ingesta:** Procesado reporte del evento Midstream & Gas Day 2026 de EconoJournal.
+- **Filing Back:** Creado [[Analisis_Midstream_Gas_Day_2026]] mapeando la agenda del evento con las tesis tecnológicas de la wiki para networking y posicionamiento.
 - **Hitos Inversión & Infraestructura:**
     - **Oil & Gas (Midstream):** Presentación de obras críticas por Oldelval (evacuación de crudo) y VMOS (Gustavo Chaab, CEO; avance físico >60% e inicio de tendido submarino en Río Negro).
     - **Gas Licuado & Procesamiento (NGL):** Foco de TGS (CEO Oscar Sardi) y Compañía MEGA (CEO Tomás Córdoba) en el procesamiento e industrialización de líquidos de gas en origen como paso estratégico para Vaca Muerta.
     - **Demanda Tecnológica (IA & Data Centers):** Identificación del consumo de Data Centers e IA como dinamizadores de la generación termoeléctrica a gas de Vaca Muerta (Wärtsilä y PS Advisoring).
 - **Entidades Creadas:** `Compañía MEGA.md`, `Oldelval.md`, `2026-06-06_Daily_Report.md`.
-- **Análisis Creados:** `Demanda Energetica de Data Centers e IA.md`.
-- **Actualizaciones:** `TGS.md`, `Vaca Muerta Sur.md`, `Vaca Muerta.md` e índices generales.
+- **Análisis Creados:** `Demanda Energetica de Data Centers e IA.md`, `Analisis_Midstream_Gas_Day_2026.md`.
+- **Actualizaciones:** `TGS.md`, `Vaca Muerta Sur.md`, `Vaca Muerta.md`, `index.md` raíz y `wiki/index.md`.
 
 ## [2026-06-04] sync | Ingesta masiva y consolidación de Inteligencia Jules (27/05 - 03/06)
 - **Ingesta:** Procesados 7 reportes diarios de Jules (del 27 de mayo al 3 de junio de 2026, sin reporte el 28 de mayo).
