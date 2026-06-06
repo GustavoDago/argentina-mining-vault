@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-06
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -26,10 +26,9 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
-### 2. [[Posco]] (Hombre Muerto Norte, Salta)
+### 2. [[Posco]] (Sal de Oro, Salta)
+- **Aprobación RIGI (06/06/2026):** La expansión del proyecto Sal de Oro recibió la aprobación para ingresar al [[RIGI]].
 - **Consolidación (27/04/2026):** Integración del 100% de HMN para optimizar el proyecto Sal de Oro.
-- **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
-- **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
 - **Estado:** Ratificado el **92% de avance** (20/04/2026).
@@ -37,7 +36,11 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
-- Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+- **Expansión RIGI (06/06/2026):** La expansión de Cauchari-Olaroz fue aprobada para el [[RIGI]] (Res. 99/2026) con una inversión de **US$ 1.241M**.
+- Continúa como el polo productivo más estable del país.
+
+### 5. Pozuelos-Pastos Grandes (Ganfeng, Salta)
+- **Solicitud RIGI (06/06/2026):** Ganfeng solicitó formalmente el ingreso al régimen para este proyecto, apuntando a una capacidad de **150.000 t/año**.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
