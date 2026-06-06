@@ -1,12 +1,15 @@
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-25_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]]
+---
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-25_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]], [["https://econojournal.com.ar/2026/05/se-viene-una-nueva-edicion-del-midstream-gas-day-inversion-en-infraestructura-y-la-nueva-realidad-del-mercado-del-gas/"]]
+type: project
+tags: [energy, oil-gas]
 confidence: high
-last_update: 2026-06-03
+last_update: 2026-06-06
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources, Chevron, Pluspetrol.
+**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources, Chevron, Pluspetrol, [[Compañía MEGA]], [[Oldelval]].
 
 ## Panorama 2026
 El yacimiento de shale de clase mundial continúa consolidándose como el motor energético y principal generador de divisas del país gracias al paraguas legal del [[RIGI]]. La producción no convencional representa actualmente el **70% del total nacional de crudo**, evidenciando un retroceso sostenido de las cuencas convencionales.
@@ -18,6 +21,7 @@ El yacimiento de shale de clase mundial continúa consolidándose como el motor 
 - **Proyecciones:** Se estima cerrar el año 2026 rozando un output general de **900.000 bpd**.
 
 ## Hitos y Cronología 2026
+- **Midstream & Gas Day 2026 (06/06/2026):** Presentación del estado de obras críticas e industrialización antes del pico invernal. Se trataron las expansiones en NGL de [[Compañía MEGA]] y [[TGS]], la evacuación de petróleo de [[Oldelval]] y [[Vaca Muerta Sur]] (VMOS), la desregulación mayorista y la irrupción de la demanda energética para **[[Demanda Energetica de Data Centers e IA|Data Centers e Inteligencia Artificial]]**.
 - **Aluvión de Inversiones RIGI:** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 - **RIGI - Vista Energy (01/06/2026):** Vista confirmó que presentará dos proyectos de upstream al RIGI buscando acelerar el desarrollo en sus bloques de la cuenca.
 - **Inversión de Harold Hamm (02/06/2026):** La provincia de Río Negro inició negociaciones con **Continental Resources** (Harold Hamm) para operar un bloque en su porción de Vaca Muerta, atrayendo know-how y capital de primer nivel.
@@ -43,3 +47,6 @@ El yacimiento de shale de clase mundial continúa consolidándose como el motor 
 - [[Mineria]]
 - [[Proyecto LLL Oil]]
 - [[Vaca Muerta Sur]]
+- [[Compañía MEGA]]
+- [[Oldelval]]
+- [[Demanda Energetica de Data Centers e IA]]

@@ -7,6 +7,7 @@
 - [[Cauchari-Olaroz]]
 - [[Chevron]]
 - [[Cobre]]
+- [[Compañía MEGA]] [NEW]
 - [[Diablillos]]
 - [[Distrito Vicuña]]
 - [[El Pachón]]
@@ -24,6 +25,7 @@
 - [[Mendoza]]
 - [[Mineria]]
 - [[Neuquén]]
+- [[Oldelval]] [NEW]
 - [[Palermo Aike]]
 - [[Pampa Energía]]
 - [[Phoenix Global Resources]]
@@ -57,6 +59,7 @@
 
 ## 03 Analysis
 - [[Cuello de Botella Electrico San Juan]]
+- [[Demanda Energetica de Data Centers e IA]] [NEW]
 - [[Electrificacion Puna]]
 - [[Health_Check_Report]]
 - [[Oportunidades y Conexiones]]
@@ -65,6 +68,7 @@
 - [[Super RIGI e Industrializacion]]
 
 ## 04 Daily
+- [[2026-06-06_Daily_Report]] [NEW]
 - [[2026-06-04_Daily_Report]] [NEW]
 - [[2026-05-26_Daily_Report]] [NEW]
 - [[2026-05-25_Daily_Report]] [NEW]
@@ -126,6 +130,6 @@
 - [[PreMortem_Financiacion_Multilateral]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-06-04 23:20*
+*Ultima actualización sincronizada: 2026-06-06 17:40*
 
 
