@@ -11,12 +11,14 @@
             "id": "e1ebc36fe217a133",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "raw/Midstream.pdf"
+                "file": "wiki/02 Frameworks/Pre-Mortem Framework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Midstream"
+              "icon": "lucide-file",
+              "title": "Pre-Mortem Framework"
             }
           }
         ]
@@ -183,7 +185,9 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/07 Analisis Esceptico/PreMortem_Midstream_Gas_Day_2026.html",
     "wiki/05 Tech Lead Opps/Midstream_Gas_Day_2026_Opps.md",
+    "raw/Midstream.pdf",
     "wiki/03 Analysis/Analisis_Midstream_Gas_Day_2026.md",
     "wiki/04 Daily/2026-06-06_Daily_Report.md",
     "wiki/03 Analysis/Demanda Energetica de Data Centers e IA.md",
@@ -191,7 +195,6 @@
     "wiki/01 Projects/Compañía MEGA.md",
     "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
     "raw/Midstream & Gas Day.html",
-    "raw/Midstream.pdf",
     "San Juan.md",
     "Pre_mortem.json",
     "wiki/03 Analysis/Oportunidades y Conexiones.md",
@@ -211,7 +214,6 @@
     "wiki/07 Analisis Esceptico/PreMortem_Marketplace_Tier2.md",
     "wiki/07 Analisis Esceptico/PreMortem_VPP_SanJuan.md",
     "wiki/07 Analisis Esceptico/PreMortem_Marketplace_Tier2_VacaMuerta.md",
-    "wiki/07 Analisis Esceptico/PreMortem_VPP_San_Juan.md",
     "wiki/06 Shadow APIs",
     "wiki/05 Tech Lead Opps"
   ]
