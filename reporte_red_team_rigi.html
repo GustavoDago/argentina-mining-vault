@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RIGI Compliance Red Team Report - Argentina Mining & Energy Vault</title>
+    
+    <!-- Google Fonts: Outfit & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-dark: #0f1319;
+            --bg-card: rgba(26, 32, 44, 0.65);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --primary: #c69214; /* Warm Gold */
+            --primary-glow: rgba(198, 146, 20, 0.3);
+            --accent-red: #ff5e5e;
+            --accent-green: #4ade80;
+            --text-main: #f7fafc;
+            --text-muted: #a0aec0;
+            --font-title: 'Outfit', sans-serif;
+            --font-body: 'Inter', sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            padding: 2rem 1rem;
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(198, 146, 20, 0.05) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(26, 54, 93, 0.2) 0%, transparent 50%);
+            background-attachment: fixed;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header Style */
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            position: relative;
+        }
+
+        header::after {
+            content: '';
+            display: block;
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, transparent, var(--primary), transparent);
+            margin: 1.5rem auto 0 auto;
+            border-radius: 2px;
+        }
+
+        .badge {
+            background: rgba(198, 146, 20, 0.15);
+            border: 1px solid var(--primary);
+            color: var(--primary);
+            padding: 0.35rem 1rem;
+            border-radius: 50px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            display: inline-block;
+            margin-bottom: 1rem;
+        }
+
+        h1 {
+            font-family: var(--font-title);
+            font-size: 2.5rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, #ffffff 0%, #e2e8f0 50%, var(--primary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            font-weight: 300;
+        }
+
+        /* Grid Layout */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+        }
+
+        @media (max-width: 900px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Glass Card Styles */
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-radius: 16px;
+            padding: 2rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, border-color 0.3s ease;
+            margin-bottom: 2rem;
+        }
+
+        .card:hover {
+            border-color: rgba(198, 146, 20, 0.25);
+            box-shadow: 0 15px 35px rgba(198, 146, 20, 0.05);
+        }
+
+        .card-title {
+            font-family: var(--font-title);
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.75rem;
+        }
+
+        .card-title svg {
+            color: var(--primary);
+            flex-shrink: 0;
+        }
+
+        /* Metadata Column */
+        .meta-list {
+            list-style: none;
+        }
+
+        .meta-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.75rem 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+            font-size: 0.9rem;
+        }
+
+        .meta-item:last-child {
+            border-bottom: none;
+        }
+
+        .meta-label {
+            color: var(--text-muted);
+        }
+
+        .meta-value {
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .meta-value.highlight {
+            color: var(--primary);
+        }
+
+        /* Simulator Styles */
+        .input-group {
+            margin-bottom: 1.25rem;
+        }
+
+        label {
+            display: block;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+
+        .input-wrapper {
+            position: relative;
+        }
+
+        .input-wrapper span {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--border-color);
+            color: #fff;
+            padding: 0.75rem 1rem 0.75rem 2rem;
+            border-radius: 8px;
+            font-family: var(--font-body);
+            font-size: 1.1rem;
+            font-weight: 600;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        input[type="number"]:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 10px var(--primary-glow);
+        }
+
+        .btn-calc {
+            width: 100%;
+            background: linear-gradient(135deg, var(--primary) 0%, #a67a0f 100%);
+            color: #000;
+            border: none;
+            padding: 0.85rem;
+            border-radius: 8px;
+            font-family: var(--font-title);
+            font-weight: 700;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: filter 0.2s, transform 0.1s;
+            box-shadow: 0 4px 15px rgba(198, 146, 20, 0.2);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .btn-calc:hover {
+            filter: brightness(1.1);
+        }
+
+        .btn-calc:active {
+            transform: scale(0.98);
+        }
+
+        .results-box {
+            margin-top: 1.5rem;
+            padding: 1.25rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            border-left: 4px solid var(--primary);
+            display: none;
+        }
+
+        .results-box.active {
+            display: block;
+            animation: fadeIn 0.4s ease;
+        }
+
+        .result-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+
+        .result-row:last-child {
+            margin-bottom: 0;
+            padding-top: 0.75rem;
+            border-top: 1px dashed var(--border-color);
+        }
+
+        /* Threat Level Alert */
+        .threat-alert {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 1rem;
+            border-radius: 8px;
+            background: rgba(255, 94, 94, 0.08);
+            border: 1px solid rgba(255, 94, 94, 0.2);
+            color: #ffb3b3;
+            margin-bottom: 1.5rem;
+        }
+
+        /* Mitigation Checklist */
+        .check-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+            cursor: pointer;
+        }
+
+        .check-item input[type="checkbox"] {
+            margin-top: 0.3rem;
+            accent-color: var(--primary);
+            cursor: pointer;
+        }
+
+        .check-text {
+            font-size: 0.92rem;
+            color: var(--text-main);
+            transition: color 0.2s;
+        }
+
+        .check-item input[type="checkbox"]:checked + .check-text {
+            color: var(--text-muted);
+            text-decoration: line-through;
+        }
+
+        /* Expert Panels (Tabs/Accordion style) */
+        .expert-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.25rem;
+            margin-bottom: 1rem;
+        }
+
+        .expert-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #fff;
+        }
+
+        .expert-role {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--primary);
+            margin-left: auto;
+        }
+
+        .expert-opinion {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Footer styling */
+        footer {
+            text-align: center;
+            margin-top: 4rem;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border-color);
+            padding-top: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Header -->
+    <header>
+        <div class="badge">Red Team Intelligence</div>
+        <h1>RIGI Upstream: El Riesgo del Contenido Local</h1>
+        <div class="subtitle">Escrutinio Forense y Simulador de Fricción bajo el Decreto 105/2026</div>
+    </header>
+
+    <!-- Dashboard Content -->
+    <div class="dashboard-grid">
+        
+        <!-- Left Side: Analysis and Experts -->
+        <div>
+            <!-- Scenario Card -->
+            <div class="card">
+                <div class="card-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                    El Escenario Catastrófico de Segundo Grado
+                </div>
+                <p style="margin-bottom: 1rem;">
+                    Bajo el <strong>Decreto 105/2026</strong>, todo proyecto de upstream onshore que se acoja al RIGI debe acreditar una inversión mínima de <strong>US$ 600 millones</strong> y canalizar un estricto <strong>50% de sus adquisiciones a PyMEs locales</strong>.
+                </p>
+                <div class="threat-alert">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                    <div>
+                        <strong>Peligro Actuarial:</strong> Si el operador no logra validar este 50% de contenido local debido a la falta de escala de las PyMEs o por problemas de certificación, la AFIP e Inspección del RIGI pueden revocar retroactivamente el beneficio fiscal (subiendo la alícuota de Ganancias del 15% preferencial al 35% estándar) y reclamar multas retroactivas por derechos de importación devengados.
+                    </div>
+                </div>
+                <p style="color: var(--text-muted); font-size: 0.95rem;">
+                    Las petroleras asumen que la digitalización de contratos es suficiente, pero la realidad operativa cordillerana y las regulaciones provinciales cruzadas actúan como cuellos de botella reales que pueden paralizar la cadena de valor.
+                </p>
+            </div>
+
+            <!-- Expert Panel Card -->
+            <div class="card">
+                <div class="card-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                    Panel de Expertos Adversariales (Red Team)
+                </div>
+
+                <div class="expert-card">
+                    <div class="expert-header">
+                        <span>Ingeniero de Operaciones Shale</span>
+                        <span class="expert-role">Procesos</span>
+                    </div>
+                    <div class="expert-opinion">
+                        "La escala de perforación y fractura en Añelo y bloques aledaños no espera las demoras de acreditación de PyMEs locales Tier 3. Si un proveedor local no tiene certificación técnica de soldadura bajo normas ASME o ISO, detener la línea cuesta US$ 150.000 diarios. Los operadores preferirán pagar multas o forzar excepciones antes que frenar los frack crews."
+                    </div>
+                </div>
+
+                <div class="expert-card">
+                    <div class="expert-header">
+                        <span>Especialista en Tributación y RIGI</span>
+                        <span class="expert-role">Financiero / Legal</span>
+                    </div>
+                    <div class="expert-opinion">
+                        "La AFIP rechazará cualquier esquema de justificación vaga. El cálculo del contenido local es actuarial y requiere un 'ledger' auditable transaccional. Sin un registro fidedigno e inmutable, el riesgo de clawback tributario al año 5 de operación es de probabilidad media-alta."
+                    </div>
+                </div>
+
+                <div class="expert-card">
+                    <div class="expert-header">
+                        <span>Consultor Gremial y Sindicatos</span>
+                        <span class="expert-role">Relaciones Gremiales</span>
+                    </div>
+                    <div class="expert-opinion">
+                        "El sindicato de Petroleros Privados y los Camioneros de la cuenca neuquina vetarán la contratación externa encubierta. Si el operador utiliza PyMEs 'pantalla' constituidas formalmente en Buenos Aires para simular contenido local, habrá bloqueos y paros de yacimiento inmediatos."
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Side: Simulator and Checklist -->
+        <div>
+            <!-- Simulator Card -->
+            <div class="card">
+                <div class="card-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/><line x1="9" y1="9" x2="15" y2="9"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="15" y2="17"/><line x1="9" y1="5" x2="9" y2="5"/></svg>
+                    Simulador de Gasto y Exposición
+                </div>
+                
+                <div class="input-group">
+                    <label for="capex-input">CAPEX total estimado del proyecto (USD Millones)</label>
+                    <div class="input-wrapper">
+                        <span>$</span>
+                        <input type="number" id="capex-input" placeholder="600" min="600" value="600">
+                    </div>
+                </div>
+
+                <button class="btn-calc" onclick="calculateRisk()">Calcular Métricas RIGI</button>
+
+                <div class="results-box" id="calc-results">
+                    <div class="result-row">
+                        <span style="color: var(--text-muted);">Inversión de Base Mínima RIGI:</span>
+                        <span style="font-weight: 600;">USD 600M</span>
+                    </div>
+                    <div class="result-row">
+                        <span style="color: var(--text-muted);">Gasto Obligatorio en PyMEs Locales (50%):</span>
+                        <span id="local-spend" style="font-weight: 700; color: var(--primary);">USD 300.00M</span>
+                    </div>
+                    <div class="result-row">
+                        <span style="color: var(--text-muted);">Riesgo de Penalización AFIP (Ganancias):</span>
+                        <span style="font-weight: 600; color: var(--accent-red);">+20% Clawback</span>
+                    </div>
+                    <div class="result-row">
+                        <span style="color: var(--text-muted);">Estructura SPV Sugerida:</span>
+                        <span id="spv-type" style="font-weight: 600; color: var(--accent-green);">RIGI Fiscal Ledger</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Antidotes Checklist Card -->
+            <div class="card">
+                <div class="card-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                    Antídotos y Plan de Acción
+                </div>
+                
+                <label class="check-item">
+                    <input type="checkbox">
+                    <span class="check-text"><strong>Abandonar el arbitraje de tokens:</strong> Enfocarse puramente en un SaaS de debida diligencia de contratación directa sin capas especulativas.</span>
+                </label>
+
+                <label class="check-item">
+                    <input type="checkbox">
+                    <span class="check-text"><strong>RIGI Fiscal Ledger:</strong> Estructurar un sistema de control On-Premise con auditoría de facturación AFIP en tiempo real para evitar retrasos de inspección fiscal.</span>
+                </label>
+
+                <label class="check-item">
+                    <input type="checkbox">
+                    <span class="check-text"><strong>Certificación del INTI/IRAM:</strong> Validar técnicamente a los proveedores Tier 3 de Añelo y catalogarlos mediante un oráculo de inspectores comunitarios.</span>
+                </label>
+
+                <label class="check-item">
+                    <input type="checkbox">
+                    <span class="check-text"><strong>Limitación de Responsabilidad Civil:</strong> Asegurar que nuestra suite sea informativa de solo lectura para evitar contingencias legales contractuales directas.</span>
+                </label>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>Generado automáticamente a partir de la Wiki de Inteligencia Minera y Energética. Socio Intelectual Antigravity. OS: Windows.</p>
+        <p style="margin-top: 0.5rem; opacity: 0.5;">ID: 7e024516-b528-43e8-8fc4-2e8e45e8f650 | 2026-06-06</p>
+    </footer>
+</div>
+
+<script>
+    function calculateRisk() {
+        const capexInput = document.getElementById('capex-input').value;
+        const capex = parseFloat(capexInput);
+        
+        if (isNaN(capex) || capex < 600) {
+            alert("El CAPEX mínimo para ingresar al RIGI en Upstream Onshore es de USD 600 millones.");
+            return;
+        }
+
+        const localSpend = capex * 0.5;
+        document.getElementById('local-spend').innerText = "USD " + localSpend.toFixed(2) + "M";
+        
+        let spvType = "RIGI Fiscal Ledger";
+        if (capex > 1000) {
+            spvType = "Súper RIGI (Ganancias 15%)";
+        }
+        document.getElementById('spv-type').innerText = spvType;
+
+        const resultsBox = document.getElementById('calc-results');
+        resultsBox.classList.add('active');
+    }
+</script>
+
+</body>
+</html>
