@@ -11,14 +11,12 @@
             "id": "e1ebc36fe217a133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
-                "mode": "preview",
-                "source": true
+                "file": "raw/Midstream.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Resiliencia_de_los_Pivotes"
+              "icon": "lucide-file-text",
+              "title": "Midstream"
             }
           }
         ]
@@ -185,10 +183,18 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/05 Tech Lead Opps/Midstream_Gas_Day_2026_Opps.md",
+    "wiki/03 Analysis/Analisis_Midstream_Gas_Day_2026.md",
+    "wiki/04 Daily/2026-06-06_Daily_Report.md",
+    "wiki/03 Analysis/Demanda Energetica de Data Centers e IA.md",
+    "wiki/01 Projects/Oldelval.md",
+    "wiki/01 Projects/Compañía MEGA.md",
+    "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
+    "raw/Midstream & Gas Day.html",
+    "raw/Midstream.pdf",
     "San Juan.md",
     "Pre_mortem.json",
     "wiki/03 Analysis/Oportunidades y Conexiones.md",
-    "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
     "wiki/07 Analisis Esceptico/PreMortem_Financiacion_Multilateral.md",
     "wiki/07 Analisis Esceptico/PreMortem_Geotermia_Madura.md",
     "wiki/07 Analisis Esceptico/PreMortem_Petroquimica_Urea.md",
@@ -206,12 +212,6 @@
     "wiki/07 Analisis Esceptico/PreMortem_VPP_SanJuan.md",
     "wiki/07 Analisis Esceptico/PreMortem_Marketplace_Tier2_VacaMuerta.md",
     "wiki/07 Analisis Esceptico/PreMortem_VPP_San_Juan.md",
-    "wiki/01 Projects/Catamarca.md",
-    "wiki/01 Projects/La Rioja.md",
-    "wiki/05 Tech Lead Opps/ShaleFlow_Anelo_Supply.md",
-    "wiki/05 Tech Lead Opps/RIGI_Shield_Seguridad.md",
-    "wiki/05 Tech Lead Opps/HydroTrust_Puna_Hidrico.md",
-    "wiki/01 Projects/Arcadium Lithium.md",
     "wiki/06 Shadow APIs",
     "wiki/05 Tech Lead Opps"
   ]
