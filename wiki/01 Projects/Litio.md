@@ -1,14 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-07_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-07
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En junio de 2026, Argentina ha consolidado oficialmente su posición como el **segundo mayor exportador mundial de litio**, superando a Chile en capacidad de producción efectiva y proyectada. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) continúa siendo el epicentro de la inversión bajo el régimen [[RIGI]].
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
@@ -32,12 +32,18 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
-- **Estado:** Ratificado el **92% de avance** (20/04/2026).
-- **Producción:** Inicio operativo en el segundo trimestre de 2026.
+- **Hito de Producción (28/05/2026):** Galan Lithium confirmó la obtención de la primera producción de cloruro de litio, iniciando la fase de escalamiento.
+- **Estado:** En transición a operaciones comerciales completas.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 4. Salar de Olaroz / Caucharí (Jujuy)
-- Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+### 4. [[Cauchari-Olaroz]] (Minera Exar, Jujuy)
+- **Aprobación RIGI (05/06/2026):** El proyecto de ampliación fue formalmente aprobado mediante las Resoluciones 825/2026 y 99/2026.
+- **Inversión:** USD 1.241 millones.
+- **Capacidad:** Apunta a alcanzar las **85.000 toneladas anuales** de carbonato de litio, duplicando su capacidad actual.
+
+### 5. [[Pozuelos - Pastos Grandes]] (Ganfeng Lithium, Salta)
+- **Solicitud RIGI (02/06/2026):** Ganfeng solicitó formalmente el ingreso al régimen para su proyecto en Salta.
+- **Capacidad Proyectada:** 150.000 toneladas/año, lo que lo convertiría en uno de los mayores proyectos individuales a nivel global.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.

@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-07_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-07
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -70,7 +70,12 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Aprobado US$ 22.541M| Approved[18 Proyectos Aprobados]
+    RIGI --> |Cauchari-Olaroz| Exar[Minera Exar - Jujuy]
+    RIGI --> |San Jorge| MendozaSJ[San Jorge - Mendoza]
+    RIGI --> |Súper RIGI| HiTech[IA, Semiconductores, H2 Verde]
+    RIGI --> |Solicitud USD 13.800M| Chevron[Chevron - El Trapial]
+    RIGI --> |Solicitud USD 12.000M| Pluspetrol[Pluspetrol - Bajo del Choique]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -106,7 +111,8 @@ graph TD
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
-    Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Chile --> |Ahorro 10 días Asia| CBC[Corredor Bioceánico]
+    CBC --> |Litio Eramine| Asia[Mercado Asiático]
 
     Eval --> |Espera desde 2024| Posco
 

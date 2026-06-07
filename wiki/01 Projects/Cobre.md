@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-07_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-07
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -34,9 +34,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Actualización NI 43-101 (06/06/2026):** First Quantum Minerals publicó el reporte técnico actualizado confirmando un **NPV de USD 5.900 millones**.
+- **Inversión:** El proyecto está finalizando su solicitud formal de RIGI. Ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
-- **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
@@ -45,6 +45,11 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+### 6. [[San Jorge]] (Mendoza)
+- **Aprobación RIGI (03/06/2026):** Ingreso formal al régimen mediante la Resolución 801/2026.
+- **Inversión:** USD 891 millones.
+- **Operación:** Target 2029. Marca el regreso de Mendoza a la minería metalífera a gran escala.
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
