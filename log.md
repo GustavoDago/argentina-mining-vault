@@ -1,5 +1,15 @@
 # Log de Operaciones
 
+## [2026-06-08] research | Ingesta de información de San Patricio del Chañar y Proyectos Shale Aledaños
+- **Investigación:** Analizado el rol de San Patricio del Chañar como portal logístico e industrial de Vaca Muerta, y los desarrollos de exploración y explotación aledaños.
+- **Entidades Creadas:**
+    - `San Patricio del Chañar.md`: Análisis de infraestructura (Parque Industrial Verde de 400 ha, red de gas, vinculación corporativa).
+    - `Aguada del Chañar.md`: Bloque de shale oil operado por YPF y CGC en crecimiento.
+- **Actualizaciones:**
+    - `Phoenix Global Resources.md`: Detalle del bloque Mata Mora Norte, puesta en marcha de ampliación de CPF (40.000 bpd), equipo RIG 234 con IA (H&P y Corva) y plan RIGI de US$ 6.000 millones.
+    - `Neuquén.md`: Enlazada la localidad y agregadas nuevas concesiones de YPF (junio 2026) y la Ronda exploratoria GyP 1/2026.
+    - Índices generales y de la wiki actualizados.
+
 ## [2026-06-08] sync | Procesados 3 reportes de Jules (05 al 07 de junio)
 - **Ingesta:** Procesados y consolidados reportes del 5, 6 y 7 de junio de 2026.
 - **Hitos Inversión & Infraestructura:**

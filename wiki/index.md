@@ -5,7 +5,7 @@
 ### 🏗️ [[01 Projects|Proyectos Estratégicos]]
 - **Cobre:** [[Los Azules]], [[Taca Taca]], [[El Pachón]], [[Josemaría]].
 - **Litio:** [[Rincón]], [[Posco]], [[Sal de Vida]], [[Cauchari-Olaroz]] (Nuevo), [[Pozuelos - Pastos Grandes]] (Nuevo).
-- **Oil & Gas:** [[Vaca Muerta]], [[Proyecto LLL Oil]] (Nuevo), [[Palermo Aike y Nuevas Fronteras No Convencionales]], [[Compañía MEGA]] (Nuevo), [[Oldelval]] (Nuevo).
+- **Oil & Gas:** [[Vaca Muerta]], [[Proyecto LLL Oil]] (Nuevo), [[Palermo Aike y Nuevas Fronteras No Convencionales]], [[Compañía MEGA]] (Nuevo), [[Oldelval]] (Nuevo), [[San Patricio del Chañar]] (Nuevo), [[Aguada del Chañar]] (Nuevo).
 
 ### 📜 [[02 Frameworks|Marcos Regulatorios]]
 - [[RIGI]] (Régimen de Incentivo para Grandes Inversiones)

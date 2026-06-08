@@ -2,6 +2,7 @@
 
 ## 01 Projects
 - [[Agua Rica]]
+- [[Aguada del Chañar]] [NEW]
 - [[Arcadium Lithium]] [NEW]
 - [[Catamarca]]
 - [[Cauchari-Olaroz]]
@@ -40,6 +41,7 @@
 - [[Salta]]
 - [[San Jorge]]
 - [[San Juan]]
+- [[San Patricio del Chañar]] [NEW]
 - [[Southern Energy]]
 - [[Tecpetrol]]
 - [[TGS]]
