@@ -1,14 +1,16 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-08_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-08
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
+0. **Tensión RIGI vs. Industria Local (Caso PowerChina)**:
+   - La adjudicación del campamento de **[[Distrito Vicuña]]** a PowerChina (Junio 2026) bajo el régimen de importación arancel 0% del RIGI expone una vulnerabilidad para los proveedores metalmecánicos locales. Surge una oportunidad para consultorías de **Local Content Strategy** que ayuden a las empresas extranjeras a navegar la presión política y social por el empleo local, equilibrando eficiencia de costos con licencia social.
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
@@ -70,13 +72,18 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Aprobado US$ 22.541M| Aprob[18 Proyectos Aprobados]
+    Aprob --> Southern[Southern Energy GNL]
+    Aprob --> TGS_Exp[TGS Expansión Gasoducto]
+    Aprob --> Exar[Exar Cauchari-Olaroz]
+    Aprob --> Sidersa[Sidersa Planta Siderúrgica]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
-    VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
+    VM --> |US$ 1.000M Jun 2026| Tecpetrol[Tecpetrol Los Toldos II]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |US$ 650M| MEGA[Expansión MEGA]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
@@ -101,6 +108,7 @@ graph TD
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
     Vicuña --> Lunahuasi
+    Vicuña --> |Campamento| PowerChina[PowerChina / RIGI Import]
 
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
