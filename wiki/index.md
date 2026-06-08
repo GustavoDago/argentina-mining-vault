@@ -18,9 +18,10 @@
 - [[Demanda Energetica de Data Centers e IA]] (Nuevo)
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
-- [[2026-06-06_Daily_Report]] (Nuevo)
+- [[2026-06-08_Daily_Report]] (Nuevo)
+- [[2026-06-06_Daily_Report]]
 - [[2026-06-04_Daily_Report]]
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-06-06*
+*Última actualización: 2026-06-08*

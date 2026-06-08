@@ -68,12 +68,13 @@
 - [[Super RIGI e Industrializacion]]
 
 ## 04 Daily
-- [[2026-06-06_Daily_Report]] [NEW]
-- [[2026-06-04_Daily_Report]] [NEW]
-- [[2026-05-26_Daily_Report]] [NEW]
-- [[2026-05-25_Daily_Report]] [NEW]
-- [[2026-05-24_Daily_Report]] [NEW]
-- [[2026-05-23_Daily_Report]] [NEW]
+- [[2026-06-08_Daily_Report]] [NEW]
+- [[2026-06-06_Daily_Report]]
+- [[2026-06-04_Daily_Report]]
+- [[2026-05-26_Daily_Report]]
+- [[2026-05-25_Daily_Report]]
+- [[2026-05-24_Daily_Report]]
+- [[2026-05-23_Daily_Report]]
 - [[2026-05-22_Daily_Report]]
 - [[2026-05-10_Daily_Report]]
 - [[2026-05-09_Daily_Report]]
@@ -98,6 +99,8 @@
 - [[SIM San Juan Canon Minero]]
 
 ## 07 Analisis Esceptico
+- [[Esceptico_Litio_Argentina_Chile]] [NEW]
+- [[Esceptico_ENRGE_Acefalo]] [NEW]
 - [[Esceptico_VPP_San_Juan]]
 - [[Esceptico_Sat-Edge_Bioceanico]]
 - [[Esceptico_Marketplace_Tier2_VacaMuerta]]
@@ -130,6 +133,4 @@
 - [[PreMortem_Financiacion_Multilateral]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-06-06 17:40*
-
-
+*Ultima actualización sincronizada: 2026-06-08 11:00*

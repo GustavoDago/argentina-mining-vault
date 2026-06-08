@@ -1,5 +1,16 @@
 # Log de Operaciones
 
+## [2026-06-08] sync | Procesados 3 reportes de Jules (05 al 07 de junio)
+- **Ingesta:** Procesados y consolidados reportes del 5, 6 y 7 de junio de 2026.
+- **Hitos Inversión & Infraestructura:**
+    - **Litio:** Aprobación RIGI de Cauchari-Olaroz (Res. 825/2026 y 99/2026) por **US$ 1.166.677.726** para alcanzar **85.000 t/año**. Resolución RIGI 44/2026 formaliza adhesión de Rincón Mining (Rio Tinto).
+    - **Cobre:** Taca Taca actualiza NPV a **US$ 5.900 millones** y reservas a 1.990 Mt según reporte NI 43-101.
+    - **Oil & Gas:** Chevron (US$ 13.800M) y Pluspetrol (US$ 12.000M) solicitan adhesión al RIGI.
+- **Análisis Escépticos Creados:**
+    - `Esceptico_Litio_Argentina_Chile.md`: Escrutinio crítico sobre el hito de superar a Chile en capacidad.
+    - `Esceptico_ENRGE_Acefalo.md`: Impacto de la crisis de paritarias y renuncia en el ENRGE sobre la línea de 500kV en San Juan.
+- **Actualizaciones:** `Cauchari-Olaroz.md`, `Rincón.md`, `Taca Taca.md`, `Litio.md`, `RIGI.md`, `index.md` e índices generales.
+
 ## [2026-06-06] opps | Oportunidades Midstream & Gas Day 2026
 - **Investigación:** Analizado el evento "Midstream & Gas Day 2026" a pedido del CTO para identificar oportunidades "High-Leverage" para un proveedor tech menor en un mercado de gigantes (YPF, TGS, Oldelval).
 - **Oportunidades Creadas (Tech Lead):**
