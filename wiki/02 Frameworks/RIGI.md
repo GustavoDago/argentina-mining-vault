@@ -1,23 +1,26 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-09
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
-**Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
+**Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
-## Tablero de Control (Abril 2026)
-En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
+## Tablero de Control (Junio 2026)
+El RIGI ha alcanzado una escala sin precedentes, superando los US$ 133.000 millones en presentaciones totales.
 
-- **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
-- **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
-- **Proyectos Aprobados/En Evaluación:** +35 proyectos bajo evaluación formal (con hitos como las 11 presentaciones confirmadas el 16/04/2026).
-- **Inversión Total Comprometida:** > **US$ 52.000 millones** (estimación actualizada tras ampliación de upstream, GNL y ratificación de Taca Taca). El 98% de las solicitudes se concentran en Minería y Energía.
+- **Volumen Total (08/06/2026):** Las inversiones presentadas alcanzaron los **US$ 133.000 millones**, con un 22% ya aprobado oficialmente.
+- **Concentración Regional:**
+    - **Neuquén:** US$ 62.434 millones (47% del total) impulsado por [[Vaca Muerta]].
+    - **San Juan:** US$ 25.000 millones, traccionado por el [[Cobre]].
+    - **Concentración:** Estas dos provincias concentran más del 65% de la inversión total del régimen.
+- **Sectores:** Energía (64% del volumen total, ~US$ 85.000M) y Minería dominan con el 99% de las solicitudes.
+- **Aprobaciones Recientes:** El proyecto de expansión del Gasoducto Perito Moreno de [[TGS]] (US$ 550M) obtuvo la aprobación formal en junio de 2026.
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
 - **Sinergia Regional (16/04/2026):** Los gobernadores del NOA (Jalil, Sadir, Sáenz) destacan el RIGI como el catalizador principal de la aceleración de inversiones, complementándolo con marcos locales (ej. "mini RIGI" en Jujuy para inversiones >US$ 5M).
 

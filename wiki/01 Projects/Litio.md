@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-09
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -13,9 +13,10 @@ last_update: 2026-04-27
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
-### Estadísticas de Exportación (Enero 2026)
-- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
-- **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
+### Estadísticas de Producción y Exportación (2026)
+- **Salto Productivo (Junio 2026):** La producción de litio registró un salto del **79%** en abril de 2026, impulsando el crecimiento minero nacional.
+- **Récord de Exportación:** Se proyecta que la minería (liderada por el litio) aporte 1 de cada 10 dólares exportados en 2026, superando los **US$ 9.000 millones**.
+- **Logística Operativa:** El [[Corredor Bioceanico]] ya es una realidad para el sector; empresas como Eramine ya exportan carbonato de litio vía Chile (Paso de Jama) ahorrando hasta 10 días de tránsito hacia Asia.
 
 ### Proyección de Producción (CAEM)
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.

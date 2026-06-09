@@ -1,15 +1,25 @@
+---
+type: framework
+tags: [logistics, mining, regional-integration]
+sources: [[2026-04-13_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-09_news_mining_energy.md]]
+confidence: high
+last_update: 2026-06-09
+---
+
 # Corredor Bioceánico de Capricornio (CBC)
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (Junio 2026)
 - **Brasil - Paraguay:**
-    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
+    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **83% de avance** físico al 1 de junio de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
-- **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
-- **Salta (Abril 2026):**
+- **Argentina:**
+    - **Paso de Jama (Jujuy):** Se consolida como la vía de exportación real. Eramine Logistics demostró la efectividad del corredor exportando litio a Asia con un ahorro de **10 días** en tiempo de tránsito.
+- **Salta (Junio 2026):**
+    - **Estudio CEPAL (30/05/2026):** Presentado en Salta, el informe destaca que la minería del NOA ya está utilizando el corredor para reconfigurar su logística hacia los puertos del Pacífico (Antofagasta, Iquique, Mejillones).
     - **Relevancia del Cobre (20/04/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 4.200M) posiciona al proyecto como el principal usuario proyectado del Corredor para exportar concentrado de cobre por el Pacífico.
     - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**, permitiendo desviar el tránsito pesado minero de las zonas urbanas de la provincia.
     - La minería se convierte en el principal complejo exportador de la provincia, traccionando la necesidad de acelerar la infraestructura del Corredor.

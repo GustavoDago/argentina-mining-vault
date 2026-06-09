@@ -1,15 +1,21 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-09
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
-1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
+1. **Escala Crítica del RIGI ($133B)**:
+   - El volumen de inversiones presentadas (US$ 133.000M) valida al [[RIGI]] como el único motor de crecimiento macro. La concentración en Neuquén y San Juan define un mapa de inversión de "dos polos" que obliga a los proveedores de servicios a priorizar estas jurisdicciones.
+2. **Infraestructura de Evacuación de Gas**:
+   - La aprobación de la ampliación del Gasoducto Perito Moreno de [[TGS]] (US$ 550M) y el proyecto de líquidos con [[YPF]] abren una ventana para servicios de ingeniería y construcción especializados en Midstream.
+3. **Logística Bioceánica Operativa**:
+   - El caso de éxito de Eramine (ahorro de 10 días) transforma el [[Corredor Bioceanico]] de una aspiración a una ventaja competitiva inmediata. Oportunidad en servicios de flete transfronterizo y hubs logísticos en Salta/Jujuy.
+4. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
    - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de inicio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG).
@@ -70,7 +76,10 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Evaluación: US$ 133.000M| Eval[Proyectos en Curso]
+    RIGI --> |US$ 62.4B| Neuquen[Neuquén]
+    RIGI --> |US$ 25B| SanJuan[San Juan]
+    RIGI --> |Aprobado $550M| GPM[Gasoducto Perito Moreno]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -80,7 +89,11 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
-    TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    TGS --> |Sinergia NGL| YPF[YPF]
+    TGS --> |Ampliación| GPM
+
+    CBC[Corredor Bioceánico] --> |Ahorro 10 días| Asia[Exportación Asia]
+    Eramine --> CBC
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
