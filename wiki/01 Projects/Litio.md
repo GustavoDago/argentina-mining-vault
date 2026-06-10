@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-10
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -26,17 +26,19 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
-### 2. [[Posco]] (Hombre Muerto Norte, Salta)
+### 2. [[Posco]] (Sal de Oro - Hombre Muerto Norte, Salta)
+- **Expansión RIGI (10/06/2026):** Resolución 44/2026 aprobó beneficios para la expansión del proyecto Sal de Oro.
 - **Consolidación (27/04/2026):** Integración del 100% de HMN para optimizar el proyecto Sal de Oro.
 - **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
-- **Potencial:** 15.600 toneladas/año de LCE.
+- **Potencial:** 15.600 toneladas/año de LCE (Fase 1).
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
 - **Estado:** Ratificado el **92% de avance** (20/04/2026).
 - **Producción:** Inicio operativo en el segundo trimestre de 2026.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 4. Salar de Olaroz / Caucharí (Jujuy)
+### 4. [[Cauchari-Olaroz]] (Ganfeng/Exar, Jujuy)
+- **Aprobación RIGI (10/06/2026):** El Gobierno aprobó (Res. 99/2026) la adhesión de la ampliación del proyecto al [[RIGI]], con una inversión de **US$ 1.241 millones** para alcanzar una capacidad total de **85.000 toneladas/año**.
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional

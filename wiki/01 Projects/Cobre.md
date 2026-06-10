@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-10
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -18,23 +18,23 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 
 ### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
-- **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
+- **Actualización Inversión (10/06/2026):** Se proyecta una inversión total de **US$ 17.800 millones** en tres fases para el cluster Vicuña (Josemaría + Filo del Sol).
 - **Proyectos Clave:**
-    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
-    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre".
-    - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
+    - **[[Josemaría]]**: DIA de explotación aprobada y CAPEX inicial confirmado.
+    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord. Calificado como la "Vaca Muerta del Cobre".
+    - **Filo del Sol**: Destacado como un yacimiento "absolutamente único en el mundo" por su magnitud (10/06/2026).
 
 ## Marco de Incentivos
 La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
-- **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
+- **Financiamiento (10/06/2026):** Inversión total estimada en **US$ 3.100 millones**.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Inversión (10/06/2026):** Inversión total confirmada en **US$ 5.000 millones**.
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
@@ -47,6 +47,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
 ## Mesa del Cobre y Contexto de Precios
+- **Ingeniería 2026 (10/06/2026):** El 65% del territorio argentino con potencial geológico sigue inexplorado, lo que representa una magnitud de oportunidad masiva para el sector.
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.

@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-10
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -14,11 +14,18 @@ last_update: 2026-04-27
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
+### Hito Histórico: Paridad Exportadora (Junio 2026)
+En el primer cuatrimestre de 2026, por primera vez en la historia reciente, el bloque de Energía y Minería (impulsado por Vaca Muerta y el Litio) igualó al complejo agroexportador en generación de divisas líquidas, aportando ambos sectores aproximadamente **US$ 8.150 millones** cada uno.
+
 ### Estadísticas de Producción (Febrero 2026)
 - **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
 - **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
+
+### Hitos Recientes (Junio 2026)
+- **Récord de Actividad en Patagonia (10/06/2026):** Neuquén y Río Negro registraron un crecimiento interanual del **6,9%** en marzo, alcanzando niveles récord de actividad económica traccionados por la producción de shale.
+- **Equiparación con el Agro (10/06/2026):** Informe de la consultora 1816 confirma que la oferta neta de dólares de energía y minería alcanzó los **US$ 8.150 millones** en el primer cuatrimestre, igualando al sector cerealero.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.

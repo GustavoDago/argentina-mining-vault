@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [maintenance, health-check]
-sources: [[GEMINI.md]], [[2026-04-13_Daily_Report.md]], [[raw/2026-04-13_news_mining_energy.md]]
+sources: [[GEMINI.md]], [[2026-04-13_Daily_Report]], [[raw/2026-04-13_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-14
 ---
