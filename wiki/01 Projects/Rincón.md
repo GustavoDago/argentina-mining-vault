@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-06-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-06-11
 ---
 
 # Proyecto Rincón (Litio)
@@ -12,17 +12,16 @@ last_update: 2026-04-20
 **Operadora:** Rio Tinto.
 
 ## Descripción
-Proyecto de litio de gran escala que utiliza tecnología de extracción directa (DLE). Es el primer proyecto minero en adherirse formalmente al [[RIGI]].
+Proyecto de litio de gran escala que utiliza tecnología de extracción directa (DLE) y procesamiento convencional. Fue pionero en la adhesión al [[RIGI]].
 
 ## Hitos Recientes (2026)
-- **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el esquema de financiamiento de **US$ 1.175 millones** (Total inversión US$ 2.500M) y el éxito de la primera exportación de 200 toneladas de carbonato de litio a Shanghái.
-- **Financiamiento Consolidado (11/04/2026):** Rio Tinto confirmó el paquete de financiamiento de **US$ 1.175 millones** otorgado por la CFI, BID Invest, Export Finance Australia (EFA) y el Banco Japonés para la Cooperación Internacional (JBIC).
-- **Primera Exportación Comercial (10/04/2026):** Despacho oficial de las primeras **200 toneladas** de carbonato de litio con destino a Shanghái, consolidando el inicio de la fase exportadora comercial.
-- **Apoyo Político:** Reunión de la cúpula global de Rio Tinto (Barbara Fochtman) con la Mesa del Litio para coordinar empleo calificado y mecanismos de seguimiento ágiles.
-- Inversión total proyectada: **US$ 2.500 millones**.
-- Vida útil estimada: 40 años.
+- **Formalización Regulatoria (05/06/2026):** Publicación en el Boletín Oficial (Resolución 44/2026) formalizando el estatus interno bajo el régimen de incentivos para su inversión de **US$ 2.500 millones**.
+- **Primera Exportación (Q2 2026):** Despacho exitoso de las primeras toneladas de carbonato de litio grado batería.
+- **Financiamiento:** Paquete de **US$ 1.175 millones** asegurado con organismos multilaterales (CFI, BID Invest, JBIC).
+- **Logística:** Uso intensivo de la [[Corredor Bioceanico]] para exportación vía Pacífico.
 
 ## Conexiones
 - [[Litio]]
 - [[RIGI]]
 - [[Corredor Bioceanico]]
+- [[Salta]]
