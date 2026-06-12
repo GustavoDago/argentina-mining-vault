@@ -1,16 +1,16 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-06-12_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-18
+last_update: 2026-06-12
 ---
 
 # Proyecto Los Azules (Cobre)
 
 **Ubicación:** Calingasta, San Juan, Argentina.
 **Operadora:** McEwen Copper (Subsidiaria de McEwen Mining).
-**Inversión Comprometida:** US$ 2.670 millones.
+**Inversión Comprometida:** **US$ 2.672 millones** (Cifra ratificada en el Portal [[RIGI]], 12/06/2026).
 
 ## Descripción
 **Los Azules** es uno de los depósitos de cobre no desarrollados más grandes del mundo, enfocado en producir "cobre verde" (cátodos de cobre) mediante lixiviación en pilas, lo que reduce la huella de carbono y el consumo de agua frente a procesos tradicionales.
