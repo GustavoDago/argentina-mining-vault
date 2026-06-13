@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-06-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-18
+last_update: 2026-06-13
 ---
 
 # Proyecto Los Azules (Cobre)
