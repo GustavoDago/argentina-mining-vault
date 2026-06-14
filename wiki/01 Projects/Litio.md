@@ -1,14 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-14
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En junio de 2026, Argentina ratifica su posición como el **segundo exportador mundial de litio**, habiendo superado a Chile en volumen proyectado y dinamismo de inversión. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
@@ -21,6 +21,7 @@ A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comerci
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
+- **Formalización Regulatoria (05/06/2026):** Resolución 44/2026 formalizó el estatus del proyecto de **US$ 2.500 millones**.
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
 - **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
@@ -32,11 +33,12 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
-- **Estado:** Ratificado el **92% de avance** (20/04/2026).
-- **Producción:** Inicio operativo en el segundo trimestre de 2026.
+- **Hito de Producción (28/05/2026):** Galan Lithium confirmó su primera producción de cloruro de litio.
+- **Estado:** Fase 1 operativa y en ramp-up.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 4. Salar de Olaroz / Caucharí (Jujuy)
+### 4. [[Cauchari-Olaroz]] (Minera Exar, Jujuy)
+- **Expansión RIGI (12/06/2026):** El Gobierno aprobó el ingreso al RIGI para la ampliación del proyecto por una inversión de **US$ 1.166 millones**.
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional

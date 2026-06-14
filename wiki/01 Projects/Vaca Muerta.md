@@ -1,24 +1,28 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-14
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
+**Principales Actores:** [[YPF]], [[Vista Energy]], [[Tecpetrol]], [[Pampa Energía]], [[Phoenix Global Resources]], [[Chevron]], [[Pluspetrol]].
 
-## Panorama 2026
+## Panorama Junio 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción (Junio 2026)
+- **Récord Histórico Shale Oil:** Pico de **628.924 barriles por día**, un incremento interanual del **36%**.
+- **Contexto Productivo:** La eficiencia operativa y los incentivos del RIGI han permitido superar los cuellos de botella de infraestructura previos.
+
+### Hitos Recientes (Junio 2026)
+- **Megaproyecto Chevron (12/06/2026):** Confirmó inversión de **US$ 13.800 millones** bajo el RIGI para el desarrollo masivo de shale oil en El Trapial.
+- **Expansión Pluspetrol (13/06/2026):** Solicitó ingreso al RIGI para un plan de **US$ 12.000 millones** en el bloque Bajo del Choique–La Invernada, con una etapa inicial de US$ 2.000 millones para NGL.
+- **Consolidación Tecpetrol (Junio 2026):** Confirmó US$ 1.000M para Los Toldos II Este y mantiene un plan total RIGI de **US$ 2.400 millones**.
+- **Aceleración Phoenix (Junio 2026):** Estableció un plan de inversión RIGI de **US$ 6.000 millones**.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
@@ -36,7 +40,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **60% de avance** (Junio 2026). Instalación submarina activa en Río Negro. Objetivo: Operatividad y exportación en diciembre 2026.
 - **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
 
 ## Conexiones
