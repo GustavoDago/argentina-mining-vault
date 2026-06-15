@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-15_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-15
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -19,6 +19,11 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
+
+### Hitos Recientes (Junio 2026)
+- **Récord Histórico de Producción (15/06/2026):** En abril de 2026, la cuenca alcanzó los **628.924 barriles diarios** de petróleo, marcando un crecimiento interanual del 36%.
+- **Integración con Biobío (15/06/2026):** Firma del acuerdo por el **Corredor Pichachén**. Se proyecta una plataforma de licuefacción en Chile para exportar GNL de Vaca Muerta hacia Asia.
+- **Inversión Récord Tecpetrol (15/06/2026):** Confirmación de **US$ 1.400 millones** para 2026 en Los Toldos II Este.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
