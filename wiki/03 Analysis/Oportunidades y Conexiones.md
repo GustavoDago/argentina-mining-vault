@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-14_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-06-16_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-16
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,14 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+21. **Súper RIGI y Centros de Datos (Junio 2026)**:
+   - El envío del proyecto de **Súper RIGI** abre una oportunidad masiva para el sector energético. Los Data Centers para IA demandan potencia constante (24/7). Existe un negocio inminente en la **venta directa de energía (PPA)** de generadoras renovables y térmicas hacia estos nuevos hubs tecnológicos.
+22. **Cobre: Consolidación del Hub San Juan**:
+   - Con la aprobación RIGI de **[[Distrito Vicuña]]** (US$ 18.000M), San Juan se vuelve el mercado de mayor CAPEX del país. Hay una oportunidad crítica para la instalación de bases operativas permanentes en **Calingasta e Iglesia** y servicios de logística pesada transfronteriza.
+23. **Litio: Eficiencia de Proyectos en Marcha**:
+   - La aprobación de la Fase 2 de **[[Posco]]** (Sal de Oro) indica que las empresas ya operativas están priorizando expansiones rápidas bajo el RIGI. Oportunidad para pymes locales en construcción modular y servicios de mantenimiento de plantas químicas.
+24. **Vaca Muerta: Servicios de Alta Productividad**:
+   - El récord de gas de **Pampa Energía** (1,3 MMm3/d en un solo pozo) demuestra que la tecnología de completación está en su pico. Oportunidad para empresas de **Data Analytics aplicado a la fractura** y optimización de pozos en tiempo real.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -63,8 +71,10 @@ graph TD
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
-    RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
+    RIGI --> |Aprobado US$ 18.000M| Vicuña[Distrito Vicuña]
+    RIGI --> |Aprobado US$ 208M| SalDeOro[Sal de Oro - Posco]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
+    RIGI --> |Súper RIGI| AI[IA & Data Centers]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
