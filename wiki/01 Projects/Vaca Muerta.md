@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-17
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -20,7 +20,12 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Junio 2026)
+- **Récord de Producción Gasífera (17/06/2026):** Un pozo de **Pampa Energía** en Rincón de Mangrullo alcanzó los **1,3 millones de m³/d**, estableciendo un nuevo estándar de productividad para el shale gas.
+- **Estrategia Shell IJV (17/06/2026):** La petrolera evalúa la creación de una *Incorporated Joint Venture* para sus activos en Vaca Muerta, buscando eficiencia operativa sin desinversión de activos.
+- **Hub Norte Tecpetrol (17/06/2026):** Implementación de una estrategia que tracciona a 800 pymes para alcanzar una meta de 70.000 barriles en su nuevo bastión petrolero.
+- **Integración con Chile (17/06/2026):** Ratificación de Vaca Muerta como socio estratégico para la seguridad energética de Chile (gas y petróleo).
+- **Mendoza Shale (17/06/2026):** Proyección de potencial exploratorio para más de 300 pozos horizontales en el sector mendocino de la formación.
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
@@ -36,7 +41,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **65% de avance** (17/06/2026). Finalización de obras submarinas clave (cadenas y anclas) en Punta Colorada, Río Negro. YPF evalúa planes de contingencia para asegurar la primera exportación en enero de 2027 ante posibles demoras logísticas globales.
 - **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
 
 ## Conexiones

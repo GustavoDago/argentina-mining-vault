@@ -1,14 +1,20 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-17_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-17
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
+0. **Paridad de Exportación y Sustitución del Agro (Junio 2026)**:
+   - Por primera vez, Energía y Minería (US$ 8.150M) igualan al sector agropecuario en generación de divisas (cuatrimestre 1 2026). Esta paridad estructural redefine la balanza de poder macroeconómico y disminuye la dependencia climática del BCRA.
+00. **Integración Tesla-YPF (Junio 2026)**:
+   - La alianza Tesla-YPF para carga rápida y almacenamiento abre una oportunidad de arbitraje energético masivo. El uso de baterías para estabilización de red y data centers en nodos de Vaca Muerta permite capturar valor del gas marginal "atrapado".
+000. **Megaciudad Batidero y logística de campamentos (Junio 2026)**:
+   - La adjudicación de 2.500-10.000 camas en San Juan a PowerChina marca el inicio de una demanda masiva por servicios de hotelería industrial, catering y gestión de residuos para el [[Distrito Vicuña]]. Existe un conflicto latente con proveedores locales (CACMI) por la importación de módulos chinos que abre espacio para servicios de ensamblaje e integración local.
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
@@ -55,8 +61,13 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |Portal Jun-26: US$ 140.000M| Portal[41 Proyectos]
+    RIGI --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    TacaTaca --> |Ratificación 17/06| Quirno[Cancillería: US$ 5.25B]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
+    RIGI --> |Aprobado US$ 9.700M| Vicuña[Distrito Vicuña - San Juan]
+    Vicuña --> |Jun-26: Megaciudad| PowerChina[PowerChina: 2.5k-10k Camas]
+    PowerChina -.-> |Conflicto Compre Local| CACMI[CACMI Proveedores]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
@@ -75,10 +86,13 @@ graph TD
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
-    VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
-    VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |US$ 6.000M| Phoenix[Phoenix Global Resources]
+    VM --> |FID 17/06: US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |Jun-26: Récord 1.3M m3d| Pampa[Pampa Rincón Mangrullo]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
+    VM --> |Alianza 17/06| Tesla[Tesla: Red Carga & BESS]
+    Tesla --> |Infraestructura| Electromovilidad
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
@@ -101,6 +115,9 @@ graph TD
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
     Vicuña --> Lunahuasi
+
+    Macro[Export Parity 17/06] --> |US$ 8.15B| BCRA
+    Macro --> |Energía/Minería = Agro| PowerShift[Cambio Eje Macro]
 
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
