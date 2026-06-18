@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, lithium, copper]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy]], [[2026-04-14_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-17_news_mining_energy]]
 confidence: high
 last_update: 2026-04-17
 ---
@@ -9,6 +9,10 @@ last_update: 2026-04-17
 # Salta
 
 Salta se destaca por su seguridad jurídica y su potencial diversificado en **litio** y **cobre**. En 2026, la minería se consolidó como el principal motor exportador de la provincia.
+
+## Hitos Recientes (Junio 2026)
+- **Fortalecimiento Productivo (18/06/2026):** El Ministerio de Producción y Minería recibió al BID para un proyecto de fortalecimiento de las cadenas productivas vinculadas al [[Corredor Bioceanico]].
+- **Crecimiento en Litio (18/06/2026):** Salta contribuyó al crecimiento del 9,5% interanual del sector en abril, con una duplicación de la producción de litio a nivel nacional.
 
 ## Hitos Recientes (Abril 2026)
 - **Complejo Exportador Líder (16/04/2026):** La minería se consolidó como el principal complejo exportador de Salta, representando más de la mitad de las ventas externas en el primer bimestre de 2026, con un crecimiento interanual del 70%.

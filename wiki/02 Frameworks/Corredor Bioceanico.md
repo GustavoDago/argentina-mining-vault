@@ -2,7 +2,10 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (Junio 2026)
+- **Hito de Coordinación (16/06/2026):** Se realizó en Brasilia el encuentro de coordinadores nacionales para avanzar en la modernización de controles fronterizos y logística transfronteriza.
+- **Fortalecimiento en Salta (18/06/2026):** El Ministerio de Producción y Minería recibió al BID para fortalecer las cadenas productivas asociadas al corredor, vinculando el sector minero con la infraestructura logística.
+- **Conectividad Pacífico (18/06/2026):** Se profundiza el debate sobre el uso de puertos chilenos para agilizar las exportaciones de [[Vaca Muerta]] hacia mercados asiáticos.
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.

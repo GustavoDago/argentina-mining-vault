@@ -1,14 +1,17 @@
 ---
 type: project
 tags: [mining, copper, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[2026-04-10_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-14_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-06-18_news_mining_energy]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-06-18
 ---
 
 # Mendoza (Minería y Energía)
 
 **Contexto:** En 2026, la provincia de Mendoza ha iniciado una reactivación histórica de su sector minero metalífero, adaptando su normativa y sumándose a las mesas regionales de coordinación.
+
+## Hitos Recientes (Junio 2026)
+- **Marco Normativo (18/06/2026):** Publicación en el Boletín Oficial de la Ley 9712 (Ministerio de Energía y Ambiente) sancionada el 02/06/2026 y reglamentación de la Ley 9701 mediante el Decreto 1195.
 
 ## Hitos Recientes (Abril 2026)
 - **Operación San Jorge 2029 (Abril 2026):** El Gobierno Nacional proyecta que el proyecto de cobre San Jorge entrará en operación para 2029, marcando el retorno de Mendoza a la gran minería metalífera de clase mundial.

@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy]], [[2026-04-14_news_mining_energy]], [[2026-04-20_news_mining_energy]]
 confidence: high
 last_update: 2026-04-20
 ---
@@ -9,6 +9,10 @@ last_update: 2026-04-20
 # San Juan
 
 San Juan es la provincia líder en minería metalífera en Argentina, especialmente en **cobre** y **oro**.
+
+## Hitos Recientes (Junio 2026)
+- **Avance en Los Azules (18/06/2026):** El proyecto de cobre alcanzó un hito crítico con la aprobación del Informe de Impacto Ambiental (IIA), permitiendo avanzar hacia la etapa de construcción.
+- **Competencia RIGI (18/06/2026):** El desarrollo simultáneo de grandes proyectos de cobre pone presión sobre la mano de obra y proveedores, compitiendo con el dinamismo de [[Vaca Muerta]].
 
 ## Modernización y Transparencia (Abril 2026)
 - **Sistema Integral Minero (SIM):** Implementación obligatoria del pago del canon minero 100% online. La plataforma digital centraliza el padrón minero, deudas y estado técnico-legal, eliminando trámites presenciales y mejorando la trazabilidad en tiempo real.

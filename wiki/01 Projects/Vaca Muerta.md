@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-06-18_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-18
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -14,11 +14,15 @@ last_update: 2026-04-27
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción (Abril 2026)
+- **Récord Histórico de Petróleo:** La producción nacional alcanzó los **880.434 barriles diarios**, el mayor registro de la historia del país.
+- **Participación:** La Cuenca Neuquina aportó más del **78%** del total.
+- **Crecimiento Interanual:** Expansión del **18,82%**.
+- **IPI Minero:** El sector creció un **9,5% interanual** en abril, impulsado por el dinamismo de Vaca Muerta y el litio.
+
+### Hitos Recientes (Junio 2026)
+- **Alianza YPF y Mercedes-Benz (18/06/2026):** Sellaron una alianza estratégica enfocada en Vaca Muerta y soluciones de movilidad del futuro.
+- **Inversión TGS (18/06/2026):** Se aprobó una inversión de **US$ 3.000 millones** para la industrialización y exportación de líquidos de gas natural.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.

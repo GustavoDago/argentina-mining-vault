@@ -1,17 +1,21 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-06-18_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-18
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En junio de 2026, Argentina ratifica su posición como potencia mundial del litio. La producción se duplicó en el último año, impulsada por la entrada en operación de nuevos proyectos y la expansión de los existentes.
 
 ## Proyectos y Producción (2026)
-A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+A mediados de 2026, la Argentina consolida su rampa de producción con récords intermensuales.
+
+### Estadísticas (Abril 2026)
+- **Crecimiento Industrial:** El sector minero-energético creció un **9,5% interanual** en abril, traccionado principalmente por el litio y el petróleo de [[Vaca Muerta]] (INDEC).
+- **Boom del Litio:** La producción nacional se **duplicó** en términos interanuales según los últimos registros del IPI minero.
 
 ### Estadísticas de Exportación (Enero 2026)
 - **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.

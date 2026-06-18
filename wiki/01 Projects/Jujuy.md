@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, lithium, regulatory]
-sources: [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-18_news_mining_energy]]
 confidence: high
 last_update: 2026-04-18
 ---
