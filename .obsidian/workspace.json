@@ -11,14 +11,12 @@
             "id": "e1ebc36fe217a133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wiki/02 Frameworks/Pre-Mortem Framework.md",
-                "mode": "source",
-                "source": false
+                "file": "raw/Midstream.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Pre-Mortem Framework"
+              "icon": "lucide-file-text",
+              "title": "Midstream"
             }
           }
         ]
@@ -185,6 +183,11 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/01 Projects/San Patricio del Chañar.md",
+    "wiki/01 Projects/General Güemes.md",
+    "wiki/01 Projects/Phoenix Global Resources.md",
+    "wiki/01 Projects/Aguada del Chañar.md",
+    "wiki/02 Frameworks/Pre-Mortem Framework.md",
     "wiki/07 Analisis Esceptico/PreMortem_Midstream_Gas_Day_2026.html",
     "wiki/05 Tech Lead Opps/Midstream_Gas_Day_2026_Opps.md",
     "reporte_red_team_rigi.html",
@@ -211,10 +214,6 @@
     "wiki/07 Analisis Esceptico/PreMortem_Tokenizacion_Contenido_Local.md",
     "wiki/07 Analisis Esceptico/PreMortem_SatEdge_Bioceanico.md",
     "wiki/07 Analisis Esceptico/PreMortem_AndesLogistics.md",
-    "wiki/07 Analisis Esceptico/PreMortem_TIR_Connect.md",
-    "wiki/07 Analisis Esceptico/PreMortem_Marketplace_Tier2.md",
-    "wiki/07 Analisis Esceptico/PreMortem_VPP_SanJuan.md",
-    "wiki/07 Analisis Esceptico/PreMortem_Marketplace_Tier2_VacaMuerta.md",
     "wiki/06 Shadow APIs",
     "wiki/05 Tech Lead Opps"
   ]
