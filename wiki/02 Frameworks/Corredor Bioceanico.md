@@ -2,6 +2,12 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
+## Estado de la Traza (Junio 2026)
+- **Argentina - Salta (19/06/2026):**
+    - **Financiamiento BID:** Se confirmó un financiamiento de **US$ 100 millones** del Banco Interamericano de Desarrollo para la pavimentación de 91 km de la **RN 51**. La obra cubre los tramos críticos IV (Campo Amarillo - Salar del Rincón) y V (Salar del Rincón - Paso de Sico), esenciales para la salida minera hacia Chile.
+    - **Estudio CEPAL:** El estudio “Corredor Bioceánico Capricornio: oportunidades y desafíos para el desarrollo territorial” destaca al corredor como el eje central para la competitividad del NOA, vinculando la producción de litio y cobre con los puertos del Pacífico.
+    - **Logística Avanzada:** Se prevé la creación de un centro de control de cargas y fiscalización minera en la RN 51, integrando sistemas de conectividad en zonas remotas.
+
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.

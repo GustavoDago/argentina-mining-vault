@@ -1,7 +1,7 @@
 ---
 type: daily
 tags: [mining, energy, RIGI, regulatory]
-sources: [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-20_news_mining_energy]]
 last_update: 2026-04-20
 ---
 

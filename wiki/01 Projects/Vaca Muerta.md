@@ -1,24 +1,28 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-06-19_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-19
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
+**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources, Chevron.
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción (Abril 2026)
+- **Petróleo Crudo Total:** 4.215,0 miles de m³ (**+19,1% interanual**).
+- **Petróleo No Convencional (Shale Oil):** 2.915,3 miles de m³ (**+39,2% interanual**). Representa el núcleo del crecimiento frente a la caída del 10% en convencional.
+- **Gas Natural:** 4.218,2 millones de m³ (**+2,8% interanual**). El gas no convencional creció un 12,2%.
+- **Contexto:** El IPI minero registró una suba del 9,5% interanual en abril, su nivel más alto desde el inicio de la serie.
+
+### Hitos Recientes (Junio 2026)
+- **Megaproyecto Chevron - El Trapial (19/06/2026):** Chevron Argentina presentó formalmente su solicitud al [[RIGI]] para el desarrollo de **El Trapial** con una inversión de **US$ 13.800 millones**. Es el mayor desembolso individual de la compañía en el país y posiciona al bloque como un activo de clase mundial integrado a su estrategia global de no convencionales.
+- **Súper RIGI y Escenario 2030 (16/06/2026):** El debate del "Súper RIGI" (inversiones >US$ 1.000M) apunta a un escenario acelerado de **1,7 millones de barriles diarios** para 2030, requiriendo inversiones de US$ 25.000M anuales.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.

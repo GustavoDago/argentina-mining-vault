@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-14_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-06-19_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-19
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Control Logístico Marítimo (Efecto Adani)**:
+    - La entrada de **Adani Group** en el control de Meridian (19/06/2026) señala una transición de los consorcios energéticos (Southern Energy) hacia la externalización de infraestructura crítica a operadores globales especialistas. Existe una oportunidad para servicios de mantenimiento naval y soporte logístico de alta escala en **Punta Colorada**.
+21. **Cuello de Botella Logístico RN 51**:
+    - El crédito del **BID** de US$ 100M para la RN 51 (Salta) es el habilitador crítico para la salida de concentrados de **[[Taca Taca]]**. Se abre un mercado de construcción vial de alta montaña y servicios de mantenimiento de traza para transportes extrapesados.
+22. **Consolidación del Cobre en Mendoza**:
+    - La aprobación RIGI de **[[San Jorge]]** (US$ 891M) formaliza a Mendoza como un jugador real en la "Mesa del Cobre". Esto tracciona una demanda masiva de servicios profesionales y técnicos en una provincia con una cadena de valor industrial ya desarrollada pero orientada a otros sectores.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -71,6 +77,9 @@ graph TD
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Res. 801/2026| SanJorge
+    RIGI --> |Aprobado US$ 9.700M| Vicuña
+    RIGI --> |Chevron US$ 13.800M| ElTrapial[El Trapial]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -80,6 +89,8 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Gas Export| Southern[Southern Energy]
+    Southern --> |Operación Marítima| Adani[Adani Group]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
@@ -98,6 +109,8 @@ graph TD
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
     Salta[Salta: Complejo Exportador #1] --> Litio
+    Salta --> |Inversión BID US$ 100M| RN51[RN 51 Infrastructure]
+    RN51 --> |Salida Pacífico| TacaTaca
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
     Vicuña --> Lunahuasi
