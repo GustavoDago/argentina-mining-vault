@@ -19,14 +19,17 @@
 - [[Hombre Muerto Oeste]]
 - [[Josemaría]]
 - [[Jujuy]]
+- [[La Coipita]] [NEW]
 - [[La Rioja]] [NEW]
 - [[Litio]]
 - [[Los Azules]]
 - [[Lunahuasi]]
+- [[MARA]] [NEW]
 - [[Mendoza]]
 - [[Mineria]]
 - [[Neuquén]]
 - [[Oldelval]] [NEW]
+- [[Pachón]] [NEW]
 - [[Palermo Aike]]
 - [[Pampa Energía]]
 - [[Phoenix Global Resources]]
@@ -43,12 +46,14 @@
 - [[San Juan]]
 - [[San Patricio del Chañar]] [NEW]
 - [[Southern Energy]]
+- [[Stargate Argentina]] [NEW]
 - [[Tecpetrol]]
 - [[TGS]]
 - [[Taca Taca]]
 - [[Vaca Muerta Sur]]
 - [[Vaca Muerta]]
 - [[Veladero]]
+- [[Vista Energy]] [NEW]
 - [[YPF]] [NEW]
 
 ## 02 Frameworks
@@ -70,6 +75,16 @@
 - [[Super RIGI e Industrializacion]]
 
 ## 04 Daily
+- [[2026-06-18_Daily_Report]] [NEW]
+- [[2026-06-17_Daily_Report]] [NEW]
+- [[2026-06-16_Daily_Report]] [NEW]
+- [[2026-06-15_Daily_Report]] [NEW]
+- [[2026-06-14_Daily_Report]] [NEW]
+- [[2026-06-13_Daily_Report]] [NEW]
+- [[2026-06-12_Daily_Report]] [NEW]
+- [[2026-06-11_Daily_Report]] [NEW]
+- [[2026-06-10_Daily_Report]] [NEW]
+- [[2026-06-09_Daily_Report]] [NEW]
 - [[2026-06-08_Daily_Report]] [NEW]
 - [[2026-06-06_Daily_Report]]
 - [[2026-06-04_Daily_Report]]
@@ -135,4 +150,5 @@
 - [[PreMortem_Financiacion_Multilateral]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-06-08 11:00*
+*Ultima actualización sincronizada: 2026-06-18 23:50*
+

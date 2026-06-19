@@ -1,5 +1,18 @@
 # Log de Operaciones
 
+## [2026-06-18] sync | Procesados 11 reportes de Jules (08 al 18 de junio)
+- **Ingesta:** Procesados y consolidados reportes diarios del 8 al 18 de junio de 2026 (11 reportes en total).
+- **Hitos Inversión & Infraestructura:**
+    - **Oil & Gas (Vaca Muerta):** Récord de producción de petróleo (880.434 bpd nacional, 628.924 bpd Vaca Muerta) en abril de 2026. Solicitudes RIGI presentadas por Chevron (El Trapial Este, US$ 13.800M) y Pluspetrol (Bajo del Choique-La Invernada, US$ 12.000M, con "Vaca Muerta Liquids" de US$ 2.000M). Aprobación RIGI de Southern Energy (US$ 6.878M). Inversión de US$ 3.000M de TGS para exportación de líquidos LGN. Tecpetrol confirma inversión de US$ 1.400M para 2026. Alianza YPF & Mercedes-Benz y acuerdo YPF & Tesla. Integración con Chile (Pichachén Corridor y plataforma Biobío).
+    - **Cobre:** Aprobación RIGI de clúster Vicuña (Josemaría / Filo del Sol) por US$ 9.700M inicial (total clúster US$ 18.000M), con campamento PowerChina (2.500-10.000 camas) y quejas de contenido local (CACMI). Aprobación RIGI de Los Azules (US$ 2.672M) e Informe de Impacto Ambiental (IIA). Taca Taca (First Quantum) actualiza Capex a US$ 5.250M y presenta NI 43-101. Glencore presenta solicitudes RIGI para Pachón (US$ 4.000M) y MARA (US$ 9.300M). Link a La Coipita (AbraSilver).
+    - **Litio:** Aprobación RIGI de Cauchari-Olaroz (US$ 1.166M) para alcanzar 85.000 t/año. Aprobación RIGI de Fase II de Sal de Oro (Posco, US$ 208M, total US$ 633M-845M). Presentación RIGI de Sal de Vida (Rio Tinto, US$ 818M) y Rincón (Rio Tinto, US$ 2.500M-2.700M). Oficialización del Comité Regional de la Región Minera del Litio. Caso de éxito logístico de Eramine vía Paso de Jama.
+    - **Tecnología e IA:** Presentación RIGI de Stargate Argentina (OpenAI/Sur Energy) para centros de datos de IA por US$ 25.000M.
+    - **Mendoza:** Ingreso al RIGI de San Jorge (US$ 891M). Proyecto Don Luis y Otro de litio avanza en legislatura. CNEA busca reactivar Sierra Pintada.
+- **Entidades Creadas/Actualizadas:**
+    - **Creadas:** `La Coipita.md`, `MARA.md`, `Pachón.md`, `Stargate Argentina.md`, `Vista Energy.md`.
+    - **Actualizadas:** `Vaca Muerta.md`, `Cobre.md`, `Litio.md`, `RIGI.md`, `Corredor Bioceanico.md`, `San Juan.md`, `Salta.md`, `Neuquén.md`, `Mendoza.md`.
+    - **Daily Reports Importados:** Del `2026-06-09_Daily_Report.md` al `2026-06-18_Daily_Report.md`.
+
 ## [2026-06-08] research | Ingesta de información de San Patricio del Chañar y Proyectos Shale Aledaños
 - **Investigación:** Analizado el rol de San Patricio del Chañar como portal logístico e industrial de Vaca Muerta, y los desarrollos de exploración y explotación aledaños.
 - **Entidades Creadas:**
