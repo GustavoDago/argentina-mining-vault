@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-20_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-20
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Infraestructura de Seguridad Electrónica (CASEL)**:
+    - El boom productivo en Añelo (Neuquén) y ciudades mineras (Calingasta, Puna) genera una demanda crítica de sistemas de seguridad para infraestructura, activos y barrios logísticos. Proveedores de tecnología de monitoreo y alarmas tienen un mercado en expansión masiva en los nuevos polos de desarrollo (Junio 2026).
+21. **Ventanilla "Súper RIGI" para Megaproyectos**:
+    - La propuesta de incentivos adicionales para inversiones >US$ 1.000 millones abre una oportunidad para que proyectos como **[[Taca Taca]]** (US$ 5.250M) y futuros desarrollos de GNL optimicen su estructura de capital y tiempos de ejecución.
+22. **Cobre: La Consolidación de Calingasta**:
+    - Con **[[Altar]]** (US$ 1.600M) avanzando hacia prefactibilidad y **[[Los Azules]]** ya en radar, Calingasta se convierte en el epicentro de servicios mineros de San Juan, demandando hotelería, logística pesada y conectividad digital (Junio 2026).
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
