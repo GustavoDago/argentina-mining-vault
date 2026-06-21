@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-10_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-10_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]], [[2026-06-19_news_mining_energy]]
 confidence: high
-last_update: 2026-06-18
+last_update: 2026-06-19
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -39,6 +39,7 @@ La actividad en el "Triángulo del Litio" (Salta, Jujuy y Catamarca) acelera con
 
 ### 5. [[Pozuelos - Pastos Grandes]] (Ganfeng Lithium, Salta)
 - **Solicitud RIGI:** Ganfeng solicitó formalmente el ingreso al RIGI para el desarrollo conjunto Pozuelos - Pastos Grandes, proyectando una producción de **150.000 t/año** de LCE en régimen.
+- **Búsqueda de Socios (19/06/2026):** Ganfeng y Lithium Argentina buscan de forma activa un tercer socio estratégico o inversor para acelerar y financiar sus operaciones de litio en el país.
 
 ### 6. [[Sal de Vida]] (Rio Tinto, Catamarca)
 - **Inversión RIGI:** Rio Tinto presentó al RIGI su proyecto Sal de Vida por **US$ 818 millones** (según el portal oficial centralizado lanzado en junio de 2026).

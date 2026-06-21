@@ -3,6 +3,7 @@
 ## 01 Projects
 - [[Agua Rica]]
 - [[Aguada del Chañar]] [NEW]
+- [[Altar]] [NEW]
 - [[Arcadium Lithium]] [NEW]
 - [[Catamarca]]
 - [[Cauchari-Olaroz]]
@@ -75,6 +76,8 @@
 - [[Super RIGI e Industrializacion]]
 
 ## 04 Daily
+- [[2026-06-20_Daily_Report]] [NEW]
+- [[2026-06-19_Daily_Report]] [NEW]
 - [[2026-06-18_Daily_Report]] [NEW]
 - [[2026-06-17_Daily_Report]] [NEW]
 - [[2026-06-16_Daily_Report]] [NEW]
@@ -150,5 +153,5 @@
 - [[PreMortem_Financiacion_Multilateral]] [NEW]
 
 ---
-*Ultima actualización sincronizada: 2026-06-18 23:50*
+*Ultima actualización sincronizada: 2026-06-20 23:50*
 

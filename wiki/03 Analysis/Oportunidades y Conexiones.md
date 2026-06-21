@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-08_news_mining_energy.md, 2026-05-09_news_mining_energy.md, 2026-05-10_news_mining_energy.md, 2026-05-11_news_mining_energy.md, 2026-05-14_news_mining_energy.md, 2026-05-16_news_mining_energy.md, 2026-05-20_news_mining_energy.md, 2026-05-21_news_mining_energy.md, 2026-05-25_news_mining_energy.md, 2026-05-26_news_mining_energy.md, 2026-05-27_news_mining_energy.md, 2026-05-29_news_mining_energy.md, 2026-05-30_news_mining_energy.md, 2026-05-31_news_mining_energy.md, 2026-06-01_news_mining_energy.md, 2026-06-02_news_mining_energy.md, 2026-06-03_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-08_news_mining_energy.md, 2026-05-09_news_mining_energy.md, 2026-05-10_news_mining_energy.md, 2026-05-11_news_mining_energy.md, 2026-05-14_news_mining_energy.md, 2026-05-16_news_mining_energy.md, 2026-05-20_news_mining_energy.md, 2026-05-21_news_mining_energy.md, 2026-05-25_news_mining_energy.md, 2026-05-26_news_mining_energy.md, 2026-05-27_news_mining_energy.md, 2026-05-29_news_mining_energy.md, 2026-05-30_news_mining_energy.md, 2026-05-31_news_mining_energy.md, 2026-06-01_news_mining_energy.md, 2026-06-02_news_mining_energy.md, 2026-06-03_news_mining_energy.md, 2026-06-19_news_mining_energy.md, 2026-06-20_news_mining_energy.md]
 confidence: high
-last_update: 2026-06-03
+last_update: 2026-06-20
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
@@ -65,6 +65,15 @@ last_update: 2026-06-03
 18. **RIMI y el Fortalecimiento de la Cadena de Valor**:
     - La reglamentación del régimen RIMI para medianas inversiones brinda beneficios fiscales a proveedores estratégicos de escala media.
 
+19. **Seguridad Electrónica CASEL (20/06/2026)**:
+    - CASEL reportó un auge masivo de demanda de seguridad electrónica para blindar activos y campamentos logísticos en Añelo y provincias mineras, facilitando la creación de integradores tecnológicos locales.
+
+20. **Altar (San Juan) - Prefectibilidad (20/06/2026)**:
+    - El avance del PFS con US$ 1.600M iniciales en Calingasta abre oportunidades de servicios geológicos y campamentos en altura.
+
+21. **Adani Group - Meridian Port Services (19/06/2026)**:
+    - La entrada de operadores portuarios especializados internacionales para Southern GNL y terminal VMOS en Punta Colorada (Río Negro) consolida el rol de operadores logísticos internacionales.
+
 ## Conexiones Estratégicas y Ocultas
 
 ### Visualización de Conexiones (Mermaid)
@@ -83,10 +92,13 @@ graph TD
     RIGI --> |Pluspetrol US$ 12.000M| Plus[Bajo del Choique]
     RIGI --> |Res. 484/2026| Profit[Rentabilidad 35%]
     RIGI -.-> |Seguridad de Activos| SecRes[Res. 461/2026: Mesa de Seguridad]
+    RIGI -.-> |Upstream Min US$ 600M| Upstream[Upstream Shale]
+    RIGI -.-> |Prefactibilidad US$ 1.600M| Altar[Altar Cobre]
     
     VM[Vaca Muerta] --> |Récord 2.484 Etapas Mayo| Fractura[Eficiencia Operativa]
     VM --> |Federalización| PA[Palermo Aike / D-129]
     VM --> |Oleoducto VMOS 60%| VMOS[VMOS Instalación Submarina]
+    VMOS -.-> |Meridian Port Services 10 años| Adani[Adani Group]
     
     LG[Federalismo Ambiental] --> |Justicia Catamarca Río Los Patos| Catamarca[Hombre Muerto]
     Catamarca --> Posco[Posco - Sal de Oro / HMN]
@@ -95,6 +107,7 @@ graph TD
     
     Cobre[Cobre Hub] --> |Leyes Récord| Lunahuasi[Lunahuasi 18.9% Cu]
     Cobre --> |NI 43-101 IFC| TacaTaca[Taca Taca - Salta]
+    Cobre --> |Aldebarán Resources| Altar
     
     ENRGE[ENRGE / Fusión ENRE-ENARGAS] --> |Audiencia 3-Junio Res 219| Vicuña[Distrito Vicuña / Josemaría]
     ENRGE --> |Oposiciones y 30 Días| LosAzules

@@ -1,3 +1,11 @@
+---
+type: framework
+tags: [mining, regulatory]
+sources: [[2026-06-19_news_mining_energy]]
+confidence: high
+last_update: 2026-06-19
+---
+
 # Corredor Bioceánico de Capricornio (CBC)
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
@@ -10,6 +18,7 @@
     - **Coordinación Regional (16/06/2026):** Se realizó un encuentro de coordinadores nacionales del Corredor en Brasilia para avanzar en la modernización y agilización de los controles fronterizos.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
 - **Argentina:**
+    - **Paso de Sico y RN 51 (19/06/2026):** El BID confirmó un financiamiento de **US$ 100 millones** para pavimentar 91 km de la Ruta Nacional 51 entre Campo Amarillo y el Paso de Sico. CEPAL ratifica que este eje es estratégico para la salida de la minería del NOA.
     - **Paso de Jama (Jujuy):** Nodo logístico estratégico con un crecimiento exponencial de carga. Cierra solo 35 días al año por factores climáticos. El Decreto **438/2026** autorizó la instalación de tiendas libres de impuestos (Duty Free Shops) en pasos fronterizos terrestres para potenciar la competitividad turística y logística del corredor.
     - **Logística Activa (Caso Eramine):** Eramine exportó con éxito carbonato de litio desde Salta vía Paso de Jama directo a puertos chilenos (Angamos), validando la reducción de tiempos de tránsito hacia Asia en **10 días** en comparación con la vía Atlántica.
     - **Salta y el BID (18/06/2026):** El BID y autoridades de Salta trabajan conjuntamente para fortalecer las cadenas productivas asociadas al Corredor.

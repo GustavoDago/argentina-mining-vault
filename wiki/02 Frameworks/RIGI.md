@@ -1,9 +1,6 @@
----
-type: framework
-tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-26_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-12_news_mining_energy]], [[2026-05-13_news_mining_energy]], [[2026-05-14_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-01_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-10_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-26_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-12_news_mining_energy]], [[2026-05-13_news_mining_energy]], [[2026-05-14_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-01_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-10_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]], [[2026-06-19_news_mining_energy]], [[2026-06-20_news_mining_energy]]
 confidence: high
-last_update: 2026-06-18
+last_update: 2026-06-20
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -12,17 +9,16 @@ last_update: 2026-06-18
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
 ## Tablero de Control (Junio 2026)
-A mediados de junio de 2026, el Ministerio de Economía lanzó el **Portal Oficial del RIGI**, transparentando el pipeline y el estado de situación del régimen:
+A mediados de junio de 2026, el Ministerio de Economía y fuentes del sector transparentan el pipeline y el estado de situación del régimen:
 
-- **Proyectos Totales Presentados:** **41 iniciativas** por un monto acumulado de **US$ 140.000 millones** (algunos informes estiman US$ 133.000M).
-- **Proyectos Aprobados:** **16 proyectos** formalizados que representan **US$ 29.892 millones** de inversión comprometida y generarán unos 54.495 empleos. (Otras fuentes reportan 18 proyectos aprobados por US$ 22.541M).
-- **Proyectos en Evaluación:** **25 proyectos** bajo análisis técnico por un valor de **US$ 111.037 millones** (proyectando 142.168 empleos).
+- **Proyectos Totales Presentados:** El total de inversiones presentadas supera los **US$ 133.000 millones** (con el Portal Oficial registrando hasta 41 iniciativas por US$ 140.000 millones).
+- **Proyectos Aprobados:** **16-18 proyectos** formalizados que representan entre **US$ 22.500M** y **US$ 29.892 millones** de inversión comprometida.
+- **Distribución Sectorial:** Más del **99%** de las inversiones se concentran en **Energía** (liderando con el 64%) y **Minería** (con el 35%).
+- **Concentración Regional:** Lidera **Neuquén** con el **47%** (US$ 62.434M), seguida de **San Juan** con aproximadamente el **19-25%** (~US$ 25.000M).
 - **Liquidación de Divisas:** El BCRA confirmó que los proyectos RIGI han liquidado **US$ 1.205 millones brutos** (US$ 762 millones netos).
-- **Distribución Sectorial:** El sector **Energía** lidera el volumen con el **64%** (US$ 85.000M), seguido por **Minería** con el **35%** (US$ 47.000M).
-- **Concentración Regional:** El **65%** de las inversiones se concentran en las provincias de **Neuquén** (47% del total) y **San Juan** (19-25% del total).
 
 ### Categorías Especiales
-- **Súper RIGI (Congreso 06/06/2026):** El Poder Ejecutivo envió formalmente al Congreso el proyecto de ley complementario para incentivar la **industrialización local de recursos naturales** (celdas y baterías de litio, refinación de cobre, hidrógeno verde, IA, Datacenters, semiconductores). Ofrece una tasa de Ganancias del **15%** y estabilidad por 30 años para inversiones mayores a **US$ 1.000 millones**.
+- **Súper RIGI (Congreso - Mensaje N° 181/2026):** El Poder Ejecutivo envió formalmente al Congreso el proyecto de ley complementario para incentivar la **industrialización local de recursos naturales** (celdas y baterías de litio, refinación de cobre, hidrógeno verde, IA, Datacenters, semiconductores). Dirigido a nuevas actividades económicas con inversiones mínimas de **US$ 1.000 millones**, ofreciendo Ganancias reducidas al **15%** y exigiendo la ejecución del **20% de la inversión en los primeros dos años**.
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
     - Destinado a megaproyectos de exportación (ej. GNL). Inversión mínima: **US$ 2.000 millones**. Desembolsos mínimos por etapa: **US$ 1.000 millones**. Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
 
@@ -34,7 +30,7 @@ A mediados de junio de 2026, el Ministerio de Economía lanzó el **Portal Ofici
 5.  **[[MARA]]** (Glencore, Catamarca, Cobre) - Integración Agua Rica - Alumbrera. Solicitud presentada en junio de 2026 por **US$ 9.300M** (en evaluación).
 6.  **[[Southern Energy]]** (PAE/Golar, Río Negro, GNL) - Licuefacción flotante en Golfo San Matías. **APROBADO JUNIO 2026**. Inversión: **US$ 6.878M**.
 7.  **[[Phoenix Global Resources]]** (Vaca Muerta, Oil) - Inversión: **US$ 6.000M**.
-8.  **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Solicitud de ingreso finalizándose con Capex actualizado a **US$ 5.250M** y reporte NI 43-101.
+8.  **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Solicitud de ingreso preparándose formalmente con Capex actualizado a **US$ 5.250M** y reporte NI 43-101.
 9.  **[[Pampa Energía]]** (Neuquén, Oil) - Inversión Rincón de Aranda: **US$ 4.500M**.
 10. **[[Pachón]]** (Glencore, San Juan, Cobre) - Solicitud RIGI formalizada en junio de 2026 por **US$ 4.000M** (en evaluación).
 11. **[[Los Azules]]** (McEwen, San Juan, Cobre) - **APROBADO MAYO 2026** (Acta N° 19). Inversión: **US$ 2.672M**. Aprobación de IIA en junio de 2026.
@@ -53,6 +49,7 @@ A mediados de junio de 2026, el Ministerio de Economía lanzó el **Portal Ofici
 24. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - **APROBADO JUNIO 2026** (Res. 413/2026) para Fases 8 y 9. Inversión: **US$ 380M** (o US$ 400M).
 25. **Sidersa** (Buenos Aires, Siderurgia) - **APROBADO JUNIO 2026** (Res. 44/2026). Inversión: **US$ 286M**.
 26. **Vista Energy** (Vaca Muerta, Oil) - Preparando dos solicitudes de adhesión al RIGI para bloques de upstream.
+27. **[[Altar]]** (Aldebarán Resources, San Juan, Cobre) - Planifica adherirse al RIGI entre fines de 2026 y comienzos de 2027 por una inversión inicial de **US$ 1.600 millones** (en PFS).
 
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** (crecimiento en forma de "K"). Los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%**, mientras que los sectores dependientes del mercado interno enfrentan una caída del **-4,9%**.
@@ -83,5 +80,6 @@ El RIGI está consolidando una **"economía a dos velocidades"** (crecimiento en
 - [[Pachón]]
 - [[Sal de Vida]]
 - [[Gasoducto San Matías]]
+- [[Altar]]
 
 

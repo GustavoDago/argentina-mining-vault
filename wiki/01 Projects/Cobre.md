@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-26_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-10_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]]
+sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-26_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-10_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]], [[2026-06-19_news_mining_energy]], [[2026-06-20_news_mining_energy]]
 confidence: high
-last_update: 2026-06-18
+last_update: 2026-06-20
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -49,6 +49,10 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 ### 7. [[La Coipita]] (San Juan) - Nueva Frontera Exploratoria
 - **Exploración:** AbraSilver reportó resultados de perforación significativos en Calingasta, identificando zonas de alta ley de cobre y oro.
 
+### 8. [[Altar]] (San Juan) - Prefectibilidad
+- **Inversión y Estado:** Proyecto de cobre y oro en Calingasta operado por Aldebarán Resources. Avance hacia el estudio de prefactibilidad (PFS) tras campaña de 24.000m de perforación, estimando un CAPEX inicial de **US$ 1.600 millones**.
+- **RIGI:** Planifica adherirse al RIGI entre fines de 2026 y comienzos de 2027. Proyecta una vida útil de 48 años (mixto cielo abierto y block caving).
+
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récords históricos superando los **u$s 13.000/ton** en la LME (Londres).
 - **Mesa del Cobre:** Oficializada por Salta, San Juan y Catamarca para coordinar la infraestructura logística de la región.
@@ -68,3 +72,4 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - [[Pachón]]
 - [[La Coipita]]
 - [[Taca Taca]]
+- [[Altar]]

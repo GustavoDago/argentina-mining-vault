@@ -1,5 +1,18 @@
 # Log de Operaciones
 
+## [2026-06-20] sync | Procesados 2 reportes de Jules (19 y 20 de junio)
+- **Ingesta:** Procesados y consolidados reportes diarios del 19 y 20 de junio de 2026 (2 reportes en total).
+- **Hitos Inversión & Infraestructura:**
+    - **Cobre:** Aprobación RIGI de Distrito Vicuña (Josemaría / Filo del Sol) por **US$ 9.700M** inicial (total clúster US$ 18.000M). Avance hacia PFS de [[Altar]] (Aldebarán Resources, US$ 1.600M iniciales) y RIGI proyectado para 2026-2027. First Quantum presenta reporte NI 43-101 actualizado para [[Taca Taca]] elevando el CAPEX a **US$ 5.250 millones** y preparando RIGI. Aprobación RIGI formal para [[San Jorge]] (Mendoza, US$ 891M).
+    - **Oil & Gas:** Chevron formaliza RIGI de US$ 13.800M en El Trapial Este. Meridian (port services en Punta Colorada) vende 51% a Adani Group para operar contrato de 10 años para Southern GNL. VMOS (US$ 2.486 millones, 437 km, YPF/PAE/Vista/Pampa/Pluspetrol/Chevron/Shell) apunta a fines de 2026.
+    - **Litio:** Ganfeng y Lithium Argentina buscan de forma activa un tercer socio estratégico/inversor para sus operaciones.
+    - **Regulatorio (RIGI & Súper RIGI):** Total de proyectos presentados superan los **US$ 133.000M** (con Neuquén liderando con 47%). Oficializado el Decreto **105/2026** de inclusión del segmento upstream con inversión mínima de **US$ 600M** para shale. Envío al Congreso del proyecto "Súper RIGI" (inversiones >US$ 1.000M con Ganancias del 15% y 20% de ejecución en los primeros 2 años).
+    - **Logística & Servicios:** CASEL reporta auge en demanda de seguridad electrónica para polos energéticos y mineros. BID confirma **US$ 100M** para pavimentar 91 km de la RN 51 (Campo Amarillo - Paso de Sico) hacia puertos de Chile, traccionando el [[Corredor Bioceanico]]. Río Negro inicia producción de oro/plata en Calcatreu (Patagonia Gold) y planes para Uranium/Copper/Lithium.
+- **Entidades Creadas/Actualizadas:**
+    - **Creadas:** `Altar.md`.
+    - **Actualizadas:** `Chevron.md`, `Southern Energy.md`, `Vaca Muerta Sur.md`, `Vaca Muerta.md`, `RIGI.md`, `Distrito Vicuña.md`, `Litio.md`, `Río Negro.md`, `Salta.md`, `Corredor Bioceanico.md`, `San Juan.md`, `Cobre.md`, `Oportunidades y Conexiones.md`.
+    - **Daily Reports Importados:** `2026-06-19_Daily_Report.md`, `2026-06-20_Daily_Report.md`.
+
 ## [2026-06-18] sync | Procesados 11 reportes de Jules (08 al 18 de junio)
 - **Ingesta:** Procesados y consolidados reportes diarios del 8 al 18 de junio de 2026 (11 reportes en total).
 - **Hitos Inversión & Infraestructura:**
