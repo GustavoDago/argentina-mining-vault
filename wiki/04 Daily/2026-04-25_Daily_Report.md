@@ -11,8 +11,8 @@ Jornada marcada por hitos regulatorios críticos bajo el marco del **RIGI** y r�
 - **Tracción Financiera:** El BCRA confirmó que los proyectos RIGI ya han aportado USD 762 millones netos a las reservas.
 
 ### Cobre: El Despertar de un Gigante
-- **[[../01 Projects/Taca Taca.md|Taca Taca]] & IFC:** Acuerdo estratégico para alinear el proyecto salteño (USD 5.250M) con estándares ASG internacionales, despejando el camino para el financiamiento bancario.
-- **[[../01 Projects/Lunahuasi.md|Lunahuasi]]:** Los resultados récord (hasta 18.9% Cu) confirman al proyecto como el "Vaca Muerta del Cobre" en el Distrito Vicuña.
+- **[[Taca Taca]] & IFC:** Acuerdo estratégico para alinear el proyecto salteño (USD 5.250M) con estándares ASG internacionales, despejando el camino para el financiamiento bancario.
+- **[[Lunahuasi]]:** Los resultados récord (hasta 18.9% Cu) confirman al proyecto como el "Vaca Muerta del Cobre" en el Distrito Vicuña.
 - **Horizonte 2029:** La Secretaría de Minería ratificó que Los Azules y San Jorge están en camino para iniciar operaciones comerciales en 2029.
 
 ### Vaca Muerta: Récords y Proyecciones
@@ -28,4 +28,4 @@ Jornada marcada por hitos regulatorios críticos bajo el marco del **RIGI** y r�
 
 ---
 **Energon** - *Experticia en Energía y Minería Argentina*
-[[../../raw/2026-04-25_news_mining_energy.md|Ver fuentes originales]]
+[[2026-04-25_news_mining_energy.md]]

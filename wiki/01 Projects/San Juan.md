@@ -1,14 +1,18 @@
 ---
 type: project
-tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+tags: [mining, regulatory, copper]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-06-21_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-06-21
 ---
 
 # San Juan
 
-San Juan es la provincia líder en minería metalífera en Argentina, especialmente en **cobre** y **oro**.
+San Juan es la provincia líder en minería metalífera en Argentina, posicionándose como el "Powerhouse" global del cobre.
+
+## "Powerhouse" del Cobre (Junio 2026)
+- **Pipeline de Inversión:** La provincia concentra proyectos por más de **US$ 31.000 millones** bajo el marco del [[RIGI]].
+- **Liderazgo en Aprobaciones:** San Juan encabeza los proyectos aprobados bajo RIGI, destacando [[Los Azules]] (US$ 2.672M), Gualcamayo (US$ 665M) y la ampliación de [[Veladero]] (US$ 380M).
 
 ## Modernización y Transparencia (Abril 2026)
 - **Sistema Integral Minero (SIM):** Implementación obligatoria del pago del canon minero 100% online. La plataforma digital centraliza el padrón minero, deudas y estado técnico-legal, eliminando trámites presenciales y mejorando la trazabilidad en tiempo real.
@@ -23,6 +27,8 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - [[Los Azules]] (Cobre Verde)
 - [[Veladero]] (Oro/Plata)
 - [[Distrito Vicuña]] (Hub Binacional)
+- [[Pachón]] (Cobre)
+- [[Altar]] (Cobre/Oro)
 - [[Lunahuasi]] (Cobre de Alta Ley)
 
 ## Relevancia Estratégica

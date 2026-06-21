@@ -1,16 +1,16 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-21_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-21
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
-1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
-   - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
+1. **Cluster del Cobre en San Juan (Powerhouse Cu)**:
+   - Con el pipeline de **[[San Juan]]** superando los US$ 31.000 millones (Junio 2026), se abre una oportunidad masiva para **Hubs Logísticos y de Mantenimiento** compartidos. Proyectos como **[[Los Azules]]**, **[[Josemaría]]**, **[[Pachón]]** y **[[Altar]]** demandarán servicios de escala industrial que Mendoza y la zona centro de San Juan pueden proveer como cluster integrado.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
    - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de inicio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG).
 3. **Cobre de Alta Ley: El Efecto [[Lunahuasi]]**:
@@ -23,8 +23,8 @@ last_update: 2026-04-27
    - La formalización de inversiones bajo el RIGI (Pampa US$ 4.5B, Tecpetrol US$ 2.4B, Phoenix) y el anuncio de YPF en **D-129 (Chubut)** y **[[Palermo Aike]] (Santa Cruz)** abre un mercado masivo para la **transferencia tecnológica y logística de servicios petroleros** hacia la Cuenca Austral y el Golfo San Jorge. Es el inicio de la "federalización del shale".
 7. **Aluvión de Inversiones RIGI Petrolero y Decreto 105/2026**:
    - La extensión de beneficios a todo el upstream (Decreto 105/2026) acelera proyectos de exploración en Santa Cruz y Chubut. Esto genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas.
-8. **Consolidación del NOA como Hub Surcoreano**:
-   - La adquisición de HMN por parte de **[[Posco]]** (US$ 65M) y la confirmación de que su primera planta ya opera al **70% de capacidad** (Abril 2026) consolidan a la empresa como el jugador más dinámico del litio en Salta. La oportunidad reside en la **logística transfronteriza y servicios compartidos**.
+8. **Consolidación del NOA como Hub de Litio RIGI**:
+   - Las aprobaciones de **[[Minera Exar]]** (US$ 1.241M) y **[[Posco]]** Fase 2 (US$ 547M) en junio 2026 ratifican la confianza en el NOA. Existe oportunidad en la **Economía Circular de Baterías** y servicios de refinamiento de alta pureza.
 9. **Servicios ESG y Financiamiento Multilateral**:
    - El financiamiento de **US$ 1.175 millones** para **[[Rincón]]** (Rio Tinto) proveniente de CFI y BID Invest impone estándares ESG estrictos. Se abre un mercado de **auditoría ambiental continua, servicios de monitoreo hídrico y consultoría en relaciones comunitarias**.
 10. **RIMI y el Fortalecimiento de la Cadena de Valor**:
@@ -55,69 +55,25 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
-    TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
-    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
-    LosAzules --> |Inicio 2026| Const[Construcción]
-    RIGI --> |Res. 413/2026| Veladero
-    RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
-    RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
-    RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
-    RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
-    RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
-    RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
-    RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
-    RIGI --> |Decreto 105/2026| PA[Palermo Aike]
-    RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
-    RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
-
-    VM --> |Modelo Replicado| PA
-    VM --> |US$ 4.500M| Pampa[Pampa Energía]
-    VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
-    VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
-    VM --> |US$ 3.000M| TGS[TGS Industrialización]
-    VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
-    VM --> |Acuerdo GNL| ENI[ENI - Italia]
-    VM --> |Análisis RIGI| Vista[Vista Energy]
-    TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
-
-    LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
-    LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
-    Cobre --> |Leyes Récord| Lunahuasi[Lunahuasi - 18.9% Cu]
-    LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
-    Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
-    Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
-
-    Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
-    Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
-    Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
-    Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
-    Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
-    Litio --> |Presidencia Mesa| Jujuy[Jujuy]
-    Jujuy --> MiniRIGI
-    Posco --> |Capacidad| P70[70% Planta Salta]
-    Salta[Salta: Complejo Exportador #1] --> Litio
-
-    Cobre --> |Descubrimiento Récord| Lunahuasi
-    Vicuña --> Lunahuasi
-
-    PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
-    BESS[Demanda BESS China] --> |Sostiene| PriceLit
-
-    Chile[Integración con Chile] --> |Logística Pacífico| Cobre
-    Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
-
-    Eval --> |Espera desde 2024| Posco
-
-    ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
-    ENRE --> |Conflicto| LosAzules
-    LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
-    SanJorge --> OpCopper
+    RIGI[RIGI: Motor de Inversión] --> |Aprobado US$ 29.8B| Approved[16 Proyectos]
+    RIGI --> |Evaluación US$ 111B| Eval[25 Proyectos]
+    RIGI --> |Portal 11/06| Transparency[Transparencia Fiscal]
     
-    OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
+    Approved --> |US$ 2.67B| LosAzules[Los Azules - San Juan]
+    Approved --> |US$ 1.24B| Exar[Minera Exar - Jujuy]
+    Approved --> |US$ 547M| Posco[Posco Phase 2 - Salta/Cat]
+    Approved --> |US$ 1.3B| GasMat[Gasoducto San Matías]
+    GasMat --> |GNL| Southern[Southern Energy]
 
-    SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    Eval --> |US$ 18.0B| Vicuña[Distrito Vicuña]
+    Eval --> |US$ 9.5B| Pachon[El Pachón]
+    Eval --> |US$ 1.6B| Altar[Altar - PFS]
+
+    VM[Vaca Muerta] --> |VMOS 59%| Exports[Exportaciones Oil]
+    VM --> |Gas| GasMat
+
+    Cobre[Potencia Cu 2035] --> |1.6Mt/año| Targets[Objetivos Nacionales]
+    Cobre --> |Hub San Juan| SJ[San Juan > US$ 31B]
 ```
 
 ## Conclusiones
