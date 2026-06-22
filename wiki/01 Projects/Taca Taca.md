@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-22_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-22
 ---
 
 # Proyecto Taca Taca (Cobre)
@@ -15,7 +15,8 @@ last_update: 2026-04-27
 Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones**. Se posiciona en el primer cuartil de la curva de costos global.
 
 ## Hitos Recientes (2025-2026)
-- **Alianza Estratégica IFC (27/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda y ratificando la inversión total de **US$ 5.250 millones**.
+- **Actualización de Inversión y RIGI (20/06/2026):** First Quantum Minerals ratificó la inversión de **US$ 5.250 millones** tras un reporte técnico actualizado. La empresa se prepara para solicitar la adhesión al [[RIGI]] durante el segundo semestre de 2026, una vez finalizado el Estudio de Impacto Ambiental y Social (ESIA).
+- **Alianza Estratégica IFC (27/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda.
 - **Ratificación de Inversión RIGI (19/04/2026):** Se confirmó una inversión de **US$ 4.200 millones** enfocada en el desarrollo de infraestructura y planta, vinculando el proyecto con el [[Corredor Bioceanico]] de Capricornio para la salida por el Pacífico.
 - **Consolidación del Informe Técnico (16/04/2026):** La presentación formal del NI 43-101 ratifica la solidez económica. Se prevé el inicio de construcción tras el aval del [[RIGI]].
     - **Empleo:** 4.000 puestos en construcción; 2.000 en operación.

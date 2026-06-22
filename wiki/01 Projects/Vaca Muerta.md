@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-22_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-22
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -14,11 +14,17 @@ last_update: 2026-04-27
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción (Mayo 2026)
+- **Shale Oil:** Neuquén alcanzó un máximo histórico de **634.802 barriles diarios**.
+- **Participación:** El no convencional explica el **97%** de la producción de crudo de la provincia y casi el **72%** del total nacional.
+- **Gas Natural:** Salto relevante a **114 millones de m³/día** (mejora mensual del 12,66%).
+- **Superávit:** La balanza energética logró un saldo positivo récord de **US$ 1.543 millones** en mayo.
+
+### Hitos Recientes (Junio 2026)
+- **Inversiones RIGI (21/06/2026):** Vaca Muerta ya moviliza proyectos bajo el [[RIGI]] por más de **US$ 45.000 millones**.
+- **Infraestructura de Gas (22/06/2026):** **[[TGN]]** anunció que definirá antes de fin de año la inversión para un gasoducto estratégico entre Tratayén y La Carlota (Córdoba) para evacuar 13 MMm³/d adicionales.
+- **Reactivación PIAP (22/06/2026):** Presentación de iniciativa privada de **US$ 120 millones** (Saesa/Spark) para reactivar la Planta Industrial de Agua Pesada en Neuquén.
+- **Alianza YPF & Tesla (17/06/2026):** Acuerdo para desarrollar infraestructura de carga eléctrica y almacenamiento, vinculando el shale oil con la transición energética.
 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.

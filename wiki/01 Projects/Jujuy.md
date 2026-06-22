@@ -15,7 +15,7 @@ Jujuy es una provincia clave en el Triángulo del Litio y cuenta con importantes
 - **Lanzamiento de "Mini-RIGI" (18/04/2026):** La provincia reglamentó un régimen de incentivos para inversiones desde los **US$ 5 millones**, buscando integrar a las PYMES locales en la cadena de valor minera y energética.
 
 ## Proyectos Clave
-- **Caucharí-Olaroz** (Minera Exar)
+- **Caucharí-Olaroz** ([[Minera Exar]]) - Proyecto en expansión con aprobación RIGI.
 - **Salar de Olaroz** (Arcadium Lithium)
 - **Mina Pirquitas / Chinchillas** (Plata/Plomo/Zinc)
 

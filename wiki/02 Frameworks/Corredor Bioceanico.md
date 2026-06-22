@@ -2,7 +2,10 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (Junio 2026)
+- **Integración Regional (11/06/2026):** Argentina y Chile firmaron una declaración conjunta para el **Corredor Pichachén** (Neuquén-Biobío), orientado a la integración del gas de Vaca Muerta y la licuefacción.
+- **Competitividad (10/06/2026):** El Decreto 438/2026 autorizó la instalación de **tiendas libres de impuestos** (duty-free shops) en los pasos fronterizos terrestres para impulsar la competitividad regional a lo largo del corredor.
+- **Modernización (Junio 2026):** Coordinadores nacionales se reunieron en Brasilia para avanzar en la modernización de los controles transfronterizos y la integración de cadenas productivas con el apoyo del BID.
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.

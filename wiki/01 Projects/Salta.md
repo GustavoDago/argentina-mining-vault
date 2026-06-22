@@ -13,8 +13,8 @@ Salta se destaca por su seguridad jurídica y su potencial diversificado en **li
 ## Hitos Recientes (Abril 2026)
 - **Complejo Exportador Líder (16/04/2026):** La minería se consolidó como el principal complejo exportador de Salta, representando más de la mitad de las ventas externas en el primer bimestre de 2026, con un crecimiento interanual del 70%.
 - **Liderazgo en Litio (17/04/2026):** El Reporte Nacional 2026 ratificó a Salta como la provincia con la mayor cartera de proyectos de litio (14 desarrollos) y el mayor volumen de recursos medidos e indicados en la Puna.
-- **Taca Taca (15/04/2026):** Presentación del reporte NI 43-101 y preparación para la adhesión al [[RIGI]] del megaproyecto de cobre de First Quantum.
-- **POSCO:** Confirmación de que su primera planta ya opera al **70% de su capacidad nominal**, tras un encuentro estratégico con el gobernador Gustavo Sáenz.
+- **Taca Taca (20/06/2026):** Actualización del CAPEX a **US$ 5.250 millones** y preparación para ingreso al [[RIGI]].
+- **POSCO (21/06/2026):** Aprobación del proyecto de expansión **Sal de Oro** Fase 2 bajo el [[RIGI]] (US$ 547M). Su primera planta ya opera al **70% de su capacidad nominal**.
 
 ## Proyectos Clave
 - [[Taca Taca]] (Cobre)

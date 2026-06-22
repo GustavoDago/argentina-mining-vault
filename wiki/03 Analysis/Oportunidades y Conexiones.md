@@ -6,9 +6,23 @@ confidence: high
 last_update: 2026-04-27
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
+1. **Privatización y Eficiencia en Transporte Eléctrico (Transener)**:
+   - La venta del 50% de CITELEC (**Transener**) por parte de ENARSA a **Genneia** y **Edison Transmisión** (22/06/2026) marca un hito en la desestatización del sector eléctrico. Esta entrada de capital privado especializado abre una ventana para negociar expansiones de red críticas para proyectos mineros en San Juan y el NOA, superando la inacción estatal previa.
+2. **Consolidación del 'Green Copper' (Efecto Los Azules)**:
+   - La aprobación formal de **[[Los Azules]]** bajo el RIGI con reconocimiento de **'Green Copper'** (21/06/2026) posiciona a San Juan como líder en minería de baja huella de carbono. Existe una oportunidad para certificar toda la cadena de proveedores bajo estándares de sustentabilidad para capturar la prima de precio en mercados internacionales de electromovilidad.
+3. **Web RIGI y Monitoreo de Cadena de Valor**:
+   - El lanzamiento del **portal oficial del RIGI** (21/06/2026) con información de 41 iniciativas permite a los proveedores locales (PYMES) realizar un monitoreo proactivo de los tiempos de inversión y necesidades de contratación de los megaproyectos.
+4. **Vaca Muerta como Hub Gasífero Regional**:
+   - El proyecto de **[[TGN]]** para el gasoducto Tratayén-La Carlota (22/06/2026) y la declaración conjunta Argentina-Chile por el **Corredor Pichachén** refuerzan la estrategia de exportación masiva. Se abre un mercado para servicios de construcción de ductos y estaciones de compresión de alta tecnología.
+5. **Nicho Nuclear y de Tecnología Compleja (PIAP)**:
+   - La iniciativa de **US$ 120 millones** para reactivar la **PIAP** en Neuquén genera una oportunidad para empresas de ingeniería especializada en procesos químicos complejos y mantenimiento industrial de alta precisión.
+6. **Alianza YPF & Tesla: Almacenamiento y Carga**:
+   - El acuerdo firmado en junio 2026 abre el camino para el despliegue de infraestructura de carga rápida. Oportunidad para empresas de ingeniería eléctrica y gestión de redes inteligentes (smart grids).
+
+## Oportunidades de Negocio Identificadas (Abril 2026)
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
@@ -55,15 +69,18 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |US$ 5.250M Est.| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
-    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Aprobado US$ 2.672M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Aprobado US$ 1.241M| Exar[Minera Exar - Jujuy]
+    RIGI --> |Aprobado US$ 547M| PoscoExp[Posco Sal de Oro F2]
+    RIGI --> |Web Monitoreo 21/06| Transp[Transparencia e Info]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
-    RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
+    RIGI --> |Aprobado US$ 9.700M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
@@ -80,7 +97,9 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Pichachén| ChileGas[Chile: Neuquén-Biobío]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    VM --> |Tratayén-La Carlota| TGN[TGN: 13 MMm3/d]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
@@ -112,6 +131,8 @@ graph TD
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules
+    ENARSA[ENARSA: Desinversión] --> |Venta 50% CITELEC| Transener[Transener: Genneia/Edison]
+    Transener --> |Inversión Privada| GridExp[Expansión Red San Juan/Puna]
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
     SanJorge --> OpCopper
     
