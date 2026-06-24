@@ -9,10 +9,11 @@
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
 - **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
-- **Salta (Abril 2026):**
-    - **Relevancia del Cobre (20/04/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 4.200M) posiciona al proyecto como el principal usuario proyectado del Corredor para exportar concentrado de cobre por el Pacífico.
-    - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**, permitiendo desviar el tránsito pesado minero de las zonas urbanas de la provincia.
-    - La minería se convierte en el principal complejo exportador de la provincia, traccionando la necesidad de acelerar la infraestructura del Corredor.
+- **Salta (Junio 2026):**
+    - **Paso de Sico (22/06/2026):** Finalización de las obras de rehabilitación integral. Incluye nuevos sistemas de energía, fibra óptica de 120 Mbps y módulos de control de Senasa, optimizando la conectividad con Chile.
+    - **Pavimentación RN 51 (19/06/2026):** El BID confirmó un préstamo de US$ 100M para pavimentar 91 km adicionales de la ruta nacional 51, tramo crítico para las exportaciones de [[Taca Taca]].
+    - **Relevancia del Cobre (20/06/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 5.250M) posiciona al proyecto como el principal usuario del Corredor.
+    - La obra del **bypass de Campo Quijano** alcanza el **75% de avance**.
 
 ## Ventajas Comparativas del Paso de Jama:
 - **Alta operatividad anual:** Cierra solo 35 días al año por factores climáticos (vs. 120 días de Cristo Redentor).
@@ -38,6 +39,7 @@ graph TD
     A --> C[RN 51 - Salta]
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
-    B --> F[Proyectos de Litio]
+    B --> F[[Minera Exar]]
+    B --> H[Otros Proyectos de Litio]
     C --> G[Bypass Campo Quijano]
 ```
