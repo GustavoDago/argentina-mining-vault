@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-25_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-25
 ---
 
 # Posco (Sal de Oro / Hombre Muerto Norte)
@@ -16,7 +16,7 @@ Posco desarrolla el megaproyecto **Sal de Oro**. Tras la adquisición del 100% d
 
 ## Hitos Recientes (2026)
 - **Levantamiento de Cautelar (27/04/2026):** La ratificación judicial en Catamarca sobre la cuenca del Río Los Patos despeja el camino para la expansión de las operaciones hídricas necesarias para el proyecto.
-- **Demoras RIGI (27/04/2026):** Se reporta que la aprobación de la planta de litio en Salta bajo el marco del [[RIGI]] lleva más de 18 meses en evaluación, siendo uno de los proyectos pioneros en postularse.
+- **Aprobación RIGI Fase 2 (Junio 2026):** Se aprobó la adhesión al [[RIGI]] para la **Fase 2** del proyecto Sal de Oro por una inversión de **US$ 547 millones**. El objetivo es alcanzar una producción de 23.000 tpa de carbonato de litio para 2028.
 - **Consolidación HMN (18/04/2026):** Se ratificó la integración total de Hombre Muerto Norte a la cartera de Posco, tras la compra por US$ 65 millones. La empresa ahora controla el bloque completo para optimizar la infraestructura de Sal de Oro.
 - **Estado Operativo (14/04/2026):** Posco confirmó que su primera planta comercial ya opera al **70% de su capacidad nominal**.
 - **Adquisición Estratégica (13/04/2026):** Cierre de la operación con Lithium South.

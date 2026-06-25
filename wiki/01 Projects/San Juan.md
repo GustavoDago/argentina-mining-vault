@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-06-25_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-06-25
 ---
 
 # San Juan
@@ -14,6 +14,7 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - **Sistema Integral Minero (SIM):** Implementación obligatoria del pago del canon minero 100% online. La plataforma digital centraliza el padrón minero, deudas y estado técnico-legal, eliminando trámites presenciales y mejorando la trazabilidad en tiempo real.
 
 ## Desempeño Exportador (2026)
+- **Hub RIGI (Junio 2026):** San Juan lidera las inversiones aprobadas bajo el [[RIGI]] con **US$ 13.473 millones** acumulados en 4 proyectos: [[Josemaría]] (US$ 9.700M iniciales), [[Los Azules]] (US$ 2.672M), Gualcamayo (US$ 665M) y [[Veladero]] (US$ 380M).
 - **Liderazgo Histórico:** En el primer bimestre de 2026, la minería representó el **92,5% de las exportaciones totales** de San Juan.
 - **Cifras:** En febrero de 2026, las ventas externas alcanzaron los **US$ 172 millones**, marcando un crecimiento interanual del **60,5%**.
 - **Predominio del Oro:** El oro explica el **96,6%** de las exportaciones mineras, traccionado principalmente por el proyecto [[Veladero]]. Los principales destinos son India y Suiza.
@@ -22,6 +23,7 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - [[Josemaría]] (Cobre)
 - [[Los Azules]] (Cobre Verde)
 - [[Veladero]] (Oro/Plata)
+- [[Pachón]] (Cobre)
 - [[Distrito Vicuña]] (Hub Binacional)
 - [[Lunahuasi]] (Cobre de Alta Ley)
 

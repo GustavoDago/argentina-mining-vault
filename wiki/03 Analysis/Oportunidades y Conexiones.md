@@ -55,17 +55,21 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: Motor de Inversión] --> |US$ 5.250M| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
-    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Aprobado US$ 2.672M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
+    RIGI --> |Media Sanción| SuperRIGI[Súper RIGI: Tech & Refinación]
+    SuperRIGI --> |US$ 25.000M| Stargate[Stargate Argentina - OpenAI]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
+    Vicuña --> |US$ 9.700M Inicial| Josemaria
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    VM --> |US$ 13.800M| Chevron
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
@@ -75,8 +79,12 @@ graph TD
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
+    Tecpetrol --> |Récord 6579m| Profundidad[Hito Técnico Fortín de Piedra]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |59% Avance| VMOS[Oleoducto Vaca Muerta Sur]
+    VMOS --> |Logística| Adani[Adani Group - Punta Colorada]
+    SouthernEnergy --> Adani
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
@@ -119,6 +127,13 @@ graph TD
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
 ```
+
+20. **Súper RIGI: La Frontera Tecnológica (Junio 2026)**:
+    - La media sanción del Súper RIGI abre una ventana de **US$ 1.000M+** para proyectos de IA, semiconductores y refinación de cobre. La oportunidad reside en la integración de la cadena de valor minera (refinación in-situ de cobre) con la tecnológica (data centers como [[Stargate Argentina]]).
+21. **Logística de Gran Escala en el Atlántico (Adani/Punta Colorada)**:
+    - El ingreso de Adani Group a Río Negro marca el inicio de una nueva era logística. Se abre un mercado masivo para servicios portuarios, dragado y mantenimiento de infraestructura para los hubs de exportación de crudo y GNL vinculados a [[Southern Energy]] y VMOS.
+22. **Récords Técnicos en Vaca Muerta (Efecto Tecpetrol)**:
+    - El hito de perforación de [[Tecpetrol]] (6.579m) eleva la vara tecnológica. Oportunidad para empresas de servicios que provean motores de fondo, herramientas de monitoreo RTOC y soluciones de perforación de alcance extendido.
 
 ## Conclusiones
 La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.

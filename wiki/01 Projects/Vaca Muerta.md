@@ -1,26 +1,26 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-25_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-25
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
+**Principales Actores:** [[YPF]], [[Vista Energy]], [[Tecpetrol]], [[Pampa Energía]], [[Phoenix Global Resources]], [[Chevron]].
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción (Mayo 2026)
+- **Petróleo (Neuquén):** Récord histórico de **634.802 barriles diarios** (suba del 0,93% mensual). El shale representa el 97% del crudo neuquino.
+- **Gas Natural (Neuquén):** **114 millones de m³/d** (suba del 12,66% mensual impulsada por estacionalidad).
+- **Producción Nacional (Abril 2026):** Crudo total 4.215k m³ (+19,1% YoY); shale oil 2.915,3k m³ (+39,2% YoY).
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (2026)
+- **Récord de Perforación - Tecpetrol (24/06/2026):** Hito técnico en Fortín de Piedra con un pozo de **6.579 metros** de profundidad total. Uso de Motor de Fondo (MDF) y monitoreo en tiempo real (RTOC).
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
@@ -34,6 +34,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
 - **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
+- **Aprobación RIGI - Chevron (Junio 2026):** Plan de inversión de **US$ 13.800 millones** para El Trapial enfocado en recursos no convencionales.
 
 ## Infraestructura Crítica
 - **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
@@ -44,3 +45,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - [[Energia]]
 - [[Neuquén]]
 - [[Palermo Aike]]
+- [[Tecpetrol]]
+- [[YPF]]
+- [[Vista Energy]]
+- [[Chevron]]
