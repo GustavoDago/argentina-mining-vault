@@ -8,13 +8,16 @@
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
-- **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
-- **Salta (Abril 2026):**
+- **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga.
+- **Salta (Junio 2026):**
+    - **Financiamiento BID para RN 51 (Junio 2026):** El BID confirmó un préstamo de **US$ 100 millones** para la pavimentación de 91 km en la RN 51. Esta obra es crítica para la logística de exportación de [[Taca Taca]] y la integración regional.
+    - **Paso de Sico (Junio 2026):** Se completó la modernización tecnológica del paso (generadores y fibra óptica), restaurando su estatus como nodo crítico para el corredor.
     - **Relevancia del Cobre (20/04/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 4.200M) posiciona al proyecto como el principal usuario proyectado del Corredor para exportar concentrado de cobre por el Pacífico.
-    - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**, permitiendo desviar el tránsito pesado minero de las zonas urbanas de la provincia.
+    - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**.
     - La minería se convierte en el principal complejo exportador de la provincia, traccionando la necesidad de acelerar la infraestructura del Corredor.
+- **Pichachén (Junio 2026):** Declaración conjunta entre Argentina y Chile para la integración del corredor Pichachén (Neuquén-Biobío) enfocado en la exportación de gas y GNL.
 
-## Ventajas Comparativas del Paso de Jama:
+## Ventajas Comparativas y Nodos Críticos:
 - **Alta operatividad anual:** Cierra solo 35 días al año por factores climáticos (vs. 120 días de Cristo Redentor).
 - **Conectividad estratégica:** Acceso directo a los puertos del norte de Chile (Antofagasta, Iquique).
 
@@ -36,6 +39,8 @@
 graph TD
     A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
     A --> C[RN 51 - Salta]
+    A --> H[Paso de Sico - Salta]
+    A --> I[Pichachén - Neuquén]
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
     B --> F[Proyectos de Litio]

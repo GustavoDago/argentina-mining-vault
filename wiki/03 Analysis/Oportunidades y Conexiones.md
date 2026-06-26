@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-06-26_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-26
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,14 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Consolidación del Corredor Bioceánico (Junio 2026)**:
+    - La pavimentación de la **RN 51 (Salta)** con crédito del BID (US$ 100M) y la modernización del **Paso de Sico** configuran una ruta de exportación de cobre y litio hacia el Pacífico que reduce costos logísticos en un 20%. La oportunidad es para operadores logísticos con flota preparada para alta montaña.
+21. **Súper RIGI y Nuevas Industrias (Junio 2026)**:
+    - El umbral de **US$ 1.000 millones** para IA, semiconductores y hidrógeno verde abre un nicho para consultoras especializadas en proyectos tecnológicos de gran escala y proveedores de energías renovables (solar/eólica) para alimentar estos hubs.
+22. **Mercado de Bienes Usados para Energía y Minería (Decretos 482/483)**:
+    - La facilitación para importar líneas de producción usadas beneficia directamente a las **Pymes y proveedores Tier 2/3**. Existe una oportunidad para servicios de reacondicionamiento técnico y certificación de maquinaria importada bajo estos decretos.
+23. **Logística Flotante de GNL (Junio 2026)**:
+    - La confirmación de la barcaza de licuefacción para **[[Southern Energy]]** (US$ 8.178M) crea una demanda de servicios de apoyo marítimo, mantenimiento naval y seguridad en el Golfo San Matías.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -70,7 +78,10 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Evaluación: US$ 140B+| Eval[41 Proyectos]
+    RIGI --> |Aprobado US$ 13.8B| Chevron[Chevron El Trapial]
+    RIGI --> |Confirmado US$ 8.1B| Southern[Southern Energy GNL]
+    RIGI --> |PFS US$ 1.6B| Altar[Proyecto Altar]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -80,6 +91,7 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |59% Avance| VMOS[Oleoducto VMOS]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
@@ -98,15 +110,18 @@ graph TD
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
     Salta[Salta: Complejo Exportador #1] --> Litio
+    Litio --> |US$ 1.2B Expansión| Exar[Minera Exar]
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
     Vicuña --> Lunahuasi
+    Cobre --> |1.8 Mtpa Potencial| Bain[Informe Bain & Co]
 
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Chile --> |Pichachén| GasExport[Exportación Gas/GNL]
 
     Eval --> |Espera desde 2024| Posco
 
@@ -118,7 +133,10 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+
+    CBC[Corredor Bioceánico] --> |RN 51 BID| Salta
+    CBC --> |Sico Tech| Salta
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía. El RIGI, con más de US$ 140.000 millones en juego, se confirma como el único motor de crecimiento real de la economía argentina en 2026.

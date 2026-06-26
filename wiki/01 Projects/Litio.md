@@ -1,14 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-26_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-26
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país. El IPI minero de abril 2026 creció **9,5%** interanual impulsado por el récord en litio.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
@@ -38,6 +38,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+- **Expansión Minera Exar:** Aprobada bajo el [[RIGI]] (Junio 2026) con una inversión de **US$ 1.241 millones** para alcanzar las 85.000 tpa de carbonato de litio en 2028.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
