@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Súper RIGI e Industrias del Futuro**:
+   - La media sanción del **"Súper RIGI"** (Junio 2026) abre un mercado de USD 1.000M para centros de datos de IA y semiconductores. La reducción del piso a USD 10M para biotecnología y software permite el apalancamiento de startups tecnológicas en los hubs mineros y energéticos.
+21. **Infraestructura Eléctrica Multicliente**:
+   - El acuerdo YPF Luz - Central Puerto para la Puna (USD 450M) valida el modelo de **infraestructura compartida**. Existe oportunidad para consorcios similares en San Juan para resolver el cuello de botella de la línea de 500 kV entre Vicuña y Los Azules.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -56,14 +60,18 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 ```mermaid
 graph TD
     RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI --> |Súper RIGI Media Sanción| Tech[Industrias Futuro: IA/Biotech]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
+    RIGI --> |Aprobado US$ 9.700M| Vicuña[Distrito Vicuña]
+    Vicuña --> Josemaria
+    Vicuña --> FilodelSol[Filo del Sol]
+    RIGI --> |Aprobado Fase 2| Posco
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
-    RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
@@ -97,6 +105,7 @@ graph TD
     Litio --> |Presidencia Mesa| Jujuy[Jujuy]
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
+    Posco --> |Interconexión Puna| PunaE[Infraestructura Eléctrica 350MW]
     Salta[Salta: Complejo Exportador #1] --> Litio
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
