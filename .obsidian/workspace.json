@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "log.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "log"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
-    "wiki/03 Analysis/Informe_Mapeo_Ecosistema_SFaaS.md",
+    "wiki/02 Frameworks/Energía Geotérmica.md",
+    "wiki/04 Daily/2026-06-27_Batch_Report.md",
+    "log.md",
     "index.md",
+    "wiki/03 Analysis/Informe_Mapeo_Ecosistema_SFaaS.md",
     "raw/Midstream.pdf",
     "wiki/01 Projects/San Patricio del Chañar.md",
     "wiki/01 Projects/General Güemes.md",
@@ -213,9 +216,6 @@
     "wiki/05 Tech Lead Opps/2026-04-05_Evaluacion_Oportunidades_Tech.md",
     "wiki/06 Shadow APIs/SIM San Juan Canon Minero.md",
     "wiki/07 Analisis Esceptico/PreMortem_Mendoza_Cluster.md",
-    "wiki/07 Analisis Esceptico/PreMortem_SIM_SanJuan.md",
-    "wiki/07 Analisis Esceptico/PreMortem_RIGI_Upstream.md",
-    "wiki/07 Analisis Esceptico/PreMortem_Tokenizacion_Contenido_Local.md",
     "wiki/06 Shadow APIs",
     "wiki/05 Tech Lead Opps"
   ]

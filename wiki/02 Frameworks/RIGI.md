@@ -18,15 +18,15 @@ A mediados de junio de 2026, el Ministerio de Economía y fuentes del sector tra
 - **Liquidación de Divisas:** El BCRA confirmó que los proyectos RIGI han liquidado **US$ 1.205 millones brutos** (US$ 762 millones netos).
 
 ### Categorías Especiales
-- **Súper RIGI (Congreso - Mensaje N° 181/2026):** El Poder Ejecutivo envió formalmente al Congreso el proyecto de ley complementario para incentivar la **industrialización local de recursos naturales** (celdas y baterías de litio, refinación de cobre, hidrógeno verde, IA, Datacenters, semiconductores). Dirigido a nuevas actividades económicas con inversiones mínimas de **US$ 1.000 millones**, ofreciendo Ganancias reducidas al **15%** y exigiendo la ejecución del **20% de la inversión en los primeros dos años**.
+- **Súper RIGI (Congreso - Mensaje N° 181/2026):** El proyecto de ley complementario obtuvo **media sanción** en Diputados el 24 de junio de 2026. Incentiva la **industrialización local de recursos naturales** (celdas y baterías de litio, refinación de cobre, hidrógeno verde) con umbral de **US$ 1.000 millones**, y sectores de economía del conocimiento (IA, semiconductores, robótica) con umbral de **US$ 10 millones**. Ofrece Ganancias reducidas al **15%** y exige ejecución del 20% de la inversión en los primeros dos años.
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
-    - Destinado a megaproyectos de exportación (ej. GNL). Inversión mínima: **US$ 2.000 millones**. Desembolsos mínimos por etapa: **US$ 1.000 millones**. Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
+    - Destinado a megaproyectos de exportación (ej. GNL, Megacobre). Inversión mínima: **US$ 2.000 millones**. Desembolsos mínimos por etapa: **US$ 1.000 millones**. Proyectos como **Argentina LNG**, **Southern Energy** y **Distrito Vicuña** se encuadran en esta categoría para maximizar beneficios.
 
 ### Listado de Adhesiones y Evaluaciones (Junio 2026):
 1.  **[[Proyecto Stargate Argentina]]** (OpenAI/Sur Energy, Buenos Aires/Patagonia, IA) - Megaproyecto de centros de datos masivos. Solicitud RIGI presentada en junio de 2026 por **US$ 25.000M** (en evaluación).
 2.  **[[Chevron]]** (Vaca Muerta, Oil) - Proyecto El Trapial Este. Solicitud formal RIGI presentada por **US$ 13.800M** (segunda mayor inversión de la historia en Vaca Muerta).
 3.  **[[Pluspetrol]]** (Vaca Muerta, Oil) - Bloques Bajo del Choique y La Invernada. Solicitud presentada por **US$ 12.000M**.
-4.  **[[Distrito Vicuña]]** (Lundin/NGEx, San Juan, Cobre) - Clúster Vicuña (Josemaría / Filo del Sol). **APROBADO JUNIO 2026**. Inversión inicial comprometida: **US$ 9.700M** (con proyección total de hasta **US$ 18.000M**).
+4.  **[[Distrito Vicuña]]** (Lundin/NGEx, San Juan, Cobre) - Clúster Vicuña (Josemaría / Filo del Sol). **APROBADO JUNIO 2026**. Inversión inicial comprometida: **US$ 9.700M** (con proyección total de hasta **US$ 18.000M**). Es el **único** proyecto minero con estatus **PEELP**.
 5.  **[[MARA]]** (Glencore, Catamarca, Cobre) - Integración Agua Rica - Alumbrera. Solicitud presentada en junio de 2026 por **US$ 9.300M** (en evaluación).
 6.  **[[Southern Energy]]** (PAE/Golar, Río Negro, GNL) - Licuefacción flotante en Golfo San Matías. **APROBADO JUNIO 2026**. Inversión: **US$ 6.878M**.
 7.  **[[Phoenix Global Resources]]** (Vaca Muerta, Oil) - Inversión: **US$ 6.000M**.
@@ -55,7 +55,9 @@ A mediados de junio de 2026, el Ministerio de Economía y fuentes del sector tra
 El RIGI está consolidando una **"economía a dos velocidades"** (crecimiento en forma de "K"). Los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%**, mientras que los sectores dependientes del mercado interno enfrentan una caída del **-4,9%**.
 
 ## Hitos Normativos (2026)
-- **Súper RIGI (26/05/2026):** Envío formal al Congreso del proyecto de ley complementario para industrialización de recursos naturales y alta tecnología, con Ganancias reducida al **15%** para proyectos de más de **US$ 1.000M**.
+- **Súper RIGI (24/06/2026):** Media sanción en la Cámara de Diputados para el régimen de inversiones en alta tecnología e industria del conocimiento (IA, hidrógeno verde).
+- **Unidad de Coordinación RIGI (27/06/2026):** La Resolución 873/2026 del Ministerio de Economía formaliza la creación de la Unidad de Coordinación RIGI para agilizar procedimientos.
+- **Decretos 482 y 483/2026 (26/06/2026):** Actualización de la Ley 24.196 (Inversiones Mineras) tras 30 años, flexibilizando la importación de bienes de capital (incluyendo equipos usados) por fuera de los umbrales del RIGI.
 - **Regulación Upstream Onshore (23/05/2026):** El Decreto 105/2026 fijó una inversión mínima de **US$ 600M** para el upstream onshore y estableció que las pymes y proveedores locales deben cumplir con exigencias específicas de contenido nacional en contratos RIGI.
 - **Creación del ENRGE (01/06/2026):** Fusión del ENRE y ENARGAS en el nuevo Ente Nacional Regulador del Gas y la Electricidad (ENRGE), unificando las competencias de control tarifario y prioridad de transporte energético (Resoluciones 25, 26 y 39/2026).
 - **Mesa de Seguridad RIGI (Res. 461/2026 - 20/05/2026):** El Ministerio de Seguridad de la Nación creó la *"Mesa de Coordinación para la Seguridad de Inversiones Estratégicas"* para blindar cadenas logísticas y activos críticos de proyectos RIGI ante riesgos de conflictividad y delito complejo.

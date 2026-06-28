@@ -18,7 +18,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 
 ### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **Lundin Mining** y **NGEx** (con participación de BHP).
-- **Inversión RIGI Aprobada:** **US$ 9.700 millones** iniciales aprobados en junio de 2026 (con un total proyectado de **US$ 18.000 millones** para el clúster que integra Josemaría y Filo del Sol). Se proyectan exportaciones por US$ 2.600 millones anuales.
+- **Inversión RIGI Aprobada:** **US$ 9.700 millones** iniciales aprobados en junio de 2026 (con un total proyectado de **US$ 18.000 millones** para el clúster que integra Josemaría y Filo del Sol). Es el **único** proyecto de cobre con estatus **PEELP** (Proyecto de Exportación Estratégica a Largo Plazo). Se proyectan exportaciones por US$ 2.600 millones anuales.
 - **Hitos Logísticos:** Se adjudicó la construcción del campamento habitacional (2.500 camas en esta fase, 10.000 total) a un consorcio liderado por **PowerChina**. Al importarse completo bajo beneficios RIGI, ha generado tensión y reclamos de proveedores locales (CACMI) por elusión de contenido local.
 
 ### 2. [[El Pachón]] (San Juan) - Gigante de Glencore

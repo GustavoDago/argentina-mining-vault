@@ -1,5 +1,18 @@
 # Log de Operaciones
 
+## [2026-06-28] sync | Procesados 6 reportes de Jules (21 al 27 de junio)
+- **Ingesta:** Procesados y consolidados reportes del 21, 22, 24, 25, 26 y 27 de junio de 2026 extraídos de ramas remotas de Jules.
+- **Hitos Inversión & Infraestructura:**
+    - **Cobre:** Oficializada la aprobación RIGI de **Distrito Vicuña** (Josemaría/Filo del Sol) por US$ 9.700M con estatus exclusivo **PEELP**. San Juan consolida US$ 31.000M bajo el régimen. **Altar** perfila PFS y entrada al RIGI a fin de año (US$ 1.600M).
+    - **Litio:** Histórico acuerdo de gobernadores (Mesa del Litio) con YPF Luz y Central Puerto para electrificar la Puna con línea de 350 MW (Salar de Pastos Grandes y Hombre Muerto). Aprobaciones RIGI para Minera Exar (US$ 1.241M) y Posco Fase 2 (US$ 547M).
+    - **Oil & Gas (Vaca Muerta):** Neuquén marca récord en mayo (634.802 bpd crudo, 115,14 MMm3/d gas). Récord técnico de perforación de Tecpetrol (6.579 m). **Adani Group** entra a Punta Colorada comprando 51% de Meridian para el cluster VMOS/Southern Energy GNL. Alarma por saturación urbana en Añelo y cuello de botella en arena.
+    - **Marco Regulatorio:** Media sanción en Diputados del **"Súper RIGI"** (24 de junio) para inversiones tech (>US$ 1.000M) bajando Ganancias al 15%. Decretos 482 y 483 flexibilizan importaciones mineras y energéticas para PyMEs. Lanzamiento del portal oficial RIGI con 41 proyectos (US$ 140.929M).
+- **Entidades Actualizadas/Creadas:**
+    - `04 Daily/2026-06-27_Batch_Report.md`
+    - `02 Frameworks/RIGI.md`
+    - `01 Projects/Vaca Muerta.md`
+    - `01 Projects/Cobre.md`
+
 ## [2026-06-28] sync | Procesado reporte de Geotermia y Pozos Abandonados
 - **Ingesta:** Extraídas implicancias sobre economía circular y reutilización de pozos petroleros.
 - **Entidades Creadas:**
