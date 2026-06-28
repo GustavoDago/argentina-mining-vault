@@ -11,12 +11,14 @@
             "id": "e1ebc36fe217a133",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "raw/Midstream.pdf"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Midstream"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -183,6 +185,9 @@
   },
   "active": "e1ebc36fe217a133",
   "lastOpenFiles": [
+    "wiki/03 Analysis/Informe_Mapeo_Ecosistema_SFaaS.md",
+    "index.md",
+    "raw/Midstream.pdf",
     "wiki/01 Projects/San Patricio del Chañar.md",
     "wiki/01 Projects/General Güemes.md",
     "wiki/01 Projects/Phoenix Global Resources.md",
@@ -191,7 +196,6 @@
     "wiki/07 Analisis Esceptico/PreMortem_Midstream_Gas_Day_2026.html",
     "wiki/05 Tech Lead Opps/Midstream_Gas_Day_2026_Opps.md",
     "reporte_red_team_rigi.html",
-    "raw/Midstream.pdf",
     "wiki/03 Analysis/Analisis_Midstream_Gas_Day_2026.md",
     "wiki/04 Daily/2026-06-06_Daily_Report.md",
     "wiki/03 Analysis/Demanda Energetica de Data Centers e IA.md",
@@ -212,8 +216,6 @@
     "wiki/07 Analisis Esceptico/PreMortem_SIM_SanJuan.md",
     "wiki/07 Analisis Esceptico/PreMortem_RIGI_Upstream.md",
     "wiki/07 Analisis Esceptico/PreMortem_Tokenizacion_Contenido_Local.md",
-    "wiki/07 Analisis Esceptico/PreMortem_SatEdge_Bioceanico.md",
-    "wiki/07 Analisis Esceptico/PreMortem_AndesLogistics.md",
     "wiki/06 Shadow APIs",
     "wiki/05 Tech Lead Opps"
   ]

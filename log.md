@@ -1,5 +1,13 @@
 # Log de Operaciones
 
+## [2026-06-28] sync | Procesado reporte de Geotermia y Pozos Abandonados
+- **Ingesta:** Extraídas implicancias sobre economía circular y reutilización de pozos petroleros.
+- **Entidades Creadas:**
+    - `02 Frameworks/Energía Geotérmica.md`
+    - `05 Tech Lead Opps/Reconversión Pozos Petroleros a Geotermia.md`
+    - `07 Analisis Esceptico/Esceptico_Geotermia_Pozos.md`
+    - `04 Daily/2026-06-28_Daily_Report.md`
+
 ## [2026-06-20] sync | Procesados 2 reportes de Jules (19 y 20 de junio)
 - **Ingesta:** Procesados y consolidados reportes diarios del 19 y 20 de junio de 2026 (2 reportes en total).
 - **Hitos Inversión & Infraestructura:**

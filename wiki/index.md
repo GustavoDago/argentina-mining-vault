@@ -12,13 +12,17 @@
 - [[RIGI]] (Régimen de Incentivo para Grandes Inversiones)
 - [[Corredor Bioceanico]]
 - [[Ley de Glaciares]]
+- [[Energía Geotérmica]] (Nuevo)
 
 ### 🧠 [[03 Analysis|Análisis y Tesis]]
 - [[Cuello de Botella Electrico San Juan]] (Nuevo)
 - [[Oportunidades y Conexiones]]
 - [[Demanda Energetica de Data Centers e IA]] (Nuevo)
+- [[Esceptico_Geotermia_Pozos]] (Nuevo)
+- [[Reconversión Pozos Petroleros a Geotermia]] (Nuevo)
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
+- [[2026-06-28_Daily_Report]] (Nuevo)
 - [[2026-06-20_Daily_Report]] (Nuevo)
 - [[2026-06-19_Daily_Report]] (Nuevo)
 - [[2026-06-18_Daily_Report]] (Nuevo)
@@ -37,5 +41,5 @@
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-06-20*
+*Última actualización: 2026-06-28*
 
