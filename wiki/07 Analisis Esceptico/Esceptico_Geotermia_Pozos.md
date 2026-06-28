@@ -1,25 +1,34 @@
 ---
 type: analysis
-tags: [energy, geothermal, red-team, skeptic]
-sources: [[los pozos de petróleo y gas abandonados podrían convertirse en fuentes de energía geotérmica]], [[Reconversión Pozos Petroleros a Geotermia]]
-confidence: medium
+tags: [energy, geothermal, red-team, skeptic, lcoe]
+sources: [[Full environmental life cycle costing analysis of geothermal power generation.html]], [[Reconversión Pozos Petroleros a Geotermia]]
+confidence: high
 last_update: 2026-06-28
 ---
 
 # Análisis Escéptico: Geotermia en Pozos Petroleros Argentinos
 
-Si bien la reconversión de pozos petroleros en centrales de [[Energía Geotérmica]] es excelente en la teoría, aplicarla en la jurisdicción argentina presenta desafíos formidables que pueden matar la tesis de inversión:
+Si bien la reconversión de pozos petroleros en centrales de [[Energía Geotérmica]] es excelente en la teoría, la modelización de costos ambientales y financieros (FELCC) de Jingyi Li et al. (2026) presenta desafíos demoledores para la tesis original en Argentina:
 
-## 1. El Desafío de la Entalpía (Temperatura)
-La mayoría de los pozos de petróleo maduros en Argentina (ej. Cuenca del Golfo San Jorge) no están situados en anomalías térmicas de alta temperatura. Suelen tener un gradiente geotérmico normal. Esto significa que los fluidos extraídos podrían tener temperaturas relativamente bajas (ej. 70°C - 100°C), útiles para calefacción de distrito (difícil de monetizar en locaciones remotas) pero marginales para generación eléctrica eficiente, incluso usando ciclos binarios (ORC).
+## 1. El Desafío de la Escala y el LCOE
+El estudio demuestra que los sistemas reconvertidos tienen un costo de generación (LCOE) prohibitivo:
+* **R-GEO_double:** **818.8 c€/kWh** (8.18 USD/kWh, un absurdo comercial).
+* **R-GEO_single:** **461.7 c€/kWh** (4.61 USD/kWh).
+* **R-GEO_semi:** **173.3 c€/kWh** (1.73 USD/kWh, el único caso con sentido técnico pero aún 14 veces más costoso que la geotermia convencional de 12.6 c€/kWh).
 
-## 2. Trampa Regulatoria (Hidrocarburos vs. Geotermia)
-En Argentina, el dominio de los hidrocarburos (y de la geotermia) corresponde a las provincias (Constitución de 1994). 
-- Un operador petrolero es dueño de la concesión hidrocarburífera. Si el pozo se abandona, debe ser sellado (plug & abandonment) por ley ambiental, incurriendo en un costo.
-- ¿Puede una empresa de energía renovable "heredar" ese pozo? El pasivo ambiental cruzado (si el pozo contamina un acuífero, ¿de quién es la culpa, del ex-petrolero o del nuevo operador geotérmico?) creará un rechazo masivo por parte de las direcciones provinciales de medio ambiente.
+La causa raíz es la **baja potencia anual (125.120 kWh/año)** y una **vida útil estimada de solo 15 años** debido al desgaste térmico y mecánico de pozos no diseñados originalmente para este fin.
 
-## 3. Escala Económica
-El estudio (Univ. Manchester, 2026) señala que la producción eléctrica por pozo es modesta. Con los costos actuales en Argentina y la falta de líneas de transmisión (ver [[Cuello de Botella Electrico San Juan]]), generar volúmenes pequeños en campos remotos de la Patagonia podría no justificar el Capex de la planta generadora en superficie, a menos que se agrupen masivamente (clusters).
+## 2. La Ilusión del "Break-Even"
+Para que un proyecto de pozo semi-abandonado (**R-GEO_semi**) en cuencas como Neuquén o Golfo San Jorge sea competitivo con el sistema convencional (GEO_bau):
+* Debería alcanzar una **eficiencia de sistema del 68%** operando a 15 años. 
+* Los ciclos ORC de baja entalpia típicos para estas temperaturas operan a una eficiencia real de entre **4.2% y 12%**. Físicamente, es imposible alcanzar el punto de equilibrio sin subsidios masivos.
+
+## 3. Barrera de Regulación y Propiedad en Argentina
+En la legislación argentina (Ley de Hidrocarburos 17.319 y normativas provinciales), el abandono de pozos es responsabilidad indelegable del titular de la concesión (ej. YPF, PAE, Vista). 
+* Si se traspasa el pozo para geotermia, el operador petrolero querrá transferir el **pasivo ambiental** completo (riesgo de contaminación de acuíferos, cementaciones deficientes).
+* Ninguna aseguradora ni PYME tecnológica de energía renovable tiene el balance suficiente para absorber la contingencia legal y ambiental de un pozo hidrocarburífero heredado de décadas de operación.
 
 ## Conclusión Red Team
-La oportunidad es real pero **no** es un "plug and play". Requiere un cambio normativo provincial específico que delimite pasivos ambientales, y solo será viable en pozos de gran profundidad en cuencas de alto gradiente (posiblemente zonas específicas de Vaca Muerta u Oeste de Neuquén/Mendoza) donde se pueda aplicar generación binaria o alimentar consumos aislados ("island grids") para mineras de criptomonedas o locaciones aisladas de O&G.
+La tesis de reconversión de pozos secos o cerrados (R-GEO_double/single) está **muerta** comercialmente debido a un LCOE inviable.
+
+La única ventana de oportunidad real es la **micro-generación distribuida a partir de salmueras coproducidas en pozos activos (R-GEO_semi)** en yacimientos remotos sin conexión a la red. El gas de venteo (flaring) o el diésel transportado en camiones a zonas aisladas de la Patagonia tiene un costo equivalente muy alto, lo que podría justificar instalar un ciclo ORC de baja entalpía para alimentar las propias bombas del yacimiento, operando como un sistema de eficiencia energética del operador petrolero y no como un negocio de venta de energía a la red.

@@ -8,11 +8,12 @@
 - **Oil & Gas:** [[Vaca Muerta]], [[Proyecto LLL Oil]] (Nuevo), [[Palermo Aike y Nuevas Fronteras No Convencionales]], [[Compañía MEGA]] (Nuevo), [[Oldelval]] (Nuevo), [[San Patricio del Chañar]] (Nuevo), [[Aguada del Chañar]] (Nuevo), [[Vista Energy]] (Nuevo).
 - **Tecnología e IA:** [[Stargate Argentina]] (Nuevo).
 
-### 📜 [[02 Frameworks|Marcos Regulatorios]]
+### 📜 [[02 Frameworks|Marcos y Conceptos]]
 - [[RIGI]] (Régimen de Incentivo para Grandes Inversiones)
 - [[Corredor Bioceanico]]
 - [[Ley de Glaciares]]
 - [[Energía Geotérmica]] (Nuevo)
+- [[Economía Circular]] (Nuevo)
 
 ### 🧠 [[03 Analysis|Análisis y Tesis]]
 - [[Cuello de Botella Electrico San Juan]] (Nuevo)

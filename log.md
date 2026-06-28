@@ -1,5 +1,17 @@
 # Log de Operaciones
 
+## [2026-06-28] research | Ingesta de Análisis FELCC Geotermia (Universidad de Manchester)
+- **Ingesta:** Procesado paper científico de Jingyi Li et al. (2026) sobre *Full environmental life cycle costing* de reconversión de pozos petroleros.
+- **Hitos Inversión & Costos:**
+    - Cuantificado el LCOE de reconversión: **818.8 c€/kWh** para doblete (R-GEO_double), **461.7 c€/kWh** para monopozo coaxial (R-GEO_single) y **173.3 c€/kWh** para pozos activos con alto corte de agua (R-GEO_semi), frente a **12.6 c€/kWh** de la geotermia convencional (GEO_bau).
+    - Identificado que la baja potencia anual (125.120 kWh) y la vida útil de 15 años limitan drásticamente la rentabilidad.
+    - Para que R-GEO_semi sea competitivo con la geotermia convencional, requiere una eficiencia teórica de punto de equilibrio del **68%** (frente al ~4.2% real).
+- **Entidades Actualizadas/Creadas:**
+    - `02 Frameworks/Energía Geotérmica.md` (Actualizada con métricas LCOE).
+    - `05 Tech Lead Opps/Reconversión Pozos Petroleros a Geotermia.md` (Pivotada al modelo R-GEO_semi).
+    - `07 Analisis Esceptico/Esceptico_Geotermia_Pozos.md` (Actualizada con límites de eficiencia y pasivos cruzados).
+    - `02 Frameworks/Economía Circular.md` (Restaurada con aportes del CTO).
+
 ## [2026-06-28] sync | Procesados 6 reportes de Jules (21 al 27 de junio)
 - **Ingesta:** Procesados y consolidados reportes del 21, 22, 24, 25, 26 y 27 de junio de 2026 extraídos de ramas remotas de Jules.
 - **Hitos Inversión & Infraestructura:**
