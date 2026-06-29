@@ -3,7 +3,7 @@ type: project
 tags: [mining, lithium]
 sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-29
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -12,6 +12,12 @@ last_update: 2026-04-27
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+
+### Hitos Recientes (Junio 2026)
+- **Crecimiento Productivo (Abril 2026):** INDEC reportó una duplicación interanual en la producción de litio, impulsando el crecimiento general del sector minero (9,5%).
+- **Expansión Minera Exar (Junio 2026):** Recibió aprobación [[RIGI]] (Res. 825/2026) por **US$ 1.241 millones** para alcanzar 85.000 tpa en 2028.
+- **Aprobación Posco (Junio 2026):** Adhesión al [[RIGI]] por **US$ 208 millones** para la Fase 2 de Sal de Oro.
+- **Electrificación Estratégica:** Acuerdo YPF Luz - Central Puerto para abastecer de energía limpia a los proyectos de la Puna.
 
 ### Estadísticas de Exportación (Enero 2026)
 - **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.

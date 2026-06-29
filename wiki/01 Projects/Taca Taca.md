@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-29_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-29
 ---
 
 # Proyecto Taca Taca (Cobre)
@@ -15,6 +15,8 @@ last_update: 2026-04-27
 Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones**. Se posiciona en el primer cuartil de la curva de costos global.
 
 ## Hitos Recientes (2025-2026)
+- **Actualización NI 43-101 (28/06/2026):** First Quantum Minerals presentó un reporte técnico actualizado detallando una capacidad inicial de procesamiento de **40 Mtpa** (expandible a 60 Mtpa para el año 5). Producción promedio anual de **291 kt Cu** y 133 koz Au para la primera década. Adhesión al [[RIGI]] inminente.
+- **Modernización Logística (Junio 2026):** La pavimentación de la RN 51 (con financiamiento del BID) y la modernización del Paso de Sico consolidan la ruta de exportación hacia puertos chilenos.
 - **Alianza Estratégica IFC (27/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda y ratificando la inversión total de **US$ 5.250 millones**.
 - **Ratificación de Inversión RIGI (19/04/2026):** Se confirmó una inversión de **US$ 4.200 millones** enfocada en el desarrollo de infraestructura y planta, vinculando el proyecto con el [[Corredor Bioceanico]] de Capricornio para la salida por el Pacífico.
 - **Consolidación del Informe Técnico (16/04/2026):** La presentación formal del NI 43-101 ratifica la solidez económica. Se prevé el inicio de construcción tras el aval del [[RIGI]].
