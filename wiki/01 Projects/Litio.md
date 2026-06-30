@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-06-30_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-30
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -11,7 +11,12 @@ last_update: 2026-04-27
 **Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
 ## Proyectos y Producción (2026)
-A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+A mediados de 2026, la Argentina consolida su posición con un crecimiento explosivo en la producción de litio.
+
+### Estadísticas y Récords (Abril/Junio 2026)
+- **Crecimiento Exponencial (30/06/2026):** El INDEC reportó que la producción de litio se **duplicó (+100% interanual)** en abril de 2026, liderando el crecimiento del IPI minero.
+- **Proyecciones Fundar (30/06/2026):** Se estima que el complejo litio, junto al cobre y Vaca Muerta, permitirán multiplicar por seis las exportaciones netas argentinas para 2035.
+- **Logística Bioceánica (30/06/2026):** Según el estudio de la CEPAL, las mineras de litio ya utilizan activamente el [[Corredor Bioceanico]] de Capricornio para exportar vía puertos chilenos, incluso antes de completar las obras de infraestructura restantes.
 
 ### Estadísticas de Exportación (Enero 2026)
 - **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
