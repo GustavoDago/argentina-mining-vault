@@ -1,14 +1,22 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-07-02_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-02
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
-## Oportunidades de Negocio Identificadas
+## Oportunidades de Negocio Identificadas (Julio 2026)
+1. **Multiplicador de Exportaciones (Efecto x6):**
+   - El informe de Fundar proyecta que la sinergia entre **[[Vaca Muerta]]**, el **[[Litio]]** y el **[[Cobre]]** podría elevar las exportaciones a **US$ 75.000 millones** para 2035. Esto abre una oportunidad masiva para empresas de servicios financieros, logística internacional y seguros de crédito a la exportación.
+2. **Cobre como Nueva Vaca Muerta:**
+   - La proyección de Bain & Co de alcanzar **1.6-1.8 Mtpa** de cobre para 2035 posiciona al sector como el próximo gran motor. La oportunidad reside en la **infraestructura de transporte de energía y agua** para proyectos en San Juan y Salta.
+3. **Consolidación del RIGI Petrolero:**
+   - Con 20 proyectos aprobados (US$ 46.000M), el RIGI ya es una realidad operativa. La aprobación de **[[Pampa Energía]]** (Proyecto #20) ratifica el interés en el upstream no convencional.
+
+## Oportunidades de Negocio Identificadas (Abril 2026)
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:

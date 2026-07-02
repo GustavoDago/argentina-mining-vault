@@ -1,15 +1,22 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-02_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-02
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
+
+## Tablero de Control (Julio 2026)
+Al 1 de julio de 2026, el RIGI ha alcanzado un hito significativo con la aprobación del proyecto número 20.
+
+- **Proyectos Aprobados:** 20 proyectos bajo aprobación formal.
+- **Inversión Total Comprometida:** **US$ 46.000 millones** (proyectos aprobados).
+- **Hito Reciente (01/07/2026):** Aprobación del **Proyecto #20** correspondiente a Pampa Energía (Rincón de Aranda) por **US$ 4.521 millones**.
 
 ## Tablero de Control (Abril 2026)
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
