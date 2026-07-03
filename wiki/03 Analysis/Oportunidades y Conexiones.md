@@ -6,7 +6,7 @@ confidence: high
 last_update: 2026-04-27
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,8 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Exportaciones 2035: La Nueva Matriz (Fundar/Bain)**:
+    - La convergencia de Vaca Muerta (1.5M bpd), Cobre (1.8 Mtpa) y Litio proyecta un salto exportador a **US$ 75.000 millones** anuales. La oportunidad reside en el **aprovechamiento de economías de escala en logística transfronteriza** y la creación de un hub de servicios tecnológicos (Super RIGI).
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -68,14 +70,15 @@ graph TD
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
+    RIGI --> |Aprobado US$ 1.241M| Exar[Minera Exar - Jujuy]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Aprobado RIGI #20| Pampa
 
     VM --> |Modelo Replicado| PA
-    VM --> |US$ 4.500M| Pampa[Pampa Energía]
+    VM --> |US$ 4.521M| Pampa[Pampa Energía]
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
-    VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
+    VM --> |US$ 6.000M| Phoenix[Phoenix Global Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]

@@ -1,17 +1,19 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-03
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
 
 **Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.
 
-## Potencial Geológico (Abril 2026)
-Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
+## Potencial Geológico y Proyecciones (Julio 2026)
+- **Recursos:** Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre.
+- **Capacidad 2035 (Bain & Co):** Informe estima un potencial de producción de **1,6 a 1,8 millones de toneladas anuales** para 2035, posicionando al país como un hub global.
+- **Exportaciones 2035 (Fundar):** El bloque energía/minería (liderado por cobre) podría alcanzar los **US$ 75.000 millones** anuales.
 
 ## La Cuenca del Cobre (2026)
 La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan, Salta y Mendoza).
@@ -35,8 +37,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Hito Reciente (03/07/2026):** First Quantum Minerals presentó actualización del reporte técnico NI 43-101. Confirma capacidad inicial de 40 Mtpa (expandible a 60 Mtpa) y producción anual promedio de 291 kt Cu. Adhesión al RIGI inminente.
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
-- **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
