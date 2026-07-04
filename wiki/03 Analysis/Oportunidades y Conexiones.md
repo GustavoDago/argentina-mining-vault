@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-07-04_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-04
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Exportaciones Masivas (Efecto Fundar)**:
+    - El informe de Fundar (Junio 2026) que proyecta exportaciones de **US$ 75.000 millones para 2035** (6x los niveles actuales) tracciona la necesidad de infraestructura de transporte masivo (trenes, ductos, puertos). La oportunidad es el desarrollo de **hubs logísticos polimodales**.
+21. **Súper RIGI y Nueva Industria**:
+    - El debate del Súper RIGI (Julio 2026) abre la puerta a la **fabricación local de componentes para la transición energética** (baterías, electrolizadores, paneles). Inversores tecnológicos pueden encontrar un nicho de estabilidad de 30 años en proyectos >US$ 1.000M.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -55,9 +59,11 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
-    TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
+RIGI[RIGI: Motor de Inversión] --> |US$ 5.250M Ratificado| TacaTaca[Taca Taca - Salta]
+    TacaTaca --> |Alianza 03/07| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Súper RIGI| NewInd[Hidrógeno/GNL/Baterías]
+    RIGI --> |US$ 97k M Totales| Total[Inversión RIGI Julio 2026]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]

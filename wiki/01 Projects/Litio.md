@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-04_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-04
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -13,8 +13,9 @@ last_update: 2026-04-27
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
-### Estadísticas de Exportación (Enero 2026)
-- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
+### Estadísticas de Producción y Exportación (Abril 2026)
+- **Crecimiento Industrial:** El INDEC reportó un incremento del **9,5% interanual** en el IPI Minero de abril, con el litio como protagonista absoluto al **duplicar su producción** respecto al año anterior.
+- **Récord Mensual (Enero):** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**.
 - **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
 
 ### Proyección de Producción (CAEM)
