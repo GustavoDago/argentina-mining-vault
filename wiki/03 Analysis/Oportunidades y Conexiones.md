@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-07-05_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-05
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Tecnología Deep-Tech en Exploración (Ab Astra)**:
+    - El levantamiento de capital de **Ab Astra** (US$ 2M) para usar rayos cósmicos en minería señala un nuevo nicho para startups tecnológicas que reduzcan el riesgo exploratorio. Hay una oportunidad clara para integrar estas soluciones en proyectos de etapa temprana o en la reconversión de minas maduras como Gualcamayo.
+21. **Consolidación de "Distritos Mineros" (Gualcamayo)**:
+    - El giro de **[[Gualcamayo]]** hacia un modelo de distrito ($1.500M) indica que el valor ya no está en minas aisladas, sino en hubs regionales que compartan infraestructura y logística. Oportunidad para servicios de planificación territorial y logística integrada en San Juan.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -81,6 +85,13 @@ graph TD
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    RIGI --> |Proyecto #20| Pampa
+    RIGI --> |Rechazo: No es inversión nueva| Mariana[Mariana - Ganfeng]
+    RIGI --> |Nueva Propuesta US$ 3B| PPG[Pozuelos-Pastos Grandes]
+    RIGI --> |Fase 2: US$ 208M| SalDeOro[Sal de Oro - Posco]
+
+    Gualcamayo[Gualcamayo: Distrito Minero] --> |US$ 1.500M| RIGI
+    AbAstra[Ab Astra: Rayos Cósmicos] --> |Exploración Precisa| Gualcamayo
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]

@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-05_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-05
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -29,6 +29,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 ### 2. [[Posco]] (Hombre Muerto Norte, Salta)
 - **Consolidación (27/04/2026):** Integración del 100% de HMN para optimizar el proyecto Sal de Oro.
 - **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
+- **Aprobación Fase 2 (05/07/2026):** Se aprobó la segunda etapa de **Sal de Oro** (Salta/Catamarca) bajo el [[RIGI]] con una inversión de **US$ 208 millones** para producir 23.000 tpa de carbonato de litio.
 - **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
@@ -38,6 +39,10 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+
+### 5. Proyectos de Ganfeng Lithium (Salta)
+- **Pozuelos - Pastos Grandes (PPG):** Nueva propuesta presentada al [[RIGI]] (05/07/2026) con una inversión de **US$ 3.000 millones**. El proyecto contempla tres etapas y una producción de 150.000 tpa de LCE mediante un proceso híbrido (evaporación + DLE).
+- **Mariana:** Primer proyecto minero rechazado por el [[RIGI]] (Julio 2026). El Comité Evaluador determinó que no calificaba como "nueva inversión" debido a que la construcción inició en 2022 y fue inaugurado a principios de 2025.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
