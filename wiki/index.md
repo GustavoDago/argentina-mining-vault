@@ -16,7 +16,6 @@
 - [[Economía Circular]] (Nuevo)
 
 ### 🧠 [[03 Analysis|Análisis y Tesis]]
-- [[Mapa de Dolores y Fricciones]] (Nuevo)
 - [[Cuello de Botella Electrico San Juan]] (Nuevo)
 - [[Oportunidades y Conexiones]]
 - [[Demanda Energetica de Data Centers e IA]] (Nuevo)

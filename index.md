@@ -50,6 +50,7 @@
 - [[Stargate Argentina]] [NEW]
 - [[Tecpetrol]]
 - [[TGS]]
+- [[TGN]] [NEW]
 - [[Taca Taca]]
 - [[Vaca Muerta Sur]]
 - [[Vaca Muerta]]
@@ -59,6 +60,7 @@
 
 ## 02 Frameworks
 - [[Corredor Bioceanico]]
+- [[ENRGE]] [NEW]
 - [[Ley de Glaciares]]
 - [[Pre-Mortem Framework]] [NEW]
 - [[RIGI]]
@@ -70,6 +72,7 @@
 - [[Demanda Energetica de Data Centers e IA]] [NEW]
 - [[Electrificacion Puna]]
 - [[Health_Check_Report]]
+- [[Mapa_de_Puntos_de_Dolor_2026]] [NEW]
 - [[Oportunidades y Conexiones]]
 - [[Resiliencia_de_los_Pivotes]] [NEW]
 - [[Riesgo Electrico San Juan Red Team]]
