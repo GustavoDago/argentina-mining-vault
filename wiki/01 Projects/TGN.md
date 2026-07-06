@@ -1,7 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-06-24_news_mining_energy.md]], [[ENRGE.md]]
+sources:
+  - "[[2026-06-24_news_mining_energy.md]]"
+  - "[[ENRGE]]"
 confidence: high
 last_update: 2026-07-06
 ---

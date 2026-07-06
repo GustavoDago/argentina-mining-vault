@@ -1,7 +1,14 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, regulatory, risk-analysis]
-sources: [[2026-06-24_news_mining_energy.md]], [[2026-05-21_news_mining_energy.md]], [[2026-06-18_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[Cuello de Botella Electrico San Juan.md]], [[Resiliencia_de_los_Pivotes.md]], [[Full environmental life cycle costing analysis of geothermal power generation.html]]
+sources:
+  - "[[2026-06-24_news_mining_energy.md]]"
+  - "[[2026-05-21_news_mining_energy.md]]"
+  - "[[2026-06-18_news_mining_energy.md]]"
+  - "[[2026-04-10_news_mining_energy.md]]"
+  - "[[Cuello de Botella Electrico San Juan]]"
+  - "[[Resiliencia_de_los_Pivotes]]"
+  - "[[Full environmental life cycle costing analysis of geothermal power generation.html]]"
 confidence: high
 last_update: 2026-07-06
 ---

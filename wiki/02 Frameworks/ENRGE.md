@@ -1,7 +1,10 @@
 ---
 type: framework
 tags: [regulatory, energy]
-sources: [[RIGI.md]], [[2026-06-04_Daily_Report.md]], [[Esceptico_ENRGE_Regulador_Unico.md]]
+sources:
+  - "[[RIGI]]"
+  - "[[2026-06-04_Daily_Report]]"
+  - "[[Esceptico_ENRGE_Regulador_Unico]]"
 confidence: high
 last_update: 2026-07-06
 ---
