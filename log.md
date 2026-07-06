@@ -1,5 +1,12 @@
 # Log de Operaciones
 
+## [2026-07-06] research | Fase 1 Design Thinking: Mapeo de Dolores y Fricciones
+- **Proceso:** Ejecutado script de análisis en `scratch/` para escanear de forma exhaustiva 83 archivos en `raw/` y la `wiki/` buscando términos críticos de dolor (riesgos, cuellos de botella, trabas, fallas).
+- **Entidades Creadas/Actualizadas:**
+    - `wiki/03 Analysis/Mapa_de_Dolores_y_Fricciones.md` (Nueva síntesis de dolores estructurada en 5 dimensiones).
+    - `wiki/index.md` (Actualizado con enlace al Mapa).
+- **Resultados Clave:** Clasificados 1133 incidentes en 358 coincidencias de alto impacto sobre monopolios eléctricos, colapso de Añelo, problemas termodinámicos en la Puna, inestabilidad del RIGI y brecha de talento.
+
 ## [2026-06-28] research | Ingesta de Análisis FELCC Geotermia (Universidad de Manchester)
 - **Ingesta:** Procesado paper científico de Jingyi Li et al. (2026) sobre *Full environmental life cycle costing* de reconversión de pozos petroleros.
 - **Hitos Inversión & Costos:**
