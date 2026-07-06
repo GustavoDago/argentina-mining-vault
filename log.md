@@ -1,12 +1,14 @@
 # Log de Operaciones
 
 ## [2026-07-06] design-thinking | Fase 1 (Empatizar) - Mapeo de Puntos de Dolor 2026
-- **Actividad:** Ejecutado el análisis estructurado de empatía sobre la carpeta `raw/` y la wiki existente, aplicando pensamiento lateral y deducción sistémica para relevar dolores actuales del sector.
+- **Actividad:** Ejecutado el análisis estructurado de empatía sobre la carpeta `raw/` y la wiki existente. Posterior purga de referencias a análisis y oportunidades de negocio para alinear el mapa estrictamente al diagnóstico de problemas empíricos de `raw/`.
 - **Hitos de Diagnóstico:**
-    - Sistematizados los problemas en 4 dimensiones estratégicas: Infraestructura/Insumos (saturación de la red 500kV de San Juan, diésel en Puna, arena de fractura, monopolio de diagnóstico J1939), Regulación/Legalidad (incompatibilidad AFIP-ZKP, aduanas viales en La Rioja, cautelar de Río Los Patos, soberanía provincial contra multilaterales), Macroeconomía/Capital (PyMEs descapitalizadas, LCOE elevado de geotermia por reuso, usura de deuda puente, trampas de liquidez en offtakes) y Licencia Social/Impacto (colapso urbano en Añelo, contaminación hidrológica por isobutano, disputas intracomunitarias por fideicomisos IBA).
-    - Desarrollado un grafo Mermaid de dependencias que expone las colisiones de segundo orden (ej. cómo las auditorías multilaterales ASG obligan al uso de deuda puente que entra en default ante bajas de precio).
-- **Entidades Creadas/Actualizadas:**
-    - `wiki/03 Analysis/Mapa_de_Puntos_de_Dolor_2026.md` (Nueva nota de síntesis maestra).
+    - Sistematizados 8 dolores fundamentales en 4 dimensiones estratégicas: Infraestructura/Insumos (saturación de 500kV en San Juan, diésel en Puna, arena de fractura en Vaca Muerta), Regulación/Legalidad (aduanas viales en La Rioja, cautelar de Río Los Patos), Macroeconomía/Capital (PyMEs locales descapitalizadas, LCOE elevado de geotermia por reuso) y Licencia Social/Impacto (colapso urbano en Añelo).
+    - Eliminadas 7 fichas de dolor y conexiones del grafo Mermaid vinculadas a tesis de pivote y oportunidades de negocio secundarias (como incompatibilidad AFIP-ZKP y monopolio J1939).
+    - Removidos enlaces a páginas de la carpeta `wiki/03 Analysis/` del frontmatter y cuerpo del mapa de dolores para garantizar la pureza metodológica de la Fase 1 (Empatizar).
+- **Entidades Creadas/Actualizadas/Lintadas:**
+    - `wiki/03 Analysis/Mapa_de_Puntos_de_Dolor_2026.md` (Creada, purgada y lintada para Obsidian).
+    - `wiki/01 Projects/TGN.md` & `wiki/02 Frameworks/ENRGE.md` (Creadas y lintadas para resolver gaps del grafo).
     - `index.md` (Actualizado con la nueva nota en el índice).
 
 ## [2026-06-28] research | Ingesta de Análisis FELCC Geotermia (Universidad de Manchester)
