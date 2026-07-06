@@ -1,16 +1,20 @@
 ---
 type: project
 tags: [mining, lithium, copper]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]]
+sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-07-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-07-06
 ---
 
 # Salta
 
 Salta se destaca por su seguridad jurídica y su potencial diversificado en **litio** y **cobre**. En 2026, la minería se consolidó como el principal motor exportador de la provincia.
 
-## Hitos Recientes (Abril 2026)
+## Hitos Recientes (Julio 2026)
+- **Paso de Sico Modernizado (06/07/2026):** Se completó la modernización tecnológica del Paso de Sico tras una inversión de $1.000 millones, consolidándolo como nodo crítico para el [[Corredor Bioceanico]].
+- **ESG en Taca Taca (03/07/2026):** Ratificación de la alianza estratégica entre First Quantum y la IFC (Banco Mundial) para el proyecto [[Taca Taca]].
+
+## Hitos Anteriores (Abril 2026)
 - **Complejo Exportador Líder (16/04/2026):** La minería se consolidó como el principal complejo exportador de Salta, representando más de la mitad de las ventas externas en el primer bimestre de 2026, con un crecimiento interanual del 70%.
 - **Liderazgo en Litio (17/04/2026):** El Reporte Nacional 2026 ratificó a Salta como la provincia con la mayor cartera de proyectos de litio (14 desarrollos) y el mayor volumen de recursos medidos e indicados en la Puna.
 - **Taca Taca (15/04/2026):** Presentación del reporte NI 43-101 y preparación para la adhesión al [[RIGI]] del megaproyecto de cobre de First Quantum.

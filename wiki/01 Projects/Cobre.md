@@ -1,16 +1,16 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-06
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
 
 **Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.
 
-## Potencial Geológico (Abril 2026)
+## Potencial Geológico (Julio 2026)
 Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
 
 ## La Cuenca del Cobre (2026)
@@ -29,6 +29,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
+- **Infraestructura (06/07/2026):** Inicio del plan de contratación de 120 operarios para obras iniciales de infraestructura en Calingasta, condicionado a la obtención de permisos de uso de agua provinciales.
 - **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
@@ -42,12 +43,17 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
 - **Proyección:** Producción de 280.000 t/año. El grupo Luksic (Antofagasta Minerals) mantiene interés estratégico en el proyecto.
 
+### 5. Gualcamayo (San Juan) - Distrito Minero
+- **Operador:** Minas Argentinas S.A. (AISA) / Eris LLC.
+- **Inversión (06/07/2026):** Se anunció un plan de transformación de **US$ 1.500 millones** para desarrollar el proyecto "Carbonatos Profundos" y la exploración de periferia, bajo el régimen RIGI.
+
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
 ## Mesa del Cobre y Contexto de Precios
-- **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
+- **Mercado (06/07/2026):** Precios récord consolidados por encima de los **u$s 13.000/ton** en la LME y **u$s 6/lb** en COMEX, impulsados por la escasez estructural y demanda de IA/Centros de Datos.
+- **Potencial Hub (Julio 2026):** Un reporte de Bain & Company estima que Argentina podría alcanzar una capacidad de producción de **1,6 a 1,8 Mtpa de cobre** para 2035, posicionándose como un hub global crítico.
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
 

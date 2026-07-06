@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, raw/2026-07-06_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-06
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,14 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Vaca Muerta 3.0: Orquestación IA y Eficiencia (Julio 2026)**:
+    - La llegada de operaciones autónomas e IA (06/07/2026) abre un mercado masivo para **startups de data science aplicadas al fracking** y servicios de gemelos digitales para la optimización de pozos.
+21. **Tecnología Muónica para Exploración (Ab Astra)**:
+    - El fondeo de **US$ 2M** en Ab Astra para tomografía por muones (rayos cósmicos) indica una tendencia hacia la **exploración no invasiva de alta profundidad**. Oportunidad para servicios de prospección "deep-tech" en el Macizo del Deseado y San Juan.
+22. **El Estándar de "Inversión Nueva" (Precedente Mariana)**:
+    - El rechazo del proyecto Mariana (Ganfeng) por ser una "planta ya construida" redefine las estrategias de M&A. Las empresas ahora priorizarán **expansiones greenfield o brownfield significativas** sobre adquisiciones de activos maduros para capturar los beneficios del RIGI.
+23. **Logística de Nicho: La Carrera por la Arena**:
+    - El cuello de botella en arenas de fractura (06/07/2026) genera una ventana para el desarrollo de **canteras locales de cuarzo** y servicios de última milla ferroviaria/vial especializados.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.

@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-06
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -14,13 +14,18 @@ last_update: 2026-04-27
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción (Mayo 2026)
+- **Récord Histórico:** Peak de **903.700 bpd** de petróleo crudo (19,6% YoY crecimiento).
+- **Dominio Shale:** El shale contribuye con el **69%** del total nacional.
+- **Gas Natural:** Producción alcanzó los **115,14 millones m3/d**.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Julio 2026)
+- **Vaca Muerta 3.0 (06/07/2026):** Desembarco de la Inteligencia Artificial y operaciones autónomas de la mano de la SPE. El foco migra hacia la eficiencia digital para reducir breakeven.
+- **Logística de Arenas (06/07/2026):** Alerta logística por la demanda de arenas de fractura. Se evalúa el dilema del cuarzo local (Litoral) vs. importado para optimizar costos.
+- **Plan de Gas Húmedo (06/07/2026):** Proyecto de **US$ 3.000 millones** para la industrialización de líquidos de gas ("wet gas"), buscando transformar componentes ricos en divisas.
+- **Cambios en YPF (06/07/2026):** Manuel Adorni oficializó su renuncia a la compañía, desvinculándose de la gestión.
+
+### Hitos Anteriores (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
@@ -44,3 +49,4 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - [[Energia]]
 - [[Neuquén]]
 - [[Palermo Aike]]
+- [[VMOS]]

@@ -1,14 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-06_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-06
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En julio de 2026, Argentina continúa consolidando su posición como polo global de litio con nuevas aprobaciones de megaproyectos bajo el RIGI.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
@@ -27,9 +27,9 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
 ### 2. [[Posco]] (Hombre Muerto Norte, Salta)
+- **Aprobación RIGI Fase 2 (06/07/2026):** Se formalizó la adhesión de la Fase 2 del proyecto Sal de Oro al RIGI con una inversión de **US$ 208 millones**, destinada a alcanzar una producción total de 23.000 tpa de LCE.
 - **Consolidación (27/04/2026):** Integración del 100% de HMN para optimizar el proyecto Sal de Oro.
 - **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
-- **Potencial:** 15.600 toneladas/año de LCE.
 
 ### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
 - **Estado:** Ratificado el **92% de avance** (20/04/2026).
@@ -37,10 +37,12 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
-- Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+- **Expansión RIGI Minera Exar (06/07/2026):** Mediante Resolución 825/2026, se aprobó la expansión del proyecto Caucharí-Olaroz bajo el RIGI con una inversión de **US$ 1.241 millones**. El objetivo es alcanzar las 85.000 toneladas anuales de carbonato de litio para 2028, generando 1.800 empleos.
+- Continúa como el polo productivo más estable del país.
 
 ## La Mesa del Litio y Política Regional
-- **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
+- **Integración Vial Catamarca (06/07/2026):** La provincia puso en marcha el plan de pavimentación del camino Chuquisaca-Antofagasta de la Sierra, financiado por regalías mineras, para conectar los centros logísticos del litio.
+- **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
