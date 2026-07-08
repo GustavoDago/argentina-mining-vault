@@ -1,32 +1,24 @@
 ---
 type: project
-tags: [mining, energy, logistics, salta]
-sources: [2026-04-03_news_mining_energy.md]
+tags: [mining, lithium, infrastructure]
+sources: [[raw/2026-04-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-04-03
 ---
 
-# General Güemes (Nodo Logístico e Industrial)
+# Nodo Logístico General Güemes (Salta)
 
-**Ubicación:** Provincia de Salta, Argentina.
-**Función:** Hub estratégico de servicios mineros, industriales y energéticos.
+**Ubicación:** General Güemes, Salta.
+**Función:** Puerto seco y centro de transferencia multimodal de carga.
 
-## Descripción
-El **Nodo Logístico General Güemes** se ha consolidado en 2026 como el epicentro donde convergen la energía de Vaca Muerta (vía gasoductos) y los recursos minerales de la Puna. Su ubicación estratégica en la intersección de rutas nacionales y ramales ferroviarios lo convierte en el "puerto seco" más importante del NOA.
+## Importancia Estratégica
+El Nodo Logístico General Güemes se posiciona como el corazón operativo para la salida de la producción de [[Litio]] y [[Cobre]] del NOA hacia el Puerto de Rosario o los puertos del Pacífico a través del [[Corredor Bioceanico]].
 
-## Hitos Recientes (2026)
-- **Exportación de Litio:** **Ganfeng Lithium** realizó su primera exportación de cloruro de litio procesado en su planta de Güemes (Abril 2026).
-- **Sinergia Gas-Minería:** Con la inversión de **TGS** (US$ 3.000M) en la industrialización de líquidos del gas, Güemes se posiciona para producir insumos químicos locales (como ácido sulfúrico y carbonatos) necesarios para la minería de litio y cobre.
-- **Conexión Bioceánica:** Nodo crítico del [[Corredor Bioceanico]] que facilita la salida de productos hacia los puertos del Pacífico (Chile) y el Atlántico (Brasil).
-
-## Infraestructura
-- Zona Franca y Parque Industrial de gran escala.
-- Interconexión ferroviaria con el Ramal C14 (Hacia Chile).
-- Acceso directo a gasoductos troncales.
+## Hitos
+- **Integración Ferroviaria:** Conexión estratégica entre el Ramal C14 (hacia Chile) y el Belgrano Cargas.
+- **Zofra:** Zona franca y parque industrial para la agregación de valor local.
 
 ## Conexiones
-- [[Litio]]
-- [[Cobre]]
-- [[TGS]]
-- [[Corredor Bioceanico]]
 - [[Salta]]
+- [[Corredor Bioceanico]]
+- [[Litio]]

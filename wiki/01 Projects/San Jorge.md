@@ -1,7 +1,7 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-20_news_mining_energy.md]]
+sources: [[raw/2026-04-20_news_mining_energy.md]]
 confidence: medium
 last_update: 2026-04-20
 ---

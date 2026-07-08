@@ -1,7 +1,7 @@
 ---
 type: framework
 tags: [mining, lithium, infrastructure, Puna]
-sources: [[2026-04-13_news_mining_energy.md]], [[Posco]], [[Rincón]]
+sources: [[raw/2026-04-13_news_mining_energy.md]], [[Posco]], [[Rincón]]
 confidence: medium
 last_update: 2026-04-14
 ---

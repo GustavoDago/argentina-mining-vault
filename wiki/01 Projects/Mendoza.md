@@ -1,31 +1,33 @@
 ---
 type: project
 tags: [mining, copper, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-07-06_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-07-08
 ---
 
 # Mendoza (Minería y Energía)
 
-**Contexto:** En 2026, la provincia de Mendoza ha iniciado una reactivación histórica de su sector minero metalífero, adaptando su normativa y sumándose a las mesas regionales de coordinación.
+**Contexto:** En 2026, la provincia de Mendoza ha iniciado una reactivación histórica de su sector minero metalífero y una apuesta por el potencial no convencional de sus recursos energéticos.
 
-## Hitos Recientes (Abril 2026)
-- **Operación San Jorge 2029 (Abril 2026):** El Gobierno Nacional proyecta que el proyecto de cobre San Jorge entrará en operación para 2029, marcando el retorno de Mendoza a la gran minería metalífera de clase mundial.
-- **Exploración de Litio (Abril 2026):** El proyecto **Don Luis** (San Rafael/Malargüe) avanza con el envío de su DIA a la Legislatura. Es el primer proyecto de litio en Mendoza que busca validación legislativa bajo la Ley 7722.
-- **Interés Petrolero (22/04/2026):** Mendoza recibió 5 ofertas para 4 áreas de hidrocarburos convencionales (Vega Grande y otras), evidenciando renovado interés inversor.
-- **Estándares ASG (14/04/2026):** Acuerdo entre Impulsa Mendoza y Kobrea Exploraciones para aplicar criterios ambientales, sociales y de gobernanza en el desarrollo minero provincial.
-- **Ingreso a la Mesa del Cobre (Abril 2026):** El gobernador Alfredo Cornejo formalizó el ingreso de Mendoza a la Mesa del Cobre, sumándose a San Juan, Salta y Catamarca para coordinar políticas de fomento y marcos regulatorios.
-- **Reforma Legislativa:** La actualización del Código de Procedimiento Minero y la creación de distritos mineros (ej. Malargüe Distrito Minero Occidental) han permitido agilizar las exploraciones bajo estándares de sostenibilidad.
-- **Reforma Ley de Glaciares:** Mendoza fue una de las provincias impulsoras de la reforma sancionada en abril de 2026, que otorga a las provincias competencia técnica para definir el alcance de la protección hídrica.
+## Hitos Recientes (Julio 2026)
+- **Investigación Formación Cacheuta (08/07/2026):** El gobierno provincial anunció un plan técnico para evaluar el potencial de la **Formación Cacheuta** (roca madre de la cuenca cuyana) para producir petróleo y gas mediante técnicas no convencionales, buscando replicar el éxito de Vaca Muerta.
+- **Hito Legislativo Litio (06/07/2026):** La Legislatura de Mendoza aprobó el proyecto de exploración de litio **Don Luis** (San Rafael/Malargüe) bajo el marco de la Ley 7722. Es la primera vez que un proyecto de este tipo recibe el aval legislativo, marcando una apertura hacia los minerales críticos.
+- **Operación San Jorge 2029 (Abril 2026):** El Gobierno Nacional proyecta que el proyecto de cobre San Jorge entrará en operación para 2029.
+- **Interés Petrolero (Abril 2026):** Recepción de ofertas para áreas convencionales, manteniendo el pulso de la cuenca cuyana.
+- **Ingreso a la Mesa del Cobre (Abril 2026):** Mendoza se integró formalmente a la coordinación regional con San Juan, Salta y Catamarca.
+- **Reforma Legislativa:** Actualización del Código de Procedimiento Minero y creación del **Malargüe Distrito Minero Occidental**.
 
 ## Proyectos Clave
-- **Don Luis:** Proyecto de exploración de litio en el sur provincial.
-- **[[San Jorge]]:** Se proyecta el inicio de operaciones comerciales para 2029.
-- **Potasio Río Colorado:** Proyecto estratégico para la producción de fertilizantes, clave para la diversificación exportadora.
+- **Don Luis:** Proyecto de exploración de litio recientemente aprobado por ley.
+- **[[San Jorge]]:** Proyecto de cobre con proyección operativa a 2029.
+- **Potasio Río Colorado:** Estratégico para fertilizantes.
+- **Formación Cacheuta:** Nueva frontera para el shale oil mendocino.
 
 ## Conexiones
 - [[Cobre]]
+- [[Litio]]
 - [[RIGI]]
 - [[Ley de Glaciares]]
 - [[San Jorge]]
+- [[Vaca Muerta]]

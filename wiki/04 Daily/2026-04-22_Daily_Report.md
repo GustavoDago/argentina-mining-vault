@@ -1,7 +1,7 @@
 ---
 type: daily
 tags: [mining, energy, RIGI, copper, vaca-muerta]
-sources: [[2026-04-22_news_mining_energy.md]]
+sources: [[raw/2026-04-22_news_mining_energy.md]]
 last_update: 2026-04-22
 ---
 
