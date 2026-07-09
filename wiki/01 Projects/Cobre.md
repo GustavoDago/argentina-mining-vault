@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-09
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -36,7 +36,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
-- **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
+- **Demanda Eléctrica:** El proyecto es uno de los principales motores de la quintuplicación de demanda eléctrica proyectada para 2034 en el NOA.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
@@ -47,7 +47,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
 ## Mesa del Cobre y Contexto de Precios
-- **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
+- **Mercado (Julio 2026):** Precios de futuros de cobre operan en torno a **US$ 6,22** (Julio 2026). Nota: Hay una discrepancia de escala o mercado respecto a las proyecciones de abril que debe ser monitoreada.
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
 

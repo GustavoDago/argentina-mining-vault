@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-09
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -13,9 +13,9 @@ last_update: 2026-04-27
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
-### Estadísticas de Exportación (Enero 2026)
-- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
-- **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
+### Estadísticas de Producción (Mayo 2026)
+- **Crecimiento:** La producción aumentó un **47,5%** en los primeros cinco meses de 2026 en comparación con 2025.
+- **Exportación:** CAEM proyecta que las exportaciones mineras totales (lideradas por oro y litio) alcancen los **US$ 9.000 millones** en 2026.
 
 ### Proyección de Producción (CAEM)
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
@@ -37,7 +37,11 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
+- **Ampliación Cauchari-Olaroz (08/07/2026):** El proyecto (Ganfeng/Lithium Argentina/JEMSE) recibió aprobación del [[RIGI]] para una inversión de **US$ 1.241 millones**. El objetivo es alcanzar las 40.000 toneladas anuales de LCE.
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+
+### 5. [[Mariana]] (Salta)
+- **Rechazo RIGI (08/07/2026):** El Comité Evaluador rechazó la solicitud de adhesión del proyecto Mariana (Ganfeng) por considerar que no cumple con el requisito de "inversión nueva" (proyecto ya construido/inaugurado).
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
