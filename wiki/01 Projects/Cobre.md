@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-10
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -47,6 +47,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
 ## Mesa del Cobre y Contexto de Precios
+- **Crecimiento (09/07/2026):** El sector minero creció 9,5% interanual en mayo, impulsado por el avance de proyectos de cobre en etapas tempranas y factibilidad.
+- **Aprobación RIGI - [[San Jorge]] (09/07/2026):** US$ 891 millones aprobados para el proyecto en Mendoza.
+- **Tratado Binacional (08/07/2026):** Reactivación del tratado con Chile para facilitar logística transfronteriza, clave para el [[Distrito Vicuña]].
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.

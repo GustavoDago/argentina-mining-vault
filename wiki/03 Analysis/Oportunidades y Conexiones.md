@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [raw/2026-04-03_news_mining_energy.md, raw/2026-04-10_news_mining_energy.md, raw/2026-04-11_news_mining_energy.md, raw/2026-04-12_news_mining_energy.md, raw/2026-04-13_news_mining_energy.md, raw/2026-04-14_news_mining_energy.md, raw/2026-04-15_news_mining_energy.md, raw/2026-04-16_news_mining_energy.md, raw/2026-04-17_news_mining_energy.md, raw/2026-04-18_news_mining_energy.md, raw/2026-04-19_news_mining_energy.md, raw/2026-04-20_news_mining_energy.md, raw/2026-04-22_news_mining_energy.md, raw/2026-04-25_news_mining_energy.md, raw/2026-04-27_news_mining_energy.md, raw/2026-07-10_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-10
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,14 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Sistemas de Almacenamiento (BESS) y Estabilidad del SADI**:
+   - La adjudicación de **700 MW (AlmaGBA)** marca el inicio de una nueva vertical de infraestructura. Existe una oportunidad masiva para integradores tecnológicos y EPCistas especializados en almacenamiento a gran escala, traccionada por la necesidad de mitigar cuellos de botella en el Gran Buenos Aires y nodos mineros.
+21. **Vaca Muerta 3.0: IA y Autonomía**:
+   - El desplazamiento hacia operaciones autónomas y gemelos digitales en el upstream (SPE Neuquén, Julio 2026) abre un mercado para startups de **Deep Tech y Edge Computing** capaces de operar en entornos críticos para maximizar la intensidad de fractura.
+22. **Explosión de Demanda Eléctrica Minera (Efecto OLACDE)**:
+   - Con la demanda proyectada a quintuplicarse para 2034, el negocio ya no es solo extraer minerales, sino **garantizar el suministro eléctrico**. Oportunidad crítica para contratos PPA (Power Purchase Agreement) renovables y líneas de alta tensión privadas bajo el marco RIGI.
+23. **Súper RIGI: Data Centers y Sinergia Energética**:
+   - El proyecto **Stargate** (OpenAI/Sur Energy - US$ 25.000M) bajo el Súper RIGI requiere una base energética masiva y estable. Esto posiciona a Vaca Muerta no solo como exportador de moléculas, sino como el **backbone energético para la IA global**.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -70,7 +78,17 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Aprobado US$ 891M| SJ[San Jorge - Mendoza]
+    RIGI --> |Aprobado US$ 1.241M| CO[Cauchari-Olaroz Expansion]
+    RIGI --> |Rechazo Precedente| Mariana[Proyecto Mariana - Ganfeng]
+    RIGI --> |Acumulado US$ 121B| Stats[39 Presentados / 15 Aprobados]
+    RIGI --> |Súper RIGI IA| Stargate[Stargate - OpenAI US$ 25B]
+
+    BESS[BESS AlmaGBA 700MW] --> |Estabilidad| SADI[Red Eléctrica SADI]
+    BESS --> |Demanda de Minerales| Litio
+
+    OLACDE[Demanda Minera x5 p/2034] --> |Cuello de Botella| InfraElec[Infraestructura Eléctrica]
+    InfraElec --> |PPA Renovables| RIGI
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]

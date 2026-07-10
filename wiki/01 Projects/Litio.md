@@ -1,14 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-10
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En julio de 2026, Argentina consolida su posición como potencia global en litio. El sector registró un crecimiento del **47,5% interanual** en los primeros cinco meses del año (INDEC).
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
@@ -36,8 +36,12 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Producción:** Inicio operativo en el segundo trimestre de 2026.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 4. Salar de Olaroz / Caucharí (Jujuy)
+### 4. [[Cauchari-Olaroz Expansion]] (Jujuy)
+- **Aprobación RIGI (09/07/2026):** Inversión de **US$ 1.241 millones** para ampliar la capacidad de producción de carbonato de litio.
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+
+### 5. Don Luis (Mendoza)
+- **Hito Legislativo (08/07/2026):** La Legislatura de Mendoza aprobó el proyecto bajo la Ley 7.722, abriendo la provincia a la minería de litio.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.

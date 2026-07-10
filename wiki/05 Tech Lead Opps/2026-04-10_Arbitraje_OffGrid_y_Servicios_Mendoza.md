@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [tech-lead, business-opportunity, skeptical-review, energy, mendoza]
-sources: [[2026-04-10_news_mining_energy.md]], [[Oportunidades y Conexiones]]
+sources: [[raw/2026-04-10_news_mining_energy.md]], [[Oportunidades y Conexiones]]
 confidence: high
 last_update: 2026-04-10
 ---

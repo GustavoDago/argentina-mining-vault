@@ -1,23 +1,25 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-20_news_mining_energy.md]]
-confidence: medium
-last_update: 2026-04-20
+sources: [[raw/2026-07-10_news_mining_energy.md]]
+confidence: high
+last_update: 2026-07-10
 ---
 
 # Proyecto San Jorge
 
-**Ubicación:** Las Heras, Mendoza, Argentina.
-**Operadora:** Minera San Jorge (Solway Investment Group).
+**Ubicación:** Mendoza, Argentina.
+**Mineral:** Cobre.
+**Inversión RIGI:** **US$ 891 millones**.
 
 ## Descripción
-Proyecto de pórfido de cobre y oro. Ha enfrentado históricamente desafíos regulatorios debido a la normativa ambiental de la provincia.
+El proyecto San Jorge es una iniciativa de minería de cobre ubicada en la provincia de Mendoza. Tras años de parálisis debido a restricciones legislativas, el proyecto ha ganado tracción bajo el marco del [[RIGI]].
 
 ## Hitos Recientes (2026)
-- **Reactivación Estratégica (20/04/2026):** En el marco de la nueva política minera de [[Mendoza]], se proyecta que San Jorge podría iniciar operaciones comerciales en 2029.
-- **Contexto Regulatorio:** El proyecto se beneficia de la creación de la "Mesa del Cobre" y el impulso provincial para desarrollar la minería metalífera dentro del marco legal vigente.
+- **Aprobación RIGI (09/07/2026):** El Comité Evaluador aprobó formalmente la solicitud de adhesión del proyecto San Jorge por una inversión de **US$ 891 millones**.
+- **Contexto Provincial:** El avance se da en un clima de apertura minera en [[Mendoza]], impulsado por la necesidad de minerales críticos para la transición energética y el aval a otros proyectos como "Don Luis".
 
 ## Conexiones
 - [[Cobre]]
+- [[RIGI]]
 - [[Mendoza]]
