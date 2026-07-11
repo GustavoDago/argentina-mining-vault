@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-07-11
 ---
 
 # San Juan
@@ -21,8 +21,8 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 ## Proyectos Clave
 - [[Josemaría]] (Cobre)
 - [[Los Azules]] (Cobre Verde)
-- [[Veladero]] (Oro/Plata)
-- [[Distrito Vicuña]] (Hub Binacional)
+- [[Veladero]] (Oro/Plata) - Aprobado bajo RIGI (US$ 380M).
+- [[Distrito Vicuña]] (Hub Binacional) - Aprobado bajo RIGI (US$ 9.700M iniciales).
 - [[Lunahuasi]] (Cobre de Alta Ley)
 
 ## Relevancia Estratégica
