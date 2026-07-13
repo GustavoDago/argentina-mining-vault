@@ -10,7 +10,8 @@ last_update: 2026-04-25
 
 **Contexto:** En 2026, la provincia de Mendoza ha iniciado una reactivación histórica de su sector minero metalífero, adaptando su normativa y sumándose a las mesas regionales de coordinación.
 
-## Hitos Recientes (Abril 2026)
+## Hitos Recientes (Julio 2026)
+- **Integración con Chile (08/07/2026):** Mendoza firmó acuerdos estratégicos con Chile para facilitar la logística transfronteriza y atraer inversiones mineras, aprovechando la cercanía con los clusters cupríferos chilenos.
 - **Operación San Jorge 2029 (Abril 2026):** El Gobierno Nacional proyecta que el proyecto de cobre San Jorge entrará en operación para 2029, marcando el retorno de Mendoza a la gran minería metalífera de clase mundial.
 - **Exploración de Litio (Abril 2026):** El proyecto **Don Luis** (San Rafael/Malargüe) avanza con el envío de su DIA a la Legislatura. Es el primer proyecto de litio en Mendoza que busca validación legislativa bajo la Ley 7722.
 - **Interés Petrolero (22/04/2026):** Mendoza recibió 5 ofertas para 4 áreas de hidrocarburos convencionales (Vega Grande y otras), evidenciando renovado interés inversor.
