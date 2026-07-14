@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[raw/2026-07-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-14
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -18,6 +18,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 
 ### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
+- **Logística (14/07/2026):** Se proyecta la **Zona Franca Jáchal** como el principal nodo de servicios y transferencia de carga para el distrito.
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).

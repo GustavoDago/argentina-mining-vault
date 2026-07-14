@@ -36,8 +36,10 @@
 graph TD
     A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
     A --> C[RN 51 - Salta]
+    A --> H[Nodo Jáchal - San Juan]
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
     B --> F[Proyectos de Litio]
     C --> G[Bypass Campo Quijano]
+    H --> I[ZF Jáchal: Consolidación Cobre]
 ```

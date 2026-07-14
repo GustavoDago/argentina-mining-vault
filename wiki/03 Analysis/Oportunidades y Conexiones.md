@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, [[raw/2026-07-14_news_mining_energy.md]]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-14
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Minería Solar + BESS en la Cordillera**:
+    - La caída de costos en baterías (US$ 108/kWh en 2025) y la oficialización del RIMI para equipos de almacenamiento sin piso de inversión (14/07/2026) habilitan un modelo de **autoconsumo energético en sitio**. Esto es crítico para proyectos en la Puna y los Andes donde la infraestructura de red es deficiente.
+21. **Hub Logístico Jáchal (San Juan)**:
+    - La creación de una zona franca minera y la reconstrucción del ferrocarril Bardón-Jáchal abren una oportunidad para empresas de **logística multimodal y servicios aduaneros especializados** para el concentrado de cobre del Distrito Vicuña.
+22. **Inversiones en Transmisión Eléctrica**:
+    - El hecho de que Distrito Vicuña duplicará la demanda de San Juan genera una necesidad urgente de nuevas líneas de alta tensión. El marco del RIGI para infraestructura energética es el vehículo para estas inversiones.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -65,12 +71,14 @@ graph TD
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
-    RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    RIGI --> |$709M: Proyecto #21| TQ[Tres Quebradas - Catamarca]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Total: US$ 46.700M| STATS[Estadísticas Oficiales]
+
+    RIMI --> |Sin piso para Renovables| SolarBESS[Solar + Almacenamiento]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -118,6 +126,9 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    SJ --> |Nodo Logístico| Jachal[Zona Franca Jáchal]
+    Jachal --> |Ferrocarril| SF[Santa Fe - Puertos]
+    Jachal --> Vicuña
 ```
 
 ## Conclusiones

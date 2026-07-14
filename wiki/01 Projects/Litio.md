@@ -1,14 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[raw/2026-07-14_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-14
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En julio de 2026, Argentina continúa consolidando su posición como actor clave global. El "Triángulo del Litio" tracciona la mayor parte de las adhesiones al [[RIGI]] minero.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
@@ -36,7 +36,13 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Producción:** Inicio operativo en el segundo trimestre de 2026.
 - **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 4. Salar de Olaroz / Caucharí (Jujuy)
+### 4. [[Tres Quebradas]] (Zijin Mining/LIEX, Catamarca)
+- **Hito RIGI (14/07/2026):** Aprobado como el proyecto #21 del régimen.
+- **Inversión:** US$ 709 millones.
+- **Capacidad:** 40.000 t/año de carbonato de litio grado batería.
+- **Vida Útil:** Proyectada en 19 años con ingresos por exportación de US$ 400M anuales.
+
+### 5. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
