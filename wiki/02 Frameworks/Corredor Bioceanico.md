@@ -38,6 +38,7 @@ graph TD
     A --> C[RN 51 - Salta]
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
+    D --> |Socio Estratégico| RT[Rio Tinto/Mitsubishi?]
     B --> F[Proyectos de Litio]
     C --> G[Bypass Campo Quijano]
 ```
