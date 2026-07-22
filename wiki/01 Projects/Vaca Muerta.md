@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-04_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-04
+last_update: 2026-07-13
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -14,14 +14,17 @@ last_update: 2026-07-04
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Abril 2026)
-- **Shale Oil:** Crecimiento del **39,2% interanual**, totalizando 2.915,3 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **19,1%** (4.215,0 miles de m³).
-- **Dominio No Convencional:** El shale ya representa casi el **70%** de la producción nacional.
-- **Gas Natural:** Crecimiento moderado del **2,8%** interanual (4.218,2 millones de m³), liderado por el no convencional (+12,2%).
+### Estadísticas de Producción (Febrero 2026)
+- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
+- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
+- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
+- **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Mayo - Julio 2026)
-- **Aprobación RIGI #20 - Rincón de Aranda (30/06/2026):** El Gobierno oficializó el ingreso de [[Pampa Energía]] al régimen con una inversión de **US$ 4.521 millones**. El proyecto apunta a producir 305 millones de barriles en 30 años.
+### Hitos Recientes (Julio 2026)
+- **Récord de Fracturas (Junio 2026):** Se alcanzó el máximo histórico mensual de etapas de fractura, superando los niveles de abril, impulsado por la eficiencia operativa y la necesidad de llenar la nueva capacidad de transporte.
+- **Financiamiento Oleoducto VMOS (08/07/2026):** Consorcio liderado por YPF (junto a Vista, Pampa y PAE) aseguró un préstamo de **US$ 2.000 millones** a una tasa SOFR + 5,5% para acelerar el tramo final del ducto.
+- **Expansión de Frontera (Julio 2026):** Phoenix Global Resources reportó un pozo récord en Río Negro que extiende la zona de productividad de la formación hacia el este de la cuenca neuquina.
+- **Superávit Comercial Energético (Julio 2026):** Argentina alcanzó en el primer semestre de 2026 el mayor superávit comercial del sector en su historia, impulsado por las exportaciones de shale oil.
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
@@ -37,8 +40,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **59% de avance** al 1 de julio de 2026. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **60% de avance** (Julio 2026). Financiamiento de US$ 2.000M asegurado. Se proyecta una capacidad inicial de 180.000 bpd para fines de 2026.
+- **Argentina LNG:** Proyecto de exportación de GNL liderado por YPF. Southern Energy (consorcio PAE/YPF/Pampa) aprobó inversión de US$ 1.300M para el Gasoducto San Matías bajo el [[RIGI]].
 
 ## Conexiones
 - [[RIGI]]

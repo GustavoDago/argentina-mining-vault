@@ -1,27 +1,31 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-04_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-04
+last_update: 2026-07-16
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
 **Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
+## Desafío Energético y Microredes Híbridas (Julio 2026)
+- **Cuellos de Botella de Transmisión:** El informe de la consultora **Aggreko** (16/07/2026) expone la severa brecha de transporte eléctrico en las alturas de la Puna. Al no contar con conexiones estables al SADI, los salares de litio están adoptando arquitecturas de **microredes híbridas descentralizadas**.
+- **Soluciones Híbridas (Solar + BESS):** Estas microredes combinan generación solar fotovoltaica con almacenamiento a gran escala en baterías de ion de litio (BESS) y soporte térmico local a GNL o diésel. El costo de las baterías (alrededor de **u$s 108/kWh**) y los beneficios impositivos sin piso de inversión provistos por el régimen [[RIMI]] impulsan de manera competitiva la descarbonización de los salares y ahorran hasta un 40% de OPEX logístico en transporte de combustible.
+
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
-### Estadísticas de Producción y Exportación (Abril 2026)
-- **Crecimiento Industrial:** El INDEC reportó un incremento del **9,5% interanual** en el IPI Minero de abril, con el litio como protagonista absoluto al **duplicar su producción** respecto al año anterior.
-- **Récord Mensual (Enero):** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**.
+### Estadísticas de Exportación (Enero 2026)
+- **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
 - **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
 
 ### Proyección de Producción (CAEM)
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
+- **Expansión (Julio 2026):** Rio Tinto planea una planta de 60.000 t/año con una inversión total de **US$ 3.000 millones**.
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
 - **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
@@ -40,6 +44,9 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
+### 5. [[Tres Quebradas]] (Catamarca)
+- **RIGI (14/07/2026):** Aprobación del proyecto de LIEX S.A. (Zijin Mining) con una inversión de **US$ 709 millones** para producir 40.000 t/año.
+
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
@@ -53,6 +60,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ## Conexiones
 - [[RIGI]]
+- [[RIMI]]
 - [[Mineria]]
 - [[Corredor Bioceanico]]
 - [[Electromovilidad]]

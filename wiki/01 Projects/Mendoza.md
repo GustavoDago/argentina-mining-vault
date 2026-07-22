@@ -1,16 +1,17 @@
 ---
 type: project
 tags: [mining, copper, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-07-17
 ---
 
 # Mendoza (Minería y Energía)
 
-**Contexto:** En 2026, la provincia de Mendoza ha iniciado una reactivación histórica de su sector minero metalífero, adaptando su normativa y sumándose a las mesas regionales de coordinación.
+**Contexto:** En 2026, la provincia de Mendoza ha iniciado una reactivación histórica de su sector minero metalífero, adaptando su normativa, logrando hitos bajo el RIGI y sumándose a las mesas regionales de coordinación.
 
-## Hitos Recientes (Abril 2026)
+## Hitos Recientes (2026)
+- **Aprobación RIGI de San Jorge (17/07/2026):** El proyecto [[San Jorge]] (PSJ Cobre Mendocino) obtuvo la aprobación oficial de su ingreso al [[RIGI]] mediante la Resolución 801/2026 del Ministerio de Economía de la Nación, comprometiendo una inversión total de **US$ 891 millones** (de los cuales **US$ 630 millones** corresponden estrictamente a la fase de construcción como Vehículo de Proyecto Único). Este hito es de trascendencia histórica al ser el **primer proyecto de minería metalífera en Mendoza** aprobado bajo el RIGI, operando mediante flotación convencional y respetando plenamente la Ley 7.722.
 - **Operación San Jorge 2029 (Abril 2026):** El Gobierno Nacional proyecta que el proyecto de cobre San Jorge entrará en operación para 2029, marcando el retorno de Mendoza a la gran minería metalífera de clase mundial.
 - **Exploración de Litio (Abril 2026):** El proyecto **Don Luis** (San Rafael/Malargüe) avanza con el envío de su DIA a la Legislatura. Es el primer proyecto de litio en Mendoza que busca validación legislativa bajo la Ley 7722.
 - **Interés Petrolero (22/04/2026):** Mendoza recibió 5 ofertas para 4 áreas de hidrocarburos convencionales (Vega Grande y otras), evidenciando renovado interés inversor.
@@ -21,7 +22,7 @@ last_update: 2026-04-25
 
 ## Proyectos Clave
 - **Don Luis:** Proyecto de exploración de litio en el sur provincial.
-- **[[San Jorge]]:** Se proyecta el inicio de operaciones comerciales para 2029.
+- **[[San Jorge]]:** Proyecto aprobado bajo el RIGI en julio de 2026, proyecta el inicio de operaciones comerciales y exportaciones para 2029.
 - **Potasio Río Colorado:** Proyecto estratégico para la producción de fertilizantes, clave para la diversificación exportadora.
 
 ## Conexiones
