@@ -1,24 +1,29 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-06-15_news_mining_energy.md]]
+sources: [[2026-06-28_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-15
+last_update: 2026-06-28
 ---
 
-# Proyecto MARA (Minera Agua Rica - Alumbrera)
+# Proyecto MARA (Cobre & Oro)
 
+**Ubicación:** Andalgalá, Catamarca, Argentina.
 **Operadora:** Glencore.
-**Ubicación:** Catamarca, Argentina.
-**Inversión Comprometida:** US$ 9.300 millones.
 
 ## Descripción
-El proyecto **MARA** integra el yacimiento Agua Rica con la infraestructura existente de Minera Alumbrera, optimizando la huella ambiental y la logística del proyecto.
+MARA (Minera Agua Rica Alumbrera) es un megaproyecto de cobre y oro de clase mundial que surge de la integración del yacimiento Agua Rica con la infraestructura existente de Bajo de la Alumbrera.
 
-## Hitos Recientes (2026)
-- **Presentación RIGI (15/06/2026):** Glencore presentó el proyecto MARA para su evaluación bajo el marco del [[RIGI]], con una inversión masiva de **US$ 9.300 millones**. Se posiciona como uno de los proyectos de cobre más significativos de la cartera nacional.
+## Estado Actual (2026)
+- **Infraestructura:** El proyecto planea utilizar las instalaciones de procesamiento, el ducto y el puerto de Bajo de la Alumbrera, lo que reduce significativamente el CAPEX inicial y la huella ambiental.
+- **Producción Estimada:** Se proyecta una producción promedio anual de **240.000 toneladas de cobre** equivalente durante los primeros 10 años de vida útil.
+- **Reactivación:** Glencore prevé la reactivación operativa para fines de 2026, aprovechando el marco de incentivos del [[RIGI]].
+
+## Hitos Recientes
+- **Junio 2026:** Incluido por Bain & Company como uno de los activos estratégicos para alcanzar la meta de 1.8 Mtpa de cobre para 2035 en Argentina.
+- **Sinergia:** El proyecto es un pilar central de la Mesa del Cobre y la estrategia minera de Catamarca.
 
 ## Conexiones
 - [[Cobre]]
-- [[RIGI]]
 - [[Catamarca]]
+- [[RIGI]]

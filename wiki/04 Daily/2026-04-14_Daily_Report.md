@@ -1,7 +1,7 @@
 ---
 type: daily
 tags: [mining, energy, regulatory, sync, health-check]
-sources: [[2026-04-14_news_mining_energy]], [[2026-04-13_news_mining_energy]]
+sources: [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-14
 ---

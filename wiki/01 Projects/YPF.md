@@ -1,26 +1,30 @@
 ---
-type: project
+type: company
 tags: [energy, oil-gas]
-sources: [[2026-05-24_news_mining_energy]]
+sources: [[2026-06-28_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-24
+last_update: 2026-06-28
 ---
 
-# YPF
+# YPF S.A.
 
-**Compañía:** YPF S.A. (Mayoría estatal).
-**CEO:** Horacio Marín.
-
-## Descripción
-La principal compañía energética de Argentina, liderando el desarrollo de Vaca Muerta y proyectos estratégicos de infraestructura hidrocarburífera.
+**Sector:** Energía (Upstream, Midstream, Downstream).
+**Estado:** Mayor operadora de energía de Argentina, liderando el desarrollo de [[Vaca Muerta]].
 
 ## Hitos Recientes (2026)
-- **Megaproyecto RIGI (24/05/2026):** Presentó el mayor proyecto del [[RIGI]] hasta la fecha: **USD 25.000 millones** para el área Loma La Lata - Sierra Barrosa, apuntando a exportaciones por USD 100.000 millones.
-- **Récord de Producción (08/05/2026):** Alcanzó un pico histórico de **200.000 bpd** de shale oil en Vaca Muerta.
-- **Argentina LNG:** Lidera el proyecto de exportación de GNL junto a socios estratégicos como Petronas y ENI.
+- **Récords de Producción:** Lideró el pico de producción en Neuquén (634k bpd de crudo) y el récord de gas de mayo 2026.
+- **Proyecto VMOS:** Impulsa la construcción del Oleoducto Vaca Muerta Sur (59% de avance) para evacuar crudo hacia el Atlántico (Punta Colorada).
+- **Argentina LNG:** Lidera el consorcio para la planta de licuefacción de gas en Río Negro, sumando socios internacionales como ENI y Shell.
+- **RIGI:** Ha presentado múltiples proyectos bajo el esquema [[RIGI]], incluyendo infraestructura de transporte y desarrollos de upstream no convencional.
+- **Transmisión Eléctrica:** A través de **YPF Luz**, firmó un acuerdo con Central Puerto por US$ 250M-450M para electrificar la Puna, facilitando proyectos de [[Litio]] y [[Cobre]].
+- **Nuevas Fronteras:** Acelera la exploración en [[Palermo Aike]] (Santa Cruz) para replicar el modelo Vaca Muerta.
+
+## Estrategia
+Focalización en activos de alta rentabilidad (shale) y desinversión en áreas convencionales maduras (Proyecto Andes).
 
 ## Conexiones
 - [[Vaca Muerta]]
 - [[RIGI]]
-- [[Energia]]
+- [[Southern Energy]]
 - [[Palermo Aike]]
+- [[Litio]]

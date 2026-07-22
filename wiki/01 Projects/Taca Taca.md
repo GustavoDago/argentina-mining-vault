@@ -1,6 +1,9 @@
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-20_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]], [[2026-06-20_news_mining_energy]]
+---
+type: project
+tags: [mining, copper]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-04_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-20
+last_update: 2026-07-04
 ---
 
 # Proyecto Taca Taca (Cobre)
@@ -9,16 +12,19 @@ last_update: 2026-06-20
 **Operadora:** First Quantum Minerals.
 
 ## Descripción
-Megaproyecto de cobre de clase mundial con un CAPEX de construcción inicial de **US$ 5.250 millones** para 40 Mtpa (incremento del 50% frente a estimaciones previas). Se posiciona en el primer cuartil de la curva de costos global y es clave para la exportación por el Pacífico a través del [[Corredor Bioceanico]].
+Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones**. Se posiciona en el primer cuartil de la curva de costos global.
 
 ## Hitos Recientes (2025-2026)
-- **Actualización NI 43-101 (Junio 2026):** El nuevo reporte técnico NI 43-101 presentado por First Quantum actualiza el CAPEX a **US$ 5.250 millones** y el **Valor Presente Neto (NPV)** a **US$ 5.900 millones** (con tasa de descuento del 8%). Las reservas probadas y probables se incrementan a **1.990 millones de toneladas**. La capacidad de procesamiento inicial será de 40 Mtpa, expandible a 60 Mtpa, con una producción promedio anual en la primera década de **291 kt de cobre** y **133 koz de oro**. La compañía prepara formalmente su solicitud de adhesión al RIGI para acelerar el desarrollo.
-- **Fase Decisiva y Audiencia Pública (13/04/2026):** El gobernador Gustavo Sáenz confirmó que el proyecto entra en una etapa determinante. El llamado a **audiencia pública** es inminente para destrabar el proceso.
-- **Avance Institucional y Regulaciones (16/04/2026):** Presentación formal del estado del proyecto ante el Senado de Salta. Necesidad crítica de aprobación definitiva del EIA y concesiones de uso de agua antes de **julio de 2026** para poder cumplir con los plazos de adhesión al RIGI.
-- **Alianza Estratégica ESG con la IFC (27/04/2026):** Acuerdo formal firmado con la **Corporación Financiera Internacional** (brazo privado del Banco Mundial) para adoptar y auditar estándares internacionales de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a la estructuración de deuda corporativa internacional de gran escala.
-- **Reporte Técnico NI 43-101 Anterior (26/05/2026):** Los reportes previos apuntaban a una inversión global estimada de US$ 5.250 millones con capacidad de procesamiento inicial de 40 Mtpa, escalable a 60 Mtpa.
-- **Preparación RIGI:** First Quantum confirmó que se encuentra finalizando la solicitud de adhesión al [[RIGI]] tras la solidez de los resultados económicos ratificados por el nuevo reporte técnico.
-- **Infraestructura Logística:** Actuará como catalizador del [[Corredor Bioceanico]] mediante la pavimentación coordinada de la Ruta Nacional 51, facilitando el transporte pesado hacia el Paso de Sico y puertos del norte de Chile (Antofagasta, Iquique, Mejillones).
+- **Blindaje ESG con IFC (03/07/2026):** First Quantum Minerals selló una alianza estratégica con la **Corporación Financiera Internacional (IFC)** para alinear el desarrollo del proyecto con los estándares globales de desempeño ambiental y social. Este respaldo es clave para captar financiamiento internacional y reducir riesgos de gobernanza (ESG).
+- **Alianza Estratégica IFC (27/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda y ratificando la inversión total de **US$ 5.250 millones**.
+- **Ratificación de Inversión RIGI (19/04/2026):** Se confirmó una inversión de **US$ 4.200 millones** enfocada en el desarrollo de infraestructura y planta, vinculando el proyecto con el [[Corredor Bioceanico]] de Capricornio para la salida por el Pacífico.
+- **Consolidación del Informe Técnico (16/04/2026):** La presentación formal del NI 43-101 ratifica la solidez económica. Se prevé el inicio de construcción tras el aval del [[RIGI]].
+    - **Empleo:** 4.000 puestos en construcción; 2.000 en operación.
+    - **Logística:** Actuará como catalizador del [[Corredor Bioceanico]] mediante inversiones en conectividad eléctrica y transporte.
+- **Alianza Estratégica IFC (23/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda.
+- **Reporte Técnico NI 43-101 (Abril 2026):** El informe proyecta una capacidad inicial de 40 Mtpa y una producción promedio de **291.000 t/año de cobre** en la primera década.
+- **Fase Decisiva (13/04/2026):** El gobernador Gustavo Sáenz confirmó que el proyecto entra en una etapa determinante. El llamado a **audiencia pública** es inminente.
+- **Avance Institucional (Abril 2026):** Presentación ante el Senado de Salta. Necesidad de aprobación definitiva del EIA y concesiones de uso de agua antes de julio de 2026 para cumplir requisitos del RIGI.
 
 ## Conexiones
 - [[Cobre]]

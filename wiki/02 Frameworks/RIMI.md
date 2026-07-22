@@ -1,7 +1,7 @@
 ---
 type: framework
 tags: [mining, energy, regulatory]
-sources: [[2026-04-14_news_mining_energy]]
+sources: [[2026-04-14_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-14
 ---

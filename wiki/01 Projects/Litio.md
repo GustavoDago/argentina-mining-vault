@@ -1,57 +1,55 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-15_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-10_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]], [[2026-06-19_news_mining_energy]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-04_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-19
+last_update: 2026-07-04
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En junio de 2026, Argentina consolidó su posición como el polo de inversión de litio más dinámico de Sudamérica, respaldado por la estabilidad del [[RIGI]]. Tres proyectos argentinos figuran en el Top Ten global de los yacimientos más valorados del mundo (Mining.com.au). Además, Argentina ha superado oficialmente a Chile en capacidad de exportación proyectada de litio, posicionándose como el segundo exportador mundial (detrás de Australia), impulsada por los ramp-ups de Cauchari-Olaroz, Rincón y Pozuelos-Pastos Grandes.
+**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
-## Proyectos y Producción (Junio 2026)
-La actividad en el "Triángulo del Litio" (Salta, Jujuy y Catamarca) acelera con hitos operativos y nuevas adhesiones al RIGI.
+## Proyectos y Producción (2026)
+A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
-### Estadísticas de Inversión y Exportación (2026)
-- **RIGI Pipeline Total:** El pipeline de inversiones para litio supera los **US$ 16.500 millones** sumando nuevas solicitudes como Pozuelos-Pastos Grandes.
-- **Exportaciones Récord:** En el **1T 2026**, las exportaciones de litio alcanzaron **US$ 456 millones** (+124,6% interanual). China absorbe el **80%** de los despachos. Proyección de cierre de 2026 superior a US$ 9.000 millones.
-- **Boom Productivo:** Según el INDEC (18/06/2026), la producción de litio en Argentina se duplicó en el último año. La actividad registró en abril una expansión interanual del **9,5%**, impulsada por un salto récord de producción de litio del **79%**.
-- **Top Ten Mundial (27/05/2026):** Tres yacimientos locales figuran en el ranking global de Mining.com.au:
-    1. **[[Cauchari-Olaroz]]** (Jujuy - Ganfeng/Lithium Argentina): Puesto 7.
-    2. **Salar de Olaroz** (Jujuy - Rio Tinto): Puesto 8.
-    3. **Salar del Hombre Muerto-Fénix** (Catamarca - Rio Tinto): Puesto 10.
+### Estadísticas de Producción y Exportación (Abril 2026)
+- **Crecimiento Industrial:** El INDEC reportó un incremento del **9,5% interanual** en el IPI Minero de abril, con el litio como protagonista absoluto al **duplicar su producción** respecto al año anterior.
+- **Récord Mensual (Enero):** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**.
+- **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
+
+### Proyección de Producción (CAEM)
+La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
-- **Resolución RIGI 44/2026:** Aprobado formalmente bajo RIGI por **US$ 2.500 millones** (o hasta **US$ 2.700 millones** según los datos del portal centralizado de inversiones lanzado en junio de 2026).
-- **Consolidación Hegemónica:** Rio Tinto ratificó formalmente su inversión de **US$ 2.500 millones** en Rincón tras concretar la absorción total de Arcadium. Controla directamente Olaroz, Rincón y Fénix, optimizando sinergias logísticas.
-- **Flujo RN 52:** Coordinó infraestructura vial en Jujuy para un tránsito pesado de 120 camiones diarios por la RN 52.
+- **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
+- **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
+- **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
+- **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
-### 2. [[Cauchari-Olaroz]] (Minera Exar, Jujuy)
-- **Expansión RIGI:** Aprobado bajo RIGI por **US$ 1.166,6 millones** (anteriormente proyectada en US$ 1.241 millones) mediante Resolución 99/2026, con el fin de consolidar una capacidad de 85.000 t/año. Planea una nueva expansión comercial de **45.000 t/año** basada en tecnología DLE.
+### 2. [[Posco]] (Hombre Muerto Norte, Salta)
+- **Consolidación (27/04/2026):** Integración del 100% de HMN para optimizar el proyecto Sal de Oro.
+- **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
+- **Potencial:** 15.600 toneladas/año de LCE.
 
-### 3. [[Posco]] / [[Sal de Oro]] (Hombre Muerto, Salta/Catamarca)
-- **RIGI Aprobado:** Posco cuenta con su proyecto aprobado bajo el RIGI por **US$ 633 millones** (o **US$ 845 millones** incluyendo Hombre Muerto Norte).
-- **Segunda Etapa (16/06/2026):** El Boletín Oficial formalizó la aprobación de la incorporación de la segunda etapa de Sal de Oro al RIGI por **US$ 208 millones** adicionales, con el objetivo de elevar la producción a 23.000 toneladas anuales de carbonato de litio (exportaciones de US$ 300 millones anuales).
+### 3. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
+- **Estado:** Ratificado el **92% de avance** (20/04/2026).
+- **Producción:** Inicio operativo en el segundo trimestre de 2026.
+- **Inversión:** US$ 217 millones amparados por el [[RIGI]].
 
-### 4. [[Hombre Muerto Oeste]] (Galan Lithium, Catamarca)
-- **Primera Producción:** Galan Lithium logró y ratificó la primera producción comercial de cloruro de litio en Hombre Muerto Oeste, completando la puesta en marcha de la planta húmeda y acumulando un inventario de **10.000 toneladas de LCE** en balsas. Target de **4.000 t/año LCE (Fase 1)** para H2 2026.
-
-### 5. [[Pozuelos - Pastos Grandes]] (Ganfeng Lithium, Salta)
-- **Solicitud RIGI:** Ganfeng solicitó formalmente el ingreso al RIGI para el desarrollo conjunto Pozuelos - Pastos Grandes, proyectando una producción de **150.000 t/año** de LCE en régimen.
-- **Búsqueda de Socios (19/06/2026):** Ganfeng y Lithium Argentina buscan de forma activa un tercer socio estratégico o inversor para acelerar y financiar sus operaciones de litio en el país.
-
-### 6. [[Sal de Vida]] (Rio Tinto, Catamarca)
-- **Inversión RIGI:** Rio Tinto presentó al RIGI su proyecto Sal de Vida por **US$ 818 millones** (según el portal oficial centralizado lanzado en junio de 2026).
+### 4. Salar de Olaroz / Caucharí (Jujuy)
+- Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
-- **Comité Regional (17/06/2026):** En la reunión de gobernadores en Jujuy se oficializó formalmente el **Comité Regional de la Región Minera del Litio** para fortalecer la previsibilidad de Salta, Jujuy y Catamarca. Reclamaron al Gobierno Nacional reglas claras y previsibles.
-- **Logística Transandina:** Caso de éxito de **Eramine**, exportando carbonato de litio desde Salta vía Paso de Jama directo a Angamos (Chile), logrando un ahorro de 10 días de navegación a Asia respecto al Atlántico a través del [[Corredor Bioceanico]].
-- **Hito Hídrico Catamarca:** Levantamiento definitivo y permanente de la cautelar sobre el Río Los Patos habilitando expansiones de Rio Tinto (Fénix - Resol. 431/2026 aprobó expansión Fase 1B por **US$ 530M** adicionales para sumar 9.500 t/año) y Posco.
+- **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
+- **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
+- **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
+- **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
+- **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
 ## Mercados y Precios
-- **Industrialización:** El anuncio del **Súper RIGI** busca incentivar de manera agresiva la fabricación local de celdas y **baterías de litio** mediante exenciones de Ganancias del 15% para inversiones mayores a US$ 1.000 millones.
-- **Precios:** Recuperación consolidada del carbonato de litio de grado batería superando los **US$ 20.000 por tonelada**, impulsado por el crecimiento de la demanda de sistemas de almacenamiento BESS y la industria global de la **[[Electromovilidad]]**.
+- **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS en China.
+- Tras la volatilidad de 2024-2025, el precio del litio muestra signos de recuperación sólida en 2026 debido a la demanda sostenida de la industria de la **[[Electromovilidad]]** y el almacenamiento de energía renovable.
 
 ## Conexiones
 - [[RIGI]]
@@ -62,9 +60,3 @@ La actividad en el "Triángulo del Litio" (Salta, Jujuy y Catamarca) acelera con
 - [[Catamarca]]
 - [[Salta]]
 - [[Jujuy]]
-- [[Cauchari-Olaroz]]
-- [[Posco]]
-- [[Sal de Oro]]
-- [[Sal de Vida]]
-- [[Rincón]]
-- [[Arcadium Lithium]]

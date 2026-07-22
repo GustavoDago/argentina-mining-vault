@@ -1,30 +1,30 @@
 ---
 type: project
-tags: [mining, gold]
-sources: [[2026-04-23_news_mining_energy]]
+tags: [mining, gold, silver, san-juan]
+sources: [[2026-07-05_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-23
+last_update: 2026-07-05
 ---
 
-# Proyecto Gualcamayo (Oro/Plata)
+# Gualcamayo
 
-**Ubicación:** Jáchal, San Juan, Argentina.
-**Operadora:** Minas Argentinas S.A. (Aisa Group).
+**Compañía:** Minas Argentinas S.A. (filial de AISA)
+**Inversión Estimada:** **US$ 1.500 millones**.
+**Ubicación:** Jáchal, [[San Juan]].
+**Recurso:** Oro y Plata.
 
 ## Descripción
-El proyecto Gualcamayo atraviesa una fase de revitalización mediante el desarrollo del yacimiento **Carbonatos Profundos (DCP)**, orientado a extender la vida útil de la mina por al menos 17 años adicionales.
+**Gualcamayo** es una mina de oro en operación que atraviesa un proceso de transformación estratégica. Tras la adquisición por parte de Minas Argentinas (Grupo AISA), el proyecto busca extender su vida útil y expandir su escala operativa mediante la exploración de recursos profundos y periféricos.
 
 ## Hitos Recientes (2026)
-- **Aprobación RIGI (15/01/2026 - Ratificado 23/04/2026):** Mediante la Resolución 6/2026 del Ministerio de Economía, el proyecto fue formalmente incorporado al [[RIGI]].
-- **Inversión:** Se estima una inversión de **US$ 665 millones** para la construcción de una planta de oxidación a presión (POX) y el desarrollo de la mina subterránea.
-- **Impacto Laboral:** Proyección de **4.500 empleos** entre directos e indirectos.
-- **Cumplimiento:** La empresa deberá acreditar el 40% de la inversión mínima en los primeros dos años (aproximadamente US$ 90 millones entre 2026 y 2027).
+- **Transformación a Distrito (05/07/2026):** La compañía anunció un plan de inversión de **US$ 1.500 millones** con el objetivo de convertir a Gualcamayo de una mina individual a un "distrito minero". Esto implica no solo la explotación del rajo actual, sino el desarrollo del proyecto de carbonatos profundos (DCP) y la integración de áreas circundantes.
+- **Interés en el RIGI:** Se evalúa la adhesión al [[RIGI]] para apalancar esta mega-inversión y asegurar estabilidad fiscal por 30 años.
 
-## Infraestructura y Tecnología
-- **Planta POX:** Fundamental para el tratamiento de minerales refractarios (carbonatos profundos).
-- **Energía:** El proyecto incluye un componente de infraestructura energética para sostener la nueva escala de operación.
+## Potencial Geológico
+- **Carbonatos Profundos (DCP):** Representa el futuro de la mina, con recursos metalíferos que requieren una planta de procesamiento de mayor complejidad tecnológica.
+- **Sinergia Regional:** Su ubicación en el norte de [[San Juan]] lo posiciona como un nodo logístico importante para la minería de la provincia.
 
 ## Conexiones
+- [[Mineria]]
 - [[San Juan]]
 - [[RIGI]]
-- [[Mineria]]

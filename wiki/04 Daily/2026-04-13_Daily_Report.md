@@ -1,7 +1,7 @@
 ---
 title: Reporte Diario - 13 de Abril de 2026
 tags: [daily_report, energy, mining, RIGI, NYC]
-sources: [[2026-04-13_news_mining_energy]]
+sources: [[2026-04-13_news_mining_energy.md]]
 last_update: 2026-04-13
 ---
 

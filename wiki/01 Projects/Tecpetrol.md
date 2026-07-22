@@ -1,28 +1,21 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-11_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-05-09_news_mining_energy]]
+sources: [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-26
+last_update: 2026-04-20
 ---
 
-# Tecpetrol (Vaca Muerta)
+# Tecpetrol
 
-**Tipo:** Operadora de gas no convencional (subsidiaria del Grupo Techint).
-**Activo Principal:** Fortín de Piedra, el mayor campo de shale gas de Argentina.
+**Grupo:** Techint.
+**Operaciones:** Líder en la producción de shale gas en Argentina.
 
-## Proyecto RIGI: Los Toldos Este II
-
-- **Presentación Formal (20/04/2026):** Solicitud formal de adhesión al [[RIGI]] presentada para el área **Los Toldos Este II**.
-- **Inversión Solicitada:** **US$ 2.400 millones** comprometidos para el desarrollo de shale oil / gas.
-- **Ubicación:** Neuquén, Cuenca Neuquina ([[Vaca Muerta]]).
-- **Foco:** Expansión de la producción de gas no convencional para alimentar el mercado interno y el futuro de exportación de GNL.
-
-## Contexto Estratégico
-Tecpetrol fue pionera en shale gas argentino con Fortín de Piedra. La solicitud RIGI para Los Toldos Este II es una extensión natural de esa apuesta, aprovechando la infraestructura de evacuación existente y la ampliación de [[TGS]].
+## Hitos Recientes (2026)
+- **Adhesión al RIGI:** Solicitó el ingreso al [[RIGI]] para el proyecto **Los Toldos Este II** con una inversión proyectada de **US$ 2.400 millones**.
+- **Producción:** Mantiene récords de despacho de gas desde Fortín de Piedra, fundamental para el abastecimiento interno y proyectos de exportación.
 
 ## Conexiones
 - [[Vaca Muerta]]
 - [[RIGI]]
 - [[Neuquén]]
-- [[TGS]]

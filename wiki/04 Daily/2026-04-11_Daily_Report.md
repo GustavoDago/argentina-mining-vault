@@ -1,7 +1,7 @@
 ---
 title: Reporte Diario - 11 de Abril de 2026
 tags: [daily_report, energy, mining, RIGI]
-sources: [[2026-04-11_news_mining_energy]]
+sources: [[2026-04-11_news_mining_energy.md]]
 last_update: 2026-04-11
 ---
 

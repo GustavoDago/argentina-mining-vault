@@ -1,14 +1,14 @@
 ---
 type: daily
 tags: [mining, energy, RIGI, regulatory]
-sources: [[2026-04-20_news_mining_energy]]
+sources: [[2026-04-20_news_mining_energy.md]]
 last_update: 2026-04-20
 ---
 
 # Reporte Diario: Consolidación de Inversiones y Expansión de Fronteras - 20/04/2026
 
 ## Resumen Ejecutivo
-La jornada del 20 de abril de 2026 marca un hito en la consolidación del régimen **[[RIGI]]** como el principal catalizador de inversiones en Argentina. Se ratificaron inversiones multimillonarias en cobre (**[[Taca Taca]]**) y se formalizaron presentaciones clave en el sector hidrocarburos (**[[Pampa Energía]]**, **[[Tecpetrol]]**, **[[Phoenix Global Resources]]**). Además, el descubrimiento de leyes récord en **[[Lunahuasi]]** y la expansión del modelo Vaca Muerta a **[[Palermo Aike]]** redefinen el potencial exportador del país.
+La jornada del 20 de abril de 2026 marca un hito en la consolidación del régimen **[[RIGI]]** como el principal catalizador de inversiones en Argentina. Se ratificaron inversiones multimillonarias en cobre (**[[Taca Taca]]**) y se formalizaron presentaciones clave en el sector hidrocarburos (**[[Pampa Energía]]**, **[[Tecpetrol]]**, **[[Phoenix Resources]]**). Además, el descubrimiento de leyes récord en **[[Lunahuasi]]** y la expansión del modelo Vaca Muerta a **[[Palermo Aike]]** redefinen el potencial exportador del país.
 
 ## Hitos Clave del Día
 

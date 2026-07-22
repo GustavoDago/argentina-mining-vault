@@ -1,7 +1,7 @@
 ---
 type: analysis
 tags: [tech-lead, business-opportunity, skeptical-review, energy, mendoza]
-sources: [[2026-04-10_news_mining_energy]], [[Oportunidades y Conexiones]]
+sources: [[2026-04-10_news_mining_energy.md]], [[Oportunidades y Conexiones]]
 confidence: high
 last_update: 2026-04-10
 ---
@@ -10,7 +10,11 @@ last_update: 2026-04-10
 
 ## Opción C: Orquestación de Microgrids Off-Grid (Bypass al ENRE)
 
-1. **Migrado a:** [[ENRE Prioridad de Despacho]] (Vector `06 Shadow APIs`). La especificación técnica del bypass regulatorio fue movida al nuevo directorio.
+1. **Idea central:** El conflicto por la prioridad de despacho en la línea de 500kV (Resolución 079/2026) entre **[[Los Azules]]** y **[[Distrito Vicuña]]** demuestra que el sistema interconectado es un activo tóxico regido por la discrecionalidad política; la oportunidad es el desarrollo de un backend de orquestación para micro-redes híbridas (Solar + Baterías + LNG-to-Power) que permita a proyectos de cobre operar con independencia total del ENRE.
+2. **Trade-offs:** Ganas soberanía operativa y eliminas el riesgo de "posición dominante" de competidores; sacrificas la eficiencia de costos del sistema interconectado (LCOE más alto) y asumes la complejidad técnica de estabilizar redes de gran escala en alta montaña.
+3. **Riesgos críticos:** **Riesgo de Capital.** El bypass al interconectado requiere un Capex inicial masivo que las mineras solo aceptarán si el conflicto en el ENRE se judicializa y paraliza la red por más de 18 meses. No compites contra Bosch o Siemens, compites contra la esperanza de la minera de que "el gobierno resuelva el conflicto".
+4. **Efectos de segundo orden:** Si el software de orquestación demuestra estabilidad, las mineras se convierten en productores independientes de energía, pudiendo vender excedentes a comunidades locales o proyectos vecinos fuera del radar del control federal, alterando el mapa de poder energético regional.
+5. **Próximo movimiento recomendado:** No vender "energía"; vender **"Seguridad de Despacho"**. El producto debe ser una capa de software que gestione el mix energético local y prediga fallos en la red interconectada para activar el modo off-grid de forma transparente. El cliente no es el jefe de mantenimiento, es el CFO que teme multas por incumplimiento de cuotas de exportación.
 
 ---
 

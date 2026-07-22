@@ -1,5 +1,19 @@
 # Log de Operaciones
 
+## [2026-07-22] sync | Ingesta masiva de 19 reportes de Jules (28 junio a 17 julio 2026) y saneamiento de ramas remotas
+- **Ingesta:** Extraídos y consolidados 18 reportes diarios crudos de noticias (`raw/2026-06-28` al `raw/2026-07-17`) y 17 reportes diarios de la wiki creados por Jules en 19 ramas remotas.
+- **Hitos Inversión & Infraestructura:**
+    - **Litio:** Avances en **Tres Quebradas** (Zijin Mining, avance constructivo y primera etapa de carbonato de litio) y **Minera Exar** (Cauchari-Olaroz alcanza capacidad nominal de 40.000 t/año y proyecta expansión a 85.000 t/año bajo RIGI). Aprobación RIGI para **Posco Fase 2** (Sal de Oro, US$ 547M) y presentación de **Sal de Vida** (Rio Tinto, US$ 818M).
+    - **Cobre:** Proyecto **Filo del Sol** y **Filo Sur** (Lundin/BHP) consolidan drilling de alta ley en el Clúster Vicuña; aprobación PEELP RIGI por US$ 9.700M. Avances en PFS de **Altar** (Aldebarán Resources, US$ 1.600M). **Los Azules** (McEwen Copper) completa IIA e ingresa al RIGI por US$ 2.672M.
+    - **Oil & Gas / Midstream:** Avances en el oleoducto **VMOS** (Vaca Muerta Oil Sur, US$ 2.486M) y Southern Energy GNL (Adani Group / Meridian). Tecpetrol alcanza récords de perforación en Fortín de Piedra (6.579 m).
+    - **Regulatorio & RIGI:** Media sanción del **Súper RIGI** para inversiones tecnológicas (>US$ 1.000M con Ganancias al 15%). Decretos 482 y 483 flexibilizan importaciones mineras y energéticas PyME.
+- **Consolidación Git & Saneamiento:**
+    - Integración de todos los reportes diarios e historias de proyecto en `main`.
+    - Depuración y eliminación segura de **19 ramas efímeras remotas de Jules** (`origin/energon-daily-*`, `origin/jules-*`).
+- **Entidades Creadas/Actualizadas:**
+    - **Creadas:** `wiki/01 Projects/Don Luis.md`, `wiki/01 Projects/Filo Sur.md`, `wiki/01 Projects/Filo del Sol.md`, `wiki/01 Projects/Minera Exar.md`, `wiki/01 Projects/Phoenix Resources.md`, `wiki/01 Projects/Tres Quebradas.md`, `wiki/01 Projects/VMOS.md`, `wiki/01 Projects/Cauchari-Olaroz Expansion.md`, reportes diarios del `2026-06-29` al `2026-07-17`.
+    - **Actualizadas:** `index.md`, `wiki/index.md`, `log.md` y 25 fichas de proyecto en `wiki/01 Projects/`.
+
 ## [2026-07-22] sync | Ingesta informes FES Argentina & Energía Estratégica 2026 y consolidación Git
 - **Ingesta:** Procesados y consolidados dos informes de mercado de energías renovables y almacenamiento en `raw/` (*FES Argentina 2026* y *Reporte Energía Estratégica*).
 - **Hitos Inversión & Infraestructura:**

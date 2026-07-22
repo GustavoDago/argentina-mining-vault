@@ -1,121 +1,130 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-23_news_mining_energy.md, 2026-04-24_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-26_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-05-08_news_mining_energy.md, 2026-05-09_news_mining_energy.md, 2026-05-10_news_mining_energy.md, 2026-05-11_news_mining_energy.md, 2026-05-14_news_mining_energy.md, 2026-05-16_news_mining_energy.md, 2026-05-20_news_mining_energy.md, 2026-05-21_news_mining_energy.md, 2026-05-25_news_mining_energy.md, 2026-05-26_news_mining_energy.md, 2026-05-27_news_mining_energy.md, 2026-05-29_news_mining_energy.md, 2026-05-30_news_mining_energy.md, 2026-05-31_news_mining_energy.md, 2026-06-01_news_mining_energy.md, 2026-06-02_news_mining_energy.md, 2026-06-03_news_mining_energy.md, 2026-06-19_news_mining_energy.md, 2026-06-20_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-07-04_news_mining_energy.md]
 confidence: high
-last_update: 2026-06-20
+last_update: 2026-07-04
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Junio 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
 
 ## Oportunidades de Negocio Identificadas
-
-1.  **Súper RIGI e Industrialización de Base (03/06/2026)**:
-    - El proyecto del **"Súper RIGI"** ya fue enviado al Congreso para traccionar inversiones superiores a **US$ 1.000 millones** en alta tecnología, hidrógeno verde y baterías de litio.
-    - *Beneficio clave:* La reducción de Ganancias al **15%** y la estabilidad a 30 años obligarán a estructurar sinergias de industrialización aguas abajo en las provincias mineras del NOA.
-
-2.  **Megaproyectos de "Big Capital" y Saturación de Servicios**:
-    - La formalización de la solicitud de Chevron para **[[Chevron|El Trapial Este]]** por **US$ 13.800 millones** y de YPF **[[Proyecto LLL Oil]]** (US$ 25.000M) consolida un Capex masivo en Vaca Muerta. Esto intensificará la demanda de frack crews (récord de **2.484 etapas de fractura** en mayo de 2026) y tratamiento de arenas.
-
-3.  **Infraestructura Eléctrica y Unificación del Regulador (ENRGE)**:
-    - La fusión de ENRE y ENARGAS en el **ENRGE** (01/06/2026) y el desarrollo de la audiencia del **3 de junio de 2026** (Res. 219/2026) por la línea de 500kV en San Juan (con 30 días para resolver oposiciones entre Los Azules y Josemaría) demuestran que el transporte eléctrico es el factor crítico de escala. Oportunidad para plantas solares *off-grid* y microrredes BESS industriales.
-
-4.  **Cobre de Alta Ley y Oficialización de San Jorge**:
-    - La aprobación del RIGI para **[[San Jorge]]** en Mendoza (Resolución 801/2026, **US$ 891M**) abre el primer play metalífero mendocino eludiendo las prohibiciones de la Ley 7722. Sumado a las leyes excepcionales en Lunahuasi, acelera las tesis de exportación directa al Pacífico.
-
-5.  **Federalización del Shale y Competitividad Provincial**:
-    - El veto del gobernador de Santa Cruz al alza de regalías mineras al 5% para proteger la competitividad provincial. Mientras tanto, Chubut crea la Dirección de Concesiones para agilizar proyectos no convencionales.
-
-6.  **Galan Lithium (HMW) y la primera producción (28/05/2026)**:
-    - La primera producción comercial de cloruro de litio de **[[Hombre Muerto Oeste|Galan Lithium]]** en Catamarca (10.000 t LCE acumuladas en pozas) confirma la transición de la Puna a escala comercial.
-
-7.  **Ganfeng Lithium - Pozuelos-Pastos Grandes**:
-    - La solicitud RIGI de Ganfeng para **[[Pozuelos - Pastos Grandes]]** en Salta con una proyección masiva de **150.000 t/año** representa la mayor apuesta de consolidación china en la región.
-
-8.  **Logística del Litio y el Canal de Sico/Jama**:
-    - Caso de éxito de Eramine exportando litio desde Salta vía Jama directo a puertos chilenos (Angamos), logrando un ahorro logístico de 10 días de navegación hacia Asia.
-
-9.  **Tokenización de Contenido Local**:
-    - Mercado de créditos y debida diligencia de cumplimiento (RIGI Compliance Ledger) para certificar el 20% obligatorio de compras locales exigido por el régimen.
-
-10. **Geotermia en Pozos Maduros (Reuso Energético)**:
-    - Reutilización de pozos convencionales abandonados en el Golfo San Jorge para proyectos de calor geotérmico de baja entalpía (heat-to-power) para campamentos mineros.
-
-11. **Des-riesgo Multilateral (Patrón IFC/BID)**:
-    - La ratificación de los acuerdos de Taca Taca y Rincón con la IFC y BID Invest consolidan las auditorías ASG como requerimiento *de facto* para la financiación por deuda corporativa.
-
-12. **Cluster de Servicios y Apertura de Mendoza**:
-    - La incorporación de Mendoza a la Mesa del Cobre y reformas regulatorias a la Ley de Glaciares habilitan la migración masiva de contratistas petroleros a minería.
-
-13. **Gobernanza Hídrica Inmutable (HydroTrust - 25/05/2026)**:
-    - Oportunidad SaaS de monitoreo hídrico IoT cifrado en origen (Blockchain) para des-riesgo legal y blindaje de licencia social en el NOA tras el fallo de Catamarca. Ver: [[HydroTrust_Puna_Hidrico]].
-
-14. **SaaS Logístico y Conectividad Andina (AndesLogistics Puna - 26/05/2026)**:
-    - Software telemático pasivo y despacho bimodal andino con Starlink integrado para coordinar tránsitos en altura sin generar fricción laboral. Ver: [[AndesLogistics_Puna_Logistica]].
-
-15. **Alineación de Repuestos para Shale (ShaleFlow Añelo - 25/05/2026)**:
-    - SaaS B2B de telemetría de fallas en bombas de fractura y ruteo automatizado con inventarios OEM de Añelo. Ver: [[ShaleFlow_Anelo_Supply]].
-
-16. **Retorno de Austrade y Servicios de Consultoría (26/05/2026)**:
-    - La reactivación de Austrade en Buenos Aires tras el récord de IED australiana de US$ 970M bajo el RIGI abre una ventana de servicios técnicos y estándares mineros globales.
-
-17. **Efecto Multiplicador del "Mini RIGI" de Jujuy**:
-    - El play de incentivos para inversiones a partir de US$ 5M atrae y formaliza pymes de servicios y mantenimiento para Exar y Sales de Jujuy.
-
-18. **RIMI y el Fortalecimiento de la Cadena de Valor**:
-    - La reglamentación del régimen RIMI para medianas inversiones brinda beneficios fiscales a proveedores estratégicos de escala media.
-
-19. **Seguridad Electrónica CASEL (20/06/2026)**:
-    - CASEL reportó un auge masivo de demanda de seguridad electrónica para blindar activos y campamentos logísticos en Añelo y provincias mineras, facilitando la creación de integradores tecnológicos locales.
-
-20. **Altar (San Juan) - Prefectibilidad (20/06/2026)**:
-    - El avance del PFS con US$ 1.600M iniciales en Calingasta abre oportunidades de servicios geológicos y campamentos en altura.
-
-21. **Adani Group - Meridian Port Services (19/06/2026)**:
-    - La entrada de operadores portuarios especializados internacionales para Southern GNL y terminal VMOS en Punta Colorada (Río Negro) consolida el rol de operadores logísticos internacionales.
+1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
+   - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
+2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
+   - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de inicio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG).
+3. **Cobre de Alta Ley: El Efecto [[Lunahuasi]]**:
+   - El reporte de leyes de hasta 18.9% Cu en Lunahuasi (Abril 2026) redefine el potencial del [[Distrito Vicuña]]. Existe una oportunidad para el desarrollo de **plantas de procesamiento modulares** y servicios de exploración de alta precisión en un área que ya es apodada el "Vaca Muerta del Cobre". Proyectos marginales pueden volverse altamente rentables si se integran en una infraestructura común de procesamiento de alta ley.
+4. **Litio: Eficiencia vs. Escala (Efecto McDermitt)**:
+   - El hallazgo en **McDermitt (EE.UU.)** presiona los precios. La oportunidad en Argentina es la **eficiencia operativa** mediante tecnologías DLE avanzadas y servicios de purificación in-situ para mantener competitividad en la curva de costos global.
+5. **Cluster de Servicios Mendoza (Tier 2/3)**:
+   - La incorporación de **[[Mendoza]]** a la Mesa del Cobre y la reforma de la **[[Ley de Glaciares]]** habilitan un nuevo mercado de servicios. Existe una demanda insatisfecha por la reconversión de proveedores petroleros hacia la minería (drilling de altura, logística pesada, servicios ambientales).
+6. **Optimización en Vaca Muerta y Federalización del Shale**:
+   - La formalización de inversiones bajo el RIGI (Pampa US$ 4.5B, Tecpetrol US$ 2.4B, Phoenix) y el anuncio de YPF en **D-129 (Chubut)** y **[[Palermo Aike]] (Santa Cruz)** abre un mercado masivo para la **transferencia tecnológica y logística de servicios petroleros** hacia la Cuenca Austral y el Golfo San Jorge. Es el inicio de la "federalización del shale".
+7. **Aluvión de Inversiones RIGI Petrolero y Decreto 105/2026**:
+   - La extensión de beneficios a todo el upstream (Decreto 105/2026) acelera proyectos de exploración en Santa Cruz y Chubut. Esto genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas.
+8. **Consolidación del NOA como Hub Surcoreano**:
+   - La adquisición de HMN por parte de **[[Posco]]** (US$ 65M) y la confirmación de que su primera planta ya opera al **70% de capacidad** (Abril 2026) consolidan a la empresa como el jugador más dinámico del litio en Salta. La oportunidad reside en la **logística transfronteriza y servicios compartidos**.
+9. **Servicios ESG y Financiamiento Multilateral**:
+   - El financiamiento de **US$ 1.175 millones** para **[[Rincón]]** (Rio Tinto) proveniente de CFI y BID Invest impone estándares ESG estrictos. Se abre un mercado de **auditoría ambiental continua, servicios de monitoreo hídrico y consultoría en relaciones comunitarias**.
+10. **RIMI y el Fortalecimiento de la Cadena de Valor**:
+    - La reglamentación del **[[RIMI]]** (Abril 2026) abre una ventana para proyectos de escala media y proveedores de servicios que no califican para el RIGI.
+11. **Transparencia Digital en San Juan**:
+    - La implementación obligatoria del **SIM (Sistema Integral Minero)** en San Juan elimina la fricción administrativa del canon minero. Representa una oportunidad para empresas de **software de compliance minero**.
+12. **Mendoza: Profesionalización ASG**:
+    - El acuerdo Impulsa Mendoza-Kobrea para estándares **ASG** y el envío de la DIA del proyecto de litio **Don Luis** a la Legislatura marcan la pauta de una Mendoza que busca liderar con rigor técnico.
+13. **Tendencia a la Autonomía Provincial**:
+    - La reforma de la Ley de Glaciares y la dinámica de adhesión al RIGI están configurando un escenario de fragmentación normativa. Esto genera una oportunidad para consultoras de asuntos públicos y legales especializadas en "federalismo de coordinación".
+14. **Recuperación del Litio y Ventana BESS (Abril 2026)**:
+    - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
+15. **Integración Logística Argentina-Chile y Telecomunicaciones**:
+    - La propuesta de cooperación bilateral (Milei-Kast) apunta a resolver cuellos de botella en la salida al Pacífico. El "apagón" de conectividad digital en el tramo chileno (18/04/2026) abre una oportunidad para **servicios de telecomunicaciones satelitales (Starlink/otros)** aplicados a la logística de camiones mineros.
+16. **Efecto Multiplicador del "Mini RIGI" (Jujuy)**:
+    - El lanzamiento de incentivos para inversiones desde **US$ 5 millones** en Jujuy abre una ventana masiva para pymes tecnológicas y de servicios mineros, formalizando la cadena de valor de Exar y Sales de Jujuy.
+17. **Previsibilidad en el Cobre (Horizonte 2029)**:
+    - La definición del año 2029 para la puesta en marcha de **[[Los Azules]]** y **San Jorge** permite a los inversores en infraestructura sincronizar sus desembolsos con el flujo de caja operativo proyectado.
+18. **Ajuste Fino del RIGI para Shale e Infraestructura (Resolución 484/2026)**:
+    - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
+19. **Industrialización de Gas (Fertilizantes)**:
+    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Exportaciones Masivas (Efecto Fundar)**:
+    - El informe de Fundar (Junio 2026) que proyecta exportaciones de **US$ 75.000 millones para 2035** (6x los niveles actuales) tracciona la necesidad de infraestructura de transporte masivo (trenes, ductos, puertos). La oportunidad es el desarrollo de **hubs logísticos polimodales**.
+21. **Súper RIGI y Nueva Industria**:
+    - El debate del Súper RIGI (Julio 2026) abre la puerta a la **fabricación local de componentes para la transición energética** (baterías, electrolizadores, paneles). Inversores tecnológicos pueden encontrar un nicho de estabilidad de 30 años en proyectos >US$ 1.000M.
 
 ## Conexiones Estratégicas y Ocultas
+Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
 
 ### Visualización de Conexiones (Mermaid)
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 140.000M en Cartera| Eval[36 Proyectos en Pipeline]
-    RIGI --> |Súper RIGI: Ganancias 15%| Ind[Industrialización: Cátodos/Baterías]
-    RIGI --> |Aprobado Mayo 2026| LosAzules[Los Azules - San Juan]
-    RIGI --> |Aprobado Mayo 2026| TGS[TGS Expansión Gasoductos]
-    RIGI --> |Aprobado Mayo 2026| SanJorge[Minera San Jorge - Mendoza]
-    RIGI --> |Aprobado Mayo 2026| Cauchari[Cauchari-Olaroz Expansión]
-    RIGI --> |Solicitud Ganfeng| PPG[Pozuelos-Pastos Grandes]
-    RIGI --> |Chevron US$ 13.800M| Chevron[Chevron El Trapial Este]
-    RIGI --> |YPF US$ 25.000M| LLL[Proyecto LLL Oil Loma La Lata]
-    RIGI --> |Pluspetrol US$ 12.000M| Plus[Bajo del Choique]
-    RIGI --> |Res. 484/2026| Profit[Rentabilidad 35%]
-    RIGI -.-> |Seguridad de Activos| SecRes[Res. 461/2026: Mesa de Seguridad]
-    RIGI -.-> |Upstream Min US$ 600M| Upstream[Upstream Shale]
-    RIGI -.-> |Prefactibilidad US$ 1.600M| Altar[Altar Cobre]
+RIGI[RIGI: Motor de Inversión] --> |US$ 5.250M Ratificado| TacaTaca[Taca Taca - Salta]
+    TacaTaca --> |Alianza 03/07| IFC[IFC - Banco Mundial]
+    RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
+    RIGI --> |Súper RIGI| NewInd[Hidrógeno/GNL/Baterías]
+    RIGI --> |US$ 97k M Totales| Total[Inversión RIGI Julio 2026]
+    LosAzules --> |Inicio 2026| Const[Construcción]
+    RIGI --> |Res. 413/2026| Veladero
+    RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
+    RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
+    RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
+    RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
+    RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
+    RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
+    RIGI --> |Decreto 105/2026| PA[Palermo Aike]
+    RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
+    RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
+    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+
+    VM --> |Modelo Replicado| PA
+    VM --> |US$ 4.500M| Pampa[Pampa Energía]
+    VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
+    VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
+    VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
+    VM --> |Acuerdo GNL| ENI[ENI - Italia]
+    VM --> |Análisis RIGI| Vista[Vista Energy]
+    TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+
+    LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
+    LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
+    Cobre --> |Leyes Récord| Lunahuasi[Lunahuasi - 18.9% Cu]
+    LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
+    Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
+    Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
+
+    Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
+    Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
+    Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
+    Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
+    Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
+    Litio --> |Presidencia Mesa| Jujuy[Jujuy]
+    Jujuy --> MiniRIGI
+    Posco --> |Capacidad| P70[70% Planta Salta]
+    Salta[Salta: Complejo Exportador #1] --> Litio
+
+    Cobre --> |Descubrimiento Récord| Lunahuasi
+    Vicuña --> Lunahuasi
+
+    PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
+    BESS[Demanda BESS China] --> |Sostiene| PriceLit
+
+    Chile[Integración con Chile] --> |Logística Pacífico| Cobre
+    Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+
+    Eval --> |Espera desde 2024| Posco
+
+    ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
+    ENRE --> |Conflicto| LosAzules
+    LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
+    SanJorge --> OpCopper
     
-    VM[Vaca Muerta] --> |Récord 2.484 Etapas Mayo| Fractura[Eficiencia Operativa]
-    VM --> |Federalización| PA[Palermo Aike / D-129]
-    VM --> |Oleoducto VMOS 60%| VMOS[VMOS Instalación Submarina]
-    VMOS -.-> |Meridian Port Services 10 años| Adani[Adani Group]
-    
-    LG[Federalismo Ambiental] --> |Justicia Catamarca Río Los Patos| Catamarca[Hombre Muerto]
-    Catamarca --> Posco[Posco - Sal de Oro / HMN]
-    Catamarca --> Arc[Arcadium/Rio Tinto - Fénix]
-    Catamarca --> Galan[Galan Lithium - HMW Primera Producción]
-    
-    Cobre[Cobre Hub] --> |Leyes Récord| Lunahuasi[Lunahuasi 18.9% Cu]
-    Cobre --> |NI 43-101 IFC| TacaTaca[Taca Taca - Salta]
-    Cobre --> |Aldebarán Resources| Altar
-    
-    ENRGE[ENRGE / Fusión ENRE-ENARGAS] --> |Audiencia 3-Junio Res 219| Vicuña[Distrito Vicuña / Josemaría]
-    ENRGE --> |Oposiciones y 30 Días| LosAzules
-    ENRGE -.-> |Bypass Energético| Microgrids[Microgrids Off-Grid]
-    
-    Logistics[Logística Puna] --> |RN 51 / Paso de Sico| Chile[Salida Pacífico / Chile]
-    Logistics --> |RN 52 / Paso de Jama| Sico[Ahorro 10 Días Eramine]
+    OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
+
+    SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza. Con una cartera RIGI que consolidó un pipeline de **US$ 140.000 millones**, la restricción crítica es de infraestructura física (línea de 500kV y unificación ENRGE, conectividad cordillerana). La Mesa del Litio y la Mesa del Cobre aceleran la integración de servicios, pero el éxito inmediato y el control de la renta dependen del bypass de los cuellos de botella burocráticos y la estabilidad en el territorio.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.

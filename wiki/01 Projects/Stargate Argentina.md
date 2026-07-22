@@ -1,25 +1,35 @@
 ---
 type: project
-tags: [tech, regulatory]
-sources: [[2026-06-15_news_mining_energy.md]]
+tags: [technology, energy, AI]
+sources: [[raw/2026-07-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-15
+last_update: 2026-07-11
 ---
 
-# Proyecto Stargate Argentina
+# Stargate Argentina
 
-**Operadoras:** OpenAI y Sur Energy.
-**Ubicación:** Argentina (Ubicación exacta bajo reserva).
-**Inversión Comprometida:** US$ 25.000 millones.
+**Stargate Argentina** es un proyecto masivo de infraestructura tecnológica para Inteligencia Artificial, anunciado por **OpenAI** en colaboración con la empresa argentina **Sur Energy**.
 
-## Descripción
-**Stargate Argentina** es un megaproyecto de infraestructura tecnológica destinado a la creación de centros de datos de escala masiva para el entrenamiento y operación de modelos de Inteligencia Artificial (IA). Es el proyecto de mayor envergadura presentado bajo el marco del [[RIGI]] fuera del sector de energía convencional y minería.
+## Detalles del Proyecto (Julio 2026)
+- **Inversión Estimada:** **US$ 25.000 millones**.
+- **Ubicación:** Patagonia Argentina (zona estratégica por clima y disponibilidad de energía renovable).
+- **Capacidad Energética:** Se proyecta un consumo de **500 MW**.
+- **Marco Regulatorio:** Presentado bajo el [[RIGI]] como Proyecto de Exportación Estratégica de Largo Plazo (PEELP).
+- **Tecnología:** Centro de datos de próxima generación para el entrenamiento y despliegue de modelos de IA a gran escala.
 
-## Detalles del Proyecto (Junio 2026)
-- **Marco Regulatorio:** Presentado bajo el Régimen de Incentivo para Grandes Inversiones ([[RIGI]]).
-- **Consumo Energético:** Se estima que requerirá una capacidad de generación eléctrica dedicada para alimentar los clústeres de cómputo.
-- **Impacto:** Posiciona a Argentina como un hub regional de IA, aprovechando los incentivos fiscales y la disponibilidad de recursos energéticos para el enfriamiento y operación de los sistemas.
+## Importancia Estratégica
+1. **Hub Regional:** Posiciona a Argentina como el líder en infraestructura de IA en América Latina.
+2. **Tracción de Inversiones:** Es la mayor inversión digital en la historia del país.
+3. **Consumo de Energía Limpia:** Sur Energy proveerá energía de fuentes renovables (Eólica/Hidroeléctrica), alineándose con los objetivos de descarbonización de OpenAI.
+4. **Sinergia con Minería:** La demanda de 500MW impulsa indirectamente la necesidad de producción de [[Cobre]] para la infraestructura de red.
+
+## Riesgos y Desafíos
+- **Estabilidad de Red:** Requiere una conexión de alta confiabilidad al SADI.
+- **Enfriamiento:** Aunque el clima de la Patagonia ayuda, el manejo hídrico y térmico de tal escala es un desafío de ingeniería mayor.
+- **Dependencia Regulatoria:** La viabilidad total depende de la continuidad de los beneficios del [[RIGI]].
 
 ## Conexiones
 - [[RIGI]]
+- [[Vaca Muerta]] (Soporte energético gasífero de respaldo)
+- [[Cobre]]
 - [[Energia]]

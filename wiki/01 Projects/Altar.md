@@ -1,30 +1,31 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-06-20_news_mining_energy.md]]
+sources: [[2026-06-28_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-20
+last_update: 2026-06-28
 ---
 
-# Altar
+# Proyecto Altar (Cobre & Oro)
 
-Altar es un proyecto de cobre, oro y plata de clase mundial ubicado en el departamento de Calingasta, provincia de San Juan, cerca de la frontera con Chile.
+**Ubicación:** Calingasta, San Juan, Argentina.
+**Operadora:** Aldebaran Resources.
 
-## Resumen del Proyecto (Junio 2026)
-- **Operadora:** Aldebarán Resources.
-- **Inversión Estimada:** **US$ 1.600 millones** para la fase inicial.
-- **Estado:** Avanzando hacia el estudio de prefactibilidad (PFS) tras finalizar una campaña de perforación de 24.000 metros.
-- **Régimen Legal:** La empresa planea adherir al [[RIGI]] entre fines de 2026 y principios de 2027.
+## Descripción
+Altar es un importante depósito de pórfidos de cobre y oro situado en la región de los Andes, en la provincia de San Juan.
 
-## Características Técnicas
-- **Geología:** Yacimiento de pórfido de cobre con contenidos significativos de oro y plata.
-- **Vida Útil:** Proyectada en 48 años.
-- **Método de Explotación:** Diseño mixto. Comenzará con minería a cielo abierto y migrará a minería subterránea mediante *block caving* en etapas posteriores para optimizar costos y acceso al recurso.
+## Estado Actual (2026)
+- **Fase:** Actualmente se encuentra en la etapa de **Estudio de Prefactibilidad (PFS)** tras completar exitosamente una campaña de perforación de 24.000 metros.
+- **Inversión Confirmada:** La operadora confirmó una inversión de **US$ 1.600 millones** para avanzar hacia la construcción.
+- **RIGI:** El proyecto es un candidato firme para el ingreso al [[RIGI]] una vez concluido el PFS para garantizar la viabilidad del financiamiento internacional.
 
-## Relevancia Estratégica
-Se posiciona como uno de los activos clave dentro del corredor cuprífero de San Juan, junto a [[Los Azules]] y [[El Pachón]]. Su desarrollo en etapas busca mitigar riesgos financieros iniciales y maximizar el valor del recurso a largo plazo.
+## Hitos Recientes
+- **Junio 2026:** Identificado por Bain & Company como uno de los proyectos que integran el clúster de 1.8 Mtpa de cobre potencial en Argentina.
+- **Geología:** Se destaca por leyes de cobre competitivas y una significativa presencia de oro como subproducto.
 
 ## Conexiones
-- Provincia: [[San Juan]]
-- Recurso: [[Cobre]]
-- Marco: [[RIGI]]
+- [[Cobre]]
+- [[San Juan]]
+- [[RIGI]]
+- [[Pachón]]
+- [[Los Azules]]

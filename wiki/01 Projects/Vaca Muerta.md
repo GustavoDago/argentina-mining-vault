@@ -1,63 +1,47 @@
 ---
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-15_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-17_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-24_news_mining_energy]], [[2026-04-25_news_mining_energy]], [[2026-04-27_news_mining_energy]], [[2026-05-02_news_mining_energy]], [[2026-05-06_news_mining_energy]], [[2026-05-08_news_mining_energy]], [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-16_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-25_news_mining_energy]], [[2026-05-26_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-02_news_mining_energy]], [[2026-06-03_news_mining_energy]], [[2026-06-08_news_mining_energy]], [[2026-06-09_news_mining_energy]], [[2026-06-11_news_mining_energy]], [[2026-06-12_news_mining_energy]], [[2026-06-13_news_mining_energy]], [[2026-06-14_news_mining_energy]], [[2026-06-15_news_mining_energy]], [[2026-06-16_news_mining_energy]], [[2026-06-17_news_mining_energy]], [[2026-06-18_news_mining_energy]], [[2026-06-19_news_mining_energy]], [[2026-06-20_news_mining_energy]], [["https://econojournal.com.ar/2026/05/se-viene-una-nueva-edicion-del-midstream-gas-day-inversion-en-infraestructura-y-la-nueva-realidad-del-mercado-del-gas/"]]
 type: project
 tags: [energy, oil-gas]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-07-04_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-20
+last_update: 2026-07-04
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources, Chevron, Pluspetrol, [[Compañía MEGA]], [[Oldelval]].
+**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
 
 ## Panorama 2026
-El yacimiento de shale de clase mundial continúa consolidándose como el motor energético y principal generador de divisas del país gracias al paraguas legal del [[RIGI]]. La producción no convencional representa actualmente el **70% del total nacional de crudo**, evidenciando un retroceso sostenido de las cuencas convencionales.
+El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-## Eficiencia y Récords (Mayo - Junio 2026)
-- **Récord Upstream 1T 2026:** Inversión trimestral de **US$ 1.370 millones** entre YPF, Vista y Pampa. Vista lideró con un margen EBITDA del 52,1%.
-- **Récord YPF:** Producción histórica de **200.000 bpd (barriles por día)** de shale oil el 8 de mayo de 2026.
-- **Récord Histórico Nacional (Abril 2026):** La producción nacional de petróleo alcanzó en abril de 2026 los **880.434 barriles diarios** (el mayor registro histórico del país), con la Cuenca Neuquina aportando más del 78% del total.
-- **Récord de Producción Shale (Abril 2026):** Vaca Muerta alcanzó los **628.924 barriles diarios** de petróleo, consolidando un aumento interanual superior al **36%**.
-- **Participación del Shale Gas:** El gas shale representa el 53,2% de la producción total nacional (141,3 millones de m3/d). Un pozo de Pampa Energía en Rincón de Mangrullo superó los 1,3 millones de m3/d de gas en junio de 2026.
-- **Récord de Fractura (Mayo 2026):** Vaca Muerta alcanzó **2.484 etapas de fractura** en mayo de 2026, consolidándose como el tercer mejor registro histórico de la cuenca. YPF lideró la actividad con más de 1.100 etapas, seguido de Vista y Pampa.
-- **Proyecciones:** Se estima cerrar el año 2026 rozando un output general de **900.000 bpd**.
+### Estadísticas de Producción (Abril 2026)
+- **Shale Oil:** Crecimiento del **39,2% interanual**, totalizando 2.915,3 miles de m³.
+- **Petróleo Crudo Total:** Incremento del **19,1%** (4.215,0 miles de m³).
+- **Dominio No Convencional:** El shale ya representa casi el **70%** de la producción nacional.
+- **Gas Natural:** Crecimiento moderado del **2,8%** interanual (4.218,2 millones de m³), liderado por el no convencional (+12,2%).
 
-## Hitos y Cronología 2026
-- **Inversión TGS LGN (18/06/2026):** TGS aprobó una inversión de **US$ 3.000 millones** para transformar el gas de Vaca Muerta en exportaciones de Líquidos de Gas Natural (LGN), proyectando exportaciones por US$ 1.200 millones anuales.
-- **Alianza YPF & Mercedes-Benz (18/06/2026):** Alianza estratégica con foco en Vaca Muerta y movilidad de futuro.
-- **Acuerdo YPF & Tesla (17/06/2026):** Acuerdo para desarrollar una red de carga para vehículos eléctricos y almacenamiento de energía (baterías y centros de datos) en Argentina.
-- **Integración Energética Neuquén-Chile (15/06/2026):** Firma de declaraciones conjuntas para el Corredor Pichachén. Se proyecta una plataforma de licuefacción en Biobío para exportar gas de Vaca Muerta a Asia.
-- **Inversión Tecpetrol (15/06/2026):** Confirmó una inversión de **US$ 1.400 millones** para 2026, incluyendo US$ 1.000 millones en Los Toldos II Este (shale oil) y US$ 350-400 millones para Fortín de Piedra (gas).
-- **Pluspetrol "Vaca Muerta Liquids" (13/06/2026):** Lanzó el megaproyecto de procesamiento y exportación de líquidos del gas por **US$ 2.000 millones** (incluyendo poliducto de 600 km y terminal).
-- **Midstream & Gas Day 2026 (06/06/2026):** Presentación del estado de obras críticas e industrialización antes del pico invernal. Se trataron las expansiones en NGL de [[Compañía MEGA]] y [[TGS]], la evacuación de petróleo de [[Oldelval]] y [[Vaca Muerta Sur]] (VMOS), la desregulación mayorista y la irrupción de la demanda energética para **[[Demanda Energetica de Data Centers e IA|Data Centers e Inteligencia Artificial]]**.
-- **Aluvión de Inversiones RIGI:** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
-- **RIGI - Vista Energy (01/06/2026):** Vista confirmó que presentará dos proyectos de upstream al RIGI buscando acelerar el desarrollo en sus bloques de la cuenca.
-- **Inversión de Harold Hamm (02/06/2026):** La provincia de Río Negro inició negociaciones con **Continental Resources** (Harold Hamm) para operar un bloque en su porción de Vaca Muerta, atrayendo know-how y capital de primer nivel.
-- **Expansión del RIGI al Upstream y Prórroga (18/04/2026 - Oficializado Junio 2026):** El Decreto 105/2026 oficializó la inclusión del segmento upstream (exploración y producción) en el [[RIGI]], fijando una inversión mínima de **US$ 600 millones** para proyectos no convencionales (shale) con el objetivo de acelerar el perfil exportador, extendiendo los beneficios fiscales y oficializando la prórroga de adhesión por un año (hasta julio de 2027).
-- **Megaproyecto Pluspetrol (17/05/2026):** Solicitud RIGI de **US$ 12.000 millones** para Bajo del Choique–La Invernada. Meta: 100.000 bpd.
-- **Barcaza GNL en Río Negro (17/05/2026):** PAE y Golar LNG (**[[Southern Energy]]**) confirmaron inversión de **US$ 6.900 millones** para la barcaza de licuefacción flotante en el Golfo San Matías.
-- **Megaproyecto YPF "LLL Oil" (19/05/2026):** YPF formalizó la solicitud RIGI para su mega-proyecto de shale oil **[[Proyecto LLL Oil]]** (Loma La Lata - Sierra Barrosa) por un Capex de **US$ 25.000 millones** a 15 años, contemplando perforar 1.152 pozos.
-- **Megaproyecto Chevron (03/06/2026):** Chevron presentó formalmente su solicitud RIGI por **US$ 13.800 millones** para operar de forma exclusiva El Trapial Este (Neuquén), consolidándose como la segunda mayor inversión en la historia de Vaca Muerta.
-- **Aprobación RIGI TGS (21/05/2026):** **[[TGS]]** obtuvo luz verde formal para la ampliación del Tramo I del **Gasoducto Perito Moreno** y gasoductos por **US$ 700 millones** de inversión aprobada.
-- **Actualización Técnica de Transporte (26/05/2026):** Se dictó la **Resolución 119/2026**, que actualiza las normas técnicas para transporte de hidrocarburos líquidos por cañerías incorporando los estándares ASME B.31.4 2024.
+### Hitos Recientes (Mayo - Julio 2026)
+- **Aprobación RIGI #20 - Rincón de Aranda (30/06/2026):** El Gobierno oficializó el ingreso de [[Pampa Energía]] al régimen con una inversión de **US$ 4.521 millones**. El proyecto apunta a producir 305 millones de barriles en 30 años.
+- **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
+- **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
+- **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
+- **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
+- **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
+- **Proyecciones de Inversión 2026-2035 (19/04/2026):** La CEPH proyecta **US$ 170.000 millones** de inversión total para la década, con el objetivo de superar el millón de barriles diarios hacia 2030.
+- **Expansión del RIGI al Upstream (18/04/2026):** El Decreto 105/2026 extendió los beneficios del [[RIGI]] a todo el segmento del upstream de petróleo y gas, impulsando proyectos fuera del foco central de Añelo.
+- **Traspaso de Activos (18/04/2026):** La provincia de Neuquén autorizó la transferencia de las áreas Aguada Villanueva, Meseta Buena Espera y Las Tacanas desde Pluspetrol a favor de **YPF**.
+- **Desempeño Industrial (16/04/2026):** El IPI minero (INDEC) mostró un avance del 4,4% interanual en el primer bimestre, impulsado por el dinamismo de Vaca Muerta.
+- **Expansión a Nuevas Fronteras (Abril 2026):** YPF confirmó la aceleración de la exploración en **[[Palermo Aike]]** (Santa Cruz) y el inicio de exploraciones en la formación **D-129** (Chubut), buscando replicar el modelo de eficiencia de Vaca Muerta en otras cuencas.
+- **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
+- **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
+- **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Oil Sur (VMOS):** Avance del **65% de progreso físico** (Junio 2026). Instalados componentes submarinos clave (cadenas y anclas) frente a Punta Colorada. YPF evalúa planes de contingencia para iniciar exportaciones en enero de 2027 ante el conflicto en Medio Oriente.
-- **Gasoducto Perito Moreno:** Ampliación priorizada por TGS para canalizar 14 MMm3/día adicionales de shale gas hacia el sistema metropolitano.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos de YPF para el hub flotante de licuefacción en Río Negro.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **59% de avance** al 1 de julio de 2026. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
+- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
 
 ## Conexiones
 - [[RIGI]]
 - [[Energia]]
 - [[Neuquén]]
 - [[Palermo Aike]]
-- [[TGS]]
-- [[Mineria]]
-- [[Proyecto LLL Oil]]
-- [[Vaca Muerta Sur]]
-- [[Compañía MEGA]]
-- [[Oldelval]]
-- [[Demanda Energetica de Data Centers e IA]]
-- [[Electromovilidad]]
-- [[Vista Energy]]

@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [mining, energy, regulatory]
-sources: [[2026-04-10_news_mining_energy]], [[2026-04-16_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-05-08_news_mining_energy]]
+sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-08
+last_update: 2026-04-20
 ---
 
 # Ley de Glaciares (Reforma 2026)
@@ -20,9 +20,8 @@ La reforma de la Ley 26.639 representa un cambio fundamental en el federalismo a
 - **Competencia Provincial:** Las provincias, como titulares del dominio originario de sus recursos (Art. 124 CN), tienen la autoridad para identificar, proteger y administrar sus reservas hídricas.
 - **Seguridad Jurídica:** El nuevo marco normativo busca eliminar "distorsiones ideológicas" y trabas que impedían el progreso, unificando criterios con los estándares internacionales de minería responsable.
 
-## Impacto Inmediato (Mayo 2026)
-- **Hito Judicial en Catamarca (08/05/2026):** La Corte de Justicia de Catamarca levantó definitivamente la medida cautelar sobre la cuenca del Río Los Patos. El fallo valida los estudios de impacto ambiental acumulativo realizados por la provincia y habilita la expansión de proyectos clave como Arcadium y Posco.
-- **Validación Judicial y Autonomía (18/04/2026):** El fallo inicial de la Corte de Catamarca sobre el **Río Los Patos** fue el primer gran test post-reforma.
+## Impacto Inmediato (Abril 2026)
+- **Validación Judicial y Autonomía (18/04/2026):** El fallo de la Corte de Catamarca sobre el **Río Los Patos** es el primer gran test post-reforma. Al avalar estudios provinciales sobre impactos acumulativos, la justicia ratifica la tendencia hacia la validación de controles locales sobre estándares nacionales centralizados.
 - **Ratificación de Autonomía (Abril 2026):** Se profundiza la tendencia hacia la fragmentación normativa, donde cada provincia asume la definición de criterios regulatorios en áreas de alta montaña. Esta mayor autonomía es clave para la viabilidad técnica de los nuevos proyectos ratificados bajo el RIGI.
 - **Riesgo de Fragmentación:** Analistas advierten que la disparidad en la rigurosidad de los controles entre provincias podría generar un escenario de "competencia regulatoria" para atraer inversiones.
 - **Desbloqueo de Proyectos:** Se estima que la reforma destraba inversiones por más de **US$ 30.000 millones** en proyectos de cobre y oro que estaban frenados por la incertidumbre normativa, especialmente en San Juan (Pachón, Los Azules) y Salta (Taca Taca).

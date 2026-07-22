@@ -1,7 +1,7 @@
 ---
 type: daily
 tags: [mining, energy, reporting]
-sources: [[2026-04-08_news_mining_energy]]
+sources: [[2026-04-08_news_mining_energy.md]]
 confidence: high
 last_update: 2026-04-08
 ---

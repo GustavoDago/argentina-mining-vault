@@ -1,34 +1,34 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-14_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[2026-05-19_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-06-01_news_mining_energy]], [[2026-06-03_news_mining_energy]], [["https://econojournal.com.ar/2026/05/se-viene-una-nueva-edicion-del-midstream-gas-day-inversion-en-infraestructura-y-la-nueva-realidad-del-mercado-del-gas/"]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-06
+last_update: 2026-04-20
 ---
 
-# TGS Vaca Muerta (Industrialización y Transporte)
+# TGS Vaca Muerta (Industrialización)
 
 **Compañía:** Transportadora de Gas del Sur (TGS).
-**Inversión Total:** **US$ 3.750 millones** (Incluye la ampliación del Gasoducto Perito Moreno).
-**Proyecto:** Planta de industrialización y exportación de líquidos de gas natural (Complejo General Cerri) y expansión de infraestructura mayor de transporte en Vaca Muerta.
+**Inversión Total:** **US$ 3.000 millones**.
+**Proyecto:** Proyecto de industrialización y exportación de líquidos del gas natural (Etano, GLP, Gasolina).
 
 ## Descripción
-**TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta (separación de GLP, Etano y Gasolina) y la expansión de la capacidad de transporte para evacuar la producción no convencional no restringida.
+**TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta. El proyecto se centra en la separación e industrialización de líquidos para exportación a gran escala.
 
-## Hitos Recientes (Mayo - Junio 2026)
-- **Midstream & Gas Day 2026 (06/06/2026):** El CEO Oscar Sardi participó del panel sobre Líquidos de Gas Natural (NGL), ratificando que la industrialización y procesamiento de gas natural en origen representa el paso fundamental para capturar valor y expandir la cadena de Vaca Muerta.
-- **Ajuste de Tarifas de Gas (01/06/2026):** El recién unificado Ente Nacional Regulador del Gas y la Electricidad (**ENRGE**) oficializó un aumento del **2,81%** en las tarifas de gas natural a nivel nacional para el mes de junio, lo que mejora la rentabilidad y flujo operativo regulado de TGS.
-- **Aprobación RIGI - Gasoducto Perito Moreno (21/05/2026):** El Gobierno nacional oficializó la aprobación de ingreso al RIGI del proyecto de TGS para la ampliación del Tramo I del **Gasoducto Perito Moreno** (ex Néstor Kirchner). La inversión asciende a **US$ 550 millones** de base más **US$ 200 millones complementarios**.
-- **Impacto del Gasoducto:** Esta obra de compresión y tendido permitirá adicionar de forma inmediata **14 millones de m³/día (MMm³/día)** de capacidad de evacuación de gas natural desde la cuenca neuquina al anillo metropolitano.
-- **Planta Separadora de Líquidos:** Se mantiene firme la inversión de **US$ 3.000 millones** bajo RIGI para el sistema de licuación y separación de gas natural en Cerri.
+## Hitos Recientes (2026)
+- **Consolidación del Proyecto (20/04/2026):** Se reafirmó el anuncio de inversión de **US$ 3.000 millones** para la planta de procesamiento y exportación de líquidos de gas natural, aprovechando la infraestructura de Vaca Muerta.
+- **Infraestructura de Transporte (14/04/2026):** Inicio de la ampliación del **Gasoducto Perito Moreno** y habilitación de nueva capacidad de transporte para evacuar el gas de la cuenca.
+- **Argentina Week (13/04/2026):** El CEO de TGS ratificó en Nueva York el plan de inversión de **US$ 3.000 millones** para la planta separadora de gas, destacando el marco del [[RIGI]].
+- **Ratificación de Inversión (11/04/2026):** Se confirmó el plan de inversión de **US$ 3.000 millones** para industrializar y exportar líquidos derivados del gas, aprovechando la extensión del [[RIGI]].
+- **Adhesión al RIGI (Abril 2026):** Proyecto aprobado bajo el [[RIGI]] con una inversión de **US$ 3.000 millones**.
+- **Infraestructura:** Proceso de ampliación de la planta de Tratamiento de Gas y el Complejo General Cerri.
 
 ## Objetivo Estratégico
 - Maximizar el valor de la producción de [[Vaca Muerta]] exportando productos terminados en lugar de gas en bruto.
-- Generación de ingresos netos por exportaciones industriales de alto valor agregado y desbloqueo de capacidad ocluida de transporte.
+- Generación de ingresos netos por exportaciones industriales de alto valor agregado.
 
 ## Conexiones
 - [[Vaca Muerta]]
 - [[RIGI]]
 - [[Energia]]
 - [[Neuquén]]
-- [[Cuello de Botella Electrico San Juan]]
