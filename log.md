@@ -1,5 +1,19 @@
 # Log de Operaciones
 
+## [2026-07-22] sync | Ingesta informes FES Argentina & Energía Estratégica 2026 y consolidación Git
+- **Ingesta:** Procesados y consolidados dos informes de mercado de energías renovables y almacenamiento en `raw/` (*FES Argentina 2026* y *Reporte Energía Estratégica*).
+- **Hitos Inversión & Infraestructura:**
+    - **Sistemas de Almacenamiento (BESS):** Consolidados los resultados de la licitación **AlmaGBA** (713 MW adjudicados a USD 11.337/MW-mes promedio con >US$ 540M de inversión) y la nueva licitación en marcha **AlmaSADI** (700-770 MW BESS por US$ 700M en nodos críticos nacional con contratos a 15 años).
+    - **Reestructuración Regulatoria (Res. SE 400/2025):** Transición a contratos bilaterales privados en el MATER (3.646 MW con prioridad de despacho), eliminando el rol de CAMMESA como offtaker para nuevas renovables.
+    - **Obras de Transmisión Privada (Decreto 921/2025):** Concesiones de obra pública por tarifa regulada para **AMBA I** (>500 km), **LT 500 kV Río Diamante – O'Higgins** (Cuyo) y **LT 500 kV Puerto Madryn – Bahía Blanca** (Patagonia).
+    - **Infraestructura Minera:** Alianza YPF Luz y Central Puerto para desarrollar una línea de transmisión de 140 km dedicada a los salares de litio y minas de cobre en la Puna. Adhesión RIGI del parque solar El Quemado (305 MW).
+- **Consolidación Git & Saneamiento:**
+    - Eliminación de archivos planos temporales de inspección (`raw_empresas.txt`, `raw_fes.txt`, `raw_fes_clean.txt`).
+    - Depuración de 7 ramas remotas efímeras de Jules integradas en `main` (`origin/daily-update-2026-06-25-*`, `origin/energon-daily-2026-06-21-*`, `origin/energon-daily-2026-06-22-*`, `origin/energon-daily-2026-06-24-*`, `origin/energon-daily-2026-06-26-*`, `origin/energon-daily-2026-06-27-*`, `origin/setup-obsidian-*`).
+- **Entidades Creadas/Actualizadas:**
+    - **Creadas:** `wiki/02 Frameworks/Renovables_y_BESS.md`, `wiki/01 Projects/YPF_Luz.md`, `wiki/04 Daily/2026-07-22_Daily_Report.md`.
+    - **Actualizadas:** `index.md`, `wiki/index.md`, `log.md`.
+
 ## [2026-07-06] design-thinking | Fase 1 (Empatizar) - Mapeo de Puntos de Dolor 2026
 - **Actividad:** Ejecutado el análisis estructurado de empatía sobre la carpeta `raw/` y la wiki existente. Posterior purga de referencias a análisis y oportunidades de negocio para alinear el mapa estrictamente al diagnóstico de problemas empíricos de `raw/`.
 - **Hitos de Diagnóstico:**

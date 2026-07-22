@@ -57,12 +57,14 @@
 - [[Veladero]]
 - [[Vista Energy]] [NEW]
 - [[YPF]] [NEW]
+- [[YPF_Luz]] [NEW]
 
 ## 02 Frameworks
 - [[Corredor Bioceanico]]
 - [[ENRGE]] [NEW]
 - [[Ley de Glaciares]]
 - [[Pre-Mortem Framework]] [NEW]
+- [[Renovables_y_BESS]] [NEW]
 - [[RIGI]]
 - [[RIMI]]
 - [[Sinergias Logisticas Puna]]
@@ -79,6 +81,7 @@
 - [[Super RIGI e Industrializacion]]
 
 ## 04 Daily
+- [[2026-07-22_Daily_Report]] [NEW]
 - [[2026-06-20_Daily_Report]] [NEW]
 - [[2026-06-19_Daily_Report]] [NEW]
 - [[2026-06-18_Daily_Report]] [NEW]

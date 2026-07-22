@@ -6,10 +6,12 @@
 - **Cobre:** [[Los Azules]], [[Taca Taca]], [[El Pachón]], [[Josemaría]], [[MARA]] (Nuevo), [[Pachón]] (Nuevo), [[La Coipita]] (Nuevo), [[Altar]] (Nuevo).
 - **Litio:** [[Rincón]], [[Posco]], [[Sal de Vida]] (Nuevo), [[Cauchari-Olaroz]] (Nuevo), [[Pozuelos - Pastos Grandes]] (Nuevo).
 - **Oil & Gas:** [[Vaca Muerta]], [[Proyecto LLL Oil]] (Nuevo), [[Palermo Aike y Nuevas Fronteras No Convencionales]], [[Compañía MEGA]] (Nuevo), [[Oldelval]] (Nuevo), [[San Patricio del Chañar]] (Nuevo), [[Aguada del Chañar]] (Nuevo), [[Vista Energy]] (Nuevo).
+- **Energía & Renovables:** [[YPF_Luz]] (Nuevo).
 - **Tecnología e IA:** [[Stargate Argentina]] (Nuevo).
 
 ### 📜 [[02 Frameworks|Marcos y Conceptos]]
 - [[RIGI]] (Régimen de Incentivo para Grandes Inversiones)
+- [[Renovables_y_BESS]] (Nuevo)
 - [[Corredor Bioceanico]]
 - [[Ley de Glaciares]]
 - [[Energía Geotérmica]] (Nuevo)
@@ -23,6 +25,7 @@
 - [[Reconversión Pozos Petroleros a Geotermia]] (Nuevo)
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
+- [[2026-07-22_Daily_Report]] (Nuevo)
 - [[2026-06-28_Daily_Report]] (Nuevo)
 - [[2026-06-20_Daily_Report]] (Nuevo)
 - [[2026-06-19_Daily_Report]] (Nuevo)
@@ -42,5 +45,5 @@
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-06-28*
+*Última actualización: 2026-07-22*
 
