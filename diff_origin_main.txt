@@ -1,0 +1,506 @@
+diff --git a/diff_files.txt b/diff_files.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/git_status.txt b/git_status.txt
+new file mode 100644
+index 0000000..df45352
+--- /dev/null
++++ b/git_status.txt
+@@ -0,0 +1,15 @@
++A  diff_files.txt
++A  raw/2026-07-23_news_mining_energy.md
++M  "wiki/01 Projects/Catamarca.md"
++M  "wiki/01 Projects/Litio.md"
++M  "wiki/01 Projects/Pampa Energ\303\255a.md"
++M  "wiki/01 Projects/Salta.md"
++M  "wiki/01 Projects/Taca Taca.md"
++M  "wiki/01 Projects/Tres Quebradas.md"
++M  "wiki/01 Projects/Vaca Muerta.md"
++M  "wiki/01 Projects/Vista Energy.md"
++M  "wiki/02 Frameworks/RIGI.md"
++M  "wiki/03 Analysis/Oportunidades y Conexiones.md"
++A  "wiki/04 Daily/2026-07-23_Daily_Report.md"
++M  wiki/index.md
++?? git_status.txt
+diff --git a/raw/2026-07-23_news_mining_energy.md b/raw/2026-07-23_news_mining_energy.md
+new file mode 100644
+index 0000000..cc9d3de
+--- /dev/null
++++ b/raw/2026-07-23_news_mining_energy.md
+@@ -0,0 +1,28 @@
++# News Mining & Energy - 2026-07-23
++
++## Vaca Muerta (Oil & Gas)
++- **Solicitud de Vista Energy para Adhesión al RIGI con un Proyecto de US$ 5.800 Millones (21/07/2026):**
++  - Vista Energy, la compañía liderada por Miguel Galuccio, anunció formalmente la presentación de la solicitud de adhesión al Régimen de Incentivo para Grandes Inversiones (RIGI) para el desarrollo del bloque Bandurria Norte, en Vaca Muerta. El proyecto prevé una inversión masiva de **u$s 5.800 millones**.
++  - Bandurria Norte es un área de 26.500 acres operada al 100% por Vista. Actualmente no cuenta con pozos en producción, por lo que su desarrollo marcará la puesta en marcha de un activo completamente nuevo y la primera operación de Vista fuera de su actual hub productivo de Añelo (Bajada del Palo Oeste).
++  - El proyecto contempla la perforación y completación de **332 nuevos pozos** horizontales con el objetivo de alcanzar una producción aproximada de **50.000 barriles equivalentes de petróleo por día (boe/d)**.
++  - Además, contempla importantes inversiones en infraestructura de tratamiento y evacuación: una batería con capacidad para procesar alrededor de **40.000 barriles de petróleo diarios**, una estación compresora de gas, y nuevos oleoductos y gasoductos de interconexión con las redes troncales.
++
++- **Aprobación Oficial del Proyecto Rincón de Aranda de Pampa Energía bajo el RIGI (21/07/2026):**
++  - En la misma fecha, el Gobierno nacional aprobó formalmente el ingreso al RIGI del proyecto de desarrollo del bloque **Rincón de Aranda** de Pampa Energía S.A., con una inversión total comprometida de **u$s 4.500 millones** (u$s 4.521 millones exactos según las declaraciones juradas del VPU).
++  - La aprobación de este proyecto (Proyecto #22 del RIGI) destraba los desembolsos de la compañía liderada por Marcelo Mindlin, enfocada en transformar este bloque petrolero clave de la Cuenca Neuquina para triplicar su producción no convencional mediante pozos de rama horizontal extendida.
++
++## Litio (Lithium) & RIGI
++- **Aprobación Oficial del Proyecto de Litio Tres Quebradas en el RIGI como Proyecto #21 (14/07/2026):**
++  - El ministro de Economía, Luis Caputo, anunció formalmente la aprobación bajo el RIGI del proyecto minero en el Salar **Tres Quebradas**, en Fiambalá, Catamarca, operado por la subsidiaria local LIEX S.A., perteneciente al grupo chino Zijin Mining.
++  - La iniciativa contempla un desembolso total de **u$s 709 millones** para la Fase 2 de su planta de producción de carbonato de litio grado batería, con el objetivo de sumar **40.000 toneladas anuales** adicionales (para alcanzar un total de 60.000 t/año de capacidad combinada).
++  - El proyecto generará ingresos de exportación por aproximadamente **u$s 400 millones anuales** con una vida útil estimada de más de 19 años. Incluye la perforación de pozos de salmuera, ductos, sistemas de purificación y obras viales e hidráulicas asociadas.
++
++## Cobre (Copper)
++- **Avances Técnicos de Infraestructura en Taca Taca (First Quantum, Salta):**
++  - Técnicos de la Secretaría de Minería y Energía de Salta y de la empresa concesionaria Corriente Argentina S.A. (filial de First Quantum) mantuvieron intensas reuniones de trabajo para revisar la planificación de infraestructura del megaproyecto de cobre, oro y molibdeno **Taca Taca** (potencial inversión total de **u$s 5.250 millones**).
++  - En los encuentros se detallaron los diseños de la ruta de acceso vial, los estudios geotécnicos e informes de la escombrera y el dique de colas. Asimismo, se expusieron los excelentes resultados de la campaña de exploración de agua, demostrando caudales sólidos y alta capacidad de recarga por precipitación, asegurando el recurso de agua de uso industrial y de salmuera sin afectar las fuentes locales.
++
++- **Proyecciones de Exportación y Estadísticas de Minería y RIGI (Julio 2026):**
++  - Según datos de la Cámara Argentina de Empresas Mineras (CAEM), el sector minero se encamina a cerrar 2026 con exportaciones récord de **u$s 9.000 millones**, lo que representa un espectacular salto del **+49% interanual** respecto de los u$s 6.056 millones de 2025.
++  - La mitad de los proyectos mineros aprobados bajo el RIGI corresponden al litio. Al 17 de julio de 2026, de los 21 proyectos aprobados por el Comité Evaluador (por un total de **u$s 46.700 millones**), 12 corresponden al sector minero, de los cuales 6 son de litio (Tres Quebradas, Fénix expansión, Hombre Muerto Oeste, etc.), mientras que los otros 6 se reparten entre cobre, oro y plata.
++  - Con la posterior aprobación de Rincón de Aranda de Pampa Energía el 21 de julio por u$s 4.500 millones, el acumulado oficial de proyectos RIGI aprobados escala a **22 proyectos** por un total de **u$s 51.221 millones**.
+diff --git a/wiki/01 Projects/Catamarca.md b/wiki/01 Projects/Catamarca.md
+index 474699f..b8bcdc6 100644
+--- a/wiki/01 Projects/Catamarca.md
++++ b/wiki/01 Projects/Catamarca.md
+@@ -1,9 +1,9 @@
+ ---
+ type: project
+ tags: [mining, lithium]
+-sources: [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]]
++sources: [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-07-17
++last_update: 2026-07-23
+ ---
+
+ # Catamarca
+@@ -12,7 +12,7 @@ Catamarca es el corazón histórico de la minería de litio en Argentina.
+
+ ## Hitos Recientes (2026)
+ - **Fricción de Compre Local y RIGI (17/07/2026):** Tras la aprobación de proyectos de litio en el RIGI como [[Tres Quebradas]] (u$s 709M), los operadores alertan sobre un cuello de botella regulatorio derivado de la superposición de marcos de compre local. El [[RIGI]] nacional exige que un **mínimo de 20%** de la inversión se destine a proveedores de origen nacional, mientras que la ley provincial de Catamarca impone un estricto **70%** de mano de obra, contratos de servicios e insumos locales inscriptos en el REPEM. La saturación y baja especialización de los proveedores catamarqueños locales en alta montaña pone en riesgo los cronogramas operativos de los megaproyectos.
+-- **Adhesión Tres Quebradas (14/07/2026):** El Gobierno nacional aprobó el ingreso al [[RIGI]] del proyecto [[Tres Quebradas]] (LIEX/Zijin) con una inversión de **US$ 709 millones**.
++- **Adhesión Tres Quebradas (14/07/2026):** El Gobierno nacional aprobó el ingreso al [[RIGI]] del proyecto [[Tres Quebradas]] (LIEX/Zijin) con una inversión de **US$ 709 millones**. El proyecto (Hito #21 del RIGI) prevé construir una planta para sumar **40.000 toneladas anuales** de carbonato de litio grado batería, con exportaciones estimadas en **u$s 400 millones anuales**.
+ - **Levantamiento de Cautelar Río Los Patos (27/04/2026):** La ratificación judicial sobre la cuenca del Río Los Patos valida los estudios de impacto acumulado del Gobierno, habilitando definitivamente la expansión de Arcadium y Posco en el Salar del Hombre Muerto.
+ - **Hombre Muerto Oeste (15/04/2026):** Galan Lithium anunció el inicio del procesamiento de litio para fines de abril, convirtiendo al proyecto en el 8vo en producción en Argentina.
+
+diff --git a/wiki/01 Projects/Litio.md b/wiki/01 Projects/Litio.md
+index ec270aa..99fad59 100644
+--- a/wiki/01 Projects/Litio.md
++++ b/wiki/01 Projects/Litio.md
+@@ -1,14 +1,14 @@
+ ---
+ type: project
+ tags: [mining, lithium]
+-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]]
++sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-07-16
++last_update: 2026-07-23
+ ---
+
+ # Litio en Argentina: El Triángulo de Oro
+
+-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
++**Contexto:** En la segunda mitad de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+
+ ## Desafío Energético y Microredes Híbridas (Julio 2026)
+ - **Cuellos de Botella de Transmisión:** El informe de la consultora **Aggreko** (16/07/2026) expone la severa brecha de transporte eléctrico en las alturas de la Puna. Al no contar con conexiones estables al SADI, los salares de litio están adoptando arquitecturas de **microredes híbridas descentralizadas**.
+@@ -45,7 +45,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%**
+ - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+
+ ### 5. [[Tres Quebradas]] (Catamarca)
+-- **RIGI (14/07/2026):** Aprobación del proyecto de LIEX S.A. (Zijin Mining) con una inversión de **US$ 709 millones** para producir 40.000 t/año.
++- **RIGI (14/07/2026):** Aprobación del proyecto de LIEX S.A. (Zijin Mining) con una inversión de **US$ 709 millones** para la Fase 2 (sumando **40.000 t/año** de capacidad, grado batería). Generará exportaciones por **u$s 400 millones anuales**.
+
+ ## La Mesa del Litio y Política Regional
+ - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
+@@ -55,7 +55,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%**
+ - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
+
+ ## Mercados y Precios
+-- **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS en China.
++- **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS in China.
+ - Tras la volatilidad de 2024-2025, el precio del litio muestra signos de recuperación sólida en 2026 debido a la demanda sostenida de la industria de la **[[Electromovilidad]]** y el almacenamiento de energía renovable.
+
+ ## Conexiones
+diff --git "a/wiki/01 Projects/Pampa Energ\303\255a.md" "b/wiki/01 Projects/Pampa Energ\303\255a.md"
+index f73b046..684d096 100644
+--- "a/wiki/01 Projects/Pampa Energ\303\255a.md"
++++ "b/wiki/01 Projects/Pampa Energ\303\255a.md"
+@@ -1,21 +1,22 @@
+ ---
+ type: project
+ tags: [energy, oil-gas]
+-sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-27_news_mining_energy]]
++sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-23_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-04-27
++last_update: 2026-07-23
+ ---
+
+ # Pampa Energía - Vaca Muerta e Industria
+
+ **Compañía:** Pampa Energía S.A.
+-**Inversión Total:** **US$ 4.500 millones**.
++**Inversión Total:** **US$ 4.500 millones** (u$s 4.521 millones exactos comprometidos bajo el RIGI).
+ **Operación:** Upstream (Neuquén).
+
+ ## Descripción
+ **Pampa Energía** refuerza su liderazgo en el mercado de la energía con una inversión de **US$ 4.500 millones** destinada a la exploración y producción de petróleo y gas no convencional en el yacimiento de [[Vaca Muerta]], específicamente en el bloque **Rincón de Aranda**.
+
+ ## Hitos Recientes (2026)
++- **Aprobación Oficial del RIGI para Rincón de Aranda (21/07/2026):** El Gobierno nacional aprobó formalmente el ingreso de Rincón de Aranda al [[RIGI]] (Proyecto #22 del régimen). El plan contempla desembolsos de **u$s 4.500 millones** para triplicar la producción de shale oil de la compañía utilizando ramales horizontales extendidos y plantas de separación locales.
+ - **Planta de Fertilizantes - RIGI (23/04/2026 - 27/04/2026):** Solicitó formalmente el ingreso al [[RIGI]] para una planta de urea en Bahía Blanca con una inversión de **USD 2.400 millones**, con el objetivo de producir 2,1 millones de toneladas anuales utilizando gas de Vaca Muerta.
+ - **Argentina Week (13/04/2026):** Marcelo Mindlin (CEO) fue orador principal en Nueva York, ratificando el compromiso de inversión de **US$ 4.500 millones** en Rincón de Aranda bajo el [[RIGI]].
+ - **Ampliación de Inversión RIGI (11/04/2026):** La compañía escaló su presentación al [[RIGI]] desde los US$ 496 millones iniciales hasta los **US$ 4.500 millones**, reflejando la confianza en el marco normativo para el desarrollo de shale oil.
+diff --git a/wiki/01 Projects/Salta.md b/wiki/01 Projects/Salta.md
+index 48428ee..d2eed2b 100644
+--- a/wiki/01 Projects/Salta.md
++++ b/wiki/01 Projects/Salta.md
+@@ -1,16 +1,17 @@
+ ---
+ type: project
+ tags: [mining, lithium, copper]
+-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]]
++sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-04-17
++last_update: 2026-07-23
+ ---
+
+ # Salta
+
+ Salta se destaca por su seguridad jurídica y su potencial diversificado en **litio** y **cobre**. En 2026, la minería se consolidó como el principal motor exportador de la provincia.
+
+-## Hitos Recientes (Abril 2026)
++## Hitos Recientes (2026)
++- **Avances de Infraestructura en Taca Taca (Julio 2026):** Se concretaron mesas de trabajo conjuntas entre el gobierno provincial y Corriente Argentina (First Quantum) para definir el trazado de las rutas de acceso vial, la línea de alta tensión y los resultados de las campañas de exploración de agua subterránea para garantizar el recurso de forma ambientalmente sustentable.
+ - **Complejo Exportador Líder (16/04/2026):** La minería se consolidó como el principal complejo exportador de Salta, representando más de la mitad de las ventas externas en el primer bimestre de 2026, con un crecimiento interanual del 70%.
+ - **Liderazgo en Litio (17/04/2026):** El Reporte Nacional 2026 ratificó a Salta como la provincia con la mayor cartera de proyectos de litio (14 desarrollos) y el mayor volumen de recursos medidos e indicados en la Puna.
+ - **Taca Taca (15/04/2026):** Presentación del reporte NI 43-101 y preparación para la adhesión al [[RIGI]] del megaproyecto de cobre de First Quantum.
+diff --git a/wiki/01 Projects/Taca Taca.md b/wiki/01 Projects/Taca Taca.md
+index 8cd8e73..85514b7 100644
+--- a/wiki/01 Projects/Taca Taca.md
++++ b/wiki/01 Projects/Taca Taca.md
+@@ -1,9 +1,9 @@
+ ---
+ type: project
+ tags: [mining, copper]
+-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
++sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-04-27
++last_update: 2026-07-23
+ ---
+
+ # Proyecto Taca Taca (Cobre)
+@@ -12,15 +12,15 @@ last_update: 2026-04-27
+ **Operadora:** First Quantum Minerals.
+
+ ## Descripción
+-Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones**. Se posiciona en el primer cuartil de la curva de costos global.
++Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones** (compromiso RIGI de **u$s 4.200 millones**). Se posiciona en el primer cuartil de la curva de costos global.
+
+ ## Hitos Recientes (2025-2026)
++- **Avances Técnicos de Infraestructura y Agua (Julio 2026):** Técnicos de la Secretaría de Minería y Energía de Salta y de la operadora Corriente Argentina S.A. (First Quantum) llevaron a cabo reuniones para repasar los diseños de la ruta de acceso vial, informes geotécnicos y el diseño del dique de colas. En particular, la campaña de exploración hídrica demostró caudales sólidos y excelente capacidad de recarga por precipitación, asegurando el recurso de agua industrial y salada de forma sostenible.
+ - **Alianza Estratégica IFC (27/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda y ratificando la inversión total de **US$ 5.250 millones**.
+ - **Ratificación de Inversión RIGI (19/04/2026):** Se confirmó una inversión de **US$ 4.200 millones** enfocada en el desarrollo de infraestructura y planta, vinculando el proyecto con el [[Corredor Bioceanico]] de Capricornio para la salida por el Pacífico.
+ - **Consolidación del Informe Técnico (16/04/2026):** La presentación formal del NI 43-101 ratifica la solidez económica. Se prevé el inicio de construcción tras el aval del [[RIGI]].
+     - **Empleo:** 4.000 puestos en construcción; 2.000 en operación.
+     - **Logística:** Actuará como catalizador del [[Corredor Bioceanico]] mediante inversiones en conectividad eléctrica y transporte.
+-- **Alianza Estratégica IFC (23/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda.
+ - **Reporte Técnico NI 43-101 (Abril 2026):** El informe proyecta una capacidad inicial de 40 Mtpa y una producción promedio de **291.000 t/año de cobre** en la primera década.
+ - **Fase Decisiva (13/04/2026):** El gobernador Gustavo Sáenz confirmó que el proyecto entra en una etapa determinante. El llamado a **audiencia pública** es inminente.
+ - **Avance Institucional (Abril 2026):** Presentación ante el Senado de Salta. Necesidad de aprobación definitiva del EIA y concesiones de uso de agua antes de julio de 2026 para cumplir requisitos del RIGI.
+diff --git a/wiki/01 Projects/Tres Quebradas.md b/wiki/01 Projects/Tres Quebradas.md
+index 97ff5bc..e17cba2 100644
+--- a/wiki/01 Projects/Tres Quebradas.md
++++ b/wiki/01 Projects/Tres Quebradas.md
+@@ -1,9 +1,9 @@
+ ---
+ type: project
+ tags: [mining, lithium]
+-sources: [[raw/2026-07-15_news_mining_energy.md]]
++sources: [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-07-15
++last_update: 2026-07-23
+ ---
+
+ # Proyecto Tres Quebradas (3Q)
+diff --git a/wiki/01 Projects/Vaca Muerta.md b/wiki/01 Projects/Vaca Muerta.md
+index 9d7d52d..831a561 100644
+--- a/wiki/01 Projects/Vaca Muerta.md
++++ b/wiki/01 Projects/Vaca Muerta.md
+@@ -1,15 +1,15 @@
+ ---
+ type: project
+ tags: [energy, oil-gas]
+-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]]
++sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-07-13
++last_update: 2026-07-23
+ ---
+
+ # Vaca Muerta (Oil & Gas)
+
+ **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
+-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
++**Principales Actores:** YPF, [[Vista Energy]], Tecpetrol, [[Pampa Energía]], Phoenix Global Resources.
+
+ ## Panorama 2026
+ El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
+@@ -21,12 +21,14 @@ El yacimiento de shale continúa consolidándose como el principal generador de
+ - **Gas Natural:** Caída interanual del **3,3%**.
+
+ ### Hitos Recientes (Julio 2026)
++- **Solicitud de Vista al RIGI para Bandurria Norte (21/07/2026):** [[Vista Energy]] presentó formalmente la solicitud de adhesión al [[RIGI]] para su bloque estrella **Bandurria Norte** (100% de participación), comprometiendo una inversión masiva de **u$s 5.800 millones** para perforar **332 pozos** no convencionales, apuntando a una producción de **50.000 boe/d** y construyendo una batería de procesamiento de **40.000 bpd**, estación compresora y ductos locales.
++- **Aprobación del RIGI para Rincón de Aranda (21/07/2026):** El Gobierno nacional aprobó formalmente el ingreso al [[RIGI]] de **Rincón de Aranda** (proyecto de [[Pampa Energía]] por **u$s 4.500 millones** / u$s 4.521 millones exactos), destrabando el desarrollo intensivo de este bloque de shale oil clave de la cuenca.
+ - **Récord de Fracturas (Junio 2026):** Se alcanzó el máximo histórico mensual de etapas de fractura, superando los niveles de abril, impulsado por la eficiencia operativa y la necesidad de llenar la nueva capacidad de transporte.
+ - **Financiamiento Oleoducto VMOS (08/07/2026):** Consorcio liderado por YPF (junto a Vista, Pampa y PAE) aseguró un préstamo de **US$ 2.000 millones** a una tasa SOFR + 5,5% para acelerar el tramo final del ducto.
+ - **Expansión de Frontera (Julio 2026):** Phoenix Global Resources reportó un pozo récord en Río Negro que extiende la zona de productividad de la formación hacia el este de la cuenca neuquina.
+ - **Superávit Comercial Energético (Julio 2026):** Argentina alcanzó en el primer semestre de 2026 el mayor superávit comercial del sector en su historia, impulsado por las exportaciones de shale oil.
+ - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
+-- **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
++- **Planta de Fertilizantes (27/04/2026):** [[Pampa Energía]] solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
+ - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
+ - **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
+ - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
+diff --git a/wiki/01 Projects/Vista Energy.md b/wiki/01 Projects/Vista Energy.md
+index c36844a..b63b984 100644
+--- a/wiki/01 Projects/Vista Energy.md
++++ b/wiki/01 Projects/Vista Energy.md
+@@ -1,9 +1,9 @@
+ ---
+ type: company
+ tags: [energy, oil-gas]
+-sources: [[2026-06-28_news_mining_energy.md]]
++sources: [[raw/2026-06-28_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-06-28
++last_update: 2026-07-23
+ ---
+
+ # Vista Energy
+@@ -12,12 +12,14 @@ last_update: 2026-06-28
+ **Estado:** Segunda operadora de petróleo no convencional en Argentina.
+
+ ## Hitos Recientes (2026)
+-- **Análisis RIGI:** La compañía, liderada por Miguel Galuccio, analiza formalmente la adhesión al [[RIGI]] para acelerar el desarrollo de sus bloques principales: Bandurria Norte, Águila Mora y Bajo del Toro.
++- **Solicitud al RIGI por US$ 5.800 Millones para Bandurria Norte (21/07/2026):** Vista Energy presentó formalmente su solicitud de adhesión al [[RIGI]] para desarrollar el bloque **Bandurria Norte**, marcando el primer desarrollo de la compañía fuera de su hub productivo principal de Añelo.
++  - **Alcance Técnico:** Planifica la perforación de **332 nuevos pozos** para alcanzar una producción incremental de **50.000 boe/d** (barriles equivalentes de petróleo por día).
++  - **Inversión en Infraestructura:** El proyecto contempla construir una batería local de separación con capacidad para procesar **40.000 bpd de crudo**, una estación compresora de gas, y redes de oleoductos y gasoductos de vinculación a los ductos troncales de evacuación.
+ - **Producción:** Mantiene un crecimiento agresivo en etapas de fractura y producción por pozo, contribuyendo significativamente al récord de 634k bpd de Neuquén.
+ - **Exportaciones:** Ha consolidado contratos de exportación a largo plazo, apalancándose en la mayor capacidad de transporte proyectada con el oleoducto VMOS.
+
+ ## Visión Estratégica
+-Vista se posiciona como una empresa puramente enfocada en el shale, con el objetivo de duplicar su producción para 2030 bajo el nuevo marco de incentivos fiscales y cambiarios.
++Vista se posiciona como una empresa puramente enfocada en el shale, con el objetivo de duplicar su producción para 2030 bajo el nuevo marco de incentivos fiscales y cambiarios del [[RIGI]].
+
+ ## Conexiones
+ - [[Vaca Muerta]]
+diff --git a/wiki/02 Frameworks/RIGI.md b/wiki/02 Frameworks/RIGI.md
+index f9b7578..ad4b75f 100644
+--- a/wiki/02 Frameworks/RIGI.md
++++ b/wiki/02 Frameworks/RIGI.md
+@@ -1,9 +1,9 @@
+ ---
+ type: framework
+ tags: [regulatory, mining, energy]
+-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]]
++sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+ confidence: high
+-last_update: 2026-07-13
++last_update: 2026-07-23
+ ---
+
+ # RIGI (Régimen de Incentivo para Grandes Inversiones)
+@@ -12,10 +12,12 @@ last_update: 2026-07-13
+ **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
+
+ ## Tablero de Control (Julio 2026)
+-El RIGI se consolida como el motor de la "economía a dos velocidades", con un enfoque creciente en megaproyectos e infraestructura estratégica:
++El RIGI se consolida como el motor de la "economía a dos velocidades", con un auge sin precedentes de aprobaciones de megaproyectos e infraestructura estratégica:
+
+-- **Aprobaciones Acumuladas (Julio 2026):** 20 proyectos aprobados por un total de **US$ 43.533 millones**.
+-- **Inversión Presentada:** 42 iniciativas por un valor cercano a los **US$ 121.000 millones**, con aproximadamente la mitad bajo evaluación técnica.
++- **Aprobaciones Acumuladas (Julio 2026):** **22 proyectos aprobados** por un total de **US$ 51.221 millones** de inversión comprometida.
++  - El hito **#21** fue el proyecto de litio **[[Tres Quebradas]]** (Catamarca, u$s 709M), aprobado el 14/07/2026.
++  - El hito **#22** fue el desarrollo de shale oil **Rincón de Aranda** de **[[Pampa Energía]]** (Neuquén, u$s 4.521M), aprobado el 21/07/2026.
++- **Inversión Presentada:** 43 iniciativas por un valor cercano a los **US$ 126.800 millones** (tras la masiva solicitud de **[[Vista Energy]]** para Bandurria Norte por u$s 5.800M el 21/07/2026).
+ - **Precedente Crítico (Julio 2026):** El Comité Evaluador rechazó el proyecto de litio **Mariana (Ganfeng)** por u$s 273M, sentando jurisprudencia sobre la regla de "inversión nueva": no se permiten activos ya construidos o inaugurados.
+ - **Súper RIGI:** Defensa oficial del esquema para industrias pesadas e infraestructura estratégica con un umbral de **US$ 1.000 millones** y beneficios adicionales (Ganancias 15%).
+ - **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos**.
+@@ -31,21 +33,23 @@ El RIGI se consolida como el motor de la "economía a dos velocidades", con un e
+ ### Listado de Adhesiones y Evaluaciones (Julio 2026):
+ 1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Inversión total confirmada: **US$ 3.000M**.
+ 2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
+-3.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]]. Aprobado dentro del cluster Vicuña por **US$ 9.700M**.
+-4.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica.
++3.  **[[Josemaría]]** (BHP/Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]]. Aprobado dentro del cluster Vicuña por **US$ 9.700M**.
++4.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica. Plan de u$s 2.672M ingresado al RIGI.
+ 5.  **[[Southern Energy]]** (Río Negro, GNL) - Aprobado Gasoducto San Matías por **US$ 1.300M**. Inversión total GNL proyectada: **US$ 8.178M**.
+ 6.  **[[TGS]]** (Neuquén, Energía) - Industrialización de líquidos. Inversión: **US$ 3.000M**.
+-7.  **[[Pampa Energía]]** (Neuquén, Oil) - Proyecto Rincón de Aranda aprobado por **US$ 4.521M**.
+-8.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
+-9.  **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
+-10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
+-11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
+-12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
+-13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado. Inversión: **US$ 891M**.
+-14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
+-15. **[[Posco]]** (Hombre Muerto Norte, Salta) - Inversión inicial US$ 65M.
+-16. **Pampa Energía** (Bahía Blanca, Fertilizantes) - Solicitud de adhesión para planta de urea de US$ 2.400M.
+-17. **Minera Exar** (Cauchari-Olaroz, Jujuy, Litio) - Expansión aprobada por **US$ 1.241M**.
++7.  **[[Pampa Energía]]** (Neuquén, Oil) - Proyecto Rincón de Aranda **aprobado oficialmente** el 21/07/2026 por **US$ 4.521M**.
++8.  **[[Tres Quebradas]]** (LIEX/Zijin, Catamarca, Litio) - Proyecto **aprobado oficialmente** el 14/07/2026 por **US$ 709M** (Fase 2 de expansión).
++9.  **[[Vista Energy]]** (Neuquén, Oil) - Solicitud de adhesión presentada el 21/07/2026 para el bloque **Bandurria Norte** por **US$ 5.800M**.
++10. **Proyectos Vaca Muerta en Evaluación/Presentados** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
++11. **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
++12. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
++13. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
++14. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M** (total escalable a US$ 5.250M).
++15. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado. Inversión: **US$ 891M** (aprobado por Res. 801/2026).
++16. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
++17. **[[Posco]]** (Hombre Muerto Norte, Salta) - Inversión inicial US$ 65M.
++18. **Pampa Energía** (Bahía Blanca, Fertilizantes) - Solicitud de adhesión para planta de urea de US$ 2.400M.
++19. **Minera Exar** (Cauchari-Olaroz, Jujuy, Litio) - Expansión aprobada por **US$ 1.241M**.
+
+ ## Impacto Macroeconómico (2026)
+ El RIGI está consolidando una **"economía a dos velocidades"**. Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%**, los sectores dependientes del mercado interno enfrentan una caída del **-4,9%**.
+@@ -54,7 +58,7 @@ El RIGI está consolidando una **"economía a dos velocidades"**. Mientras los s
+ - **Tierras Raras (Julio 2026):** Iniciativa para incluir minerales críticos tecnológicos dentro de los beneficios del régimen.
+ - **Ajuste de Rentabilidad (27/04/2026):** La Resolución 484/2026 elevó el umbral de rentabilidad del 30% al 35%.
+ - **Nuevas Adhesiones (24/04/2026):** Aprobación de **Veladero** (Res. 413/2026) y **Minera del Altiplano** (Res. 431/2026).
+-- **Extensión Upstream (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento upstream.
++- **Extensión Upstream (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento del upstream de petróleo y gas.
+
+ ## Beneficios Clave para Inversores
+ - **Estabilidad Fiscal:** 30 años.
+diff --git a/wiki/03 Analysis/Oportunidades y Conexiones.md b/wiki/03 Analysis/Oportunidades y Conexiones.md
+index aa5cf52..6182de7 100644
+--- a/wiki/03 Analysis/Oportunidades y Conexiones.md
++++ b/wiki/03 Analysis/Oportunidades y Conexiones.md
+@@ -1,9 +1,9 @@
+ ---
+ type: analysis
+ tags: [mining, energy, infrastructure, RIGI]
+-sources: [raw/2026-07-13_news_mining_energy.md, raw/2026-07-12_news_mining_energy.md, raw/2026-07-11_news_mining_energy.md, raw/2026-07-10_news_mining_energy.md, raw/2026-07-09_news_mining_energy.md, raw/2026-07-08_news_mining_energy.md]
++sources: [raw/2026-07-13_news_mining_energy.md, raw/2026-07-12_news_mining_energy.md, raw/2026-07-11_news_mining_energy.md, raw/2026-07-10_news_mining_energy.md, raw/2026-07-09_news_mining_energy.md, raw/2026-07-08_news_mining_energy.md, raw/2026-07-23_news_mining_energy.md]
+ confidence: high
+-last_update: 2026-07-13
++last_update: 2026-07-23
+ ---
+
+ # Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
+@@ -11,17 +11,21 @@ last_update: 2026-07-13
+ ## Oportunidades de Negocio Identificadas
+ 1. **Infraestructura de Exportación VMOS**:
+    - Con el financiamiento de US$ 2.000M asegurado y un 60% de avance, el oleoducto VMOS es la oportunidad logística de la década. Proveedores de servicios para la terminal de Punta Colorada y mantenimiento de ductos tienen un horizonte claro de demanda para fines de 2026.
+-2. **Tierras Raras y Minería Tecnológica**:
++2. **Infraestructura de Procesamiento Greenfield (Bandurria Norte)**:
++   - La solicitud de [[Vista Energy]] al RIGI por **u$s 5.800 millones** para desarrollar **Bandurria Norte** desde cero abre inmensas oportunidades para proveedores de obras civiles, tuberías y metalmecánica. Se requerirá construir una batería de procesamiento de **40.000 bpd**, una estación compresora de gas y ductos de vinculación local.
++3. **Desarrollo Intensivo en Rincón de Aranda**:
++   - La aprobación definitiva del RIGI para **Rincón de Aranda** ([[Pampa Energía]], **u$s 4.500 millones**) destraba de inmediato la contratación a gran escala de servicios de perforación y completación horizontal en la Cuenca Neuquina.
++4. **Tierras Raras y Minería Tecnológica**:
+    - La iniciativa para incluir tierras raras en el [[RIGI]] abre un nicho virgen en Argentina. Oportunidades en exploración geofísica especializada y plantas de separación química de tierras raras.
+-3. **BESS AlmaGBA y Estabilidad del SADI**:
++5. **BESS AlmaGBA y Estabilidad del SADI**:
+    - La adjudicación de 700 MW de almacenamiento en baterías (BESS) en el AMBA señala una tendencia irreversible. Empresas de integración de sistemas, software de gestión de energía (EMS) y fabricantes de baterías (con potencial integración con el litio local) tienen un mercado en expansión para estabilizar la red eléctrica.
+-4. **Extensión Geológica de Vaca Muerta hacia el Este**:
++6. **Extensión Geológica de Vaca Muerta hacia el Este**:
+    - El pozo récord de Phoenix en Río Negro revaloriza áreas consideradas marginales. Oportunidad para adquisición de bloques y servicios de perforación en zonas de menor densidad actual pero alto potencial de shale oil.
+-5. **Cluster Minero Mendoza-Chile**:
++7. **Cluster Minero Mendoza-Chile**:
+    - Los acuerdos de integración binacional posicionan a Mendoza como un centro de servicios para proyectos chilenos y viceversa. Oportunidad en logística transfronteriza y servicios de ingeniería para el cluster de cobre de los Andes.
+-6. **Súper RIGI e Industria Pesada**:
++8. **Súper RIGI e Industria Pesada**:
+    - El esquema de US$ 1.000 millones para industrias que "aún no existen" apunta a siderurgia verde, plantas de hidrógeno de gran escala e infraestructura de GNL masiva.
+-7. **Rechazo Mariana y Rigor de "Inversión Nueva"**:
++9. **Rechazo Mariana y Rigor de "Inversión Nueva"**:
+    - El rechazo al proyecto Mariana por parte del Comité Evaluador del RIGI es una advertencia para inversores: el régimen no es un salvataje para inversiones hundidas, sino un incentivo para capital fresco. Consultoría en estructuración de proyectos RIGI para cumplir con la regla de "nueva inversión" es ahora crítica.
+
+ ## Conexiones Estratégicas y Ocultas
+@@ -33,6 +37,8 @@ Argentina está logrando desacoplar el riesgo soberano del riesgo de proyecto en
+ graph TD
+     RIGI[RIGI: Motor de Inversión] --> |Aprobado US$ 9.700M| Vicuña[Distrito Vicuña Cobre]
+     RIGI --> |Aprobado US$ 4.521M| RinconAranda[Rincón de Aranda Oil]
++    RIGI --> |Aprobado US$ 709M| TresQuebradas[Tres Quebradas Litio]
++    RIGI --> |Presentado US$ 5.800M| Bandurria[Bandurria Norte Vista]
+     RIGI --> |Aprobado US$ 1.300M| SanMatias[Gasoducto San Matías GNL]
+     RIGI --> |Aprobado US$ 1.241M| Exar[Minera Exar Litio]
+     RIGI --> |Iniciativa| TierrasRaras[Tierras Raras]
+diff --git a/wiki/04 Daily/2026-07-23_Daily_Report.md b/wiki/04 Daily/2026-07-23_Daily_Report.md
+new file mode 100644
+index 0000000..a147196
+--- /dev/null
++++ b/wiki/04 Daily/2026-07-23_Daily_Report.md
+@@ -0,0 +1,51 @@
++---
++type: daily
++tags: [mining, energy, oil-gas, lithium, RIGI, regulatory]
++sources: [[raw/2026-07-23_news_mining_energy.md]]
++confidence: high
++last_update: 2026-07-23
++---
++
++# Daily Report - 2026-07-23
++
++## Resumen Ejecutivo
++Jornada de alto impacto liderada por hitos determinantes en el sector petrolero no convencional y la minería de litio y cobre. Destaca la histórica solicitud de **[[Vista Energy]]** para sumarse al **[[RIGI]]** con un megaproyecto de **u$s 5.800 millones** en el bloque Bandurria Norte, marcando su expansión hacia bloques greenfield no productivos. Asimismo, el Gobierno nacional aprobó oficialmente el ingreso al **[[RIGI]]** del proyecto **Rincón de Aranda** de **[[Pampa Energía]]** por **u$s 4.521 millones** (Proyecto #22), y del proyecto de litio **[[Tres Quebradas]]** de Zijin Mining por **u$s 709 millones** (Proyecto #21). En Salta, se revisaron los avances técnicos del megaproyecto de cobre **[[Taca Taca]]**, confirmando excelentes resultados hídricos de recarga de acuíferos para su operación sustentable.
++
++---
++
++## Operaciones en la Wiki
++
++### Actualizaciones de Notas de Proyectos y Entidades
++- **[[Vista Energy]]**: Actualización completa registrando la presentación de su solicitud de adhesión al RIGI para el bloque **Bandurria Norte** por **u$s 5.800 millones**, que contempla la perforación de **332 nuevos pozos**, producción de **50.000 boe/d** y construcción de infraestructura de procesamiento de **40.000 bpd**, estación compresora y ductos locales.
++- **[[Pampa Energía]]**: Modificación de estatus del bloque **Rincón de Aranda** a "Aprobado oficialmente bajo el RIGI" el 21/07/2026 por **u$s 4.521 millones** de inversión comprometida.
++- **[[Tres Quebradas]]**: Actualización de estatus de "Presentado" a "Aprobado oficialmente bajo el RIGI" el 14/07/2026 por **u$s 709 millones** de inversión de capital (Hito #21 del RIGI).
++- **[[Vaca Muerta]]**: Sinergia de hitos no convencionales: incorporación de la solicitud de RIGI de Vista para Bandurria Norte y la aprobación oficial de Pampa Energía para Rincón de Aranda, consolidando u$s 10.321 millones en nuevos proyectos aprobados o solicitados en un lapso de 48 horas.
++- **[[Taca Taca]]**: Incorporación del estado de avance técnico de infraestructura vial, líneas de transmisión eléctrica de alta tensión, y los resultados hídricos sobresalientes de la campaña de exploración de acuíferos con alta capacidad de recarga para agua industrial.
++- **[[Salta]]** & **[[Catamarca]]**: Actualización con los hitos de infraestructura de Taca Taca y la aprobación de Tres Quebradas bajo el régimen nacional, respectivamente.
++- **[[Litio]]**: Actualización del proyecto Tres Quebradas y su capacidad proyectada de 40.000 toneladas anuales grado batería con RIGI aprobado.
++
++### Actualizaciones de Notas de Frameworks y Análisis
++- **[[RIGI]]**: Actualización del tablero de control consolidado: el RIGI asciende oficialmente a **22 proyectos aprobados** por un total de **US$ 51.221 millones** de inversión comprometida. Se agregó a Tres Quebradas como el Proyecto #21 aprobado y a Rincón de Aranda (Pampa) como el Proyecto #22 aprobado, además de registrar el proyecto Bandurria Norte de Vista en la lista de solicitudes activas por u$s 5.800M.
++- **[[Oportunidades y Conexiones]]**: Inserción de la oportunidad número 2 (Infraestructura de Procesamiento Greenfield en Bandurria Norte) y la oportunidad número 3 (Desarrollo Intensivo en Rincón de Aranda) para proveedores metalmecánicos y de perforación; y actualización del mapa Mermaid unificado con los flujos de RIGI aprobados y presentados.
++
++---
++
++## Análisis de Impacto y Socio Escéptico
++
++### 1. La Megapuesta de Vista en Bandurria Norte: Rompiendo el Hub Operativo
++- **Idea central:** Vista Energy decide saltar fuera de su hub consolidado de Añelo y solicitar la adhesión al RIGI para desarrollar Bandurria Norte desde cero, comprometiendo u$s 5.800 millones de Capex.
++- **Trade-offs:** Vista asume un riesgo geológico y logístico considerable al operar de forma aislada de sus clústeres optimizados de Bajada del Palo Oeste, pero captura la totalidad de los beneficios fiscales, arancelarios e impositivos del RIGI (que de otro modo no aplicarían a inversiones marginales o incrementalistas en bloques en producción).
++- **Riesgos críticos:** La escala del desarrollo (332 pozos) saturará los equipos de perforación y sets de fractura en la cuenca neuquina, presionando las tarifas de los contratistas de servicios (SLB, Halliburton) al alza y arriesgando la inflación de OPEX por encima de los límites modelados.
++- **Efecto de segundo orden:** El yacimiento Bandurria Norte requiere evacuación dedicada. Esto acelera de manera crítica la necesidad de finalizar el Oleoducto Vaca Muerta Sur (VMOS) y presiona políticamente al ENRE para otorgar prioridad de despacho de gas a la estación compresora del proyecto.
++
++### 2. Aprobación RIGI para Rincón de Aranda: Mindlin Consolida el Upstream Petrolero
++- **Idea central:** La aprobación oficial del proyecto Rincón de Aranda (Pampa Energía, u$s 4.521M) consagra la diversificación de Pampa hacia el crudo no convencional de la Cuenca Neuquina.
++- **Trade-offs:** Pampa reduce su foco relativo en gas natural (su bastión histórico en el MATER) y asume el riesgo cambiario y de precios de exportación del shale oil, obligando a renegociar contratos de fletes y logística marítima para crudo liviano.
++- **Riesgos críticos:** Los cuellos de botella de infraestructura de transporte de crudo en la Cuenca Neuquina persisten; hasta que el oleoducto VMOS no esté plenamente operativo en su Fase 1 (fines de 2026), el crudo incremental de Rincón de Aranda tendrá un margen limitado de evacuación sin descuentos logísticos severos.
++- **Efecto de segundo orden:** Valida el marco del RIGI como un instrumento jurídicamente blindado, atrayendo a otras petroleras integradas de capitales nacionales a forzar aprobaciones rápidas antes de que cambie el humor político o regulatorio en 2027.
++
++---
++
++## Próximos Movimientos Recomendados
++1. **Filing Back / Análisis del Suministro de Equipos de Fractura (Frack Sets):** Evaluar la disponibilidad física de sets de estimulación hidráulica en la Cuenca Neuquina para acomodar simultáneamente los cronogramas de perforación de Vista (Bandurria Norte, 332 pozos) y Pampa (Rincón de Aranda), alertando sobre potenciales demoras contractuales.
++2. **Monitoreo Hídrico de Taca Taca:** Estudiar los resultados de la campaña hídrica de First Quantum frente a las exigencias de la Secretaría de Recursos Hídricos de Salta para prever si habrá trabas remanentes antes de la audiencia pública del megaproyecto de cobre.
+diff --git a/wiki/index.md b/wiki/index.md
+index e088863..fc789bb 100644
+--- a/wiki/index.md
++++ b/wiki/index.md
+@@ -94,6 +94,7 @@
+ - [[Super RIGI e Industrializacion]]
+
+ ### 📅 [[04 Daily|Operaciones Diarias]]
++- [[2026-07-23_Daily_Report]]
+ - [[2026-07-22_Daily_Report]]
+ - [[2026-07-17_Daily_Report]]
+ - [[2026-07-16_Daily_Report]]
+@@ -166,4 +167,4 @@
+ - [[log|Log de Operaciones]]
+
+ ---
+-*Última actualización: 2026-07-22*
++*Última actualización: 2026-07-23*

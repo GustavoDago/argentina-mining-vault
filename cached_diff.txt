@@ -1,0 +1,18 @@
+actual_diff.txt
+diff_files.txt
+diff_origin_main.txt
+git_status.txt
+raw/2026-07-23_news_mining_energy.md
+rigi_diff.txt
+wiki/01 Projects/Catamarca.md
+wiki/01 Projects/Litio.md
+"wiki/01 Projects/Pampa Energ\303\255a.md"
+wiki/01 Projects/Salta.md
+wiki/01 Projects/Taca Taca.md
+wiki/01 Projects/Tres Quebradas.md
+wiki/01 Projects/Vaca Muerta.md
+wiki/01 Projects/Vista Energy.md
+wiki/02 Frameworks/RIGI.md
+wiki/03 Analysis/Oportunidades y Conexiones.md
+wiki/04 Daily/2026-07-23_Daily_Report.md
+wiki/index.md

@@ -2,14 +2,15 @@
 
 **Tipo:** Planta de Licuefacción (GNL).
 **Ubicación:** Provincia de Río Negro, Argentina.
-**Inversión Total:** **US$ 6.900 millones**.
+**Inversión Total:** **US$ 8.178 millones** (Actualizado Julio 2026).
 
 ## Descripción
 El proyecto de **Southern Energy** en Río Negro busca consolidar la capacidad exportadora de gas natural licuado (GNL) de la Argentina hacia mercados globales. Es uno de los hitos más ambiciosos en materia de infraestructura energética tras la finalización del Gasoducto Presidente Néstor Kirchner.
 
 ## Hitos Recientes (2026)
+- **Gasoducto San Matías (Julio 2026):** El Comité Evaluador del RIGI aprobó la inversión de **US$ 1.300 millones** para la construcción del gasoducto que abastecerá la terminal de GNL. El consorcio está integrado por PAE, YPF, Pampa Energía, Harbour Energy y Golar LNG.
 - **Adhesión al RIGI (Abril 2026):** El proyecto recibió la aprobación formal de los beneficios fiscales y aduaneros bajo el [[RIGI]], garantizando la estabilidad fiscal por 30 años.
-- **Inversión Confirmada:** Monto de **US$ 6.900 millones** destinados a la construcción de trenes de licuefacción y terminal de carga dedicado en la costa rionegrina.
+- **Inversión Confirmada:** La inversión total del proyecto, incluyendo el gasoducto y la infraestructura de licuefacción, se confirmó en **US$ 8.178 millones**.
 
 ## Impacto Estratégico
 - Cambio en la matriz exportadora de Argentina (pasando de exportar gas regional a GNL global).

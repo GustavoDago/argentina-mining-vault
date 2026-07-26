@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-23
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -11,54 +11,60 @@ last_update: 2026-04-27
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
-## Tablero de Control (Abril 2026)
-En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
+## Tablero de Control (Julio 2026)
+El RIGI se consolida como el motor de la "economía a dos velocidades", con un auge sin precedentes de aprobaciones de megaproyectos e infraestructura estratégica:
 
-- **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
-- **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
-- **Proyectos Aprobados/En Evaluación:** +35 proyectos bajo evaluación formal (con hitos como las 11 presentaciones confirmadas el 16/04/2026).
-- **Inversión Total Comprometida:** > **US$ 52.000 millones** (estimación actualizada tras ampliación de upstream, GNL y ratificación de Taca Taca). El 98% de las solicitudes se concentran en Minería y Energía.
-- **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
-- **Sinergia Regional (16/04/2026):** Los gobernadores del NOA (Jalil, Sadir, Sáenz) destacan el RIGI como el catalizador principal de la aceleración de inversiones, complementándolo con marcos locales (ej. "mini RIGI" en Jujuy para inversiones >US$ 5M).
+- **Aprobaciones Acumuladas (Julio 2026):** **22 proyectos aprobados** por un total de **US$ 51.221 millones** de inversión comprometida.
+  - El hito **#21** fue el proyecto de litio **[[Tres Quebradas]]** (Catamarca, u$s 709M), aprobado el 14/07/2026.
+  - El hito **#22** fue el desarrollo de shale oil **Rincón de Aranda** de **[[Pampa Energía]]** (Neuquén, u$s 4.521M), aprobado el 21/07/2026.
+- **Inversión Presentada:** 43 iniciativas por un valor cercano a los **US$ 126.800 millones** (tras la masiva solicitud de **[[Vista Energy]]** para Bandurria Norte por u$s 5.800M el 21/07/2026).
+- **Precedente Crítico (Julio 2026):** El Comité Evaluador rechazó el proyecto de litio **Mariana (Ganfeng)** por u$s 273M, sentando jurisprudencia sobre la regla de "inversión nueva": no se permiten activos ya construidos o inaugurados.
+- **Súper RIGI:** Defensa oficial del esquema para industrias pesadas e infraestructura estratégica con un umbral de **US$ 1.000 millones** y beneficios adicionales (Ganancias 15%).
+- **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos**.
+- **Sinergia Regional (16/04/2026):** Los gobernadores del NOA destacan el RIGI como catalizador, complementándolo con marcos locales.
 
 ### Categorías Especiales
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**
     - Destinado a megaproyectos de exportación (ej. GNL).
     - Inversión mínima: **US$ 2.000 millones**.
     - Desembolsos mínimos por etapa: **US$ 1.000 millones**.
-    - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
+    - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría.
 
-### Listado de Adhesiones y Evaluaciones (Abril 2026):
-1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M** (paquete financiamiento US$ 1.175M).
+### Listado de Adhesiones y Evaluaciones (Julio 2026):
+1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Inversión total confirmada: **US$ 3.000M**.
 2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
-3.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]].
-4.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica.
-5.  **[[Southern Energy]]** (Río Negro, GNL) - Inversión: **US$ 6.900M**.
+3.  **[[Josemaría]]** (BHP/Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]]. Aprobado dentro del cluster Vicuña por **US$ 9.700M**.
+4.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica. Plan de u$s 2.672M ingresado al RIGI.
+5.  **[[Southern Energy]]** (Río Negro, GNL) - Aprobado Gasoducto San Matías por **US$ 1.300M**. Inversión total GNL proyectada: **US$ 8.178M**.
 6.  **[[TGS]]** (Neuquén, Energía) - Industrialización de líquidos. Inversión: **US$ 3.000M**.
-7.  **[[Pampa Energía]]** (Neuquén, Oil) - Upstream no convencional. Inversión: **US$ 4.500M**.
-8.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
-9.  **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
-10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
-11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
-12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
-13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
-14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
-15. **[[Posco]]** (Hombre Muerto Norte, Salta) - Inversión inicial tras adquisición: US$ 65M. En espera de aprobación final para planta de litio (>18 meses).
-16. **Pampa Energía** (Bahía Blanca, Fertilizantes) - Solicitud de adhesión para planta de urea de US$ 2.400M.
+7.  **[[Pampa Energía]]** (Neuquén, Oil) - Proyecto Rincón de Aranda **aprobado oficialmente** el 21/07/2026 por **US$ 4.521M**.
+8.  **[[Tres Quebradas]]** (LIEX/Zijin, Catamarca, Litio) - Proyecto **aprobado oficialmente** el 14/07/2026 por **US$ 709M** (Fase 2 de expansión).
+9.  **[[Vista Energy]]** (Neuquén, Oil) - Solicitud de adhesión presentada el 21/07/2026 para el bloque **Bandurria Norte** por **US$ 5.800M**.
+10. **Proyectos Vaca Muerta en Evaluación/Presentados** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
+11. **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
+12. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
+13. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
+14. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M** (total escalable a US$ 5.250M).
+15. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado. Inversión: **US$ 891M** (aprobado por Res. 801/2026).
+16. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
+17. **[[Posco]]** (Hombre Muerto Norte, Salta) - Inversión inicial US$ 65M.
+18. **Pampa Energía** (Bahía Blanca, Fertilizantes) - Solicitud de adhesión para planta de urea de US$ 2.400M.
+19. **Minera Exar** (Cauchari-Olaroz, Jujuy, Litio) - Expansión aprobada por **US$ 1.241M**.
 
 ## Impacto Macroeconómico (2026)
-El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
+El RIGI está consolidando una **"economía a dos velocidades"**. Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%**, los sectores dependientes del mercado interno enfrentan una caída del **-4,9%**.
 
 ## Hitos Normativos (2026)
-- **Ajuste de Rentabilidad (27/04/2026):** La Resolución 484/2026 elevó el umbral de rentabilidad del 30% al 35% para adaptar el régimen a la curva de declino de proyectos de shale oil e infraestructura eléctrica.
+- **Tierras Raras (Julio 2026):** Iniciativa para incluir minerales críticos tecnológicos dentro de los beneficios del régimen.
+- **Ajuste de Rentabilidad (27/04/2026):** La Resolución 484/2026 elevó el umbral de rentabilidad del 30% al 35%.
 - **Nuevas Adhesiones (24/04/2026):** Aprobación de **Veladero** (Res. 413/2026) y **Minera del Altiplano** (Res. 431/2026).
-- **Extensión Upstream (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento upstream de petróleo y gas.
+- **Extensión Upstream (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento del upstream de petróleo y gas.
 
 ## Beneficios Clave para Inversores
-- **Estabilidad Fiscal:** No se verán afectados por nuevos impuestos nacionales o aumento de tasas provinciales durante 30 años.
-- **Libre Disponibilidad de Divisas:** Acceso al mercado de cambios restringido eliminado progresivamente para exportaciones adheridas.
-- **Incentivos Aduaneros:** Importación de insumos y bienes de capital con arancel 0%.
-- **Seguridad Jurídica:** Jurisdicción en tribunales internacionales (CIADI) para resolución de disputas.
+- **Estabilidad Fiscal:** 30 años.
+- **Libre Disponibilidad de Divisas.**
+- **Incentivos Aduaneros:** Arancel 0%.
+- **Seguridad Jurídica:** CIADI.
 
 ## Conexiones
 - [[Mineria]]

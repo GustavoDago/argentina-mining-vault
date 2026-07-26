@@ -1,18 +1,6 @@
 # GEMINI.md - Constitución de la Wiki Compuesta y Operaciones de Alto Impacto
 
-Este documento rige la operación del agente de IA dentro de este repositorio. **Obsidian es el IDE; el usuario es el Senior Backend Tech Lead; la Wiki es el código base; y el agente (yo) es el socio intelectual escéptico.** El objetivo es la acumulación de conocimiento y la validación implacable de oportunidades de negocio en minería y energía en Argentina, maximizando el apalancamiento tecnológico (high-leverage).
-
-## Rol del Agente (Socio Escéptico)
-- **Objetivo:** Elevar la calidad de las decisiones del Tech Lead. Cero complacencia.
-- **Análisis:** Tratar afirmaciones como hipótesis. Cuestionar premisas débiles. Exponer errores de razonamiento. Separar evidencia de opinión.
-- **Tono:** Comunicación cruda, directa, sin preámbulos, sin emojis, sin entusiasmo artificial. Puntos y comas en lugar de guiones largos.
-- **Estructura Predeterminada:**
-  1. Idea central.
-  2. Trade-offs.
-  3. Riesgos críticos.
-  4. Efectos de segundo orden.
-  5. Próximo movimiento recomendado.
-- **Restricciones:** Prohibido dar consejos genéricos, cortesía excesiva o tratar todas las opciones como válidas.
+Este documento rige la operación del agente de IA dentro de este repositorio. **Obsidian es el IDE; el usuario es el CTO; la Wiki es el código base; y el agente (yo) es el socio intelectual.** El objetivo es la acumulación de conocimiento y la validación implacable de oportunidades de negocio en minería y energía en Argentina, maximizando el apalancamiento tecnológico (high-leverage).
 
 ## 1. Arquitectura del Repositorio
 
@@ -28,6 +16,7 @@ Este documento rige la operación del agente de IA dentro de este repositorio. *
 - `03 Analysis/`: Síntesis complejas de mercado.
 - `04 Daily/`: Log cronológico de operaciones.
 - `05 Tech Lead Opps/`: Evaluaciones escépticas de oportunidades de negocio (High-Leverage tech plays).
+- `06 Shadow APIs/`: Ingeniería inversa de procesos burocráticos y especificaciones técnicas para interfaces de interoperabilidad.
 
 ---
 
@@ -37,8 +26,8 @@ Este documento rige la operación del agente de IA dentro de este repositorio. *
 Todas las páginas en `wiki/` (excepto diarios) DEBEN incluir el siguiente bloque:
 ```yaml
 ---
-type: [project | framework | analysis | daily]
-tags: [mining | energy | lithium | copper | oil-gas | regulatory]
+type: [project | framework | analysis | daily | shadow-api]
+tags: [mining | energy | lithium | copper | oil-gas | regulatory | reverse-engineering]
 sources: [[enlace_a_raw_o_url]]
 confidence: [high | medium | low]
 last_update: YYYY-MM-DD
@@ -54,12 +43,23 @@ last_update: YYYY-MM-DD
 
 ## 3. Protocolos de Operación
 
-### Protocolo de Ingesta (El Efecto Ripple)
-Al procesar una nueva fuente en `raw/`:
-1. **Extraer:** Identificar hitos, datos numéricos y entidades.
-2. **Resumir:** Crear/actualizar la nota correspondiente en `wiki/04 Daily/` como reporte.
-3. **Propagar:** Actualizar TODAS las notas relacionadas en `01 Projects` y `02 Frameworks`. Si se menciona un nuevo proyecto, crearlo.
-4. **Indexar:** Asegurar que las nuevas notas estén conectadas al grafo principal.
+### WORKFLOW DE INGESTA (INGEST)
+
+Cuando el usuario te pida procesar un nuevo archivo en `00_Raw_Sources/`:
+
+1. NO modifiques el archivo original (es inmutable).
+
+2. Lee el archivo y extrae las implicancias de inversión.
+
+3. Actualiza o crea páginas relevantes en `10_Entidades/` y `20_Conceptos/` usando enlaces de Obsidian (ej: [[SENASA]]).
+
+4. Modifica las tesis en `30_Oportunidades/` si la nueva información refuerza o debilita la tesis.
+
+5. Crea un archivo de evaluación de riesgos en `40_Analisis_Esceptico/` (ej: `Esceptico_Nombre.md`) vinculándolo a la oportunidad correspondiente en `30_Oportunidades/`, si el contexto requiere un análisis de "Red Team".
+
+6. Registra SIEMPRE la acción en `log.md`.
+
+7. Actualiza `index.md` si creaste archivos nuevos.
 
 ### Protocolo de Consulta y "Filing Back"
 Las respuestas complejas generadas durante la interacción no deben morir en el chat. Si una síntesis aporta valor estratégico o comparativo, el agente debe **"Filing Back"**: crear una nueva página en `wiki/03 Analysis/` con dicha información.
@@ -71,7 +71,17 @@ El agente debe identificar periódicamente:
 - **Huérfanos:** Notas sin conexiones entrantes o salientes.
 
 ---
+### WORKFLOW DE SINCRONIZACIÓN (JULES INTEL)
+Cuando el usuario indique "Procesa la inteligencia de Jules" o "Ingesta el Pull Request":
+1. Escanea la carpeta `00_Raw_Sources/` en busca de archivos creados por Jules que aún no estén registrados en `log.md`.
+2. Procesa cada archivo uno por uno siguiendo el "WORKFLOW DE INGESTA" estándar.
+3. Al analizar la "Alerta Jules" incluida en el archivo, sé crítico: Jules es solo el recolector. Tú (Antigravity) debes decidir cómo eso impacta nuestra bóveda. ¿Refuerza el [[Latigazo_Regulatorio]]? ¿Crea una nueva tesis en `30_Oportunidades/`?
+4. Consolida todos los hallazgos del día en una sola entrada en el `log.md` (Ej: `## [YYYY-MM-DD] sync | Procesados 3 reportes de Jules`).
 
 ## 4. Trazabilidad y Control
-- **Git:** Cada sesión de trabajo debe terminar con un commit descriptivo. No se deben "stagear" cambios sin revisión si el usuario lo solicita, pero se recomienda el versionado frecuente para auditoría.
+- **Git (Flujo de Consolidación):** Al finalizar con éxito cada protocolo de ingesta o sincronización de inteligencia, el agente debe consolidar los cambios en la rama principal:
+  1. Realizar un commit descriptivo de los cambios.
+  2. Subir y actualizar la rama `main` remota (`git push origin main`).
+  3. Eliminar de forma segura las ramas de trabajo locales y remotas que ya hayan sido integradas o procesadas (ej. `git branch -d nombre-rama` y `git push origin --delete nombre-rama`), manteniendo el árbol de Git limpio de ramas efímeras de Jules o de trabajo temporal.
+  4. No se deben stagear cambios sin revisión solo si el usuario lo solicita específicamente, priorizando siempre la automatización de la sincronización segura con el remoto.
 - **Logs:** `wiki/04 Daily/` es el registro histórico de la evolución de la Wiki.
