@@ -8,7 +8,11 @@ last_update: 2026-07-16
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En la segunda mitad de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+
+## Desafío Energético y Microredes Híbridas (Julio 2026)
+- **Cuellos de Botella de Transmisión:** El informe de la consultora **Aggreko** (16/07/2026) expone la severa brecha de transporte eléctrico en las alturas de la Puna. Al no contar con conexiones estables al SADI, los salares de litio están adoptando arquitecturas de **microredes híbridas descentralizadas**.
+- **Soluciones Híbridas (Solar + BESS):** Estas microredes combinan generación solar fotovoltaica con almacenamiento a gran escala en baterías de ion de litio (BESS) y soporte térmico local a GNL o diésel. El costo de las baterías (alrededor de **u$s 108/kWh**) y los beneficios impositivos sin piso de inversión provistos por el régimen [[RIMI]] impulsan de manera competitiva la descarbonización de los salares y ahorran hasta un 40% de OPEX logístico en transporte de combustible.
 
 ## Desafío Energético y Microredes Híbridas (Julio 2026)
 - **Cuellos de Botella de Transmisión:** El informe de la consultora **Aggreko** (16/07/2026) expone la severa brecha de transporte eléctrico en las alturas de la Puna. Al no contar con conexiones estables al SADI, los salares de litio están adoptando arquitecturas de **microredes híbridas descentralizadas**.
@@ -55,7 +59,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
 ## Mercados y Precios
-- **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS en China.
+- **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS in China.
 - Tras la volatilidad de 2024-2025, el precio del litio muestra signos de recuperación sólida en 2026 debido a la demanda sostenida de la industria de la **[[Electromovilidad]]** y el almacenamiento de energía renovable.
 
 ## Conexiones

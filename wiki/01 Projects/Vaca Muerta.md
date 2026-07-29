@@ -9,7 +9,7 @@ last_update: 2026-07-13
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
+**Principales Actores:** YPF, [[Vista Energy]], Tecpetrol, [[Pampa Energía]], Phoenix Global Resources.
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
@@ -26,7 +26,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Expansión de Frontera (Julio 2026):** Phoenix Global Resources reportó un pozo récord en Río Negro que extiende la zona de productividad de la formación hacia el este de la cuenca neuquina.
 - **Superávit Comercial Energético (Julio 2026):** Argentina alcanzó en el primer semestre de 2026 el mayor superávit comercial del sector en su historia, impulsado por las exportaciones de shale oil.
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
-- **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
+- **Planta de Fertilizantes (27/04/2026):** [[Pampa Energía]] solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
 - **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
 - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.

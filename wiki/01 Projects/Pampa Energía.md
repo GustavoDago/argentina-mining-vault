@@ -3,13 +3,13 @@ type: project
 tags: [energy, oil-gas]
 sources: [[2026-04-03_news_mining_energy]], [[2026-04-11_news_mining_energy]], [[2026-04-13_news_mining_energy]], [[2026-04-23_news_mining_energy]], [[2026-04-27_news_mining_energy]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-07-23
 ---
 
 # Pampa Energía - Vaca Muerta e Industria
 
 **Compañía:** Pampa Energía S.A.
-**Inversión Total:** **US$ 4.500 millones**.
+**Inversión Total:** **US$ 4.500 millones** (u$s 4.521 millones exactos comprometidos bajo el RIGI).
 **Operación:** Upstream (Neuquén).
 
 ## Descripción
