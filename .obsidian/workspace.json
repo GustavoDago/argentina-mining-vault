@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "wiki/02 Frameworks/Corredor Bioceanico.md",
+                    "file": "log.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Corredor Bioceanico"
+                  "title": "log"
                 }
               }
             ]
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "wiki/02 Frameworks/Corredor Bioceanico.md",
+                    "file": "log.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -67,7 +67,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Corredor Bioceanico"
+                  "title": "Gráfico de log"
                 }
               }
             ]
@@ -165,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/02 Frameworks/Corredor Bioceanico.md",
+                "file": "log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Corredor Bioceanico"
+              "title": "Enlaces salientes de log"
             }
           },
           {
@@ -236,9 +236,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f63baacba5671665",
+  "active": "ed14bb94f3db357c",
   "lastOpenFiles": [
+    "wiki/06 Shadow APIs/Ventanilla Unica Importacion PyME Decretos 482-483.md",
+    "wiki/06 Shadow APIs/Compliance Compre Local REPEM Catamarca vs RIGI.md",
+    "wiki/06 Shadow APIs/Prioridad Nodal BESS AlmaSADI CAMMESA.md",
+    "wiki/06 Shadow APIs/Evaluacion RIGI Filtro Inversion Nueva.md",
     "wiki/index.md",
+    "log.md",
+    "wiki/02 Frameworks/Corredor Bioceanico.md",
     "raw/2026-07-23_news_mining_energy.md",
     "wiki/04 Daily/2026-07-23_Daily_Report.md",
     "wiki/04 Daily/2026-07-22_Daily_Report.md",
@@ -260,12 +266,6 @@
     "wiki/03 Analysis/Cuello de Botella Electrico San Juan.md",
     "wiki/02 Frameworks/Sinergias Logisticas Puna.md",
     "wiki/02 Frameworks/RIMI.md",
-    "wiki/02 Frameworks/RIGI.md",
-    "wiki/02 Frameworks/Pre-Mortem Framework.md",
-    "wiki/02 Frameworks/Ley de Glaciares.md",
-    "wiki/02 Frameworks/Corredor Bioceanico.md",
-    "wiki/01 Projects/YPF.md",
-    "wiki/01 Projects/Vista Energy.md",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑTÑíÑoÑkÑíÑeÑnÑiÑzÑíÑaÑcÑiÑíÑoÑnÑ_ÑCÑíÑoÑnÑtÑíÑeÑnÑiÑdÑíÑoÑ_ÑLÑíÑoÑcÑíÑaÑlÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑíÑuÑpÑíÑeÑrÑ_ÑRÑIÑGÑIÑ_ÑCÑíÑoÑnÑgÑrÑíÑeÑsÑíÑoÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑIÑMÑ_ÑSÑíÑaÑnÑ_ÑJÑíÑuÑíÑaÑnÑ.ÑmÑdÑ",

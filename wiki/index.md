@@ -93,6 +93,17 @@
 - [[Riesgo Electrico San Juan Red Team]]
 - [[Super RIGI e Industrializacion]]
 
+### ⚡ [[06 Shadow APIs|Shadow APIs e Ingeniería Inversa]]
+- [[Aprobacion RIGI Upstream Res 484-2026]]
+- [[Evaluacion RIGI Filtro Inversion Nueva]]
+- [[Prioridad Nodal BESS AlmaSADI CAMMESA]]
+- [[Compliance Compre Local REPEM Catamarca vs RIGI]]
+- [[Ventanilla Unica Importacion PyME Decretos 482-483]]
+- [[Aduana Paso de Jama]]
+- [[Convencion TIR Logistica Bioceanica]]
+- [[ENRE Prioridad de Despacho]]
+- [[SIM San Juan Canon Minero]]
+
 ### 📅 [[04 Daily|Operaciones Diarias]]
 - [[2026-07-23_Daily_Report]]
 - [[2026-07-22_Daily_Report]]

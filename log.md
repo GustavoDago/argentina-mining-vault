@@ -1,6 +1,18 @@
 # Log de Operaciones
 
-## [2026-07-29] sync | Ingesta de Inteligencia Jules (2026-07-23), Consolidación RIGI y Depuración de Ramas Remotas
+## [2026-07-29] opps | Expansión e Ingeniería Inversa de Shadow APIs (4 Nuevas Temáticas y 5 Actualizadas)
+- **Nuevas Shadow APIs Creadas (4 Endpoints):**
+    - `wiki/06 Shadow APIs/Evaluacion RIGI Filtro Inversion Nueva.md`: Ingeniería inversa del criterio del Comité Evaluador RIGI sobre la descalificación de activos preexistentes e inversiones hundidas (Precedente Mariana, Ganfeng Lithium $273M). Arquitectura del *RIGI Greenfield Separator*.
+    - `wiki/06 Shadow APIs/Prioridad Nodal BESS AlmaSADI CAMMESA.md`: Especificación del algoritmo de adjudicación de potencia de almacenamiento en baterías BESS en nodos críticos del SADI sin offtaker estatal (Res. SE 400/2025). Arquitectura del *BESS Node Optimizer*.
+    - `wiki/06 Shadow APIs/Compliance Compre Local REPEM Catamarca vs RIGI.md`: Middleware de arbitraje de compliance entre el 70% de compre local provincial (REPEM Catamarca) y el 20% nacional del RIGI. Arquitectura del *Local Content Compliance Engine*.
+    - `wiki/06 Shadow APIs/Ventanilla Unica Importacion PyME Decretos 482-483.md`: Modelo de desgravación e importación agilizada de repuestos y equipos para contratistas PyME mineros/BESS bajo RIMI. Arquitectura del *FastImport Minero*.
+- **Actualización de 5 Shadow APIs Existentes:**
+    - `Aprobacion RIGI Upstream Res 484-2026.md`: Incorporación de la aprobación de Rincón de Aranda (Pampa, US$ 4.521M) y la solicitud de Bandurria Norte (Vista, US$ 5.800M).
+    - `Aduana Paso de Jama.md`: Integración del caso de éxito Eramine (-10 días a Asia por Jama a Angamos) y arquitectura Sat-Edge.
+    - `Convencion TIR Logistica Bioceanica.md`: Adhesión formal de Brasil a la Convención TIR e inversiones BID (US$ 200M PY15 y US$ 100M RN 51).
+    - `ENRE Prioridad de Despacho.md`: Fusión formal del ENRGE (ENRE+ENARGAS), prórroga DNU 585/2026 y arquitectura Virtual Power Plant.
+    - `SIM San Juan Canon Minero.md`: Incorporación de aprobaciones RIGI en San Juan (Josemaría, Los Azules, Veladero) y *SIM Compliance Ledger*.
+- **Actualización de Índices:** `wiki/06 Shadow APIs/index.md`, `wiki/index.md`, `index.md` y `log.md`.
 - **Actualización de Framework Corredor Bioceánico:** Reestructurada y actualizada la nota `wiki/02 Frameworks/Corredor Bioceanico.md` integrando los hitos de financiamiento BID (US$ 100M RN 51 / US$ 200M PY15), avance del 85% en el Puente de la Bioceánica, métricas de ahorro logístico minero (Eramine -10 días por Jama a Angamos), integraciones de Shadow APIs (eTIR / Jama) y diagnósticos Red Team/Pre-Mortem (apagón digital de 130 km y fricción gremial).
 - **Saneamiento de Sintaxis Markdown/Obsidian:** Ejecutado script de saneamiento masivo para reemplazar notaciones problemáticas de divisa (`u$s`, `u$s`, `uss`) por la notación estándar `US$` en 17 archivos de la wiki, resolviendo los conflictos de parseo de MathJax/LaTeX en Obsidian.
 - **Ingesta:** Extraído y consolidado el reporte crudo `raw/2026-07-23_news_mining_energy.md` y la entrada de wiki `wiki/04 Daily/2026-07-23_Daily_Report.md` provenientes de la rama remota de Jules.
