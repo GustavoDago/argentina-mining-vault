@@ -1,6 +1,7 @@
 # Log de Operaciones
 
 ## [2026-07-29] sync | Ingesta de Inteligencia Jules (2026-07-23), Consolidación RIGI y Depuración de Ramas Remotas
+- **Actualización de Framework Corredor Bioceánico:** Reestructurada y actualizada la nota `wiki/02 Frameworks/Corredor Bioceanico.md` integrando los hitos de financiamiento BID (US$ 100M RN 51 / US$ 200M PY15), avance del 85% en el Puente de la Bioceánica, métricas de ahorro logístico minero (Eramine -10 días por Jama a Angamos), integraciones de Shadow APIs (eTIR / Jama) y diagnósticos Red Team/Pre-Mortem (apagón digital de 130 km y fricción gremial).
 - **Saneamiento de Sintaxis Markdown/Obsidian:** Ejecutado script de saneamiento masivo para reemplazar notaciones problemáticas de divisa (`u$s`, `u$s`, `uss`) por la notación estándar `US$` en 17 archivos de la wiki, resolviendo los conflictos de parseo de MathJax/LaTeX en Obsidian.
 - **Ingesta:** Extraído y consolidado el reporte crudo `raw/2026-07-23_news_mining_energy.md` y la entrada de wiki `wiki/04 Daily/2026-07-23_Daily_Report.md` provenientes de la rama remota de Jules.
 - **Hitos Inversión & Infraestructura:**

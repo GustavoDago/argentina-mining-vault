@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "wiki/04 Daily/2026-07-23_Daily_Report.md",
+                    "file": "wiki/02 Frameworks/Corredor Bioceanico.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026-07-23_Daily_Report"
+                  "title": "Corredor Bioceanico"
                 }
               }
             ]
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "wiki/04 Daily/2026-07-23_Daily_Report.md",
+                    "file": "wiki/02 Frameworks/Corredor Bioceanico.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -67,7 +67,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de 2026-07-23_Daily_Report"
+                  "title": "Gráfico de Corredor Bioceanico"
                 }
               }
             ]
@@ -93,7 +93,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -165,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/04 Daily/2026-07-23_Daily_Report.md",
+                "file": "wiki/02 Frameworks/Corredor Bioceanico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 2026-07-23_Daily_Report"
+              "title": "Enlaces salientes de Corredor Bioceanico"
             }
           },
           {
@@ -238,8 +238,10 @@
   },
   "active": "f63baacba5671665",
   "lastOpenFiles": [
-    "wiki/04 Daily/2026-07-22_Daily_Report.md",
+    "wiki/index.md",
+    "raw/2026-07-23_news_mining_energy.md",
     "wiki/04 Daily/2026-07-23_Daily_Report.md",
+    "wiki/04 Daily/2026-07-22_Daily_Report.md",
     "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
     "wiki/03 Analysis/Mapa_de_Puntos_de_Dolor_2026.md",
     "wiki/07 Analisis Esceptico/Esceptico_Geotermia_Pozos.md",
@@ -255,7 +257,6 @@
     "Full environmental life cycle costing analysis of repurposing onshore abandoned oil and gas wells for geothermal power generation.md.md",
     "wiki/02 Frameworks/Energía Geotérmica.md",
     "wiki/02 Frameworks/Economía Circular.md",
-    "wiki/index.md",
     "wiki/03 Analysis/Cuello de Botella Electrico San Juan.md",
     "wiki/02 Frameworks/Sinergias Logisticas Puna.md",
     "wiki/02 Frameworks/RIMI.md",
@@ -265,7 +266,6 @@
     "wiki/02 Frameworks/Corredor Bioceanico.md",
     "wiki/01 Projects/YPF.md",
     "wiki/01 Projects/Vista Energy.md",
-    "wiki/01 Projects/El Pachón.md",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑTÑíÑoÑkÑíÑeÑnÑiÑzÑíÑaÑcÑiÑíÑoÑnÑ_ÑCÑíÑoÑnÑtÑíÑeÑnÑiÑdÑíÑoÑ_ÑLÑíÑoÑcÑíÑaÑlÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑíÑuÑpÑíÑeÑrÑ_ÑRÑIÑGÑIÑ_ÑCÑíÑoÑnÑgÑrÑíÑeÑsÑíÑoÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑIÑMÑ_ÑSÑíÑaÑnÑ_ÑJÑíÑuÑíÑaÑnÑ.ÑmÑdÑ",
