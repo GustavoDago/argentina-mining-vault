@@ -21,7 +21,7 @@ Aprobación formal del primer proyecto de crudo upstream bajo RIGI por **US$ 4.5
 ### 2. Récord de Producción (903.700 bpd)
 El crecimiento del 19,6% interanual es impulsado exclusivamente por el shale (69% del total).
 - **Efecto de Segundo Orden:** El declino acelerado del convencional (-7,8%) obliga a las provincias a acelerar la transición hacia servicios especializados de fractura, dejando obsoleta la infraestructura tradicional.
-- **Análisis de Margen:** El breakeven integral de US$ 57-61 con un Brent a US$ 72 deja un margen saludable, amplificado por el RIGI (u$s 3-4 adicionales). Vaca Muerta ya no compite por geología, sino por eficiencia de costos.
+- **Análisis de Margen:** El breakeven integral de US$ 57-61 con un Brent a US$ 72 deja un margen saludable, amplificado por el RIGI (US$ 3-4 adicionales). Vaca Muerta ya no compite por geología, sino por eficiencia de costos.
 
 ### 3. Cobre: Proyecciones vs. Realidad
 Bain & Co proyecta 1,8 Mtpa para 2035.

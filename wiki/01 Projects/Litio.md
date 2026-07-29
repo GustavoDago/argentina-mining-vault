@@ -12,7 +12,7 @@ last_update: 2026-07-23
 
 ## Desafío Energético y Microredes Híbridas (Julio 2026)
 - **Cuellos de Botella de Transmisión:** El informe de la consultora **Aggreko** (16/07/2026) expone la severa brecha de transporte eléctrico en las alturas de la Puna. Al no contar con conexiones estables al SADI, los salares de litio están adoptando arquitecturas de **microredes híbridas descentralizadas**.
-- **Soluciones Híbridas (Solar + BESS):** Estas microredes combinan generación solar fotovoltaica con almacenamiento a gran escala en baterías de ion de litio (BESS) y soporte térmico local a GNL o diésel. El costo de las baterías (alrededor de **u$s 108/kWh**) y los beneficios impositivos sin piso de inversión provistos por el régimen [[RIMI]] impulsan de manera competitiva la descarbonización de los salares y ahorran hasta un 40% de OPEX logístico en transporte de combustible.
+- **Soluciones Híbridas (Solar + BESS):** Estas microredes combinan generación solar fotovoltaica con almacenamiento a gran escala en baterías de ion de litio (BESS) y soporte térmico local a GNL o diésel. El costo de las baterías (alrededor de **US$ 108/kWh**) y los beneficios impositivos sin piso de inversión provistos por el régimen [[RIMI]] impulsan de manera competitiva la descarbonización de los salares y ahorran hasta un 40% de OPEX logístico en transporte de combustible.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.

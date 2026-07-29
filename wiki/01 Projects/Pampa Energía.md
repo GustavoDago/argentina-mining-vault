@@ -9,7 +9,7 @@ last_update: 2026-07-23
 # Pampa Energía - Vaca Muerta e Industria
 
 **Compañía:** Pampa Energía S.A.
-**Inversión Total:** **US$ 4.500 millones** (u$s 4.521 millones exactos comprometidos bajo el RIGI).
+**Inversión Total:** **US$ 4.500 millones** (US$ 4.521 millones exactos comprometidos bajo el RIGI).
 **Operación:** Upstream (Neuquén).
 
 ## Descripción

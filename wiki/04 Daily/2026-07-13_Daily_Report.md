@@ -11,7 +11,7 @@ Vaca Muerta ha superado su propio techo en junio con un nuevo récord de fractur
 
 ## Minería: El RIGI como Filtro y Motor
 La minería creció un **9,5% en mayo** (INDEC), traccionada por el litio que, a pesar de la volatilidad de precios, sigue expandiendo capacidad.
-- **Rigor en el RIGI:** El rechazo al proyecto **Mariana (Ganfeng)** por u$s 273M sienta un precedente fundamental. El mensaje es claro: el RIGI no es un paraguas para inversiones ya realizadas. Esto obligará a las empresas a ser más creativas y agresivas con sus planes de expansión marginal.
+- **Rigor en el RIGI:** El rechazo al proyecto **Mariana (Ganfeng)** por US$ 273M sienta un precedente fundamental. El mensaje es claro: el RIGI no es un paraguas para inversiones ya realizadas. Esto obligará a las empresas a ser más creativas y agresivas con sus planes de expansión marginal.
 - **Tierras Raras:** La iniciativa de incluirlas en el RIGI es un movimiento estratégico correcto. Argentina no puede ser solo un exportador de carbonato de litio y concentrado de cobre; capturar la cadena de minerales críticos tecnológicos es el siguiente paso lógico, aunque requiere una infraestructura de procesamiento químico que hoy es inexistente.
 - **Mendoza-Chile:** La diplomacia minera de Mendoza con Chile es pragmática. Si la infraestructura argentina no llega a tiempo, salir por el Pacífico es la única opción viable para los clusters de cobre de los Andes.
 

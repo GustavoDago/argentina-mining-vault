@@ -16,11 +16,11 @@ La jornada destaca por avances en la maduración operativa de proyectos de litio
 ### 1. Litio: Maduración y Expansión
 - **[[Posco]] (Salta):** Confirmó que su primera planta ya opera al **70% de su capacidad nominal**, un avance crítico tras la reciente adquisición de Hombre Muerto Norte.
 - **Mendoza:** El proyecto de exploración **Don Luis** (San Rafael/Malargüe) avanza a la Legislatura con el envío de su DIA, marcando el retorno de la provincia a la exploración de litio bajo la Ley 7722.
-- **[[Rincón]] (Rio Tinto):** Inicio de exportaciones y desbloqueo de u$s 1.175M vía CFI/BID, validando la demanda de servicios ESG de estándar multilateral.
+- **[[Rincón]] (Rio Tinto):** Inicio de exportaciones y desbloqueo de US$ 1.175M vía CFI/BID, validando la demanda de servicios ESG de estándar multilateral.
 
 ### 2. Infraestructura Energética
-- **[[Vaca Muerta]] / [[TGS]]:** Inicio de obras en el **Gasoducto Perito Moreno**. La industrialización de líquidos (u$s 3.000M) abre la puerta al arbitraje de micro-GNL para proyectos mineros aislados.
-- **[[Pampa Energía]]:** Ratificación de inversiones por u$s 4.500M en el sector.
+- **[[Vaca Muerta]] / [[TGS]]:** Inicio de obras en el **Gasoducto Perito Moreno**. La industrialización de líquidos (US$ 3.000M) abre la puerta al arbitraje de micro-GNL para proyectos mineros aislados.
+- **[[Pampa Energía]]:** Ratificación de inversiones por US$ 4.500M en el sector.
 
 ### 3. Marco Regulatorio y Transparencia
 - **[[RIMI]]:** La reglamentación de este régimen para medianas inversiones complementa al [[RIGI]], buscando integrar a las Pymes y proveedores locales.
@@ -31,7 +31,7 @@ La jornada destaca por avances en la maduración operativa de proyectos de litio
 
 ## Acciones de Sincronización y Auditoría
 - **Ingesta:** Validación de la propagación de inversiones de Pampa Energía y TGS.
-- **Normalización:** Se ajustó la discrepancia en [[Taca Taca]] separando la solicitud RIGI (u$s 5.250M) de la ejecución real.
+- **Normalización:** Se ajustó la discrepancia en [[Taca Taca]] separando la solicitud RIGI (US$ 5.250M) de la ejecución real.
 - **Nuevas Notas:** [[RIMI]], [[Sinergias Logisticas Puna]].
 
 ## Próximo Movimiento Recomendado

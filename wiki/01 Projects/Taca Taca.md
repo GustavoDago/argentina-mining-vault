@@ -12,7 +12,7 @@ last_update: 2026-07-23
 **Operadora:** First Quantum Minerals.
 
 ## Descripción
-Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones** (compromiso RIGI de **u$s 4.200 millones**). Se posiciona en el primer cuartil de la curva de costos global.
+Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones** (compromiso RIGI de **US$ 4.200 millones**). Se posiciona en el primer cuartil de la curva de costos global.
 
 ## Hitos Recientes (2025-2026)
 - **Avances Técnicos de Infraestructura y Agua (Julio 2026):** Técnicos de la Secretaría de Minería y Energía de Salta y de la operadora Corriente Argentina S.A. (First Quantum) llevaron a cabo reuniones para repasar los diseños de la ruta de acceso vial, informes geotécnicos y el diseño del dique de colas. En particular, la campaña de exploración hídrica demostró caudales sólidos y excelente capacidad de recarga por precipitación, asegurando el recurso de agua industrial y salada de forma sostenible.

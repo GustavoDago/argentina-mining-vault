@@ -22,7 +22,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Proyectos Clave:**
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
     - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre". La campaña de perforación de la Fase 4 concluyó con resultados espectaculares en el pozo DPDH077 (57,75m con **9,41% CuEq**, con tramos de **25,84% CuEq**) ratificando la escala excepcional del depósito (16/07/2026).
-    - **[[Filo Sur]]**: Proyecto de 100 km² que se suma activamente al distrito mediante una alianza técnica y estratégica firmada entre Mogotes Metals y **Rio Tinto**, la cual compromete una inversión inicial de **u$s 15 millones** por parte de la multinacional (16/07/2026).
+    - **[[Filo Sur]]**: Proyecto de 100 km² que se suma activamente al distrito mediante una alianza técnica y estratégica firmada entre Mogotes Metals y **Rio Tinto**, la cual compromete una inversión inicial de **US$ 15 millones** por parte de la multinacional (16/07/2026).
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
@@ -53,7 +53,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
 
 ## Mesa del Cobre y Contexto de Precios
-- **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
+- **Mercado:** Precios récord superando los **US$ 13.000/ton** en la LME (Abril 2026).
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
 

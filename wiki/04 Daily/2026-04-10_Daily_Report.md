@@ -23,7 +23,7 @@ Jornada histórica para el sector extractivo argentino. La sanción definitiva d
 - **McDermitt discovery:** El hallazgo de >40 MTn de litio en EE.UU. introduce una variable de competencia de largo plazo que obliga a los proyectos locales a maximizar eficiencia vía **DLE**.
 
 ### 🏗️ Cobre: Infraestructura y Precios
-- **Commodities:** Cobre en máximos de **u$s 13.000/ton**, traccionado por la demanda de infraestructura de IA.
+- **Commodities:** Cobre en máximos de **US$ 13.000/ton**, traccionado por la demanda de infraestructura de IA.
 - **Conflicto ENRE:** **[[Los Azules]]** y **[[Distrito Vicuña]]** chocan por la prioridad de la línea de 500 kV en San Juan. El acceso a la energía se perfila como el nuevo cuello de botella tras la reforma de glaciares.
 
 ### 🛢️ Energía: Vaca Muerta

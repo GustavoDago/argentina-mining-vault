@@ -14,18 +14,18 @@ Jornada caracterizada por tres hitos de gran envergadura estratégica: la consol
 ## Operaciones en la Wiki
 - **Actualizaciones de Notas de Proyectos y Entidades:**
   - [[Vaca Muerta]]: Incorporación de los datos consolidados oficiales de producción de junio de 2026: récord provincial de petróleo de **644.821 bpd** (un incremento MoM del 1,34% que representa más de 8.000 bpd adicionales, equivalente a un tercio de la producción rionegrina); récord de shale oil de Vaca Muerta de **~625.000 bpd** (98% de la producción de Neuquén); y récord de gas natural de **118 millones de m³/día**.
-  - [[San Jorge]]: Actualización de estatus a "Aprobado bajo el RIGI" mediante la **Resolución 801/2026**, que valida una inversión total de **u$s 891 millones** (u$s 630 millones para construcción en calidad de VPU). Se detalló su rediseño sustentable (flotación convencional y eliminación de sustancias químicas prohibidas por la Ley 7.722) para producir concentrado de cobre y oro hacia el año **2029**.
+  - [[San Jorge]]: Actualización de estatus a "Aprobado bajo el RIGI" mediante la **Resolución 801/2026**, que valida una inversión total de **US$ 891 millones** (US$ 630 millones para construcción en calidad de VPU). Se detalló su rediseño sustentable (flotación convencional y eliminación de sustancias químicas prohibidas por la Ley 7.722) para producir concentrado de cobre y oro hacia el año **2029**.
   - [[Mendoza]]: Incorporación de los hitos regulatorios de la aprobación RIGI de San Jorge, consolidando la senda de reactivación cuprífera provincial bajo estándares ambientales estrictos.
   - [[Cobre]]: Integración del avance de San Jorge en la sección de la cuenca cuyana y la reactivación minera metalífera de Mendoza.
   - [[Catamarca]] & [[Tres Quebradas]]: Documentación detallada del severo cuello de botella que implica la superposición reglamentaria de las políticas de "Compre Local" nacional (mínimo de 20% bajo el RIGI) y provincial (70% de mano de obra y contratos exigido en Catamarca a través del REPEM).
 - **Actualizaciones de Notas de Frameworks y Análisis:**
-  - [[RIGI]]: Actualización del tablero de control a 21 proyectos aprobados por un volumen de **u$s 46.700 millones**, modificando el estatus de San Jorge y registrando el apartado de fricciones normativas de compre local subnacional.
+  - [[RIGI]]: Actualización del tablero de control a 21 proyectos aprobados por un volumen de **US$ 46.700 millones**, modificando el estatus de San Jorge y registrando el apartado de fricciones normativas de compre local subnacional.
   - [[Oportunidades y Conexiones]]: Incorporación de la oportunidad número 24 para la estructuración de Joint Ventures de "Compre Local Integrado" (Tier 1/2 nacionales en alianza con pymes locales provinciales) para sortear la saturación operativa de proveedores provinciales; actualización completa del mapa de conexiones Mermaid.
 
 ## Análisis de Impacto y Socio Escéptico
 
 ### 1. El Hito de San Jorge: Cobre sin cianuro bajo el RIGI
-- **Idea central:** La aprobación RIGI del proyecto San Jorge rompe un veto político y ambiental de casi dos décadas en Mendoza, viabilizando una inversión de u$s 891 millones.
+- **Idea central:** La aprobación RIGI del proyecto San Jorge rompe un veto político y ambiental de casi dos décadas en Mendoza, viabilizando una inversión de US$ 891 millones.
 - **Trade-offs:** El operador (Solway) renuncia a procesos de lixiviación tradicionales de mayor rentabilidad teórica, adoptando un diseño más costoso de trituración y flotación convencional para producir concentrado húmedo, con el fin de eludir las restricciones de la Ley 7.722.
 - **Riesgos críticos:** Mendoza carece de fundición local de cobre; el concentrado debe transportarse por camiones/trenes hacia puertos con destino internacional (Pacífico/Atlántico), multiplicando el riesgo logístico y los costos de OPEX de transporte en cordillera.
 - **Efecto de segundo orden:** Presiona políticamente sobre otros proyectos mendocinos en el Distrito Malargüe Occidental, forzando la rápida aprobación de sus respectivas Declaraciones de Impacto Ambiental (DIAs) bajo el marco legal de la Ley 7.722.

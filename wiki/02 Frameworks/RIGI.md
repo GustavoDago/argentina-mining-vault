@@ -15,9 +15,9 @@ last_update: 2026-07-23
 El RIGI se consolida como el motor de la "economía a dos velocidades", con un enfoque creciente en megaproyectos e infraestructura estratégica:
 
 - **Aprobaciones Acumuladas (Julio 2026):** **22 proyectos aprobados** por un total de **US$ 51.221 millones** de inversión comprometida.
-- **Distribución Sectorial de Aprobaciones:** 12 proyectos mineros (6 de litio, 6 de cobre/oro/plata por u$s 46.700M) y 10 energéticos / oil & gas.
+- **Distribución Sectorial de Aprobaciones:** 12 proyectos mineros (6 de litio, 6 de cobre/oro/plata por US$ 46.700M) y 10 energéticos / oil & gas.
 - **Inversión Presentada:** Solicitudes acumulan más de **US$ 126.800 millones**, incluyendo la mega solicitud de **Vista Energy** por **US$ 5.800 millones** en Bandurria Norte.
-- **Precedente Crítico (Julio 2026):** El Comité Evaluador rechazó el proyecto de litio **Mariana (Ganfeng)** por u$s 273M, sentando jurisprudencia sobre la regla de "inversión nueva": no se permiten activos ya construidos o inaugurados.
+- **Precedente Crítico (Julio 2026):** El Comité Evaluador rechazó el proyecto de litio **Mariana (Ganfeng)** por US$ 273M, sentando jurisprudencia sobre la regla de "inversión nueva": no se permiten activos ya construidos o inaugurados.
 - **Súper RIGI:** Defensa oficial del esquema para industrias pesadas e infraestructura estratégica con un umbral de **US$ 1.000 millones** y beneficios adicionales (Ganancias 15%).
 - **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos**.
 - **Sinergia Regional (16/04/2026):** Los gobernadores del NOA destacan el RIGI como catalizador, complementándolo con marcos locales.

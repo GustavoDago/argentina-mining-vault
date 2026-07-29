@@ -1,12 +1,13 @@
 # Log de Operaciones
 
 ## [2026-07-29] sync | Ingesta de Inteligencia Jules (2026-07-23), Consolidación RIGI y Depuración de Ramas Remotas
+- **Saneamiento de Sintaxis Markdown/Obsidian:** Ejecutado script de saneamiento masivo para reemplazar notaciones problemáticas de divisa (`u$s`, `u$s`, `uss`) por la notación estándar `US$` en 17 archivos de la wiki, resolviendo los conflictos de parseo de MathJax/LaTeX en Obsidian.
 - **Ingesta:** Extraído y consolidado el reporte crudo `raw/2026-07-23_news_mining_energy.md` y la entrada de wiki `wiki/04 Daily/2026-07-23_Daily_Report.md` provenientes de la rama remota de Jules.
 - **Hitos Inversión & Infraestructura:**
-    - **Vaca Muerta (Oil & Gas):** Solicitud masiva de **Vista Energy** (Miguel Galuccio) para ingresar al RIGI con el desarrollo del bloque greenfield **Bandurria Norte** por **u$s 5.800 millones** (332 pozos horizontales, 50.000 boe/d objetivo, batería de 40.000 bpd y estación compresora). Aprobación oficial del proyecto **Rincón de Aranda** de **Pampa Energía** por **u$s 4.521 millones** (Proyecto #22 del RIGI).
-    - **Litio:** Aprobación oficial del proyecto **Tres Quebradas** (LIEX / Zijin Mining, Catamarca) por **u$s 709 millones** (Proyecto #21 del RIGI) para la Fase 2 (40.000 t/año adicionales de carbonato de litio grado batería).
+    - **Vaca Muerta (Oil & Gas):** Solicitud masiva de **Vista Energy** (Miguel Galuccio) para ingresar al RIGI con el desarrollo del bloque greenfield **Bandurria Norte** por **US$ 5.800 millones** (332 pozos horizontales, 50.000 boe/d objetivo, batería de 40.000 bpd y estación compresora). Aprobación oficial del proyecto **Rincón de Aranda** de **Pampa Energía** por **US$ 4.521 millones** (Proyecto #22 del RIGI).
+    - **Litio:** Aprobación oficial del proyecto **Tres Quebradas** (LIEX / Zijin Mining, Catamarca) por **US$ 709 millones** (Proyecto #21 del RIGI) para la Fase 2 (40.000 t/año adicionales de carbonato de litio grado batería).
     - **Cobre:** Avances técnicos de infraestructura y dique de colas en **Taca Taca** (First Quantum, Salta) con resultados sobresalientes en exploración de recarga de acuíferos industriales.
-    - **Consolidación RIGI & CAEM:** El RIGI alcanza **22 proyectos aprobados** por un total de **US$ 51.221 millones** acumulados (12 mineros y 10 energéticos) y solicitudes totales por >US$ 126.800M. CAEM proyecta exportaciones mineras récord de **u$s 9.000 millones** (+49% interanual) para 2026.
+    - **Consolidación RIGI & CAEM:** El RIGI alcanza **22 proyectos aprobados** por un total de **US$ 51.221 millones** acumulados (12 mineros y 10 energéticos) y solicitudes totales por >US$ 126.800M. CAEM proyecta exportaciones mineras récord de **US$ 9.000 millones** (+49% interanual) para 2026.
 - **Consolidación Git & Saneamiento:**
     - Integración limpia de las novedades a `main`.
     - Eliminación de archivos temporales planos de la raíz (`actual_diff.txt`, `analysis_cached_diff.txt`, etc.).

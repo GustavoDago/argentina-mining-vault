@@ -21,8 +21,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Gas Natural:** Caída interanual del **3,3%**.
 
 ### Hitos Recientes (Julio 2026)
-- **Solicitud RIGI de Vista Energy en Bandurria Norte (21/07/2026):** Presentación formal para adherir al [[RIGI]] con una inversión masiva de **u$s 5.800 millones**, perforando **332 nuevos pozos** horizontales para alcanzar 50.000 boe/d e instalando baterías de procesamiento (40.000 bpd), estación compresora y ductos locales.
-- **Aprobación Oficial RIGI Rincón de Aranda (21/07/2026):** El Gobierno aprobó oficialmente el ingreso al [[RIGI]] del proyecto de [[Pampa Energía]] por **u$s 4.521 millones** (Proyecto #22), acelerando el triplicado de producción no convencional en el bloque.
+- **Solicitud RIGI de Vista Energy en Bandurria Norte (21/07/2026):** Presentación formal para adherir al [[RIGI]] con una inversión masiva de **US$ 5.800 millones**, perforando **332 nuevos pozos** horizontales para alcanzar 50.000 boe/d e instalando baterías de procesamiento (40.000 bpd), estación compresora y ductos locales.
+- **Aprobación Oficial RIGI Rincón de Aranda (21/07/2026):** El Gobierno aprobó oficialmente el ingreso al [[RIGI]] del proyecto de [[Pampa Energía]] por **US$ 4.521 millones** (Proyecto #22), acelerando el triplicado de producción no convencional en el bloque.
 - **Récord de Fracturas (Junio 2026):** Se alcanzó el máximo histórico mensual de etapas de fractura, superando los niveles de abril, impulsado por la eficiencia operativa y la necesidad de llenar la nueva capacidad de transporte.
 - **Financiamiento Oleoducto VMOS (08/07/2026):** Consorcio liderado por YPF (junto a Vista, Pampa y PAE) aseguró un préstamo de **US$ 2.000 millones** a una tasa SOFR + 5,5% para acelerar el tramo final del ducto.
 - **Expansión de Frontera (Julio 2026):** Phoenix Global Resources reportó un pozo récord en Río Negro que extiende la zona de productividad de la formación hacia el este de la cuenca neuquina.

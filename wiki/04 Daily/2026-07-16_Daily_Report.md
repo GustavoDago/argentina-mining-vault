@@ -13,7 +13,7 @@ Jornada de alto impacto en el clúster de cobre de [[San Juan]] con el ingreso f
 
 ## Operaciones en la Wiki
 - **Nuevas Notas de Entidades y Proyectos:**
-  - [[Filo Sur]]: Creación del perfil del proyecto de exploración cobre-oro-plata de 100 km² en el Distrito Vicuña tras la inversión de u$s 15 millones por parte de Rio Tinto.
+  - [[Filo Sur]]: Creación del perfil del proyecto de exploración cobre-oro-plata de 100 km² en el Distrito Vicuña tras la inversión de US$ 15 millones por parte de Rio Tinto.
 - **Actualizaciones de Notas Existentes:**
   - [[Lunahuasi]]: Incorporación del cierre de campaña de la Fase 4 con 27.318 metros perforados, destacando los pozos DPDH077 (*Jupiter*, 57,75m con 9,41% CuEq) y DPDH072 (*Saturn*, extensión este en profundidad).
   - [[Distrito Vicuña]]: Actualización del clúster integrando a Rio Tinto/Mogotes Metals en Filo Sur y los resultados consolidados de Lunahuasi.
@@ -25,10 +25,10 @@ Jornada de alto impacto en el clúster de cobre de [[San Juan]] con el ingreso f
   - [[Oportunidades y Conexiones]]: Actualización del catálogo de oportunidades (microredes híbridas bajo RIMI, sindicación de riesgos de exploración con Rio Tinto en Filo Sur) y mapa de conexiones Mermaid.
 
 ## Hallazgos Estratégicos
-1. **Sindicación de Riesgos a Escala Temprana:** El farm-in de Rio Tinto en Filo Sur (u$s 15M por el 5% inicial) consolida una tendencia de diversificación y sindicación de riesgos mineros de exploración, complementando su búsqueda de participación en Taca Taca y Los Azules.
+1. **Sindicación de Riesgos a Escala Temprana:** El farm-in de Rio Tinto en Filo Sur (US$ 15M por el 5% inicial) consolida una tendencia de diversificación y sindicación de riesgos mineros de exploración, complementando su búsqueda de participación en Taca Taca y Los Azules.
 2. **Leyes Extraordinarias en Jupiter:** Los resultados del pozo DPDH077 (19 metros con **25,84% CuEq**) confirman que la zona *Jupiter* de Lunahuasi posee un potencial metalogénico comparable o superior a *Saturn*, redefiniendo el depósito entero como un sistema masivo hiper-rico.
 3. **Bypass del SADI vía RIMI:** La falta de transporte de alta tensión andina obliga a los proyectos a actuar de forma independiente. Las excepciones del RIMI para BESS y generación renovable actúan como el catalizador perfecto para la descarbonización modular acelerada de los salares y campamentos andinos, reduciendo la logística diésel en un 40%.
 
 ## Próximos Movimientos Recomendados
-- Analizar el impacto financiero de las soluciones de BESS a u$s 108/kWh bajo el RIMI sobre la TIR de proyectos de litio medianos en Salta y Catamarca.
+- Analizar el impacto financiero de las soluciones de BESS a US$ 108/kWh bajo el RIMI sobre la TIR de proyectos de litio medianos en Salta y Catamarca.
 - Monitorear la estructuración formal de la alianza técnica entre Rio Tinto y Mogotes Metals tras la firma de los contratos de exclusividad de 15 meses.

@@ -12,7 +12,7 @@ last_update: 2026-04-14
 Estrategia de optimización de costos basada en la **infraestructura compartida** (Shared Infrastructure) entre operadores mineros adyacentes en la Puna argentina, específicamente en el **Salar del Hombre Muerto**.
 
 ## Actores Clave (Hub Hombre Muerto)
-- **[[Posco]]**: Adquisición de HMN (u$s 65M).
+- **[[Posco]]**: Adquisición de HMN (US$ 65M).
 - **[[Rincón]] (Rio Tinto)**: Primeras exportaciones y financiamiento CAF/BID.
 - **Galan Lithium**: Proyecto Hombre Muerto Oeste (HMW).
 - **Arcadium Lithium**: (Operaciones históricas ahora de Rio Tinto).
