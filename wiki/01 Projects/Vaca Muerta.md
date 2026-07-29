@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-13
+last_update: 2026-07-23
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -21,6 +21,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Gas Natural:** Caída interanual del **3,3%**.
 
 ### Hitos Recientes (Julio 2026)
+- **Solicitud RIGI de Vista Energy en Bandurria Norte (21/07/2026):** Presentación formal para adherir al [[RIGI]] con una inversión masiva de **u$s 5.800 millones**, perforando **332 nuevos pozos** horizontales para alcanzar 50.000 boe/d e instalando baterías de procesamiento (40.000 bpd), estación compresora y ductos locales.
+- **Aprobación Oficial RIGI Rincón de Aranda (21/07/2026):** El Gobierno aprobó oficialmente el ingreso al [[RIGI]] del proyecto de [[Pampa Energía]] por **u$s 4.521 millones** (Proyecto #22), acelerando el triplicado de producción no convencional en el bloque.
 - **Récord de Fracturas (Junio 2026):** Se alcanzó el máximo histórico mensual de etapas de fractura, superando los niveles de abril, impulsado por la eficiencia operativa y la necesidad de llenar la nueva capacidad de transporte.
 - **Financiamiento Oleoducto VMOS (08/07/2026):** Consorcio liderado por YPF (junto a Vista, Pampa y PAE) aseguró un préstamo de **US$ 2.000 millones** a una tasa SOFR + 5,5% para acelerar el tramo final del ducto.
 - **Expansión de Frontera (Julio 2026):** Phoenix Global Resources reportó un pozo récord en Río Negro que extiende la zona de productividad de la formación hacia el este de la cuenca neuquina.

@@ -1,5 +1,20 @@
 # Log de Operaciones
 
+## [2026-07-29] sync | Ingesta de Inteligencia Jules (2026-07-23), Consolidación RIGI y Depuración de Ramas Remotas
+- **Ingesta:** Extraído y consolidado el reporte crudo `raw/2026-07-23_news_mining_energy.md` y la entrada de wiki `wiki/04 Daily/2026-07-23_Daily_Report.md` provenientes de la rama remota de Jules.
+- **Hitos Inversión & Infraestructura:**
+    - **Vaca Muerta (Oil & Gas):** Solicitud masiva de **Vista Energy** (Miguel Galuccio) para ingresar al RIGI con el desarrollo del bloque greenfield **Bandurria Norte** por **u$s 5.800 millones** (332 pozos horizontales, 50.000 boe/d objetivo, batería de 40.000 bpd y estación compresora). Aprobación oficial del proyecto **Rincón de Aranda** de **Pampa Energía** por **u$s 4.521 millones** (Proyecto #22 del RIGI).
+    - **Litio:** Aprobación oficial del proyecto **Tres Quebradas** (LIEX / Zijin Mining, Catamarca) por **u$s 709 millones** (Proyecto #21 del RIGI) para la Fase 2 (40.000 t/año adicionales de carbonato de litio grado batería).
+    - **Cobre:** Avances técnicos de infraestructura y dique de colas en **Taca Taca** (First Quantum, Salta) con resultados sobresalientes en exploración de recarga de acuíferos industriales.
+    - **Consolidación RIGI & CAEM:** El RIGI alcanza **22 proyectos aprobados** por un total de **US$ 51.221 millones** acumulados (12 mineros y 10 energéticos) y solicitudes totales por >US$ 126.800M. CAEM proyecta exportaciones mineras récord de **u$s 9.000 millones** (+49% interanual) para 2026.
+- **Consolidación Git & Saneamiento:**
+    - Integración limpia de las novedades a `main`.
+    - Eliminación de archivos temporales planos de la raíz (`actual_diff.txt`, `analysis_cached_diff.txt`, etc.).
+    - Depuración y eliminación de ramas remotas efímeras (`origin/jules-13240179759690758693-f2cf4e9f` y `origin/setup-obsidian-energy-mining-vault-argentina-16474138635082252238`).
+- **Entidades Creadas/Actualizadas:**
+    - **Creadas:** `raw/2026-07-23_news_mining_energy.md`, `wiki/04 Daily/2026-07-23_Daily_Report.md`.
+    - **Actualizadas:** `wiki/01 Projects/Vista Energy.md`, `wiki/01 Projects/Pampa Energía.md`, `wiki/01 Projects/Tres Quebradas.md`, `wiki/01 Projects/Vaca Muerta.md`, `wiki/01 Projects/Litio.md`, `wiki/01 Projects/Taca Taca.md`, `wiki/02 Frameworks/RIGI.md`, `wiki/03 Analysis/Oportunidades y Conexiones.md`, `wiki/index.md`, `index.md`, `log.md`.
+
 ## [2026-07-22] sync | Ingesta masiva de 19 reportes de Jules (28 junio a 17 julio 2026) y saneamiento de ramas remotas
 - **Ingesta:** Extraídos y consolidados 18 reportes diarios crudos de noticias (`raw/2026-06-28` al `raw/2026-07-17`) y 17 reportes diarios de la wiki creados por Jules en 19 ramas remotas.
 - **Hitos Inversión & Infraestructura:**

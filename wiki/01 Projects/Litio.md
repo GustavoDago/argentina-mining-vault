@@ -1,18 +1,14 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-16
+last_update: 2026-07-23
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
 **Contexto:** En la segunda mitad de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
-
-## Desafío Energético y Microredes Híbridas (Julio 2026)
-- **Cuellos de Botella de Transmisión:** El informe de la consultora **Aggreko** (16/07/2026) expone la severa brecha de transporte eléctrico en las alturas de la Puna. Al no contar con conexiones estables al SADI, los salares de litio están adoptando arquitecturas de **microredes híbridas descentralizadas**.
-- **Soluciones Híbridas (Solar + BESS):** Estas microredes combinan generación solar fotovoltaica con almacenamiento a gran escala en baterías de ion de litio (BESS) y soporte térmico local a GNL o diésel. El costo de las baterías (alrededor de **u$s 108/kWh**) y los beneficios impositivos sin piso de inversión provistos por el régimen [[RIMI]] impulsan de manera competitiva la descarbonización de los salares y ahorran hasta un 40% de OPEX logístico en transporte de combustible.
 
 ## Desafío Energético y Microredes Híbridas (Julio 2026)
 - **Cuellos de Botella de Transmisión:** El informe de la consultora **Aggreko** (16/07/2026) expone la severa brecha de transporte eléctrico en las alturas de la Puna. Al no contar con conexiones estables al SADI, los salares de litio están adoptando arquitecturas de **microredes híbridas descentralizadas**.

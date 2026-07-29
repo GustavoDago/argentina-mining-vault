@@ -9,7 +9,7 @@ last_update: 2026-07-23
 # Daily Report - 2026-07-23
 
 ## Resumen Ejecutivo
-Jornada de alto impacto liderada por hitos determinantes en el sector petrolero no convencional y la minería de litio y cobre. Destaca la histórica solicitud de **[[Vista Energy]]** para sumarse al **[[RIGI]]** con un megaproyecto de **u$s 5.800 millones** en el bloque Bandurria Norte, marcando su expansión hacia bloques greenfield no productivos. Asimismo, el Gobierno nacional aprobó oficialmente el ingreso al **[[RIGI]]** del proyecto **Rincón de Aranda** de **[[Pampa Energía]]** por **u$s 4.521 millones** (Proyecto #22), y del proyecto de litio **[[Tres Quebradas]]** de Zijin Mining por **u$s 709 millones** (Proyecto #21). En Salta, se revisaron los avances técnicos del megaproyecto de cobre **[[Taca Taca]]**, confirmando excelentes resultados hídricos de recarga de acuíferos para su operación sustentable.
+Jornada de alto impacto liderada por hitos determinantes en el sector petrolero no convencional y la minería de litio y cobre. Destaca la histórica solicitud de **[[Vista Energy]]** para sumarse al **[[RIGI]]** con un megaproyecto de **uss 5.800 millones** en el bloque Bandurria Norte, marcando su expansión hacia bloques greenfield no productivos. Asimismo, el Gobierno nacional aprobó oficialmente el ingreso al **[[RIGI]]** del proyecto **Rincón de Aranda** de **[[Pampa Energía]]** por **u$s 4.521 millones** (Proyecto #22), y del proyecto de litio **[[Tres Quebradas]]** de Zijin Mining por **u$s 709 millones** (Proyecto #21). En Salta, se revisaron los avances técnicos del megaproyecto de cobre **[[Taca Taca]]**, confirmando excelentes resultados hídricos de recarga de acuíferos para su operación sustentable.
 
 ---
 
