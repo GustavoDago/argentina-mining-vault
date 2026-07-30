@@ -45,8 +45,17 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **60% de avance** (Julio 2026). Financiamiento de US$ 2.000M asegurado. Se proyecta una capacidad inicial de 180.000 bpd para fines de 2026.
 - **Argentina LNG:** Proyecto de exportación de GNL liderado por YPF. Southern Energy (consorcio PAE/YPF/Pampa) aprobó inversión de US$ 1.300M para el Gasoducto San Matías bajo el [[RIGI]].
 
+## Economía Circular y Reconversión Energetica (2026)
+- **Reconversión de Pozos AOGW a Geotermia:** La acumulación de pozos no convencionales y convencionales con alto water-cut plantea la oportunidad de reutilización geotérmica (ciclos ORC) y almacenamiento geotérmico.
+- **Tratamiento y Reutilización de Agua de Producción:** Reciclaje de produced water para reducir la extracción de fuentes de agua de superficie en Neuquén. Ver [[Economía Circular]] y [[Reconversión Pozos Petroleros a Geotermia.md]].
+
 ## Conexiones
+- [[Economía Circular]]
+- [[Energía Geotérmica]]
+- [[Reconversión Pozos Petroleros a Geotermia.md]]
+- [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]]
 - [[RIGI]]
 - [[Energia]]
 - [[Neuquén]]
 - [[Palermo Aike]]
+

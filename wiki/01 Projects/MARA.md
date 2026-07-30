@@ -23,7 +23,14 @@ MARA (Minera Agua Rica Alumbrera) es un megaproyecto de cobre y oro de clase mun
 - **Junio 2026:** Incluido por Bain & Company como uno de los activos estratégicos para alcanzar la meta de 1.8 Mtpa de cobre para 2035 en Argentina.
 - **Sinergia:** El proyecto es un pilar central de la Mesa del Cobre y la estrategia minera de Catamarca.
 
+## Economía Circular y Reutilización de Infraestructura
+- **Reutilización de Activos Existentes:** MARA representa un caso testigo emblemático de economía circular minera en Argentina al reutilizar la planta concentradora, el mineraloducto, las instalaciones auxiliares y el puerto de Bajo de la Alumbrera, evitando la construcción de nueva infraestructura primaria y reduciendo drásticamente la huella de carbono e impacto ambiental.
+- Ver [[Economía Circular]] y [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]].
+
 ## Conexiones
+- [[Economía Circular]]
+- [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]]
 - [[Cobre]]
 - [[Catamarca]]
 - [[RIGI]]
+

@@ -57,14 +57,24 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
 
+## Economía Circular y Re-mining de Relaves (2026)
+- **Re-processing de Colas y Escorias:** El avance de proyectos como [[MARA]] (reutilización de la infraestructura de Bajo de la Alumbrera) y la optimización de relaves en [[Josemaría]] y [[Veladero]] posicionan al cobre metalífero como eje de la economía circular mediante la recuperación de metales secundarios (Cobalto, Molibdeno) y el uso de ganga inerte para agregados de construcción.
+- Ver [[Economía Circular]] y [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]].
+
 ## Conexiones
+- [[Economía Circular]]
+- [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]]
 - [[RIGI]]
 - [[Mineria]]
 - [[San Juan]]
 - [[Lunahuasi]]
 - [[Filo Sur]]
 - [[San Jorge]]
+- [[MARA]]
+- [[Josemaría]]
+- [[Veladero]]
 - [[Salta]]
 - [[Mendoza]]
 - [[Distrito Vicuña]]
 - [[Electromovilidad]]
+

@@ -58,7 +58,14 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS in China.
 - Tras la volatilidad de 2024-2025, el precio del litio muestra signos de recuperación sólida en 2026 debido a la demanda sostenida de la industria de la **[[Electromovilidad]]** y el almacenamiento de energía renovable.
 
+## Economía Circular y Balance Hídrico (2026)
+- **Cierre Hídrico y DLE:** La transición hacia Extracción Directa de Litio (EDL / DLE) acoplada a la reinyección de salmuera agotada busca minimizar el impacto hidrogeológico y reducir la evaporación en salares.
+- **Valorización de Subproductos:** Oportunidad de aprovechamiento de sales residuales (halita, potasio, boro) acumuladas en los salares, sujeta a la mitigación de la fricción logística de transporte en la Puna. Ver [[Economía Circular]] y [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]].
+
 ## Conexiones
+- [[Economía Circular]]
+- [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]]
+- [[HydroTrust_Puna_Hidrico.md]]
 - [[RIGI]]
 - [[RIMI]]
 - [[Mineria]]
@@ -68,3 +75,4 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - [[Catamarca]]
 - [[Salta]]
 - [[Jujuy]]
+

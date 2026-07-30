@@ -1,5 +1,18 @@
 # Log de Operaciones
 
+## [2026-07-30] framework | Profundización de Economía Circular y Filing Back (4 Pilares Operativos)
+- **Reestructuración de [[Economía Circular.md]]:** Transformado el framework conceptual en un nodo estratégico multidimensional basado en 4 pilares operativos en Argentina:
+  1. *O&G / Geotermia & CCUS:* Reconversión de pozos AOGW en Vaca Muerta y Golfo San Jorge.
+  2. *Litio / DLE & Cierre Hídrico:* Reinyección de salmueras agotadas y valorización comercial de descartes salinos (halita, potasio, boro).
+  3. *Cobre & Metalíferos / Re-mining:* Reprocesamiento de colas/relaves en MARA, Veladero, Josemaría y recuperación de metales secundarios (cobalto, molibdeno).
+  4. *BESS & Electromovilidad / Second-Life:* Reutilización de packs LFP/NMC para almacenamiento solar en la Puna y reciclaje hidrometalúrgico local.
+- **Nuevas Notas Creadas (Filing Back):**
+  - `wiki/03 Analysis/Circularidad y Valorización de Pasivos Minero-Energéticos.md`: Análisis escéptico (Red Team) focalizado en el cuello de botella logístico (flete terrestre Puna vs. valor unitario de subproductos) y la necesidad de integración in-situ / Tren C14.
+  - `wiki/05 Tech Lead Opps/Marketplace_y_Trazabilidad_de_Pasivos_Circulares.md`: Tesis SaaS/B2B de trazabilidad de efluentes DLE (cumplimiento EU Battery Passport / CBAM) y marketplace de subproductos industriales.
+- **Actualización de Entidades (Proyectos & Grafo):**
+  - Actualizados `wiki/01 Projects/Litio.md`, `Cobre.md`, `Vaca Muerta.md`, `Cauchari-Olaroz.md`, `Veladero.md` y `MARA.md` incorporando secciones dedicadas de circularidad y enlaces cruzados a [[Economía Circular]].
+  - Actualizados `wiki/index.md` e `index.md` con las nuevas rutas de navegación.
+
 ## [2026-07-29] opps | Expansión e Ingeniería Inversa de Shadow APIs (4 Nuevas Temáticas y 5 Actualizadas)
 - **Nuevas Shadow APIs Creadas (4 Endpoints):**
     - `wiki/06 Shadow APIs/Evaluacion RIGI Filtro Inversion Nueva.md`: Ingeniería inversa del criterio del Comité Evaluador RIGI sobre la descalificación de activos preexistentes e inversiones hundidas (Precedente Mariana, Ganfeng Lithium $273M). Arquitectura del *RIGI Greenfield Separator*.

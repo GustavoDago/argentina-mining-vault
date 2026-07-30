@@ -22,7 +22,14 @@ Una de las minas de oro a cielo abierto más grandes del mundo y el principal mo
 ## Impacto Económico
 Veladero es el pilar de la economía sanjuanina, traccionando una vasta red de proveedores locales y empleo directo e indirecto en el Departamento Iglesia.
 
+## Economía Circular y Remediación (2026)
+- **Gestión del Valle de Lixiviación y Colas:** La ampliación de Fases 8 y 9 incorpora estándares de mitigación de drenaje ácido de roca (DAR), recirculación completa de soluciones cianuradas en circuito cerrado y evaluación de re-mining en colas históricas.
+- Ver [[Economía Circular]] y [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]].
+
 ## Conexiones
+- [[Economía Circular]]
+- [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]]
 - [[Mineria]]
 - [[RIGI]]
-- [[Josemaría]] (Cercanía geográfica)
+- [[Josemaría]]
+

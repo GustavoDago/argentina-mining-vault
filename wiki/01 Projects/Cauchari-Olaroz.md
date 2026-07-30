@@ -22,8 +22,16 @@ last_update: 2026-06-08
 - **Estructura Societaria:** El consorcio integra capitales de Ganfeng (China), Lithium Americas (Canadá) y JEMSE (Jujuy, Argentina).
 - **Sinergia Logística:** Conexión con el Paso de Sico y el Paso de Jama en el [[Corredor Bioceanico]] para facilitar la exportación directa a Asia vía puertos de Chile. (Eramine registró un ahorro de 10 días de navegación enviando carbonato por Jama hacia el puerto chileno de Angamos).
 
+## Economía Circular y Tecnología DLE (2026)
+- **Reinyección de Salmuera y Cierre Hídrico:** La implementación de tecnología DLE en la expansión busca maximizar el reciclaje de agua industrial y la reinyección de salmuera agotada al salar.
+- Ver [[Economía Circular]] y [[HydroTrust_Puna_Hidrico.md]].
+
 ## Conexiones
+- [[Economía Circular]]
+- [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]]
+- [[HydroTrust_Puna_Hidrico.md]]
 - [[Litio]]
 - [[RIGI]]
 - [[Jujuy]]
 - [[Corredor Bioceanico]]
+

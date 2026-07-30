@@ -81,6 +81,7 @@
 - [[Sinergias Logisticas Puna]]
 
 ## 03 Analysis
+- [[Circularidad y Valorización de Pasivos Minero-Energéticos]]
 - [[Cuello de Botella Electrico San Juan]]
 - [[Demanda Energetica de Data Centers e IA]]
 - [[Electrificacion Puna]]
@@ -90,6 +91,13 @@
 - [[Resiliencia_de_los_Pivotes]]
 - [[Riesgo Electrico San Juan Red Team]]
 - [[Super RIGI e Industrializacion]]
+
+## 05 Tech Lead Opps
+- [[Marketplace_y_Trazabilidad_de_Pasivos_Circulares]]
+- [[Reconversión Pozos Petroleros a Geotermia]]
+- [[HydroTrust_Puna_Hidrico]]
+- [[AndesLogistics_Puna_Logistica]]
+
 
 ## 06 Shadow APIs
 - [[Aprobacion RIGI Upstream Res 484-2026]]
