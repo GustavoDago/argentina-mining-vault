@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [raw/2026-07-08_news_mining_energy.md, raw/2026-07-09_news_mining_energy.md, raw/2026-07-10_news_mining_energy.md, raw/2026-07-11_news_mining_energy.md, raw/2026-07-12_news_mining_energy.md, raw/2026-07-13_news_mining_energy.md, raw/2026-07-23_news_mining_energy.md]
+sources: [raw/2026-07-08_news_mining_energy.md, raw/2026-07-09_news_mining_energy.md, raw/2026-07-10_news_mining_energy.md, raw/2026-07-11_news_mining_energy.md, raw/2026-07-12_news_mining_energy.md, raw/2026-07-13_news_mining_energy.md, raw/2026-07-23_news_mining_energy.md, raw/2026-08-01_news_mining_energy.md]
 confidence: high
-last_update: 2026-07-23
+last_update: 2026-08-01
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Julio 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Agosto 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Infraestructura de Exportación VMOS & Hubs Greenfield (Vista & Pampa)**:
@@ -29,7 +29,7 @@ last_update: 2026-07-23
    - El rechazo al proyecto Mariana por parte del Comité Evaluador del RIGI es una advertencia para inversores: el régimen no es un salvataje para inversiones hundidas, sino un incentivo para capital fresco. Consultoría en estructuración de proyectos RIGI para cumplir con la regla de "nueva inversión" es ahora crítica.
 
 ## Conexiones Estratégicas y Ocultas
-Argentina está logrando desacoplar el riesgo soberano del riesgo de proyecto en los sectores de Energía y Minería mediante el blindaje del RIGI. La acumulación de **22 proyectos aprobados (US$ 51.221M)** y **US$ 126.800M en solicitudes** consolida un "escudo de divisas" que sostiene la macroeconomía mientras el mercado interno se ajusta.
+Argentina está logrando desacoplar el riesgo soberano del riesgo de proyecto en los sectores de Energía y Minería mediante el blindaje del RIGI. La acumulación de **24 proyectos aprobados (>US$ 53.981M)** y **US$ 126.800M en solicitudes** consolida un "escudo de divisas" que sostiene la macroeconomía mientras el mercado interno se ajusta.
 
 ### Visualización de Conexiones (Mermaid)
 

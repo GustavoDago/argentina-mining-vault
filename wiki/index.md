@@ -113,6 +113,7 @@
 - [[SIM San Juan Canon Minero]]
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
+- [[2026-08-01_Daily_Report]]
 - [[2026-07-23_Daily_Report]]
 - [[2026-07-22_Daily_Report]]
 - [[2026-07-17_Daily_Report]]
@@ -186,4 +187,4 @@
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-07-23*
+*Última actualización: 2026-08-01*
