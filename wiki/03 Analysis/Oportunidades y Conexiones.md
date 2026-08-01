@@ -11,19 +11,21 @@ last_update: 2026-07-23
 ## Oportunidades de Negocio Identificadas
 1. **Infraestructura de Exportación VMOS & Hubs Greenfield (Vista & Pampa)**:
    - Con el financiamiento de US$ 2.000M asegurado y un 60% de avance en VMOS, la solicitud de Vista Energy por **US$ 5.800M** en Bandurria Norte (332 pozos) y la aprobación de Rincón de Aranda (Pampa, **US$ 4.521M**) abren demandas masivas de baterías de tratamiento (40.000 bpd), estaciones compresoras y servicios de perforación intensivos.
-2. **Expansión Industrial de Litio Grado Batería (Tres Quebradas & Posco)**:
+2. **Desafío Logístico y "Ruta de las Arenas" en Vaca Muerta**:
+   - Se proyecta una demanda de hasta **8 millones de toneladas de arena en 2027** para Vaca Muerta. Esto representa una oportunidad crítica (y un cuello de botella logístico) para empresas de transporte, infraestructura vial, y optimización de cadenas de suministro (supply chain management), impulsando proyectos como la evaluación de la "Ruta de las Arenas" en Río Negro.
+3. **Expansión Industrial de Litio Grado Batería (Tres Quebradas & Posco)**:
    - La aprobación de Tres Quebradas (Zijin, **US$ 709M**, 40.000 t/año adicionales) eleva a 6 los megaproyectos de litio bajo RIGI, traccionando demanda de reactivos químicos, sistemas de purificación y logística vial en Catamarca.
-3. **Tierras Raras y Minería Tecnológica**:
+4. **Tierras Raras y Minería Tecnológica**:
    - La iniciativa para incluir tierras raras en el [[RIGI]] abre un nicho virgen en Argentina. Oportunidades en exploración geofísica especializada y plantas de separación química de tierras raras.
-4. **BESS AlmaGBA y Estabilidad del SADI**:
+5. **BESS AlmaGBA y Estabilidad del SADI**:
    - La adjudicación de 700 MW de almacenamiento en baterías (BESS) en el AMBA señala una tendencia irreversible. Empresas de integración de sistemas, software de gestión de energía (EMS) y fabricantes de baterías (con potencial integración con el litio local) tienen un mercado en expansión para estabilizar la red eléctrica.
-5. **Extensión Geológica de Vaca Muerta hacia el Este**:
+6. **Extensión Geológica de Vaca Muerta hacia el Este**:
    - El pozo récord de Phoenix en Río Negro revaloriza áreas consideradas marginales. Oportunidad para adquisición de bloques y servicios de perforación en zonas de menor densidad actual pero alto potencial de shale oil.
-6. **Cluster Minero Mendoza-Chile**:
+7. **Cluster Minero Mendoza-Chile**:
    - Los acuerdos de integración binacional posicionan a Mendoza como un centro de servicios para proyectos chilenos y viceversa. Oportunidad en logística transfronteriza y servicios de ingeniería para el cluster de cobre de los Andes.
-7. **Súper RIGI e Industria Pesada**:
+8. **Súper RIGI e Industria Pesada**:
    - El esquema de US$ 1.000 millones para industrias que "aún no existen" apunta a siderurgia verde, plantas de hidrógeno de gran escala e infraestructura de GNL masiva.
-8. **Rechazo Mariana y Rigor de "Inversión Nueva"**:
+9. **Rechazo Mariana y Rigor de "Inversión Nueva"**:
    - El rechazo al proyecto Mariana por parte del Comité Evaluador del RIGI es una advertencia para inversores: el régimen no es un salvataje para inversiones hundidas, sino un incentivo para capital fresco. Consultoría en estructuración de proyectos RIGI para cumplir con la regla de "nueva inversión" es ahora crítica.
 
 ## Conexiones Estratégicas y Ocultas

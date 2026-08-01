@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-23
+last_update: 2026-08-01
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -11,10 +11,10 @@ last_update: 2026-07-23
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
-## Tablero de Control (Julio 2026)
+## Tablero de Control (Agosto 2026)
 El RIGI se consolida como el motor de la "economía a dos velocidades", con un enfoque creciente en megaproyectos e infraestructura estratégica:
 
-- **Aprobaciones Acumuladas (Julio 2026):** **22 proyectos aprobados** por un total de **US$ 51.221 millones** de inversión comprometida.
+- **Aprobaciones Acumuladas:** **24 proyectos aprobados** por un total de más de **US$ 53.981 millones** de inversión comprometida. En agosto se sumaron la megaplanta de fertilizantes de [[Pampa Energía]] (USD 2.400M) en Bahía Blanca y la ampliación midstream de [[Compañía MEGA]] (USD 360M).
 - **Distribución Sectorial de Aprobaciones:** 12 proyectos mineros (6 de litio, 6 de cobre/oro/plata por US$ 46.700M) y 10 energéticos / oil & gas.
 - **Inversión Presentada:** Solicitudes acumulan más de **US$ 126.800 millones**, incluyendo la mega solicitud de **Vista Energy** por **US$ 5.800 millones** en Bandurria Norte.
 - **Precedente Crítico (Julio 2026):** El Comité Evaluador rechazó el proyecto de litio **Mariana (Ganfeng)** por US$ 273M, sentando jurisprudencia sobre la regla de "inversión nueva": no se permiten activos ya construidos o inaugurados.

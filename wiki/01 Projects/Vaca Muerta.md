@@ -20,7 +20,10 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Julio 2026)
+### Hitos Recientes (Julio/Agosto 2026)
+- **Logística y Demanda de Arena (Agosto 2026):** Se estima que Vaca Muerta necesitará hasta **8 millones de toneladas de arena en 2027**, lo que plantea un desafío logístico enorme para la industria. En respuesta, la provincia de Río Negro evalúa el proyecto "Ruta de las Arenas" para mejorar el transporte hacia la cuenca.
+- **Proyecciones Macro (Agosto 2026):** Goldman Sachs estimó que Vaca Muerta recibirá **US$ 60.000 millones de inversión** en los próximos cinco años, consolidando la confianza internacional.
+- **Crecimiento de Refinación (Agosto 2026):** El crudo de Vaca Muerta impulsó un alza del **19,7% en la refinación** de combustibles en la región, resistiendo la caída general del sector industrial.
 - **Solicitud RIGI de Vista Energy en Bandurria Norte (21/07/2026):** Presentación formal para adherir al [[RIGI]] con una inversión masiva de **US$ 5.800 millones**, perforando **332 nuevos pozos** horizontales para alcanzar 50.000 boe/d e instalando baterías de procesamiento (40.000 bpd), estación compresora y ductos locales.
 - **Aprobación Oficial RIGI Rincón de Aranda (21/07/2026):** El Gobierno aprobó oficialmente el ingreso al [[RIGI]] del proyecto de [[Pampa Energía]] por **US$ 4.521 millones** (Proyecto #22), acelerando el triplicado de producción no convencional en el bloque.
 - **Récord de Fracturas (Junio 2026):** Se alcanzó el máximo histórico mensual de etapas de fractura, superando los niveles de abril, impulsado por la eficiencia operativa y la necesidad de llenar la nueva capacidad de transporte.

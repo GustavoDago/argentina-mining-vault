@@ -1,5 +1,17 @@
 # Log de Operaciones
 
+## [2026-08-01] sync | Ingesta consolidada de Inteligencia Jules
+- **Ingesta:** Procesado reporte `raw/2026-08-01_news_mining_energy.md`.
+- **Hitos Inversión:**
+    - **Vaca Muerta:** Goldman Sachs estima US$ 60.000M a 5 años; récord de refinación local (+19.7%). Cuello de botella logístico para 2027 (demanda de 8M toneladas de arena) e impulso de la "Ruta de las Arenas".
+    - **Midstream y Downstream (RIGI):** Aprobación oficial del RIGI para megaplanta de fertilizantes de Pampa Energía (USD 2.400M iniciales) y expansión de infraestructura midstream de Compañía MEGA (USD 360M).
+    - **Upstream:** Neuquén aprueba cesión de áreas secundarias de Pluspetrol a YPF (enfocadas en GNL); fecha para 2do pozo shale en Palermo Aike (YPF-CGC).
+- **Minería:**
+    - **San Juan:** Tensión de pymes por asfixia de costos vs. esperanza de megaproyectos de cobre; impacto positivo de infraestructura eléctrica de Distrito Vicuña en el sistema provincial.
+- **Entidades Creadas/Actualizadas:**
+    - Creado reporte diario `2026-08-01_Daily_Report.md`.
+    - Actualizados: `Vaca Muerta.md`, `Pampa Energía.md`, `Compañía MEGA.md`, `YPF.md`, `Pluspetrol.md`, `San Juan.md`, `RIGI.md`, `Oportunidades y Conexiones.md`.
+
 ## [2026-07-30] framework | Profundización de Economía Circular y Filing Back (4 Pilares Operativos)
 - **Reestructuración de [[Economía Circular.md]]:** Transformado el framework conceptual en un nodo estratégico multidimensional basado en 4 pilares operativos en Argentina:
   1. *O&G / Geotermia & CCUS:* Reconversión de pozos AOGW en Vaca Muerta y Golfo San Jorge.

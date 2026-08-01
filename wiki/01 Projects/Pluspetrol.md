@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-17_news_mining_energy]]
+sources: [[2026-05-09_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-05-11_news_mining_energy]], [[2026-05-17_news_mining_energy]], [[raw/2026-08-01_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-21
+last_update: 2026-08-01
 ---
 
 # Pluspetrol (Vaca Muerta)
@@ -20,7 +20,7 @@ last_update: 2026-05-21
 - **Estado RIGI:** Solicitud formal de ingreso al RIGI presentada en mayo de 2026 y en proceso de evaluación técnica regulatoria.
 
 ## Otros Activos
-- Traspaso estratégico de áreas marginales (Aguada Villanueva, Meseta Buena Espera y Las Tacanas) a **YPF** en abril de 2026, lo que ratifica una reestructuración severa del portafolio enfocado en concentrar capital y recursos operativos en los activos core de Bajo del Choique.
+- Traspaso estratégico de áreas marginales (Aguada Villanueva, Meseta Buena Esperanza y Las Tacanas) a **YPF**. Este proceso fue formalmente aprobado por el gobierno de Neuquén en agosto de 2026, ratificando una reestructuración severa del portafolio enfocado en concentrar capital y recursos operativos en los activos core de Bajo del Choique, mientras YPF las destinará al proyecto GNL.
 
 ## Conexiones
 - [[Vaca Muerta]]
