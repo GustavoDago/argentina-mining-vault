@@ -47,6 +47,8 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Saturación Logística y Midstream (Agosto 2026)**:
+    - La demanda proyectada de **8 millones de toneladas de arena en 2027** para Vaca Muerta genera un cuello de botella crítico, impulsando proyectos como la "Ruta de las Arenas". Simultáneamente, el déficit eléctrico en la Puna empuja la adopción de microgrids (Solar+BESS). La aprobación de expansiones midstream (Compañía MEGA, US$ 360M) intenta aliviar la saturación en la evacuación de gas.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -77,7 +79,9 @@ graph TD
     VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
+    VM --> |Cuello de Botella 8M Ton| Arenas[Logística de Arenas]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
+    VM --> |Midstream US$ 360M| MEGA[Compañía MEGA]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
@@ -116,9 +120,10 @@ graph TD
     SanJorge --> OpCopper
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
+    ProyectosPuna --> |Déficit Red Andina| BESS_Demanda[Adopción Acelerada BESS]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. Los principales riesgos y cuellos de botella identificados a mediados de 2026 son de carácter logístico e infraestructural: **el déficit eléctrico en la Puna** (que fuerza la transición hacia BESS) y la **saturación en la logística de arenas de fractura** en Vaca Muerta. Superar estos obstáculos es imperativo para materializar las proyecciones de inversión masivas (ej. US$ 60.000 millones proyectados por Goldman Sachs).

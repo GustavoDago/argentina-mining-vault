@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-09
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -11,8 +11,14 @@ last_update: 2026-04-27
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
-## Tablero de Control (Abril 2026)
-En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
+## Tablero de Control (Agosto 2026)
+A agosto de 2026, el RIGI ha superado las expectativas iniciales consolidándose como el motor principal de la inversión extranjera directa en Argentina:
+
+- **Hito de Inversión (09/08/2026):** El régimen alcanzó los **36 proyectos registrados**, sumando inversiones totales proyectadas por **US$ 94.922 millones**.
+- **Proyectos Aprobados:** Se registran **15 proyectos formalmente aprobados** que representan **US$ 19.500 millones**.
+- **Proyectos en Evaluación:** Existen **21 proyectos pendientes** de aprobación definitiva que agrupan los restantes **US$ 75.300 millones**.
+
+### Resumen Histórico (Abril 2026)
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
 - **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
