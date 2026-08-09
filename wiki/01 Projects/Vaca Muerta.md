@@ -1,15 +1,15 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-08-01
+last_update: 2026-08-09
 ---
 
 # Vaca Muerta (Oil & Gas)
 
 **Ubicación:** Cuenca Neuquina (Patagonia Argentina).
-**Principales Actores:** YPF, [[Vista Energy]], Tecpetrol, [[Pampa Energía]], Phoenix Global Resources.
+**Principales Actores:** YPF, [[Vista Energy]], Tecpetrol, [[Pampa Energía]], Phoenix Global Resources, [[TGS]].
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
@@ -20,8 +20,13 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Julio/Agosto 2026)
-- **Logística y Demanda de Arena (Agosto 2026):** Se estima que Vaca Muerta necesitará hasta **8 millones de toneladas de arena en 2027**, lo que plantea un desafío logístico enorme para la industria. En respuesta, la provincia de Río Negro evalúa el proyecto "Ruta de las Arenas" para mejorar el transporte hacia la cuenca.
+### Hitos Recientes (Agosto 2026)
+- **Phoenix Global Resources RIGI (09/08/2026):** Anunció la presentación de un paquete RIGI por **US$ 6.000 millones** para desarrollar Mata Mora y Confluencia (Río Negro) con objetivo de 60.000 bpd y abastecimiento de arena local.
+- **Venta Histórica de GNL y San Matías (09/08/2026):** Southern Energy (SESA) aseguró contrato de venta masiva de GNL con SEFE (Alemania) por **US$ 7.000 millones** a 8 años (2 MTPA) impulsando la construcción del **Gasoducto San Matías** (US$ 1.000M).
+- **RIGI TGS Perito Moreno (09/08/2026):** [[TGS]] ingresó al RIGI para ampliar el Gasoducto Perito Moreno por **US$ 550 millones** (+12 MMm3/d, 7.535 empleos).
+- **Planta de Urea Pampa Energía (09/08/2026):** Pampa redobló apuesta a su proyecto en Bahía Blanca por **US$ 2.700 millones**.
+- **Avance VMOS (09/08/2026):** Oleoducto Vaca Muerta Oil Sur avanza entre el **59% y 73%** de ejecución técnica.
+- **Logística y Demanda de Arena (Agosto 2026):** Se estima que Vaca Muerta necesitará hasta **8 millones de toneladas de arena en 2027**, lo que plantea un desafío logístico enorme para la industria (flete representa hasta 80% del valor unitario). En respuesta, la provincia de Río Negro evalúa el proyecto "Ruta de las Arenas" para mejorar el transporte hacia la cuenca.
 - **Proyecciones Macro (Agosto 2026):** Goldman Sachs estimó que Vaca Muerta recibirá **US$ 60.000 millones de inversión** en los próximos cinco años, consolidando la confianza internacional.
 - **Crecimiento de Refinación (Agosto 2026):** El crudo de Vaca Muerta impulsó un alza del **19,7% en la refinación** de combustibles en la región, resistiendo la caída general del sector industrial.
 - **Solicitud RIGI de Vista Energy en Bandurria Norte (21/07/2026):** Presentación formal para adherir al [[RIGI]] con una inversión masiva de **US$ 5.800 millones**, perforando **332 nuevos pozos** horizontales para alcanzar 50.000 boe/d e instalando baterías de procesamiento (40.000 bpd), estación compresora y ductos locales.

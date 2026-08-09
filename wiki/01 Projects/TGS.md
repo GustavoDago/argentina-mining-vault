@@ -1,21 +1,22 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-08-09
 ---
 
 # TGS Vaca Muerta (Industrialización)
 
 **Compañía:** Transportadora de Gas del Sur (TGS).
-**Inversión Total:** **US$ 3.000 millones**.
-**Proyecto:** Proyecto de industrialización y exportación de líquidos del gas natural (Etano, GLP, Gasolina).
+**Inversión Total:** **US$ 3.000 millones** (Líquidos) + **US$ 550 millones** (Ampliación Gasoducto Perito Moreno).
+**Proyecto:** Proyecto de industrialización y exportación de líquidos del gas natural (Etano, GLP, Gasolina) y ampliación de capacidad de transporte gasífera.
 
 ## Descripción
-**TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta. El proyecto se centra en la separación e industrialización de líquidos para exportación a gran escala.
+**TGS** busca transformar la matriz energética argentina mediante la agregación de valor al gas natural producido en Vaca Muerta y la expansión de la infraestructura de transporte de gas.
 
 ## Hitos Recientes (2026)
+- **Ingreso al RIGI por Gasoducto Perito Moreno (09/08/2026):** TGS ingresó formalmente al [[RIGI]] con un proyecto de **US$ 550 millones** para la ampliación del Gasoducto Perito Moreno (ex Néstor Kirchner). Incorporará 12 millones de m3 diarios de gas, generando 7.535 empleos antes del invierno de 2027.
 - **Consolidación del Proyecto (20/04/2026):** Se reafirmó el anuncio de inversión de **US$ 3.000 millones** para la planta de procesamiento y exportación de líquidos de gas natural, aprovechando la infraestructura de Vaca Muerta.
 - **Infraestructura de Transporte (14/04/2026):** Inicio de la ampliación del **Gasoducto Perito Moreno** y habilitación de nueva capacidad de transporte para evacuar el gas de la cuenca.
 - **Argentina Week (13/04/2026):** El CEO de TGS ratificó en Nueva York el plan de inversión de **US$ 3.000 millones** para la planta separadora de gas, destacando el marco del [[RIGI]].

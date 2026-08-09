@@ -10,7 +10,7 @@
           {
             "id": "706440329644f23e",
             "type": "tabs",
-            "dimension": 67.15116279069767,
+            "dimension": 60.85271317829457,
             "children": [
               {
                 "id": "f63baacba5671665",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "log.md",
+                    "file": "wiki/02 Frameworks/Economía Circular.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "log"
+                  "title": "Economía Circular"
                 }
               }
             ]
@@ -31,7 +31,7 @@
           {
             "id": "b8e5cfe550460bf7",
             "type": "tabs",
-            "dimension": 32.848837209302324,
+            "dimension": 39.14728682170542,
             "children": [
               {
                 "id": "6d210bfd114404ee",
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "log.md",
+                    "file": "wiki/02 Frameworks/Economía Circular.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -62,12 +62,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.9999999999999989,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de log"
+                  "title": "Gráfico local"
                 }
               }
             ]
@@ -93,7 +93,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -165,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log.md",
+                "file": "wiki/05 Tech Lead Opps/Midstream_Gas_Day_2026_Opps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de log"
+              "title": "Enlaces salientes de Midstream_Gas_Day_2026_Opps"
             }
           },
           {
@@ -236,17 +238,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ed14bb94f3db357c",
+  "active": "f63baacba5671665",
   "lastOpenFiles": [
+    "wiki/05 Tech Lead Opps/Marketplace_y_Trazabilidad_de_Pasivos_Circulares.md",
+    "wiki/03 Analysis/Circularidad y Valorización de Pasivos Minero-Energéticos.md",
+    "wiki/02 Frameworks/Corredor Bioceanico.md",
+    "wiki/04 Daily/2026-07-23_Daily_Report.md",
+    "wiki/05 Tech Lead Opps/Midstream_Gas_Day_2026_Opps.md",
+    "wiki/06 Shadow APIs/Aprobacion RIGI Upstream Res 484-2026.md",
+    "wiki/06 Shadow APIs/index.md",
+    "log.md",
     "wiki/06 Shadow APIs/Ventanilla Unica Importacion PyME Decretos 482-483.md",
     "wiki/06 Shadow APIs/Compliance Compre Local REPEM Catamarca vs RIGI.md",
     "wiki/06 Shadow APIs/Prioridad Nodal BESS AlmaSADI CAMMESA.md",
     "wiki/06 Shadow APIs/Evaluacion RIGI Filtro Inversion Nueva.md",
     "wiki/index.md",
-    "log.md",
-    "wiki/02 Frameworks/Corredor Bioceanico.md",
     "raw/2026-07-23_news_mining_energy.md",
-    "wiki/04 Daily/2026-07-23_Daily_Report.md",
     "wiki/04 Daily/2026-07-22_Daily_Report.md",
     "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
     "wiki/03 Analysis/Mapa_de_Puntos_de_Dolor_2026.md",
@@ -261,11 +268,6 @@
     "raw/los pozos de petróleo y gas abandonados podrían convertirse en fuentes de energía geotérmica.md",
     "raw/2026-06-09_news_mining_energy.md",
     "Full environmental life cycle costing analysis of repurposing onshore abandoned oil and gas wells for geothermal power generation.md.md",
-    "wiki/02 Frameworks/Energía Geotérmica.md",
-    "wiki/02 Frameworks/Economía Circular.md",
-    "wiki/03 Analysis/Cuello de Botella Electrico San Juan.md",
-    "wiki/02 Frameworks/Sinergias Logisticas Puna.md",
-    "wiki/02 Frameworks/RIMI.md",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑTÑíÑoÑkÑíÑeÑnÑiÑzÑíÑaÑcÑiÑíÑoÑnÑ_ÑCÑíÑoÑnÑtÑíÑeÑnÑiÑdÑíÑoÑ_ÑLÑíÑoÑcÑíÑaÑlÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑíÑuÑpÑíÑeÑrÑ_ÑRÑIÑGÑIÑ_ÑCÑíÑoÑnÑgÑrÑíÑeÑsÑíÑoÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑIÑMÑ_ÑSÑíÑaÑnÑ_ÑJÑíÑuÑíÑaÑnÑ.ÑmÑdÑ",

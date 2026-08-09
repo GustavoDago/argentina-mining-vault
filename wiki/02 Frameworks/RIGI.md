@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-08-01
+last_update: 2026-08-09
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -14,13 +14,13 @@ last_update: 2026-08-01
 ## Tablero de Control (Agosto 2026)
 El RIGI se consolida como el motor de la "economía a dos velocidades", con un enfoque creciente en megaproyectos e infraestructura estratégica:
 
-- **Aprobaciones Acumuladas:** **24 proyectos aprobados** por un total de más de **US$ 53.981 millones** de inversión comprometida. En agosto se sumaron la megaplanta de fertilizantes de [[Pampa Energía]] (USD 2.400M) en Bahía Blanca y la ampliación midstream de [[Compañía MEGA]] (USD 360M).
-- **Distribución Sectorial de Aprobaciones:** 12 proyectos mineros (6 de litio, 6 de cobre/oro/plata por US$ 46.700M) y 10 energéticos / oil & gas.
-- **Inversión Presentada:** Solicitudes acumulan más de **US$ 126.800 millones**, incluyendo la mega solicitud de **Vista Energy** por **US$ 5.800 millones** en Bandurria Norte.
+- **Métricas Registradas:** **36 proyectos registrados** en el régimen por un acumulado global de **US$ 94.922 millones** (pudiendo trepar a US$ 110.883M al sumar expedientes preliminares).
+- **Proyectos Aprobados:** **15 proyectos aprobados oficialmente** por un total de **US$ 19.557 millones**.
+- **Proyectos en Trámite:** **21 proyectos en proceso de evaluación** por un monto de **US$ 75.365 millones**.
+- **Distribución Geográfica de Inversión:** Neuquén lidera con >US$ 31.000M en trámite por shale, seguida por San Juan (cobre World-Class), Río Negro (infraestructura de evacuación y GNL) y Salta (litio/cobre).
+- **Obras en Operación RIGI:** Destacan el proyecto de litio **Hombre Muerto Oeste** (Galan Lithium, Catamarca, US$ 217M) y el **Parque Solar El Quemado** (Mendoza).
 - **Precedente Crítico (Julio 2026):** El Comité Evaluador rechazó el proyecto de litio **Mariana (Ganfeng)** por US$ 273M, sentando jurisprudencia sobre la regla de "inversión nueva": no se permiten activos ya construidos o inaugurados.
-- **Súper RIGI:** Defensa oficial del esquema para industrias pesadas e infraestructura estratégica con un umbral de **US$ 1.000 millones** y beneficios adicionales (Ganancias 15%).
-- **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos**.
-- **Sinergia Regional (16/04/2026):** Los gobernadores del NOA destacan el RIGI como catalizador, complementándolo con marcos locales.
+- **Riesgo de "Economía de Enclave":** Advertencias del sector PyME por el beneficio de importación a arancel cero sin cuotas obligatorias de contenido nacional, arriesgando un bajo derrame tecnológico en la cadena local.
 
 ### Categorías Especiales
 - **PEELP (Proyectos de Exportación Estratégica de Largo Plazo):**

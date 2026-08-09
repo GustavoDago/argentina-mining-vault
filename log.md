@@ -1,5 +1,19 @@
 # Log de Operaciones
 
+## [2026-08-09] sync | Ingesta consolidada de Inteligencia Jules
+- **Ingesta:** Procesado reporte `raw/2026-08-09_news_mining_energy.md`.
+- **Hitos Inversión & RIGI:**
+    - **RIGI Consolidado:** 36 proyectos registrados (15 aprobados por US$ 19.557M y 21 en trámite por US$ 75.365M, totalizando US$ 94.922M consolidados / US$ 110.883M en pipeline global).
+    - **Vaca Muerta & Midstream:** Avance de VMOS (59%-73%), contrato SESA GNL con SEFE (Alemania) por US$ 7.000M (2 MTPA a 8 años) e impulso al Gasoducto San Matías (US$ 1.000M). Proyecto RIGI de TGS para Gasoducto Perito Moreno (US$ 550M, +12 MMm3/d) y actualización de planta de Urea de Pampa Energía a US$ 2.700M.
+    - **Upstream Shale:** Phoenix Global Resources solicitó RIGI por US$ 6.000M para Mata Mora y Confluencia (Río Negro) apuntando a 60.000 bpd con arena local.
+    - **Minería de Cobre:** Distrito Vicuña adjudicó campamento Batidero por US$ 52M (PowerChina); Los Azules proyecta inicio de operaciones en 2029 (7.391 empleos); PSJ Cobre Mendocino proyecta operaciones en 2029 (US$ 891M); Gualcamayo alista RIGI G50 por US$ 1.500M adicionales.
+    - **Litio:** Galan Lithium con HMW operativo desde abril 2026 en Catamarca (US$ 217M).
+- **Riesgos y Diagnóstico:** Alertas por logística de arenas (representan hasta 80% del valor unitario puesto en boca de pozo) y riesgo de "Economía de Enclave" frente al beneficio de arancel cero en importaciones RIGI sin exigencias rígidas de compre local PyME.
+- **Entidades Creadas/Actualizadas:**
+    - **Creados:** `raw/2026-08-09_news_mining_energy.md`, `wiki/04 Daily/2026-08-09_Daily_Report.md`.
+    - **Actualizados:** `wiki/02 Frameworks/RIGI.md`, `wiki/01 Projects/Vaca Muerta.md`, `wiki/01 Projects/TGS.md`, `wiki/01 Projects/Pampa Energía.md`, `wiki/01 Projects/Phoenix Resources.md`, `wiki/03 Analysis/Oportunidades y Conexiones.md`, `log.md`.
+- **Consolidación Git & Saneamiento:** Depuración y eliminación de ramas remotas efímeras (`origin/daily-update-2026-08-09-10923855402868539085` y `origin/setup-obsidian-energy-mining-vault-argentina-16474138635082252238`).
+
 ## [2026-08-01] sync | Ingesta consolidada de Inteligencia Jules
 - **Ingesta:** Procesado reporte `raw/2026-08-01_news_mining_energy.md`.
 - **Hitos Inversión:**
