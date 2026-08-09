@@ -13,6 +13,7 @@ last_update: 2026-04-27
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
    - La **Resolución ENRE 079/2026** otorgó a **[[Distrito Vicuña]]** una prioridad del 90% sobre la capacidad remanente de la línea de 500 kV en San Juan. Esto genera un bloqueo sistémico para **[[Los Azules]]** y otros proyectos. El anuncio de inicio de construcción de Los Azules para fines de 2026 (18/04/2026) intensifica la urgencia por resolver este cuello de botella o migrar hacia la **Orquestación de Microgrids Off-Grid** (Solar + Baterías + LNG).
+   - **Agosto 2026:** Legisladores y analistas ratifican que la red eléctrica sigue colapsada, lo que imposibilita la conexión de nuevos desarrollos renovables en la Puna sin fuertes inversiones en transmisión.
 3. **Cobre de Alta Ley: El Efecto [[Lunahuasi]]**:
    - El reporte de leyes de hasta 18.9% Cu en Lunahuasi (Abril 2026) redefine el potencial del [[Distrito Vicuña]]. Existe una oportunidad para el desarrollo de **plantas de procesamiento modulares** y servicios de exploración de alta precisión en un área que ya es apodada el "Vaca Muerta del Cobre". Proyectos marginales pueden volverse altamente rentables si se integran en una infraestructura común de procesamiento de alta ley.
 4. **Litio: Eficiencia vs. Escala (Efecto McDermitt)**:
@@ -23,6 +24,7 @@ last_update: 2026-04-27
    - La formalización de inversiones bajo el RIGI (Pampa US$ 4.5B, Tecpetrol US$ 2.4B, Phoenix) y el anuncio de YPF en **D-129 (Chubut)** y **[[Palermo Aike]] (Santa Cruz)** abre un mercado masivo para la **transferencia tecnológica y logística de servicios petroleros** hacia la Cuenca Austral y el Golfo San Jorge. Es el inicio de la "federalización del shale".
 7. **Aluvión de Inversiones RIGI Petrolero y Decreto 105/2026**:
    - La extensión de beneficios a todo el upstream (Decreto 105/2026) acelera proyectos de exploración en Santa Cruz y Chubut. Esto genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas.
+   - **Desafío Logístico de Arena (Agosto 2026):** Empresas como Phoenix Global advierten que la logística de arena es el principal limitante en costos (hasta el 80% del valor de la tonelada es flete). Buscar arena de cercanía y resolver el colapso de las rutas hacia Neuquén es prioridad.
 8. **Consolidación del NOA como Hub Surcoreano**:
    - La adquisición de HMN por parte de **[[Posco]]** (US$ 65M) y la confirmación de que su primera planta ya opera al **70% de capacidad** (Abril 2026) consolidan a la empresa como el jugador más dinámico del litio en Salta. La oportunidad reside en la **logística transfronteriza y servicios compartidos**.
 9. **Servicios ESG y Financiamiento Multilateral**:
@@ -46,7 +48,9 @@ last_update: 2026-04-27
 18. **Ajuste Fino del RIGI para Shale e Infraestructura (Resolución 484/2026)**:
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
-    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.700M actualizados) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Riesgo de "Economía de Enclave" (Agosto 2026):**
+    - Analistas señalan que la falta de exigencias del RIGI respecto al desarrollo de proveedores locales, sumado a las facilidades para importar bienes con arancel cero, podría generar asimetrías competitivas con las PyMEs nacionales, limitando el derrame de los más de US$ 94.000 millones de inversión proyectada hacia la cadena de valor interna.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.

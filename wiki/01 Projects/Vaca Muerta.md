@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-09
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -36,7 +36,9 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Registra entre un **59% y un 73% de avance** (agosto 2026). Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
+- **Inversiones RIGI (Agosto 2026):** **Phoenix Global Resources** anunció la presentación de un proyecto por **US$ 6.000 millones** para desarrollar Mata Mora y Confluencia (Río Negro) hacia los 60.000 barriles diarios. **Pampa Energía** avanza con su planta de urea de **US$ 2.700 millones** y el bloque Rincón de Aranda (US$ 4.521 millones aprobados).
+- **Logística y Cuellos de Botella (Agosto 2026):** El transporte de arena de fractura se identifica como el principal desafío logístico para el crecimiento de la cuenca, obligando a las operadoras a buscar arena de cercanía en Río Negro.
 - **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
 
 ## Conexiones

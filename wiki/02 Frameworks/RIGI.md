@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-09
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -16,8 +16,8 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
 - **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
-- **Proyectos Aprobados/En Evaluación:** +35 proyectos bajo evaluación formal (con hitos como las 11 presentaciones confirmadas el 16/04/2026).
-- **Inversión Total Comprometida:** > **US$ 52.000 millones** (estimación actualizada tras ampliación de upstream, GNL y ratificación de Taca Taca). El 98% de las solicitudes se concentran en Minería y Energía.
+- **Proyectos Aprobados/En Evaluación (Agosto 2026):** **36 proyectos** registrados. De ellos, **15 están aprobados** (US$ 19.557 millones comprometidos) y **21 en trámite** (US$ 75.365 millones).
+- **Inversión Total Comprometida:** El pipeline global supera los **US$ 94.922 millones**, o hasta US$ 110.883 millones sumando nuevos expedientes (Agosto 2026). Las jurisdicciones más favorecidas son Neuquén, San Juan, Río Negro y Salta.
 - **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
 - **Sinergia Regional (16/04/2026):** Los gobernadores del NOA (Jalil, Sadir, Sáenz) destacan el RIGI como el catalizador principal de la aceleración de inversiones, complementándolo con marcos locales (ej. "mini RIGI" en Jujuy para inversiones >US$ 5M).
 
