@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-08-10_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-10
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -38,6 +38,13 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 ## Infraestructura Crítica
 - **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
 - **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
+
+### Estadísticas de Producción (Junio 2026)
+- Según RICSA (Regional Investment Consulting), Argentina alcanzó un récord histórico de producción petrolera de **914.900 barriles por día**, un **17,1% de crecimiento interanual**, traccionado principalmente por el no convencional de Vaca Muerta (acercando la meta del millón de barriles diarios).
+
+### Hitos Recientes (Agosto 2026)
+- **Actividad de Fractura (Julio 2026):** Aunque se evidenció una leve desaceleración en julio frente a un semestre récord, la actividad de fractura hidráulica acumula cerca de 17.000 etapas en lo que va del año, creciendo más del **18%** respecto a 2025.
+- **Fusiones y Adquisiciones (H1 2026):** El sector energético, impulsado por Vaca Muerta, lideró la actividad de M&A en Argentina durante el primer semestre, con operaciones creciendo un 38% hasta alcanzar unos **US$ 5.700 millones**.
 
 ## Conexiones
 - [[RIGI]]

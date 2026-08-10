@@ -118,6 +118,9 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    VM --> |M&A H1 2026: US$ 5.7B| MA[Fusiones y Adquisiciones]
+    Litio --> |Expansión Fase 2| Cauchari[Cauchari-Olaroz - Lithium Argentina]
+    Cauchari --> |Financiamiento| Debt[Deuda US$ 220M]
 ```
 
 ## Conclusiones
