@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/03 Analysis/Oportunidades y Conexiones.md",
+                "file": "wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oportunidades y Conexiones"
+              "title": "00_Index_Tech_Lead_Opps"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 364.5
   },
   "right": {
     "id": "1c7139cf29075682",
@@ -89,6 +89,7 @@
       {
         "id": "31456b8f235e8fb3",
         "type": "tabs",
+        "dimension": 36.627906976744185,
         "children": [
           {
             "id": "42caec904a280d7c",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/03 Analysis/Oportunidades y Conexiones.md",
+                "file": "wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -171,8 +172,9 @@
         "currentTab": 1
       },
       {
-        "id": "bfde5da84e20d005",
+        "id": "db882100dc882f6b",
         "type": "tabs",
+        "dimension": 63.372093023255815,
         "children": [
           {
             "id": "6d210bfd114404ee",
@@ -180,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "wiki/03 Analysis/Oportunidades y Conexiones.md",
+                "file": "wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 729.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,8 +230,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ed14bb94f3db357c",
+  "active": "f63baacba5671665",
   "lastOpenFiles": [
+    "wiki/05 Tech Lead Opps/IA_Agentes_Proveedores_OilGas_VacaMuerta.md",
+    "wiki/03 Analysis/SupplierDay_2026_VacaMuerta_Cadena_de_Valor.md",
+    "scratch/cleaned_supplier_day.md",
+    "scratch/convert.py",
+    "scratch",
+    "raw/image.png",
+    "raw/Supplier_day_2026_Econojournal.md",
+    "wiki/03 Analysis/Oportunidades y Conexiones.md",
     "wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md",
     "wiki/05 Tech Lead Opps/SandLogistics_Ruta_Arenas_VacaMuerta.md",
     "wiki/02 Frameworks/Economía Circular.md",
@@ -251,11 +261,6 @@
     "wiki/06 Shadow APIs/Compliance Compre Local REPEM Catamarca vs RIGI.md",
     "wiki/06 Shadow APIs/Prioridad Nodal BESS AlmaSADI CAMMESA.md",
     "wiki/06 Shadow APIs/Evaluacion RIGI Filtro Inversion Nueva.md",
-    "wiki/index.md",
-    "raw/2026-07-23_news_mining_energy.md",
-    "wiki/04 Daily/2026-07-22_Daily_Report.md",
-    "wiki/03 Analysis/Resiliencia_de_los_Pivotes.md",
-    "wiki/03 Analysis/Mapa_de_Puntos_de_Dolor_2026.md",
     "raw/Midstream.pdf",
     "raw/Full environmental life cycle costing analysis of geothermal power generation.html",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑTÑíÑoÑkÑíÑeÑnÑiÑzÑíÑaÑcÑiÑíÑoÑnÑ_ÑCÑíÑoÑnÑtÑíÑeÑnÑiÑdÑíÑoÑ_ÑLÑíÑoÑcÑíÑaÑlÑ.ÑmÑdÑ",
@@ -263,8 +268,6 @@
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑIÑMÑ_ÑSÑíÑaÑnÑ_ÑJÑíÑuÑíÑaÑnÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑíÑeÑgÑíÑuÑrÑiÑdÑíÑaÑdÑ_ÑRÑIÑGÑIÑ.ÑmÑdÑ",
     "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑSÑíÑaÑtÑ-ÑEÑdÑgÑíÑeÑ_ÑBÑiÑíÑoÑcÑíÑeÑíÑaÑnÑiÑcÑíÑoÑ.ÑmÑdÑ",
-    "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑMÑiÑdÑdÑlÑíÑeÑwÑíÑaÑrÑíÑeÑ_ÑíÑeÑTÑIÑRÑ_ÑBÑiÑíÑoÑcÑíÑeÑíÑaÑnÑiÑcÑíÑoÑ.ÑmÑdÑ",
-    "wiki/04 Daily/Ñ2Ñ0Ñ2Ñ6Ñ-Ñ0Ñ6Ñ-Ñ1Ñ2Ñ_ÑDÑíÑaÑiÑlÑyÑ_ÑRÑíÑeÑpÑíÑoÑrÑtÑ.ÑmÑdÑ",
-    "wiki/04 Daily/Ñ2Ñ0Ñ2Ñ6Ñ-Ñ0Ñ6Ñ-Ñ1Ñ1Ñ_ÑDÑíÑaÑiÑlÑyÑ_ÑRÑíÑeÑpÑíÑoÑrÑtÑ.ÑmÑdÑ"
+    "wiki/07 Analisis Esceptico/ÑEÑsÑcÑíÑeÑpÑtÑiÑcÑíÑoÑ_ÑMÑiÑdÑdÑlÑíÑeÑwÑíÑaÑrÑíÑeÑ_ÑíÑeÑTÑIÑRÑ_ÑBÑiÑíÑoÑcÑíÑeÑíÑaÑnÑiÑcÑíÑoÑ.ÑmÑdÑ"
   ]
 }

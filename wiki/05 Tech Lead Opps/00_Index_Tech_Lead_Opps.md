@@ -42,6 +42,13 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Apalancamiento RIGI:** Encaja en megaproyectos de evacuación (VMOS, Perito Moreno, San Matías).
 * **Próximo Movimiento:** Integrar métricas de fugas con certificaciones de exportación de GNL.
 
+### [[IA_Agentes_Proveedores_OilGas_VacaMuerta]] - Agentes IA para Pymes Proveedoras de O&G ⭐ NUEVO
+* **Resumen del Play:** Implementación de agentes IA en procesos críticos (facturación, logística, mantenimiento) para Pymes proveedoras de Vaca Muerta. La presión de costos de las operadoras hace que la IA deje de ser diferencial para convertirse en requisito de supervivencia. ROI < 1 año, productividades 3-7x. Fuente: Walter Abrigo (Santex) — Supplier Day 2026.
+* **Tech Stack:** Agentes LLM con RAG sectorial, integración ERP/CRM, IoT de flota.
+* **Riesgo Crítico:** Resistencia cultural (change management) y comoditización rápida de herramientas genéricas.
+* **Apalancamiento RIGI:** El boom de proveedores Pyme asociado a proyectos RIGI (VMOS, LNG) genera demanda masiva y urgente.
+* **Próximo Movimiento:** Mapear adopción actual con GAPP/FECENE; evaluar integración con [[Marketplace_Tier2_VacaMuerta]] y [[ShaleFlow_Anelo_Supply]].
+
 ---
 
 ## 2. Vector Puna / Litio & Cobre

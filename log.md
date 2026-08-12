@@ -402,3 +402,17 @@
  # #   [ 2 0 2 6 - 0 8 - 1 2 ]   f e a t   |   C r e a d o   d o c u m e n t o   � n d i c e   0 0 _ I n d e x _ T e c h _ L e a d _ O p p s . m d   e n   0 5   T e c h   L e a d   O p p s   c o n   l a   m a t r i z   i n t e g r a l   d e   1 3   o p o r t u n i d a d e s   c l a s i f i c a d a s   p o r   v e c t o r e s   i n d u s t r i a l e s 
  -   A c t u a l i z a d o   i n d e x . m d   c o n   t o d o s   l o s   e n l a c e s   d e   l a   s e c c i � n   0 5 .  
  
+## [2026-08-12] sync | Consolidacion Supplier Day 2026 — Cadena de Valor Vaca Muerta
+- **Fuente:** `raw/Supplier_day_2026_Econojournal.md` (EconoJournal, 11 de agosto de 2026).
+- **Acciones:**
+    - **raw/** transformado de HTML/Elementor a Markdown limpio.
+    - **Creado:** `wiki/03 Analysis/SupplierDay_2026_VacaMuerta_Cadena_de_Valor.md` — Análisis maestro del evento con 5 paneles: Supply Chain operadoras (YPF/PAE/Tecpetrol/Pluspetrol), Pymes GAPP (Transeparation/Valmec/Moto Mecánica), FECENE (Retamal/Albanesi/Gessler), Competitividad Pymes (Equipel/CIAR/EKU), Keynote Horacio Marín (CEO YPF).
+    - **Creado:** `wiki/05 Tech Lead Opps/IA_Agentes_Proveedores_OilGas_VacaMuerta.md` — Nueva Tech Lead Opp sobre agentes IA para Pymes proveedoras O&G (3-7x productividad, ROI<1 año, -80% facturación). Fuente: Walter Abrigo (Santex).
+    - **Actualizado:** `wiki/01 Projects/YPF.md` — Sección Supplier Day 2026 con métricas de Marín (250k bbl/d, 21 rigs, VMOS, LNG 12-15x, TPS, duplicación de ganancias).
+    - **Actualizado:** `wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md` — Nueva entrada IA Agentes Pymes O&G (opp #15).
+- **Hallazgos Clave:**
+    - Cuello de botella de arena: 5,5 Mt 2025 → 8 Mt 2026-27. Sin acuerdo ferroviario. YPF explora 3 rutas (vial/combinada/fluvial).
+    - Contratos desalineados: la ineficiencia del proveedor es hoy más rentable para el proveedor. YPF propone modelo TPS de ahorro compartido.
+    - Apertura importadora amenaza cadena de valor local (GAPP/FECENE). Tensión con RIGI: ¿beneficio de contenido local o economía de enclave?
+    - IA: no es diferencial sino requisito. ROI concreto: -80% costo facturación, -50% mantenimiento flota.
+    - Mensaje FECENE: "Bajar costos es algo que se logra de a dos. Lo único que se baja de a uno son precios."
