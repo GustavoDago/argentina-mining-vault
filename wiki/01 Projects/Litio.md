@@ -25,7 +25,7 @@ A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comerci
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
-- **Expansión (Julio 2026):** Rio Tinto planea una planta de 60.000 t/año con una inversión total de **US$ 3.000 millones**.
+- **Expansión (Julio 2026):** Rio Tinto planea una planta de 60.000 t/año con una inversión total de **US$ 3.000 millones**. A nivel país, Rio Tinto ya superó los **US$ 3.600 millones** en inversiones de litio (Agosto 2026).
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
 - **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
@@ -43,6 +43,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+- **Cierre de Financiamiento y RIGI (Agosto 2026):** Lithium Argentina (con Ganfeng) anunció el cierre de nuevas líneas de deuda por **US$ 220 millones**. El proyecto (Stage 2) ya había recibido aprobación RIGI en mayo de 2026.
 
 ### 5. [[Tres Quebradas]] (Catamarca)
 - **RIGI (14/07/2026):** Aprobación del proyecto de LIEX S.A. (Zijin Mining) con una inversión de **US$ 709 millones** para producir 40.000 t/año.

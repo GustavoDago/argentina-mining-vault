@@ -41,6 +41,9 @@ El RIGI se consolida como el motor de la "economía a dos velocidades", con un e
 9.  **[[Vista Energy]]** (Neuquén, Oil) - Solicitud de adhesión formal presentada el 21/07/2026 por **US$ 5.800M** para Bandurria Norte (332 pozos).
 10. **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
 11. **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
+12. **[[Cauchari-Olaroz]]** (Lithium Argentina/Ganfeng, Jujuy, Litio) - Stage 2 Expansion aprobada (Mayo 2026) con nuevas líneas de deuda (Agosto 2026) por **US$ 220M**.
+13. **Planta Urea Pampa Energía** (Midstream, Bahía Blanca) - Aprobada por **US$ 2.400M** para industrializar gas de Vaca Muerta.
+14. **Compañía MEGA** (Midstream) - Aprobada expansión por **US$ 360M**.
 12. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
 13. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
 14. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.

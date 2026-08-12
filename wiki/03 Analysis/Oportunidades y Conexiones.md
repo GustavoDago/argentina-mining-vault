@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [raw/2026-07-08_news_mining_energy.md, raw/2026-07-09_news_mining_energy.md, raw/2026-07-10_news_mining_energy.md, raw/2026-07-11_news_mining_energy.md, raw/2026-07-12_news_mining_energy.md, raw/2026-07-13_news_mining_energy.md, raw/2026-07-23_news_mining_energy.md, raw/2026-08-01_news_mining_energy.md, raw/2026-08-09_news_mining_energy.md]
+sources: [raw/2026-07-08_news_mining_energy.md, raw/2026-07-09_news_mining_energy.md, raw/2026-07-10_news_mining_energy.md, raw/2026-07-11_news_mining_energy.md, raw/2026-07-12_news_mining_energy.md, raw/2026-07-13_news_mining_energy.md, raw/2026-07-23_news_mining_energy.md, raw/2026-08-01_news_mining_energy.md, raw/2026-08-09_news_mining_energy.md, raw/2026-08-10_news_mining_energy.md, raw/2026-08-11_news_mining_energy.md, raw/2026-08-12_news_mining_energy.md]
 confidence: high
-last_update: 2026-08-09
+last_update: 2026-08-12
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Agosto 2026
@@ -12,11 +12,11 @@ last_update: 2026-08-09
 1. **Infraestructura de Exportación VMOS & Hubs Greenfield (Vista & Pampa)**:
    - Con el financiamiento de US$ 2.000M asegurado y un 59%-73% de avance en VMOS, la solicitud de Vista Energy por **US$ 5.800M** en Bandurria Norte (332 pozos) y la aprobación de Rincón de Aranda (Pampa, **US$ 4.521M**) abren demandas masivas de baterías de tratamiento (40.000 bpd), estaciones compresoras y servicios de perforación intensivos.
 2. **Desafío Logístico de Arenas y Minería de Cercanía en Río Negro**:
-   - Se proyecta una demanda de hasta **8 millones de toneladas de arena en 2027** para Vaca Muerta, donde el flete representa hasta el 80% del valor por tonelada. Oportunidad crítica para desarrolladores de arena de cercanía en Río Negro (ejemplo Phoenix Global) y la estructuración de corredores logísticos dedicados ("Ruta de las Arenas").
-3. **Mitigación de "Economía de Enclave" vía Transferencia Tecnológica Local**:
-   - Dado que el RIGI beneficia la importación con arancel 0% sin imponer cupos rígidos de compre local, surge una oportunidad estratégica para consultoras y desarrolladores de tecnología nacional (SaaS, automatización, BESS) que ofrezcan integración de alta eficiencia a PyMEs locales para ser competitivas frente a insumos importados.
-3. **Expansión Industrial de Litio Grado Batería (Tres Quebradas & Posco)**:
-   - La aprobación de Tres Quebradas (Zijin, **US$ 709M**, 40.000 t/año adicionales) eleva a 6 los megaproyectos de litio bajo RIGI, traccionando demanda de reactivos químicos, sistemas de purificación y logística vial en Catamarca.
+   - Se proyecta que la demanda de arenas de fractura alcanzará los **8 millones de toneladas en 2027** para Vaca Muerta. Como el flete representa hasta el 80% del valor en pozo, surge una enorme oportunidad en minería de cercanía en Río Negro (ej. desarrollos de Phoenix Global) y en software de gestión logística multi-modal ("Ruta de las Arenas").
+3. **Capacidad Ociosa en Frac Crews y Tensión en Cadena PyME**:
+   - A pesar del récord de producción (914,900 bpd), los conjuntos de fractura reportan hasta un **30% de capacidad ociosa**. Esto ha derivado en intentos de compresión de costos por parte de grandes primarios (como Halliburton), generando un fuerte rechazo de las PyMEs locales (FECENE). Oportunidad para plataformas SaaS de optimización de uso de activos y mediación de SLAs entre operadoras y pymes.
+4. **Infraestructura Eléctrica Descentralizada y Microredes BESS en la Puna**:
+   - Con la severa brecha de transmisión eléctrica en la zona andina y el fallo del ENRE asignando capacidad de transporte al [[Distrito Vicuña]] por sobre [[Los Azules]], la Puna requiere acelerar la adopción de microredes híbridas fotovoltaicas con baterías BESS y almacenamiento local, abriendo espacio a integradores energéticos independientes.
 4. **Tierras Raras y Minería Tecnológica**:
    - La iniciativa para incluir tierras raras en el [[RIGI]] abre un nicho virgen en Argentina. Oportunidades en exploración geofísica especializada y plantas de separación química de tierras raras.
 5. **BESS AlmaGBA y Estabilidad del SADI**:
@@ -31,7 +31,7 @@ last_update: 2026-08-09
    - El rechazo al proyecto Mariana por parte del Comité Evaluador del RIGI es una advertencia para inversores: el régimen no es un salvataje para inversiones hundidas, sino un incentivo para capital fresco. Consultoría en estructuración de proyectos RIGI para cumplir con la regla de "nueva inversión" es ahora crítica.
 
 ## Conexiones Estratégicas y Ocultas
-Argentina está logrando desacoplar el riesgo soberano del riesgo de proyecto en los sectores de Energía y Minería mediante el blindaje del RIGI. La acumulación de **24 proyectos aprobados (>US$ 53.981M)** y **US$ 126.800M en solicitudes** consolida un "escudo de divisas" que sostiene la macroeconomía mientras el mercado interno se ajusta.
+Argentina está logrando desacoplar el riesgo soberano del riesgo de proyecto en los sectores de Energía y Minería mediante el blindaje del RIGI. La acumulación de **36 proyectos registrados (US$ 94.922M acumulados, 15 aprobados por US$ 19.557M)** consolida el motor exportador projected en **US$ 51.000 millones** en conjunto entre Vaca Muerta y Minería.
 
 ### Visualización de Conexiones (Mermaid)
 

@@ -21,6 +21,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Gas Natural:** Caída interanual del **3,3%**.
 
 ### Hitos Recientes (Agosto 2026)
+- **Récord de Producción y M&A (Agosto 2026):** Argentina alcanzó un récord histórico de producción de petróleo en junio de 2026 con 914,900 bpd (crecimiento 17,1% interanual), impulsado por el shale oil. Además, la energía lideró las Fusiones y Adquisiciones (M&A) en H1 2026 con más de US$ 4.600M.
+- **Tensión en Cadena de Valor (Agosto 2026):** El sindicato petrolero y las cámaras locales (FECENE) rechazaron ajustes en los contratos de pymes impuestos por Halliburton, en un contexto donde los sets de fractura reportan hasta un 30% de capacidad ociosa.
 - **Phoenix Global Resources RIGI (09/08/2026):** Anunció la presentación de un paquete RIGI por **US$ 6.000 millones** para desarrollar Mata Mora y Confluencia (Río Negro) con objetivo de 60.000 bpd y abastecimiento de arena local.
 - **Venta Histórica de GNL y San Matías (09/08/2026):** Southern Energy (SESA) aseguró contrato de venta masiva de GNL con SEFE (Alemania) por **US$ 7.000 millones** a 8 años (2 MTPA) impulsando la construcción del **Gasoducto San Matías** (US$ 1.000M).
 - **RIGI TGS Perito Moreno (09/08/2026):** [[TGS]] ingresó al RIGI para ampliar el Gasoducto Perito Moreno por **US$ 550 millones** (+12 MMm3/d, 7.535 empleos).
