@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-12_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-12
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -12,7 +12,7 @@ last_update: 2026-04-27
 **Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
 
 ## Panorama 2026
-El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
+El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]]. Sus proyecciones de exportación conjunta con la minería apuntan a los **US$ 51.000 millones**. Además, impulsó el récord de producción de petróleo en Argentina, alcanzando los **914,900 bpd** en junio de 2026.
 
 ### Estadísticas de Producción (Febrero 2026)
 - **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
