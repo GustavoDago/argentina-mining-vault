@@ -93,10 +93,20 @@
 - [[Super RIGI e Industrializacion]]
 
 ## 05 Tech Lead Opps
+- [[00_Index_Tech_Lead_Opps]]
+- [[SandLogistics_Ruta_Arenas_VacaMuerta]]
+- [[ShaleFlow_Anelo_Supply]]
+- [[Marketplace_Tier2_VacaMuerta]]
+- [[HydroTrust_Puna_Hidrico]]
+- [[VPP_Mineria_San_Juan]]
+- [[AndesLogistics_Puna_Logistica]]
+- [[Middleware_eTIR_Bioceanico]]
+- [[Sat-Edge_Bioceanico]]
 - [[Marketplace_y_Trazabilidad_de_Pasivos_Circulares]]
 - [[Reconversión Pozos Petroleros a Geotermia]]
-- [[HydroTrust_Puna_Hidrico]]
-- [[AndesLogistics_Puna_Logistica]]
+- [[2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza]]
+- [[2026-04-05_Evaluacion_Oportunidades_Tech]]
+- [[Midstream_Gas_Day_2026_Opps]]
 
 
 ## 06 Shadow APIs
