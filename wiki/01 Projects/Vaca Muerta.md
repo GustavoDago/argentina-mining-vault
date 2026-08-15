@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-15_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-15
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -13,6 +13,10 @@ last_update: 2026-04-27
 
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
+
+### Hitos Recientes (Agosto 2026)
+- **Traspaso de Activos GNL (15/08/2026):** Neuquén aprobó a Pluspetrol transferir áreas marginales a YPF, consolidando reservas clave para el proyecto GNL.
+- **Aceleración en Palermo Aike (15/08/2026):** YPF y CGC avanzan con la perforación del segundo pozo exploratorio para expandir el shale a Santa Cruz.
 
 ### Estadísticas de Producción (Febrero 2026)
 - **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
