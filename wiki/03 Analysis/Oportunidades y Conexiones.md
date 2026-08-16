@@ -48,6 +48,10 @@ last_update: 2026-04-27
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
 
+
+20. **Argentina LNG y Subastas Inversas**:
+    - YPF avanza con la solicitud formal al RIGI para el proyecto Argentina LNG (US$ 51.000 millones) y la innovación de subastas inversas para adjudicar grandes contratos, promoviendo competencia económica una vez validados los aspectos técnicos. Esto marca un hito en la competitividad para proveedores y constructoras.
+
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
 
@@ -66,6 +70,8 @@ graph TD
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    RIGI --> |Argentina LNG US$ 51.000M| ALNG[Argentina LNG]
+    VM --> |YPF Subasta Inversa| ALNG
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]

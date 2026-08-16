@@ -32,3 +32,7 @@ last_update: 2026-04-22
 - [[Lunahuasi]]
 - [[San Juan]]
 - [[Los Azules]]
+
+## Actualización Agosto 2026
+- **RIGI Aprobado**: El Gobierno aprobó el ingreso del proyecto Vicuña al Régimen de Incentivo para Grandes Inversiones.
+- **Regalías San Juan**: Acuerdo por un marco de regalías del 3%, un aporte de US$ 250 millones para infraestructura y un 1,5% de ventas brutas a partir del sexto año.
