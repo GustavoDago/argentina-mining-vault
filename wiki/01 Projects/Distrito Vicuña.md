@@ -1,36 +1,56 @@
----
+﻿---
 type: project
-tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy]], [[2026-04-10_news_mining_energy]], [[2026-04-12_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-04-19_news_mining_energy]], [[2026-04-20_news_mining_energy]], [[2026-04-22_news_mining_energy]], [[2026-04-26_news_mining_energy]], [[2026-05-10_news_mining_energy]], [[2026-06-19_news_mining_energy]]
+tags: [mining, copper, rigi, san-juan]
+sources: [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-19
+last_update: 2026-08-17
 ---
 
 # Distrito Vicuña (San Juan)
 
-**Tipo:** Clúster Minero Binacional (Argentina - Chile).
-**Principales Actores:** BHP, Lundin Mining (Sociedad 50/50), NGEx Minerals.
+**Operador:** Vicuña Corp. (Joint Venture 50/50 entre BHP y Lundin Mining).  
+**Tipo:** Mega-distrito cuprífero binacional (Argentina - Chile).  
+**Inversión Inicial RIGI:** **US$ 9.737 millones** (con potencial de escalar hasta **US$ 18.000 millones**).  
+**Primera Producción Estimada:** 2030 (hasta 500.000 t Cu, 800.000 oz Au y 20 Moz Ag/año).
 
-## Hitos Recientes (Mayo - Junio 2026)
-- **Aprobación RIGI (Agosto 2026):** El Gobierno oficializó el ingreso del proyecto Vicuña al RIGI bajo la categoría PEELP con un plan de inversión de **US$ 9.737 millones**.
-- **Acuerdo San Juan y Fallo ENRE (Agosto 2026):** Vicuña acordó un esquema de regalías del 3% y un aporte anticipado de **US$ 250 millones** para obras de infraestructura (Ruta 40 Norte y fortalecimiento del sistema eléctrico). Esto ocurre tras el fallo del ENRE a favor de Vicuña respecto a la capacidad de transporte eléctrico, obligando a [[Los Azules]] a activar planes de contingencia.
-- **Inversión RIGI (10/05/2026):** El distrito proyecta inversiones por **US$ 790 millones** solo para el año 2026. Los operadores buscan acelerar los desembolsos para consolidar el perfil exportador.
-- **Descubrimiento Lunahuasi (19/04/2026):** El reporte de leyes récord en [[Lunahuasi]] (hasta **18,9% Cu**, ratificado mayo 2026) consolida al distrito como la reserva de cobre de alta ley más prometedora a nivel global. Calificado como la "Vaca Muerta del Cobre".
-- **Hoja de Ruta de Inversión (18/04/2026):** Se confirmó una inversión total de **US$ 18.000 millones** para el desarrollo integral del distrito. La **Fase 1 (Josemaría)** requerirá **US$ 7.000 millones**, mientras que las Fases 2 y 3 (Filo del Sol y expansiones) demandarán US$ 11.000 millones adicionales.
-- **Hito de Construcción:** Inicio de construcción de Fase 1 proyectado para el **T1 2027**.
-- **PDAC 2026 (12/04/2026):** Ratificación del CAPEX inicial de US$ 7.000M y la proyección de clase mundial del distrito.
-- **Presupuesto 2026:** Ajustado a **US$ 800 millones** para ingeniería y preparación de sitio.
+---
 
-## Proyectos Integrados
-- [[Josemaría]] (Argentina)
-- [[Lunahuasi]] (Argentina) - Reciente descubrimiento con leyes récord (hasta 18,9% Cu).
-- **Filo del Sol** (Argentina/Chile)
-- **Caserones** (Chile)
+## 1. Integración de Activos
+El Distrito Vicuña integra en una plataforma operativa y logística única los siguientes yacimientos:
+- **[[Josemaría]]**: Depósito de pórfido de cobre-oro con Declaración de Impacto Ambiental (DIA) aprobada.
+- **Filo del Sol**: Depósito gigante de alta sulfuración con recursos masivos de cobre, oro y plata.
+- **[[Lunahuasi]]**: Descubrimiento de altísima ley (hasta 18,9% Cu y leyes equivalentes de >25% CuEq).
+- **[[Filo Sur]]**: Área de 100 km² asociada con Mogotes Metals y Rio Tinto.
+
+---
+
+## 2. Aprobación RIGI y Categoría PEELP (Agosto 2026)
+- **Aprobación Oficial:** En agosto de 2026, el Gobierno Nacional oficializó el ingreso del Distrito Vicuña al [[RIGI]] bajo la categoría de **Proyectos de Exportación Estratégica de Largo Plazo (PEELP)**, convirtiéndose en el primer megaproyecto de cobre en calificar formalmente.
+- **Plan de Inversión Inicial:** US$ 9.737 millones comprometidos para la fase de construcción e integración técnica.
+
+---
+
+## 3. Acuerdo Institucional e Infraestructura con San Juan (Agosto 2026)
+Vicuña Corp. y el Gobierno de la Provincia de San Juan sellaron un acuerdo marco integral:
+- **Tope de Regalías:** Fijado en el 3% de boca de mina.
+- **Fideicomiso de Pre-Producción:** Aporte anticipado de **US$ 250 millones** destinado a obras de infraestructura provincial (redes viales, hídricas y saneamiento).
+- **Aporte Extraordinario:** Contribución del **1,5% sobre ventas brutas** a partir del año 6 de operación comercial.
+- **Refuerzo Eléctrico:** Construcción de infraestructura de alta tensión que aportará confiabilidad de despacho a todo el nodo energético sanjuanino.
+- **Campamento Batidero:** Adjudicado a PowerChina por US$ 52 millones.
+
+---
+
+## 4. Análisis Escéptico y Cuellos de Botella (Red Team)
+- **Riesgo de Concentración de Capacidad:** El fallo del ENRE otorgando prioridad de despacho eléctrico a Vicuña generó tensiones con proyectos vecinos ([[Los Azules]]). La garantía del suministro continuo dependerá de la ejecución en tiempo y forma de las líneas de 500 kV.
+- **Logística y Cadena PyME:** La escala descomunal del proyecto demandará miles de toneladas de cales de alta calidad y cemento, exigiendo a los proveedores sanjuaninos una modernización acelerada para no quedar marginados ante la importación con arancel 0% habilitada por el RIGI.
+
+---
 
 ## Conexiones
 - [[Cobre]]
 - [[RIGI]]
-- [[Josemaría]]
-- [[Lunahuasi]]
 - [[San Juan]]
+- [[Josemaría]]
 - [[Los Azules]]
+- [[Economía Circular]]
+- [[Sinergias Logisticas Puna]]

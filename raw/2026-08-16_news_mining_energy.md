@@ -1,0 +1,210 @@
+
+## Source: https://econojournal.com.ar
+- Internas del MPN: Gabriel Álamo será el nuevo presidente y conducirá al partido detrás de la reelección de Rolando Figueroa
+- Rolando Figueroa criticó los ingresos que recibe Neuquén por barril de petróleo: «Para las arcas provinciales es todo costo»
+- Vaca Muerta: cómo es el fondo anticíclico de regalías petroleras de Neuquén que dejó de ahorrar frente a la crisis de infraestructura
+- La presión de EE.UU a CALF por el acuerdo con Huawei se debatirá en la Legislatura y el bloque de Rolando Figueroa busca «bajar la espuma»
+- Internas del MPN: Gabriel Álamo será el nuevo presidente y conducirá al partido detrás de la reelección de Rolando Figueroa
+- Rolando Figueroa criticó los ingresos que recibe Neuquén por barril de petróleo: «Para las arcas provinciales es todo costo»
+- Vaca Muerta: cómo es el fondo anticíclico de regalías petroleras de Neuquén que dejó de ahorrar frente a la crisis de infraestructura
+- La presión de EE.UU a CALF por el acuerdo con Huawei se debatirá en la Legislatura y el bloque de Rolando Figueroa busca «bajar la espuma»
+- De la inteligencia artificial a la manufactura aditiva: cómo la tecnología y la innovación ofrecen soluciones a la industria del oil&gas
+- Las mejores fotografías de Supplier Day 2026
+- AMBA I: cómo es el esquema diseñado para ampliar la red de transporte de alta tensión, un segmento históricamente fallido para la inversión privada
+- Inteligencia artificial: crecen en Texas las protestas contra los data centers por la presión sobre la red eléctrica y el impacto ambiental
+- YPF estrena un sistema de subasta inversa para adjudicar los grandes contratos de Argentina LNG
+- Argentina LNG: YPF solicitó la adhesión al RIGI del proyecto con una inversión de US$ 51.000 millones
+- Lamelas ratificó su veto a Huawei en Vaca Muerta: «Cualquier dato que pasa por sus redes es controlado por el Partido Comunista Chino»
+- Daniel González reveló que Vaca Muerta duplicó sus recursos recuperables y roza los 30.000 millones de barriles, cifra equivalente a un siglo de producción
+- Insumos críticos para Vaca Muerta: los cuellos de botella que limitan la expansión productiva que se viene
+- Cuál es el cambio regulatorio aprobado en 2024 que permitió que Edenor pueda comprar Metrogas
+- YPF le vende Metrogas a Edenor, de los empresarios Manzano, Vila y Filiberti, por US$ 780 millones
+- EE.UU. escala la presión sobre CALF por su contrato con Huawei y pide conocer las compras tecnológicas planificadas por la cooperativa neuquina
+- Sturzenegger presiona para que el plan de retiros voluntarios del Enrege incluya menos beneficios para los trabajadores
+- Internas del MPN: Gabriel Álamo será el nuevo presidente y conducirá al partido detrás de la reelección de Rolando Figueroa
+- Rolando Figueroa criticó los ingresos que recibe Neuquén por barril de petróleo: «Para las arcas provinciales es todo costo»
+- Vaca Muerta: cómo es el fondo anticíclico de regalías petroleras de Neuquén que dejó de ahorrar frente a la crisis de infraestructura
+- IMPSA firmó los contratos definitivos para sumar 672 MW en las represas Tocoma y Macagua en Venezuela
+- La provincia de Buenos Aires supera a la Patagonia en capacidad eólica
+- Arcor inauguró en Catamarca su primer parque solar y busca llevar el modelo a otras plantas
+- Cómo se trasladan por ruta los componentes de un parque eólico de 180 MW desde el Puerto de Bahía Blanca a Olavarría
+- El gobierno nacional y la UTN lanzan una carrera de ingeniería nuclear en Córdoba
+- ¿Qué desafíos técnicos debió superar el parque solar más grande de Latinoamérica?
+- La producción de la industria química y petroquímica registró un incremento del 8%
+- TGN designó a Mariana Jourdan como jefa de Relaciones Comunitarias y Sostenibilidad
+- Fundación YPF festejó sus 30 años con un encuentro de 250 becarios en el Teatro Colón
+- Clear Petroleum amplía sus servicios en Vaca Muerta con tecnología para la operación de tubulares
+- Argentina Mining Norte 2026 llega a Salta con más del 95% de su exposición ocupada
+- Con una demanda superior a la esperada, AES Argentina colocó Obligaciones Negociables por US$ 50 millones
+- Federico Sbarbi Osuna asumió como CEO de Coral Energía con la mira puesta en llegar a 1 GW en 2030
+- AES Argentina lanza Obligaciones Negociables por hasta US$ 50 millones
+- El gobierno nacional y la UTN lanzan una carrera de ingeniería nuclear en Córdoba
+- ¿Qué desafíos técnicos debió superar el parque solar más grande de Latinoamérica?
+- La producción de la industria química y petroquímica registró un incremento del 8%
+- TGN designó a Mariana Jourdan como jefa de Relaciones Comunitarias y Sostenibilidad
+- Argentina Mining Norte 2026 se presentó en Buenos Aires y prepara una edición especial por sus 30 años
+- Vicuña acuerda con San Juan un esquema de regalías del 3% y aportes para el desarrollo del proyecto
+- Minería de litio: cuáles son los principales temas y desafíos que estudia la ciencia
+- El Gobierno aprobó el ingreso del proyecto Vicuña al RIGI tras el aval en la disputa por la capacidad de transporte eléctrico
+- CAN_200: una nueva señal para reactivar la exploración offshore argentina
+- Energía Nuclear: una ventana de oportunidad para el despegue inversor
+- Nuevas oportunidades para la exploración offshore, en una industria que sigue mirando el Mar Argentino
+- La nueva minería argentina y los cuatro motores del desarrollo
+- Infraestructura: la oportunidad de actuar hoy para acelerar el futuro de Argentina
+- Si Argentina bate récords de producción de gas: ¿por qué a la vez importa GNL?
+- Chile y Argentina: la energía como puente y oportunidad compartida
+- El Litoral, primer capítulo de una estrategia para convertir la energía en desarrollo productivo
+- La Argentina y la oportunidad de un mercado de carbono en desarrollo
+- Fallo YPF vs. Burford Capital: Una de las tragedias griegas argentinas que termina con un impensado final feliz
+- CAN_200: una nueva señal para reactivar la exploración offshore argentina
+- Energía Nuclear: una ventana de oportunidad para el despegue inversor
+- Nuevas oportunidades para la exploración offshore, en una industria que sigue mirando el Mar Argentino
+- La nueva minería argentina y los cuatro motores del desarrollo
+- Argentina LNG: convocan a una audiencia pública en Plaza Huincul por la construcción de la mega planta de separación de gas en Vaca Muerta
+- El debate detrás de Vaca Muerta: ¿alcanza el modelo macroeconómico actual para sostener niveles de crecimiento con inclusión?
+- Estados Unidos: Trump encontró la forma de eludir un fallo de la Corte de ese país y volvió a aplicar aranceles contra Brasil, incluido el bioetanol
+- Petróleo: el rebrote bélico en Medio Oriente vuelve a tensionar los precios y diluye el escenario de ‘contango’
+- ¿Cuánto puede crecer la inversión en Vaca Muerta por las ganancias extra que dejó la guerra en Medio Oriente?
+- Trafigura adquirió una central termoeléctrica para aprovechar sinergias energéticas entre la Argentina y Chile
+- ENERGY DAY 2025 – Parte 1
+- RENEWABLES DAY | EconoJournal
+- Innovation Talks: Época de cambios, reconfiguración de las cadenas de valor y saltos tecnológicos
+- Agenda logística: cuáles son las opciones reales de mejora en Vaca Muerta
+- El gas natural como un multi-agregador de valor en el segmento de servicios
+- Una nueva mirada sobre la cadena de valor: Calidad, tiempos e inteligencia para ganar productividad
+- La ampliación de la infraestructura como oportunidad para la cadena de valor
+- La incorporación de tecnología en el primer anillo de servicios en Vaca Muerta
+- La incorporación de tecnología en el primer anillo de servicios en Vaca Muerta
+- Nuevos desafíos en el segmento servicios – Pluspetrol / Shell / Nabors
+- Transformación en la cadena de valor de la industria de Oil&Gas – Gioffre y Murphy
+- La aplicación de IA para eficientizar la estructura operativa en Vaca Muerta – Walter Actis
+- Gestión empresarial en tiempos de costos crecientes en dólares – Dante Sica
+- Supplier Day – Apertura a cargo de Pablo Bizzotto
+- MIDSTREAM & GAS DAY | EconoJournal
+- ENERGY DAY 2025 – Parte 1
+- RENEWABLES DAY | EconoJournal
+- Innovation Talks: Época de cambios, reconfiguración de las cadenas de valor y saltos tecnológicos
+- El debate detrás de Vaca Muerta: ¿alcanza el modelo macroeconómico actual para sostener niveles de crecimiento con inclusión?
+- ¿Cuánto puede crecer la inversión en Vaca Muerta por las ganancias extra que dejó la guerra en Medio Oriente?
+- Neuquén: Saesa y Spark buscan reactivar la Planta de Agua Pesada con una iniciativa privada por más de US$ 120 millones
+
+## Source: https://mase.lmneuquen.com
+- Las empresas que dominan Vaca Muerta
+- Cómo avanzan VMOS y Duplicar Norte
+- Vaca Muerta superó por primera vez los 40 perforadores activos
+- YPF implementa subasta inversa para licitar los ductos de Argentina LNG
+- Pluspetrol perforó 4.054 metros en una sola corrida en Vaca Muerta
+- El tungsteno se dispara y golpea la perforación petrolera
+- "El sistema político entendió que no se puede meter con Vaca Muerta"
+- Los sets de fractura tienen hasta un 30% de capacidad ociosa
+- Los tiempos de Techint para finalizar el Duplicar Norte
+- YPF y PAE buscarán proveedores especializados en Vaca Muerta
+- La privatización de Belgrano Cargas: un nuevo rumbo para la logística minera argentina
+- Vaca Muerta: cómo continúa el plan de Tecpetrol en Los Toldos II
+- Tenaris inició las operaciones de su tercer set de fractura
+- YPF logró un EBITDA récord de US$ 2.804 millones
+- Cómo es el plan de Pampa Energía en Vaca Muerta
+- El nuevo CEO de Eni pidió estabilidad y contratos de largo plazo
+- Boom minero: la clave de EY para pasar de inversión a producción
+- Los Azules: Argentina avanza al mayor proyecto de cobre de su historia
+- Ruta 40 Norte: la obra clave del acuerdo con Vicuña
+- Pablo Iuliano de TanGo: "Vaca Muerta va más allá de lo que pensamos"
+- "Los barriles de Argentina son vitales para mitigar crisis mundiales"
+- Clear Petroleum duplicará su flota de pulling en Vaca Muerta
+- Argentina LNG: YPF definirá la inversión a fin de año
+- YPF vendió Metrogas a Edenor: los nuevos dueños y el impacto en Vaca Muerta
+- El tight gas y sus interrogantes de cara al futuro
+- Vaca Muerta y la minería generarían exportaciones por U$S 51.000 millones
+- Transición estratégica: el Plan Andes toma velocidad
+- Vaca Muerta récord: las dos realidades de la energía en 2026
+
+## Source: https://vacamuertanews.com
+- Añelo: ¿por qué trasladan 10.000 trabajadores si hay alojamiento?
+- Subastas online: salen a la venta camiones 2025 y equipos de izaje
+- Escuchá la nueva edición de Vaca Muerta News Radio
+- Comercio exterior: la Norpatagonia apuesta a ganar competitividad y mercados
+- Destacan el  crecimiento del empleo privado del 7,1%: se generaron 12.000 nuevos puestos de trabajo registrados
+- “Argentina LNG”: YPF confirmó el RIGI más grande por más de US$50.000 millones destinado a la producción de GNL
+- Tango Energy anunció perforaciones en Charco Bayo
+- Dos nuevos sismos cercanos a operaciones de Chevron en El Trapial
+- Empresas rionegrinas se integran a la cadena de valor de VMOS junto a referentes internacionales
+- Añelo: alquileres carísimos y 50% de los alojamientos vacíos
+- Vaca Muerta genera más regalías pero advierten que “no ahorra para el futuro”
+- AGENDAVer agenda completa
+- Experiencia Endeavor Patagonia
+- Argentina Energy Week Summit & Exhibition 2026
+- 42° Aniversario de Campo Grande
+- Añelo será sede del 44° Encuentro Empresarial Impulsamos Vaca Muerta
+- La Norpatagonia se prepara para una nueva Jornada Comex con foco en el comercio internacional
+- Vaca Muerta impulsa a YPF: récord de resultados y US$25.000 millones para Loma La Lata Oil
+- Edenor compra Metrogas a YPF por US$780 millones
+- Tres heridos por una explosión en El Trapial
+- Vaca Muerta, innovación y estrategia: invitan a sumarse a dos propuestas en Neuquén
+- Donación de YPF: Rincón de los Sauces contará con un nuevo espacio deportivo
+- ACIPAN cuestionó el recorte sobre contratos petroleros ya firmados
+- Más emisoras se suman a Vaca Muerta News Radio: escuchá este sábado la nueva edición
+- FECENE rechazó la decisión de Halliburton de imponer recortes a proveedores locales
+- Empresas de Añelo rechazaron la exigencia de Halliburton a sus proveedores y pidieron una mesa de diálogo
+- Petroleros Privados denunció que las empresas de servicios asfixian a las pymes locales
+- Con eje en el VMOS y el proyecto de GNL, empresas líderes norteamericanas ponen el foco en Río Negro
+- Al menos 15 empresas interesadas en la licitación internacional por áreas en Vaca Muerta
+- Las petroleras que lideran el boom de Vaca Muerta: YPF sigue primera y Vista la que más creció
+- Industria: el Gobierno digitaliza y flexibiliza el régimen de importación de líneas de producción usadas
+- El primer buque del proyecto de GNL inició su preparación final
+- Tras la nevada: Añelo habilita sus accesos de forma parcial y solo mantiene un corte por seguridad
+- Nevadas cierran rutas clave y complican el tránsito en Neuquén
+- Pampa Energía triplicó su producción de petróleo gracias al impulso de Vaca Muerta
+- El precio del petróleo cae por debajo de los US$80 tras un acuerdo en Medio Oriente
+- La oportunidad del GNL ante la crisis europea y el desafío de construir la cadena de valor
+- YPF lanza el split de acciones: qué es y cómo impactará en los inversores
+- Vaca Muerta frenó el ritmo pero YPF sostuvo la actividad
+- Neuquén y Santa Fe se unen para fortalecer el comercio y las pymes
+- Comercio exterior: la Norpatagonia apuesta a ganar competitividad y mercados
+- Destacan el  crecimiento del empleo privado del 7,1%: se generaron 12.000 nuevos puestos de trabajo registrados
+- “Argentina LNG”: YPF confirmó el RIGI más grande por más de US$50.000 millones destinado a la producción de GNL
+- Tango Energy anunció perforaciones en Charco Bayo
+- Escuchá la nueva edición de Vaca Muerta News Radio
+- El Sindicato compró un terreno en el centro de Cinco Saltos y ampliará sus servicios
+- Subir y bajar: vivir entre dos mundos en la industria petrolera
+- El crecimiento de Vaca Muerta acelera la expansión de las escuelas técnicas en Neuquén
+- Empresas de Añelo rechazaron la exigencia de Halliburton a sus proveedores y pidieron una mesa de diálogo
+- Subastas online: salen a la venta camiones 2025 y equipos de izaje
+- Escuchá la nueva edición de Vaca Muerta News Radio
+- Neuquén y Santa Fe se unen para fortalecer el comercio y las pymes
+- Comercio exterior: la Norpatagonia apuesta a ganar competitividad y mercados
+- Destacan el  crecimiento del empleo privado del 7,1%: se generaron 12.000 nuevos puestos de trabajo registrados
+- Neuquén refuerza los controles viales durante el fin de semana largo
+- Educación: ¿Hasta cuándo se puede revalidar el boleto estudiantil gratuito neuquino?
+- Neuquén Emprende vuelve al Parque Jaime de Nevares con una edición para las infancias
+- Feriado del lunes 17: cómo funcionarán los servicios municipales en Neuquén
+- El monitoreo vial logró un reducción del 40% en los siniestros viales
+
+## Source: https://panorama-minero.com/es
+- Navegación secundaria
+- Destacados del mercado
+- Gualcamayo inicia nuevas obras de infraestructura
+- El Pachón: planificación y respuesta ante un invierno extremo
+- Challenger redefine la estrategia de desarrollo de Hualilán
+- Caleras San Juan renovó su acompañamiento a escuelas del departamento Sarmiento
+- Minera Escondida: una mirada al mayor productor mundial de cobre
+- De la extracción al horno: Mendoza define el control ambiental que deberán cumplir las ladrilleras
+- Salta elevó 145% sus exportaciones mineras en el primer semestre y el litio consolida el impulso del NOA
+- ¿Querés recibir noticias del sector y de las iniciativas de Panorama Minero?
+- Lanzamiento de la 17° edición de la ExpoJuy 2026 en Buenos Aires
+- Las exportaciones mineras crecieron 74,4% interanual y marcaron un récord en el primer semestre
+- Los Azules lanzó la 4ª edición del Programa Educativo en Comunidades (PEC)
+- El sector de la construcción en San Juan prepara ante el histórico aporte minero para infraestructura vial
+- Veladero completa el primer cambio de turno tras las mejora de las condiciones de acceso
+- "Explorar ya no alcanza: el desafío es construir proyectos con bases técnicas sólidas"
+- Catamarca reforma la empresa CAMYEN para equipararla a otras mineras estatales del país
+- Un sanjuanino al frente del sector de gas, petróleo y minería de CAME
+- Mendoza apuesta por enseñar el valor de los minerales desde la minería urbana
+- San Juan y Vicuña acuerdan un aporte anticipado de US$250 millones para obras de infraestructura
+- Vicuña busca consolidar un marco de previsibilidad para el desarrollo del proyecto en San Juan
+- Cauchari-Olaroz: Lithium Argentina anuncia el cierre de nuevas líneas de deuda por US$220 millones
+- Mendoza: La exploración de Kobrea incorpora a BHP como socio estratégico
+- El acero que necesitará la Argentina exige cales de alta calidad
+- El Gobierno oficializó el ingreso de Vicuña al RIGI con un plan de inversión de US$9.737 millones
+- Zijin-Liex se sumó al operativo de rescate de turistas en la cordillera catamarqueña
+- Tres días de duelo en San Juan: Siete personas fallecieron tras el siniestro de un helicóptero durante una capacitación para combatir incendios forestales
+- Vicuña construirá infraestructura eléctrica que  fortalecerá el sistema energético de San Juan

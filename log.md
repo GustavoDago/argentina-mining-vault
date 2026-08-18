@@ -1,4 +1,20 @@
-# Log de Operaciones
+﻿# Log de Operaciones
+
+## [2026-08-17] sync | Ingesta consolidada de Inteligencia Jules & Web (13 al 17 de Agosto 2026)
+- **Ingesta:** Procesados reportes primarios aw/2026-08-13_news_mining_energy.md, aw/2026-08-14_news_mining_energy.md, aw/2026-08-15_news_mining_energy.md, aw/2026-08-16_news_mining_energy.md y aw/2026-08-17_news_mining_energy.md.
+- **Hitos Inversión & RIGI:**
+    - **Argentina LNG (YPF / Eni / XRG):** Presentación formal al RIGI (Categoría PEELP) por **US$ 51.000 millones** (el mayor expediente de inversión privada en la historia argentina). Implementación del mecanismo de "Subasta Inversa Electrónica" para licitar infraestructura y gasoductos (527 km a Sierra Grande).
+    - **Distrito Vicuña (BHP / Lundin Mining):** Oficialización del ingreso al RIGI en categoría PEELP por **US$ 9.737 millones** para cobre en San Juan. Firma de pacto integral con la provincia: regalías al 3%, fideicomiso vial de US$ 250M y aporte del 1,5% de ventas brutas a partir del año 6.
+    - **Vaca Muerta:** Recursos recuperables duplicados a ~30.000 Mboe; récord histórico de actividad con más de **40 equipos de perforación (rigs) activos**. GeoPark solicitó RIGI por >US$ 1.000M para Loma Jarillosa Este y Puesto Silva Oeste (escalar a 20.000 bpd). Pluspetrol transfirió áreas secundarias en Neuquén a YPF para blindar el gasoducto de GNL.
+    - **Litio:** Argentina se consolida como 2do exportador mundial con 8 proyectos comerciales en operación. Lithium Argentina cerró líneas de crédito por **US$ 220 millones** (bancos internacionales a tasa <5%) para la Fase 2 de Cauchari-Olaroz (+45.000 t/año LCE).
+    - **Palermo Aike:** YPF y CGC fijaron fecha para el 2do pozo exploratorio de shale en Santa Cruz.
+- **Riesgos y Diagnóstico Escéptico (CTO/Red Team):**
+    - **Tensión de Cadena de Suministro:** Fuerte choque entre contratistas de primer orden (Halliburton) y cámaras pymes locales (FECENE/ACIPAN) en Añelo por recortes de tarifas unilaterales.
+    - **Riesgo de Subasta Inversa:** La puja a la baja en licitaciones de gasoductos optimiza el CAPEX pero incrementa el riesgo de variaciones de costos y controversias operativas si no se audita criptográficamente el proceso.
+- **Entidades Creadas/Actualizadas:**
+    - **Creados:** aw/2026-08-13_news_mining_energy.md, aw/2026-08-14_news_mining_energy.md, aw/2026-08-15_news_mining_energy.md, aw/2026-08-16_news_mining_energy.md, aw/2026-08-17_news_mining_energy.md, wiki/04 Daily/2026-08-13_Daily_Report.md, wiki/04 Daily/2026-08-14_Daily_Report.md, wiki/04 Daily/2026-08-15_Daily_Report.md, wiki/04 Daily/2026-08-16_Daily_Report.md, wiki/04 Daily/2026-08-17_Daily_Report.md.
+    - **Actualizados:** wiki/01 Projects/Distrito Vicuña.md, wiki/01 Projects/Vaca Muerta.md, wiki/01 Projects/Cobre.md, wiki/01 Projects/Litio.md, wiki/01 Projects/Neuquén.md, wiki/01 Projects/Palermo Aike.md, wiki/02 Frameworks/RIGI.md, wiki/03 Analysis/Oportunidades y Conexiones.md, log.md.
+- **Consolidación Git & Saneamiento:** Integración en rama main, sincronización con remoto (git push origin main) y eliminación de ramas remotas efímeras (energon-daily-..., jules-..., 	ask-real-daily-..., setup-obsidian-...).
 
 ## [2026-08-09] sync | Ingesta consolidada de Inteligencia Jules
 - **Ingesta:** Procesado reporte `raw/2026-08-09_news_mining_energy.md`.
@@ -396,11 +412,11 @@
 ## [2026-04-26] sync | Inicialización de Log y Registro Histórico
 - **Ingesta:** Registrados 23 reportes previos de Jules (del 2026-04-03 al 2026-04-26) ya procesados en la Wiki.
 
- # #   [ 2 0 2 6 - 0 8 - 1 2 ]   s y n c   |   P r o c e s a d o s   r e p o r t e s   r a w   d e   J u l e s   ( 0 9   a l   1 2   d e   A g o s t o )   s i n   c o n s o l i d a c i � n   g i t 
- -   A c t u a l i z a c i o n e s   e n   R I G I ,   V a c a   M u e r t a ,   L i t i o   y   D i s t r i t o   V i c u � a .  
+ # #   [ 2 0 2 6 - 0 8 - 1 2 ]   s y n c   |   P r o c e s a d o s   r e p o r t e s   r a w   d e   J u l e s   ( 0 9   a l   1 2   d e   A g o s t o )   s i n   c o n s o l i d a c i � n   g i t 
+ -   A c t u a l i z a c i o n e s   e n   R I G I ,   V a c a   M u e r t a ,   L i t i o   y   D i s t r i t o   V i c u � a .  
  
- # #   [ 2 0 2 6 - 0 8 - 1 2 ]   f e a t   |   C r e a d o   d o c u m e n t o   � n d i c e   0 0 _ I n d e x _ T e c h _ L e a d _ O p p s . m d   e n   0 5   T e c h   L e a d   O p p s   c o n   l a   m a t r i z   i n t e g r a l   d e   1 3   o p o r t u n i d a d e s   c l a s i f i c a d a s   p o r   v e c t o r e s   i n d u s t r i a l e s 
- -   A c t u a l i z a d o   i n d e x . m d   c o n   t o d o s   l o s   e n l a c e s   d e   l a   s e c c i � n   0 5 .  
+ # #   [ 2 0 2 6 - 0 8 - 1 2 ]   f e a t   |   C r e a d o   d o c u m e n t o   � n d i c e   0 0 _ I n d e x _ T e c h _ L e a d _ O p p s . m d   e n   0 5   T e c h   L e a d   O p p s   c o n   l a   m a t r i z   i n t e g r a l   d e   1 3   o p o r t u n i d a d e s   c l a s i f i c a d a s   p o r   v e c t o r e s   i n d u s t r i a l e s 
+ -   A c t u a l i z a d o   i n d e x . m d   c o n   t o d o s   l o s   e n l a c e s   d e   l a   s e c c i � n   0 5 .  
  
 ## [2026-08-12] sync | Consolidacion Supplier Day 2026 — Cadena de Valor Vaca Muerta
 - **Fuente:** `raw/Supplier_day_2026_Econojournal.md` (EconoJournal, 11 de agosto de 2026).

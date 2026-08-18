@@ -1,80 +1,57 @@
----
+﻿---
 type: project
-tags: [mining, copper]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]]
+tags: [mining, copper, rigi, san-juan, salta, mendoza]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-17
+last_update: 2026-08-17
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
 
-**Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.
+**Estado Actual:** Argentina consolida su reingreso al mapa global de productores de cobre de gran escala impulsada por el [[RIGI]] y la demanda de la transición energética.
 
-## Potencial Geológico (2026)
-Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
+## Potencial Geológico Consolidado (2026)
+- **Recursos Totales:** **117,91 millones de toneladas (MTn)** de cobre contenidas.
+- **Recursos Medidos e Indicados:** **53,83 MTn** con alto grado de certidumbre técnica.
+- **Exportaciones Estimadas:** El sector proyecta generar más de **US$ 10.000 a US$ 15.000 millones anuales** hacia 2030-2032.
 
-## La Cuenca del Cobre (2026)
-La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan, Salta y Mendoza).
+---
 
-### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
-- **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
-- **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
-- **Proyectos Clave:**
-    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
-    - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre". La campaña de perforación de la Fase 4 concluyó con resultados espectaculares en el pozo DPDH077 (57,75m con **9,41% CuEq**, con tramos de **25,84% CuEq**) ratificando la escala excepcional del depósito (16/07/2026).
-    - **[[Filo Sur]]**: Proyecto de 100 km² que se suma activamente al distrito mediante una alianza técnica y estratégica firmada entre Mogotes Metals y **Rio Tinto**, la cual compromete una inversión inicial de **US$ 15 millones** por parte de la multinacional (16/07/2026).
-    - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
+## Proyectos Clave por Provincia
 
-### 2. [[Los Azules]] (San Juan) - Cobre Verde
-- **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
-- **Financiamiento:** Inversión comprometida de **US$ 2.670 millones**. McEwen Copper prepara una **IPO en Toronto** (Julio 2026) para captar US$ 300 millones adicionales.
-- **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
-- **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
+### 1. San Juan (Hub Cuprífero Mundial)
+- **[[Distrito Vicuña]] (BHP / Lundin Mining):**
+  - **Aprobación RIGI PEELP:** Aprobado en agosto 2026 por **US$ 9.737 millones** (escalable a US$ 18.000M).
+  - **Acuerdo Provincial:** Tope de regalías del 3%, fideicomiso de infraestructura vial de US$ 250M y 1,5% de ventas brutas a partir del año 6.
+  - **Activos:** [[Josemaría]], Filo del Sol, [[Lunahuasi]] (leyes excepcionales de hasta 25,8% CuEq) y [[Filo Sur]].
+- **[[Los Azules]] (McEwen Copper / Rio Tinto Nuton):**
+  - Proyecto de lixiviación y cátodos verdes con inversión de **US$ 2.670 millones**.
+  - Proyección de inicio operativo hacia 2029 (creación estimada de 7.391 puestos de trabajo).
+- **[[El Pachón]] (Glencore):** Planificación de infraestructura para operaciones en condiciones de alta cordillera.
+- **[[Gualcamayo]]:** Presentación de ampliación RIGI G50 por US$ 1.500 millones adicionales.
 
-### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
-- **Hito Reciente (15/07/2026):** First Quantum inició conversaciones para vender una participación minoritaria; **Rio Tinto** aparece como potencial socio estratégico.
-- **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
-- **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y concesiones de agua antes del vencimiento del plazo RIGI.
+### 2. Salta
+- **[[Taca Taca]] (First Quantum Minerals):**
+  - Proyecto a cielo abierto con inversión confirmada de **US$ 4.200 millones** y capacidad proyectada de 250.000 t Cu/año.
 
-### 4. El Pachón (San Juan) - Gigante de Glencore
-- **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
-- **Proyección:** Producción de 280.000 t/año. El grupo Luksic (Antofagasta Minerals) mantiene interés estratégico en el proyecto.
+### 3. Mendoza
+- **PSJ Cobre Mendocino (San Jorge):** Proyecto reactivado con inversión estimada de **US$ 891 millones** proyectando operaciones hacia 2029.
+- **Exploración Kobrea / BHP:** BHP ingresó como socio estratégico en proyectos de exploración cuprífera en el sur mendocino.
 
-### 5. MARA (Catamarca)
-- **Operador:** Glencore.
-- **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+---
 
-### 6. [[San Jorge]] (Mendoza) - La Incursión de Cuyo Mendocino
-- **Hito RIGI (17/07/2026):** El Ministerio de Economía de la Nación emitió la **Resolución 801/2026**, aprobando formalmente el ingreso de "PSJ Cobre Mendocino" al [[RIGI]] con una inversión total de **US$ 891 millones** (de los cuales **US$ 630 millones** están comprometidos para la etapa de construcción en calidad de VPU).
-- **Hito Histórico:** Representa el primer desarrollo metalífero aprobado bajo el RIGI en Mendoza. Opera bajo procesos de flotación física, cumpliendo estrictamente con la normativa ambiental provincial (Ley 7.722) y proyectando su puesta en marcha comercial y exportaciones de concentrados de cobre con oro para **2029**.
+## Cuellos de Botella y Desafíos Transversales
+- **Infraestructura Eléctrica:** El abastecimiento de energía limpia en alta cordillera requiere la ampliación urgente del sistema de 500 kV y soluciones de microredes aisladas.
+- **Insumos Críticos (Cales y Áridos):** La demanda de cales de alta pureza (San Juan) superará la capacidad productiva actual, demandando ampliaciones de hornos industriales.
+- **Integración Logística Binacional:** Habilitación de pasos fronterizos y corredores hacia puertos chilenos de aguas profundas (Coquimbo, Antofagasta) para evacuar concentrados.
 
-## Marco de Incentivos
-La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
-
-## Mesa del Cobre y Contexto de Precios
-- **Mercado:** Precios récord superando los **US$ 13.000/ton** en la LME (Abril 2026).
-- **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
-- **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
-
-## Economía Circular y Re-mining de Relaves (2026)
-- **Re-processing de Colas y Escorias:** El avance de proyectos como [[MARA]] (reutilización de la infraestructura de Bajo de la Alumbrera) y la optimización de relaves en [[Josemaría]] y [[Veladero]] posicionan al cobre metalífero como eje de la economía circular mediante la recuperación de metales secundarios (Cobalto, Molibdeno) y el uso de ganga inerte para agregados de construcción.
-- Ver [[Economía Circular]] y [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]].
+---
 
 ## Conexiones
-- [[Economía Circular]]
-- [[Circularidad y Valorización de Pasivos Minero-Energéticos.md]]
-- [[RIGI]]
-- [[Mineria]]
-- [[San Juan]]
-- [[Lunahuasi]]
-- [[Filo Sur]]
-- [[San Jorge]]
-- [[MARA]]
-- [[Josemaría]]
-- [[Veladero]]
-- [[Salta]]
-- [[Mendoza]]
 - [[Distrito Vicuña]]
-- [[Electromovilidad]]
-
+- [[RIGI]]
+- [[San Juan]]
+- [[Los Azules]]
+- [[Taca Taca]]
+- [[Economía Circular]]
+- [[Sinergias Logisticas Puna]]
