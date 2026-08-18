@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-08-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-22
+last_update: 2026-08-17
 ---
 
 # Distrito Vicuña (San Juan)
@@ -12,6 +12,8 @@ last_update: 2026-04-22
 **Principales Actores:** BHP, Lundin Mining (Sociedad 50/50), NGEx Minerals.
 
 ## Hitos Recientes (2026)
+- **Ingreso Oficial RIGI (17/08/2026):** El gobierno nacional aprobó oficialmente el ingreso del Distrito Vicuña al régimen [[RIGI]] bajo la categoría PEELP, con un plan de inversión confirmado de **US$ 9.737 millones**.
+- **Acuerdo de Infraestructura San Juan (17/08/2026):** Se acordó con la provincia un tope de regalías del 3%, un fideicomiso de infraestructura de pre-producción de US$ 250 millones y un aporte del 1,5% de ventas brutas a partir del año 6.
 - **Descubrimiento Lunahuasi (19/04/2026):** El reporte de leyes récord en [[Lunahuasi]] (hasta **18,9% Cu**) consolida al distrito como la reserva de cobre de alta ley más prometedora a nivel global. Calificado como la "Vaca Muerta del Cobre".
 - **Hoja de Ruta de Inversión (18/04/2026):** Se confirmó una inversión total de **US$ 18.000 millones** para el desarrollo integral del distrito. La **Fase 1 (Josemaría)** requerirá **US$ 7.000 millones**, mientras que las Fases 2 y 3 (Filo del Sol y expansiones) demandarán US$ 11.000 millones adicionales.
 - **Hito de Construcción:** Inicio de construcción de Fase 1 proyectado para el **T1 2027**.

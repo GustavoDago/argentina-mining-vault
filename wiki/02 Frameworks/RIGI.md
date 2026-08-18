@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-17
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -26,7 +26,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
     - Destinado a megaproyectos de exportación (ej. GNL).
     - Inversión mínima: **US$ 2.000 millones**.
     - Desembolsos mínimos por etapa: **US$ 1.000 millones**.
-    - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
+    - Proyectos como **Argentina LNG** (presentación de YPF por US$ 51.000 millones, Agosto 2026), **[[Distrito Vicuña]]** (aprobado por US$ 9.737 millones, Agosto 2026) y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
 
 ### Listado de Adhesiones y Evaluaciones (Abril 2026):
 1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M** (paquete financiamiento US$ 1.175M).

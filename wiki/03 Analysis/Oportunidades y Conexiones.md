@@ -64,6 +64,7 @@ graph TD
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
+    RIGI --> |Aprobación PEELP US$ 9.737M| Vicuña
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
@@ -80,6 +81,8 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Proyecto LNG US$ 51.000M| ArgLNG[Argentina LNG]
+    ArgLNG --> |Subasta Inversa| Contratos[Grandes Contratos]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
