@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Fricciones en Contenido Local (RIGI vs. REPEM) (19/08/2026)**:
+    - La colisión entre el mandato nacional del 20% (RIGI) y el 70% provincial (REPEM, Catamarca) bloquea la cadena de suministro en el NOA. Representa una oportunidad urgente para servicios de consultoría legal, optimización de proveeduría y orquestación de JVs locales.
+21. **Cuellos de Botella Logísticos en Vaca Muerta (19/08/2026)**:
+    - Con una proyección de demanda de arena de 8M tons para 2027 (y US$ 60.000M de inversión esperada), proyectos de mitigación como la "Ruta de las Arenas" en Río Negro ofrecen terreno fértil para el arbitraje logístico y tecnológico en transporte pesado.
+22. **El Negocio del Almacenamiento (BESS) (19/08/2026)**:
+    - La Resolución 155/2026 BESS Alma SADI (700.5 MW, US$ 700M) crea un mercado instantáneo para EPCistas y software de gestión energética off-grid para sortear las restricciones del SADI.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -116,6 +122,9 @@ graph TD
     SanJorge --> OpCopper
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
+    BESS_SADI[BESS Alma SADI Res. 155] --> |700.5 MW - US$ 700M| OffGrid
+    RIGI --> |Fricción Contenido Local| REPEM[REPEM Catamarca 70%]
+    VM --> |Cuello Botella Logístico| Arena[Demanda Arena 8M tons]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
 ```

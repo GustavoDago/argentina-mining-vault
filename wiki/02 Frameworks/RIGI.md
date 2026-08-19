@@ -60,6 +60,9 @@ El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento e
 - **Incentivos Aduaneros:** Importación de insumos y bienes de capital con arancel 0%.
 - **Seguridad Jurídica:** Jurisdicción en tribunales internacionales (CIADI) para resolución de disputas.
 
+## Conflictos y Fricciones Regulatorias
+- **RIGI Nacional vs. Contenido Local Provincial (19/08/2026):** Existe un severo cuello de botella en Catamarca. Mientras el RIGI establece un piso del **20%** de compras a proveedores locales, la ley provincial REPEM exige un **70%** de mano de obra e insumos locales. Esto genera fricciones normativas críticas para proyectos en el NOA (ej. Tres Quebradas, Fénix, HMW) dado que la cadena de suministro local en la Puna está operando al límite de su capacidad.
+
 ## Conexiones
 - [[Mineria]]
 - [[Energia]]
