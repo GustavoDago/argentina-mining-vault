@@ -8,10 +8,10 @@ last_update: 2026-04-27
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** Para agosto de 2026, Argentina se ha consolidado definitivamente como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae la mayor parte de la inversión minera del país.
 
 ## Proyectos y Producción (2026)
-A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+Hacia mediados de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
 
 ### Estadísticas de Exportación (Enero 2026)
 - **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
@@ -38,6 +38,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+- **Financiamiento Fase 2 (19/08/2026):** El proyecto Cauchari-Olaroz Fase 2 avanzó tras asegurar **US$ 220 millones** en financiamiento.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.

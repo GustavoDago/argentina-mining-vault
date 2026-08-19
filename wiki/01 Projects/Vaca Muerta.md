@@ -23,6 +23,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 ### Hitos Recientes (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
+- **Proyecciones Goldman Sachs (19/08/2026):** Se proyecta una inversión de **US$ 60.000 millones** durante los próximos 5 años.
+- **Cuello de Botella Logístico (19/08/2026):** La demanda de arena para fractura hidráulica se estima en 8 millones de toneladas para 2027, generando un conflicto logístico severo. Como mitigación, se impulsa la "Ruta de las Arenas" en Río Negro.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
 - **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
 - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
