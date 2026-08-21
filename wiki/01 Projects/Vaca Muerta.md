@@ -20,7 +20,11 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Agosto 2026)
+- **Argentina LNG y RIGI (21/08/2026):** YPF implementó un sistema de "inverse auction" para grandes contratos y formalizó su ingreso al [[RIGI]] por US$ 51.000 millones.
+- **Récord de Recursos y Actividad (21/08/2026):** Vaca Muerta alcanzó casi los 30.000 millones de barriles en recursos recuperables y superó los 40 equipos de perforación activos.
+- **Megaproyecto Phoenix Global Resources (21/08/2026):** Anuncio de plan de inversiones por US$ 6.000 millones bajo el [[RIGI]] para alcanzar 60.000 bpd en Mata Mora y Confluencia.
+- **GeoPark al RIGI (21/08/2026):** Presentó proyecto por más de US$ 1.000 millones (Loma Jarillosa Este y Puesto Silva Oeste) para aumentar producción a 20.000 bpd.
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
