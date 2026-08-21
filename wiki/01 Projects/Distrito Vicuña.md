@@ -12,6 +12,7 @@ last_update: 2026-04-22
 **Principales Actores:** BHP, Lundin Mining (Sociedad 50/50), NGEx Minerals.
 
 ## Hitos Recientes (2026)
+- **Ingreso Oficial RIGI (21/08/2026):** Consiguió entrada al [[RIGI]] en la categoría PEELP comprometiendo US$ 9,73 millones iniciales, sumado a un acuerdo de infraestructura con San Juan por US$ 250 millones.
 - **Descubrimiento Lunahuasi (19/04/2026):** El reporte de leyes récord en [[Lunahuasi]] (hasta **18,9% Cu**) consolida al distrito como la reserva de cobre de alta ley más prometedora a nivel global. Calificado como la "Vaca Muerta del Cobre".
 - **Hoja de Ruta de Inversión (18/04/2026):** Se confirmó una inversión total de **US$ 18.000 millones** para el desarrollo integral del distrito. La **Fase 1 (Josemaría)** requerirá **US$ 7.000 millones**, mientras que las Fases 2 y 3 (Filo del Sol y expansiones) demandarán US$ 11.000 millones adicionales.
 - **Hito de Construcción:** Inicio de construcción de Fase 1 proyectado para el **T1 2027**.

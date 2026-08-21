@@ -26,6 +26,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 
 ## Marco de Incentivos
 La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
+- **San Jorge RIGI (21/08/2026):** Minera San Jorge (Mendoza) logró la aprobación RIGI (Resolución 801/2026) con una inversión inicial de US$ 891 millones en su fase VPU.
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
@@ -35,6 +36,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Avance Operativo (21/08/2026):** Avanza con campañas de exploración buscando asegurar agua y completando líneas de alta tensión.
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 

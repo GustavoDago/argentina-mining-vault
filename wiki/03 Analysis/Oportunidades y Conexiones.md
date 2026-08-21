@@ -62,9 +62,11 @@ graph TD
     RIGI --> |Res. 413/2026| Veladero
     RIGI --> |Res. 431/2026| Altiplano[Minera del Altiplano]
     RIGI --> |Res. 484/2026| O&G[Ajuste Rentabilidad 35%]
-    RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
-    RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
+    RIGI --> |Pampa US$ 2.700M| Urea[Planta Urea - Bahía Blanca]
+    RIGI --> |Ingreso PEELP US$ 9.7M| Vicuña[Distrito Vicuña]
+    RIGI --> |Res. 801/2026 US$ 891M| SanJorge[Minera San Jorge - Mendoza]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
+    RIGI --> |LNG PEELP US$ 51.000M| LNG[Argentina LNG - YPF]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
