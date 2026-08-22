@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-22_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-22
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -48,6 +48,11 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
+
+
+
+### Desafíos Operativos y Licencia Social (Agosto 2026)
+A pesar del éxito macroeconómico, persisten fricciones a nivel provincial respecto a la cadena de valor. La paralización del proyecto de oro y plata Calcatreu en Río Negro por incumplimiento de la cuota de contratación local (80/20) subraya los riesgos de ejecución y licencia social para los megaproyectos. Esto replica tensiones observadas entre el RIGI nacional y regulaciones locales (como el REPEM en el NOA).
 
 ## Hitos Normativos (2026)
 - **Ajuste de Rentabilidad (27/04/2026):** La Resolución 484/2026 elevó el umbral de rentabilidad del 30% al 35% para adaptar el régimen a la curva de declino de proyectos de shale oil e infraestructura eléctrica.

@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Infraestructura Urbana en Añelo (Agosto 2026)**:
+    - La saturación demográfica en Añelo representa un "cuello de botella social" crítico. Existe una necesidad imperiosa de canalizar inversión privada o mixta para vivienda, servicios básicos y conectividad, previniendo disrupciones operativas en Vaca Muerta.
+21. **Compliance y Supply Chain Local en Minería (Agosto 2026)**:
+    - La suspensión del proyecto Calcatreu por incumplimiento de cuotas de empleo local (80/20) en Río Negro resalta el riesgo de licencia social. Esto abre un nicho para soluciones B2B tecnológicas en auditoría y gestión de contrataciones que garanticen la trazabilidad y el cumplimiento normativo en las provincias.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -81,6 +85,8 @@ graph TD
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    RIGI --> |Fricciones Locales| Calcatreu[Suspensión Calcatreu]
+    VM --> |Presión Social| Anelo[Infraestructura Añelo]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
