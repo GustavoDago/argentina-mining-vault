@@ -1,14 +1,18 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-08-24_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-24
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Agosto 2026
 
 ## Oportunidades de Negocio Identificadas
+16. **Proyección Macroeconómica de Exportaciones (US$ 51.000M)**:
+    - Las exportaciones conjuntas de Vaca Muerta y el sector minero se proyectan en US$ 51.000 millones para el año 2030, consolidando el perfil de superávit de largo plazo y abriendo una ventana masiva de financiamiento corporativo respaldado en futuros flujos en moneda dura.
+17. **Fricción Operativa y Licencia Social (Regla 80/20)**:
+    - La paralización temporal del proyecto de oro y plata Calcatreu en Río Negro por incumplimiento de la cuota del 80% de contratación local evidencia riesgos en la cadena de suministros. Existe una oportunidad crítica para **firmas de auditoría de compliance local y headhunting especializado** en zonas de impacto.
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
@@ -118,7 +122,13 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+
+    VM --> |Proyección Exportadora Conjunta| Exportaciones[Exportaciones US$ 51.000M]
+    Cobre --> Exportaciones
+    Litio --> Exportaciones
+
+    LicenciaSocial[Licencia Social y Compliance] --> |Regla 80/20| Calcatreu[Paralización Calcatreu]
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares y la inyección masiva de capitales vía el régimen RIGI. Mientras Argentina consolida su posición como segundo exportador global de litio y destraba los flujos de Vaca Muerta hacia la exportación (GNL), el riesgo central vira hacia la **tensión de licencias sociales (ej. regla 80/20 en Calcatreu)** y la competencia por el acceso expedito a infraestructura logística (ej. Corredor Bioceánico y cuellos de botella eléctricos).

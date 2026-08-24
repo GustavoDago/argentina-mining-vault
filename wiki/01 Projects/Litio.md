@@ -1,21 +1,26 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-24_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-24
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En 2026, Argentina se consolidó definitivamente como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
 ## Proyectos y Producción (2026)
-A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+Para mediados de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, desplazando a Chile en el ranking global de exportación.
 
 ### Estadísticas de Exportación (Enero 2026)
 - **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
 - **Factores:** Combinación de mayores volúmenes exportados (+42%) y precios internacionales más altos.
+
+### Hitos Recientes (Agosto 2026)
+- **Exportación Ganfeng Lithium:** La empresa completó su primera exportación de litio desde la provincia de Salta.
+- **Financiamiento Cauchari-Olaroz:** La Fase 2 del proyecto avanzó con el cierre de un financiamiento por **US$ 220 millones**.
+- **Expansiones RIGI:** El gobierno aprobó incentivos RIGI para expansiones de minas de litio vinculadas a capitales chinos.
 
 ### Proyección de Producción (CAEM)
 La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** en la producción nacional de litio para 2026, estimando alcanzar las **131.800 toneladas de LCE**.

@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-24_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-24
 ---
 
 # Vaca Muerta (Oil & Gas)
@@ -14,13 +14,17 @@ last_update: 2026-04-27
 ## Panorama 2026
 El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción y Recursos (Agosto 2026)
+- **Récord Histórico de Producción:** Argentina alcanzó un récord de 914.900 barriles por día (bpd), reportando un crecimiento del 17,1% interanual impulsado por Vaca Muerta.
+- **Recursos Recuperables:** Se duplicaron los recursos recuperables rozando los **30.000 millones de barriles**, y superando los 40 equipos de perforación activos por primera vez.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Agosto 2026)
+- **Inversión Continental Resources:** Proyectó una inversión de **US$ 4.000 millones** tras liderar ofertas por seis áreas hidrocarburíferas licitadas por GyP en Neuquén.
+- **Inversión Phoenix Global Resources:** Anunció un plan de inversión de **US$ 6.000 millones** bajo el RIGI para elevar la producción a 60.000 bpd en las áreas Mata Mora y Confluencia.
+- **Ingreso de GeoPark al RIGI:** Formalizó su solicitud con una inversión superior a **US$ 1.000 millones** en los bloques Loma Jarillosa Este y Puesto Silva Oeste, para triplicar la producción (20.000 bpd en tres años).
+- **Proyecto Argentina LNG (YPF):** Presentó formalmente el proyecto de **US$ 51.000 millones** al RIGI, con un novedoso sistema de "subasta inversa" para contratos de construcción.
+
+### Hitos Previos (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
@@ -37,7 +41,7 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 
 ## Infraestructura Crítica
 - **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
+- **Argentina LNG (Agosto 2026):** Presentado formalmente al marco del RIGI por **US$ 51.000 millones**, consolidando socios como ENI y utilizando subastas inversas.
 
 ## Conexiones
 - [[RIGI]]

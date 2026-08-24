@@ -2,6 +2,10 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
+## Hitos Recientes (Agosto 2026)
+- **Túnel Ferroviario:** Un consorcio privado propuso la construcción de un túnel ferroviario a través de los Andes por un valor de **US$ 9.600 millones**, lo que potenciaría enormemente la capacidad logística del corredor.
+- **Corredor Vial Chileno:** El gobierno chileno presentó un plan complementario para el desarrollo de un corredor vial bioceánico.
+
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
