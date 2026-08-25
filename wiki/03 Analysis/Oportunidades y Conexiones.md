@@ -118,6 +118,10 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    VM --> |Tensión Política/Fiscal| Figueroa[Neuquén: Reclamo Coparticipación]
+    Litio --> |US$180M| PPG[Proyecto Pastos Grandes - Salta]
+    Cobre --> |Nueva Exploración| MendozaMetals[Argentina Metals - Mendoza]
+    Chile --> |Reactivación Debate Túnel| Corredor[Corredor Bioceánico Las Leñas]
 ```
 
 ## Conclusiones

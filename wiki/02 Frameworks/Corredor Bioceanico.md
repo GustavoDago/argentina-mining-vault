@@ -41,3 +41,6 @@ graph TD
     B --> F[Proyectos de Litio]
     C --> G[Bypass Campo Quijano]
 ```
+
+## Actualización 2026-08-25
+- **Corredor Las Leñas y Túnel Argentina-Chile**: El Gobernador Regional de O’Higgins (Chile) ofició al MOP para retomar el proyecto fronterizo Corredor Bioceánico Las Leñas. Los recientes 34 días de cierre en el paso Los Libertadores han reabierto el debate sobre la viabilidad y necesidad urgente de un túnel que una Argentina y Chile de manera más eficiente.

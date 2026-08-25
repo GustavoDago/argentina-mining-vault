@@ -61,3 +61,8 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - [[Mendoza]]
 - [[Distrito Vicuña]]
 - [[Electromovilidad]]
+
+## Actualización 2026-08-25
+- **Mendoza**: Argentina Metals ha realizado cambios en su posición de CEO de cara a una nueva campaña de exploración cuprífera en la provincia. [[Mendoza]]
+- **Taca Taca (Salta)**: El proyecto enfrenta tres definiciones clave fundamentales antes de poder activar su proyectada inversión de US$5.250 millones. [[Taca Taca]]
+- **Otras Operaciones**: Golden Arrow aprobó la venta de sus activos cupríferos de San Pietro a Capstone Copper.

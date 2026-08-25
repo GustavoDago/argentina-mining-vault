@@ -44,3 +44,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - [[Energia]]
 - [[Neuquén]]
 - [[Palermo Aike]]
+
+## Actualización 2026-08-25
+- **Infraestructura y Mercado**: VMOS ha comenzado la construcción de un ducto submarino clave para llevar crudo a mercados internacionales.
+- **Tensión Política**: El gobernador de Neuquén, Rolando Figueroa, ha puesto el foco en la necesidad de diversificar la economía provincial más allá de Vaca Muerta y reclamó una nueva coparticipación frente al desigual reparto de ganancias con Buenos Aires.
+- **Justicia**: Se revelaron detalles sobre la operación de la empresa Comarsa y su llegada a instancias judiciales por sus actividades en la zona.

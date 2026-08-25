@@ -59,3 +59,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - [[Catamarca]]
 - [[Salta]]
 - [[Jujuy]]
+
+## Actualización 2026-08-25
+- **Jujuy**: El gobernador Carlos Sadir ha solicitado obras de infraestructura a nivel nacional, destacando el enorme peso del sector minero en la provincia. [[Jujuy]]
+- **Salta (Proyecto Pastos Grandes)**: Ganfeng Lithium inyecta US$180 millones en Lithium Argentina para consolidar el desarrollo del Proyecto Pastos Grandes (PPG). [[Salta]]
