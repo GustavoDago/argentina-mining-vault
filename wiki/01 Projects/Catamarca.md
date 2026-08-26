@@ -11,6 +11,7 @@ last_update: 2026-04-27
 Catamarca es el corazón histórico de la minería de litio en Argentina.
 
 ## Hitos Recientes (Abril 2026)
+- **Tensión RIGI vs REPEM (Agosto 2026):** La escalada de fricciones operativas entre el RIGI y la normativa provincial exige un aumento en compliance comunitario.
 - **Levantamiento de Cautelar Río Los Patos (27/04/2026):** La ratificación judicial sobre la cuenca del Río Los Patos valida los estudios de impacto acumulado del Gobierno, habilitando definitivamente la expansión de Arcadium y Posco en el Salar del Hombre Muerto.
 - **Hombre Muerto Oeste (15/04/2026):** Galan Lithium anunció el inicio del procesamiento de litio para fines de abril, convirtiendo al proyecto en el 8vo en producción en Argentina.
 

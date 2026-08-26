@@ -3,6 +3,9 @@
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
 ## Estado de la Traza (Abril 2026)
+- **Infraestructura Estratégica Transandina (Agosto 2026):**
+    - Un consorcio privado avanzó con el proyecto de un túnel ferroviario de US$ 9.600 millones a través de los Andes.
+    - Chile propuso y presentó planes para un corredor vial bioceánico paralelo para absorber la creciente carga minera argentina.
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.

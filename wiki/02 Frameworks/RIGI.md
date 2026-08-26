@@ -50,6 +50,8 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
 
 ## Hitos Normativos (2026)
+- **Aprobaciones de Agosto (Agosto 2026):** El RIGI consolidó formalmente el ingreso de **Distrito Vicuña** (PEELP por US$ 9.737M) y **PSJ Cobre Mendocino** (US$ 891M) en el ecosistema del cobre, y aprobó los ingresos de **Rincón** (US$ 2.500M) y expansión de **Fénix** (US$ 251M) en litio.
+- **Megaproyecto LNG (Agosto 2026):** YPF presentó el proyecto Argentina LNG valuado en US$ 51.000 millones, introduciendo esquemas de subasta inversa para sus contratos de EPC.
 - **Ajuste de Rentabilidad (27/04/2026):** La Resolución 484/2026 elevó el umbral de rentabilidad del 30% al 35% para adaptar el régimen a la curva de declino de proyectos de shale oil e infraestructura eléctrica.
 - **Nuevas Adhesiones (24/04/2026):** Aprobación de **Veladero** (Res. 413/2026) y **Minera del Altiplano** (Res. 431/2026).
 - **Extensión Upstream (18/04/2026):** El Decreto 105/2026 extendió formalmente los beneficios del RIGI a todo el segmento upstream de petróleo y gas.

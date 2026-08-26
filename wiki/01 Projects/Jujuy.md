@@ -11,6 +11,7 @@ last_update: 2026-04-18
 Jujuy es una provincia clave en el Triángulo del Litio y cuenta con importantes proyectos mineros y una estrategia proactiva de atracción de capitales.
 
 ## Hitos Recientes (Abril 2026)
+- **Financiamiento Fase 2 (Agosto 2026):** Cauchari-Olaroz avanzó obteniendo US$ 220 millones para su Fase 2, consolidando a la provincia en el marco de tensiones logísticas y normativas (REPEM) del NOA.
 - **Presidencia de la Mesa del Litio (18/04/2026):** Jujuy asumió la presidencia pro-témpore del Comité Regional de la Región Minera del Litio. El gobernador Carlos Sadir liderará la coordinación con Salta y Catamarca.
 - **Lanzamiento de "Mini-RIGI" (18/04/2026):** La provincia reglamentó un régimen de incentivos para inversiones desde los **US$ 5 millones**, buscando integrar a las PYMES locales en la cadena de valor minera y energética.
 
