@@ -22,7 +22,7 @@ last_update: 2026-04-27
 6. **Optimización en Vaca Muerta y Federalización del Shale**:
    - La formalización de inversiones bajo el RIGI (Pampa US$ 4.5B, Tecpetrol US$ 2.4B, Phoenix) y el anuncio de YPF en **D-129 (Chubut)** y **[[Palermo Aike]] (Santa Cruz)** abre un mercado masivo para la **transferencia tecnológica y logística de servicios petroleros** hacia la Cuenca Austral y el Golfo San Jorge. Es el inicio de la "federalización del shale".
 7. **Aluvión de Inversiones RIGI Petrolero y Decreto 105/2026**:
-   - La extensión de beneficios a todo el upstream (Decreto 105/2026) acelera proyectos de exploración en Santa Cruz y Chubut. Esto genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas.
+   - La extensión de beneficios a todo el upstream (Decreto 105/2026) acelera proyectos de exploración en Santa Cruz y Chubut. Esto genera una oportunidad crítica para proveedores de equipos de fractura (frack crews) y logística de arenas. A su vez, la reciente aprobación de Tecpetrol (US$ 6.400M) en Vaca Muerta, y Compañía Mega (US$ 365M) confirman este aluvión.
 8. **Consolidación del NOA como Hub Surcoreano**:
    - La adquisición de HMN por parte de **[[Posco]]** (US$ 65M) y la confirmación de que su primera planta ya opera al **70% de capacidad** (Abril 2026) consolidan a la empresa como el jugador más dinámico del litio en Salta. La oportunidad reside en la **logística transfronteriza y servicios compartidos**.
 9. **Servicios ESG y Financiamiento Multilateral**:
@@ -33,8 +33,8 @@ last_update: 2026-04-27
     - La implementación obligatoria del **SIM (Sistema Integral Minero)** en San Juan elimina la fricción administrativa del canon minero. Representa una oportunidad para empresas de **software de compliance minero**.
 12. **Mendoza: Profesionalización ASG**:
     - El acuerdo Impulsa Mendoza-Kobrea para estándares **ASG** y el envío de la DIA del proyecto de litio **Don Luis** a la Legislatura marcan la pauta de una Mendoza que busca liderar con rigor técnico.
-13. **Tendencia a la Autonomía Provincial**:
-    - La reforma de la Ley de Glaciares y la dinámica de adhesión al RIGI están configurando un escenario de fragmentación normativa. Esto genera una oportunidad para consultoras de asuntos públicos y legales especializadas en "federalismo de coordinación".
+13. **Tendencia a la Autonomía Provincial y Modernización Estatal**:
+    - La reforma de la Ley de Glaciares y la dinámica de adhesión al RIGI están configurando un escenario de fragmentación normativa. La decisión de Catamarca de reformar la estatal CAMYEN para equipararla al resto del país subraya una modernización que genera una oportunidad para consultoras de asuntos públicos y legales especializadas en "federalismo de coordinación".
 14. **Recuperación del Litio y Ventana BESS (Abril 2026)**:
     - El rebote del precio del litio a **US$ 20.000/t** impulsado por sistemas de almacenamiento (BESS) en China reabre la ventana de rentabilidad para proyectos marginales y acelera la expansión de los existentes (ej. HMW de Galan Lithium).
 15. **Integración Logística Argentina-Chile y Telecomunicaciones**:
@@ -74,8 +74,9 @@ graph TD
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
-    VM --> |US$ 2.400M| Tecpetrol[Tecpetrol]
+    VM --> |US$ 6.400M (RIGI)| Tecpetrol[Tecpetrol]
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
+    VM --> |US$ 365M| Mega[Compañía Mega]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
@@ -84,6 +85,7 @@ graph TD
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
+    Catamarca --> |Reforma CAMYEN| Modernizacion[Modernización Estatal]
     Cobre --> |Leyes Récord| Lunahuasi[Lunahuasi - 18.9% Cu]
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
