@@ -47,6 +47,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
 
 ## Mesa del Cobre y Contexto de Precios
+- **Top 10 Mundial (Agosto 2026):** El sector prepara un gran salto cualitativo: seis proyectos avanzados (liderados por [[Los Azules]], [[Josemaría]], [[Taca Taca]], etc.) podrían posicionar a Argentina en el top 10 global de productores de cobre.
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.

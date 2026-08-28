@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Licitación del Belgrano Cargas y Logística del Litio (Agosto 2026)**:
+    - La inminente privatización del Belgrano Cargas en noviembre abre un mercado multimillonario, conectando el corazón de la producción de litio en el NOA con los puertos exportadores. Una logística eficiente en tren reduce drásticamente el OPEX de las mineras y resuelve el actual estrés sobre las rutas terrestres.
+21. **Cuellos de Botella Logísticos: Factor Humano (Agosto 2026)**:
+    - El "boom" minero, sumado a los anuncios masivos de inversiones (más de US$ 100.000 millones bajo RIGI), revela escasez en recursos humanos críticos, evidenciada por la falta de choferes para camiones de montaña en San Juan. Representa una oportunidad urgente para servicios de reclutamiento y escuelas de conducción especializada.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -118,6 +122,9 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+
+    BelgranoCargas[Licitación Belgrano Cargas] --> |Logística Eficiente| Litio
+    SanJuanBoom[Boom Minero San Juan] --> |Cuello de Botella| ChoferesMontaña[Escasez de Choferes]
 ```
 
 ## Conclusiones

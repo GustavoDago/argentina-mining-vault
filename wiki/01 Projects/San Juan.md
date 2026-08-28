@@ -26,4 +26,4 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - [[Lunahuasi]] (Cobre de Alta Ley)
 
 ## Relevancia Estratégica
-Es pionera en la adhesión al [[RIGI]] y ha desarrollado un ecosistema de proveedores locales altamente especializado.
+Es pionera en la adhesión al [[RIGI]] y ha desarrollado un ecosistema de proveedores locales altamente especializado. Sin embargo, el reciente "boom minero" ha expuesto cuellos de botella logísticos críticos, como la alarmante **falta de choferes de camiones capacitados** para operar en rutas de alta montaña (Agosto 2026).

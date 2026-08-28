@@ -15,6 +15,7 @@ last_update: 2026-04-20
 Formación de hidrocarburos no convencionales (shale) en la provincia de Santa Cruz, considerada el "hermano menor" de [[Vaca Muerta]].
 
 ## Hitos Recientes (2026)
+- **Reactivación de YPF (28/08/2026):** YPF "vuelve a la carga" para acelerar el desarrollo en esta formación tras consolidar avances en Vaca Muerta.
 - **Aceleración de Exploración (20/04/2026):** Horacio Marín (YPF) confirmó la aceleración de los trabajos exploratorios para replicar el modelo de eficiencia y escala de [[Vaca Muerta]].
 - **Potencial Exportador:** El desarrollo de Palermo Aike es clave para diversificar la matriz de exportación de hidrocarburos desde el sur del país.
 
