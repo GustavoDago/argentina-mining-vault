@@ -12,17 +12,19 @@ last_update: 2026-04-27
 **Principales Actores:** YPF, Vista Energy, Tecpetrol, Pampa Energía, Phoenix Global Resources.
 
 ## Panorama 2026
-El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]].
+El yacimiento de shale continúa consolidándose como el principal generador de divisas del sector energético gracias al impulso del [[RIGI]]. Sus recursos recuperables se han duplicado a casi 30.000 millones de barriles.
 
-### Estadísticas de Producción (Febrero 2026)
-- **Shale Oil:** Crecimiento del **31,4% interanual**, con una extracción de 2.623,1 miles de m³.
-- **Petróleo Crudo Total:** Incremento del **15,8%** (3.843,9 miles de m³).
-- **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
-- **Gas Natural:** Caída interanual del **3,3%**.
+### Estadísticas de Producción (Agosto 2026)
+- **Récord Histórico Nacional:** Argentina alcanzó en junio de 2026 los 914.900 bpd (+17,1% interanual).
+- **Actividad de Perforación:** Vaca Muerta superó los 40 equipos de perforación activos por primera vez. La actividad de fractura creció 18% interanual.
+- **M&A:** La actividad de fusiones y adquisiciones alcanzó US$ 5.700 millones en el primer semestre de 2026.
+- **Proyecciones Macro:** Goldman Sachs proyecta inversiones por US$ 60.000 millones. Se estiman exportaciones conjuntas (Energía y Minería) por US$ 51.000 millones.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Agosto 2026)
+- **Aprobaciones RIGI Upstream (Agosto 2026):** Tecpetrol fue aprobado formalmente para el desarrollo en Los Toldos II Este con una inversión de US$ 6.400 millones. Pampa Energía obtuvo la aprobación para Rincón de Aranda.
+- **Nuevas Inversiones:** GeoPark solicitó el ingreso al [[RIGI]] (>US$ 1.000M) para Loma Jarillosa Este y Puesto Silva Oeste. Continental Resources proyecta invertir US$ 4.000 millones tras pujar por 6 de las 8 áreas ofertadas en Neuquén.
+- **Planta de Fertilizantes (Actualización):** La inversión de **Pampa Energía** en Bahía Blanca se ajustó a US$ 2.700M.
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
-- **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
 - **Récord Operativo (22/04/2026):** La actividad rompió su techo histórico superando las **1.700 etapas de fractura** en un solo mes, impulsada por la eficiencia de las operadoras y el marco del [[RIGI]].
 - **Formalización RIGI (20/04/2026):** Pampa Energía (Rincón de Aranda - US$ 4.500M), Tecpetrol (Los Toldos Este II - US$ 2.400M) y Phoenix Resources presentaron formalmente sus proyectos bajo el régimen.
@@ -30,14 +32,15 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Expansión del RIGI al Upstream (18/04/2026):** El Decreto 105/2026 extendió los beneficios del [[RIGI]] a todo el segmento del upstream de petróleo y gas, impulsando proyectos fuera del foco central de Añelo.
 - **Traspaso de Activos (18/04/2026):** La provincia de Neuquén autorizó la transferencia de las áreas Aguada Villanueva, Meseta Buena Espera y Las Tacanas desde Pluspetrol a favor de **YPF**.
 - **Desempeño Industrial (16/04/2026):** El IPI minero (INDEC) mostró un avance del 4,4% interanual en el primer bimestre, impulsado por el dinamismo de Vaca Muerta.
-- **Expansión a Nuevas Fronteras (Abril 2026):** YPF confirmó la aceleración de la exploración en **[[Palermo Aike]]** (Santa Cruz) y el inicio de exploraciones en la formación **D-129** (Chubut), buscando replicar el modelo de eficiencia de Vaca Muerta en otras cuencas.
+- **Expansión a Nuevas Fronteras (Agosto 2026):** Phoenix Global Resources logró un pozo récord en Río Negro extendiendo la frontera hacia el este. YPF y CGC fijaron fecha para su segundo pozo no convencional en **[[Palermo Aike]]** (Santa Cruz).
 - **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
 - **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Techint-Sacde **completó con éxito la construcción del oleoducto** tras 15 meses. Inició la fabricación del ducto offshore en Río Negro (Agosto 2026).
+- **Argentina LNG:** YPF presentó formalmente el proyecto al [[RIGI]] (inversión de US$ 51.000 millones), implementando un sistema de subasta inversa para grandes contratos.
+- **Midstream:** Aprobación RIGI para la expansión de Compañía Mega por US$ 365 millones.
 
 ## Conexiones
 - [[RIGI]]

@@ -2,11 +2,14 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (Agosto 2026)
+- **Propuestas Bioceánicas (Agosto 2026):**
+    - Un consorcio privado presentó una propuesta para construir un túnel ferroviario transandino por **US$ 9.600 millones**, buscando revolucionar la logística regional.
+    - Chile presentó su plan para un corredor vial bioceánico, intensificando la integración regional y la competencia por los flujos logísticos.
 - **Brasil - Paraguay:**
-    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
-    - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
-    - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
+    - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) avanza firme tras el 82,5% alcanzado en abril.
+    - **Puente sobre el Río Apa:** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
+    - **Convenio TIR:** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
 - **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
 - **Salta (Abril 2026):**
@@ -22,6 +25,9 @@
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
+- **Cuellos de Botella (Agosto 2026):**
+    - **Escasez de Personal:** El auge minero ha generado una escasez crítica de choferes de camiones de alta montaña, especialmente en San Juan, limitando la capacidad logística de los megaproyectos.
+    - **Dependencia Ferroviaria:** El NOA depende cada vez más de la próxima privatización del ferrocarril **Belgrano Cargas** para viabilizar de forma competitiva las rutas de exportación del litio.
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.

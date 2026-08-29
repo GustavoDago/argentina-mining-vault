@@ -18,7 +18,8 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 
 ### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
-- **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
+- **Inversión Confirmada:** Aprobación oficial del proyecto en la categoría PEELP del [[RIGI]] con un plan de **US$ 9.737 millones** (Agosto 2026).
+- **Acuerdo de Infraestructura (Agosto 2026):** Se firmó un acuerdo con San Juan por US$ 250 millones (fideicomiso pre-producción), tope de regalías del 3% y un aporte del 1,5% sobre ventas brutas a partir del año 6.
 - **Proyectos Clave:**
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
     - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre".
@@ -29,14 +30,14 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
-- **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
+- **Financiamiento:** McEwen Copper avanza con los preparativos para su IPO enfocado en el financiamiento del proyecto (Agosto 2026). Inversión comprometida de **US$ 2.670 millones**.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Exploración Activa (Julio-Agosto 2026):** Intensas campañas de exploración para asegurar recursos hídricos, trazado de rutas y tendido de líneas de alta tensión.
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
-- **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
@@ -45,6 +46,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+### 6. [[San Jorge]] (Mendoza)
+- **Hito (Agosto 2026):** Se aprobó el ingreso de PSJ Cobre Mendocino al [[RIGI]] con una inversión de **US$ 891 millones**.
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
