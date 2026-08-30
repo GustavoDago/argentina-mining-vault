@@ -21,6 +21,9 @@
 ## Infraestructura Energética Estratégica:
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
+## Avances Estructurales (Agosto 2026)
+- **Túnel Ferroviario Transandino:** Un consorcio privado continúa impulsando el túnel ferroviario que conectará ambos lados de la cordillera, con una inversión estimada de **US$ 9.600 millones**, clave para independizar las exportaciones mineras de la logística del Atlántico.
+
 ## Desafíos Logísticos y de Infraestructura:
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.

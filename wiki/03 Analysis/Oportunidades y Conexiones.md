@@ -71,6 +71,7 @@ graph TD
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |>US$ 100.000M| InversionesTotales[Consolidación Agosto 2026]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -96,6 +97,8 @@ graph TD
     Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
     Litio --> |Presidencia Mesa| Jujuy[Jujuy]
     Jujuy --> MiniRIGI
+    Litio --> |Agosto 2026: Fricción Laboral| REPEM[Exigencia 80% Cuota Local]
+    REPEM --> |Tensión| RIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
     Salta[Salta: Complejo Exportador #1] --> Litio
 
@@ -118,7 +121,8 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
-```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares y el rebasamiento del RIGI por encima de los US$ 100.000 millones en inversiones. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre.
+
+Los principales riesgos identificados actualmente pivotan hacia los cuellos de botella operativos: la falta de **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) y la orquestación off-grid marcan el ritmo; la escasez crítica de **choferes de alta montaña** que amenaza la logística de proyectos gigantes como Los Azules y Josemaría; y las incipientes **fricciones laborales** en el NOA entre el modelo de apertura del RIGI y las estrictas cuotas de contratación local (80/20) exigidas por regímenes provinciales como el REPEM. La resolución de la salida al Pacífico mediante obras de escala como el túnel ferroviario (US$ 9.600M) será determinante para desacoplar el crecimiento exportador minero de las limitaciones logísticas del Atlántico.
