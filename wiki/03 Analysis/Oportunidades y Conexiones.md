@@ -46,7 +46,12 @@ last_update: 2026-04-27
 18. **Ajuste Fino del RIGI para Shale e Infraestructura (Resolución 484/2026)**:
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
-    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+    - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.700M actualizados) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Fricciones Laborales y Cuellos de Botella Logísticos (Agosto 2026)**:
+    - **Tensión RIGI vs. Leyes Locales:** La ley provincial REPEM en el NOA y la regla 80/20 en Río Negro (que ya paralizó el proyecto Calcatreu) exigen cuotas de contratación local que chocan con la apertura del RIGI, creando un **riesgo operativo sistémico** para las cadenas de suministro mineras.
+    - **Escasez Crítica:** San Juan enfrenta una falta severa de choferes de camiones de alta montaña capacitados, lo que podría retrasar la ventana de construcción 2026-2029.
+21. **Dependencia Ferroviaria (Belgrano Cargas)**:
+    - La privatización inminente del Belgrano Cargas es el eslabón crítico no resuelto para abaratar los costos logísticos del Litio y el Cobre en el NOA.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -118,6 +123,13 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+
+    %% Nuevos Riesgos y Logística (Agosto 2026)
+    RIGI --> |Conflicto Normativo| REPEM[Ley Provincial REPEM / 80-20]
+    REPEM --> |Riesgo Operativo| Calcatreu[Parálisis Calcatreu]
+    OpCopper --> |Cuello de Botella| Choferes[Escasez Choferes Alta Montaña SJ]
+    Litio --> |Dependencia Logística| Belgrano[Privatización Belgrano Cargas]
+    Chile --> |Propuesta US$ 9.600M| TunelFerroviario[Túnel Ferroviario Transandino]
 ```
 
 ## Conclusiones

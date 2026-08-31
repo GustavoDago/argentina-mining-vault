@@ -1,16 +1,16 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-31_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-31
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
 
-**Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad.
+**Estado Actual:** Argentina se posiciona para reingresar al mercado global de cobre tras el cierre de Bajo de la Alumbrera (2018). Con una cartera de proyectos "world-class", el país busca capturar la demanda impulsada por la transición energética y la electromovilidad. Junto a Vaca Muerta, el sector proyecta generar **US$ 51.000 millones** en exportaciones combinadas (Agosto 2026).
 
-## Potencial Geológico (Abril 2026)
+## Potencial Geológico
 Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
 
 ## La Cuenca del Cobre (2026)
@@ -18,7 +18,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 
 ### 1. [[Distrito Vicuña]] (San Juan) - El Hub Global
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
-- **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
+- **Inversión Confirmada:** **US$ 18.000 millones** oficiales. Aprobado oficialmente bajo la categoría PEELP del RIGI por **US$ 9.737 millones** (Agosto 2026).
 - **Proyectos Clave:**
     - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
     - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre".
@@ -45,6 +45,10 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+### 6. [[San Jorge]] (Mendoza)
+- **Operador:** Minera San Jorge.
+- **Hito (Agosto 2026):** Aprobado formalmente en el RIGI con una inversión de **US$ 891 millones**.
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).

@@ -1,17 +1,17 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-08-31_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-08-31
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+**Contexto:** En 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
 
 ## Proyectos y Producción (2026)
-A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos (Agosto 2026).
 
 ### Estadísticas de Exportación (Enero 2026)
 - **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
@@ -38,11 +38,16 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+- **Expansión (Agosto 2026):** La Fase 2 de Cauchari-Olaroz avanzó con un financiamiento de **US$ 220 millones**.
+
+### 5. Ganfeng Lithium (Salta)
+- **Hito de Exportación (Agosto 2026):** Completó su primera exportación de litio desde la provincia de Salta, reforzando la capacidad productiva regional y vínculos con China.
 
 ## La Mesa del Litio y Política Regional
+- **Fricción Regulatoria (RIGI vs. REPEM):** Existe una creciente tensión en el NOA (Salta, Jujuy, Catamarca) entre los beneficios nacionales del [[RIGI]] y la ley provincial REPEM, que exige cuotas obligatorias de contratación local, lo cual genera cuellos de botella y riesgos operativos para las expansiones.
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
-- **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
+- **Consolidación Rio Tinto/Arcadium (Agosto 2026):** La aprobación formal en el [[RIGI]] del proyecto Rincón (US$ 2.500M) y de la expansión de **Fénix** (US$ 251M) refuerza la posición de los grandes actores en el NOA.
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
