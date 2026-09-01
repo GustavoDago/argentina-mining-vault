@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-01_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-01
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -45,6 +45,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+### 6. [[San Jorge]] (Mendoza)
+- **Aprobación RIGI:** El gobierno nacional oficializó la incorporación de PSJ Cobre Mendocino al RIGI, comprometiendo una inversión total de **US$ 891 millones**.
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).

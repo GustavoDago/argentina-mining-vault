@@ -47,6 +47,8 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Hito Histórico RIGI (> US$ 100.000M)**:
+    - Con la solicitud de US$ 51.000M por parte de YPF para GNL, el RIGI cruzó la marca de los 100 mil millones. Esta inyección masiva recalibra el panorama macroeconómico y asegura demanda a largo plazo para proveedores de servicios petroleros y de infraestructura.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -66,6 +68,8 @@ graph TD
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
+    RIGI --> |YPF GNL US$ 51.000M| GNL[Argentina LNG]
+    RIGI --> |Hito > US$ 100B| Milestone[Inversiones Históricas]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
@@ -79,7 +83,9 @@ graph TD
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
+    VM --> |YPF GNL| GNL
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Oleoducto Terminado| VMOS[Vaca Muerta Oil Sur]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
