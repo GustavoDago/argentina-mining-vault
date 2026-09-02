@@ -26,6 +26,10 @@
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.
 
+## Propuestas de Infraestructura Mayor (2026)
+- **Túnel Ferroviario Trasandino (Agosto 2026):** Un consorcio privado ha propuesto un túnel ferroviario transandino de US$ 9.600 millones para complementar el Corredor, lo que permitiría una salida masiva de exportaciones (litio, cobre y agronegocios) hacia el Pacífico, mitigando las disrupciones climáticas invernales.
+- **Corredor Vial Chileno:** En contraparte, Chile ha presentado un plan alternativo de inversión en corredores viales bioceánicos.
+
 ## Conexiones
 - [[Mineria]] (Salta/Jujuy/Catamarca).
 - [[Taca Taca]]

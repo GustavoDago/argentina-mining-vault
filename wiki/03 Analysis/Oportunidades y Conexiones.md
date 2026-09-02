@@ -47,6 +47,8 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Tensión Social y Licencia Operativa (Agosto 2026)**:
+    - La paralización de Calcatreu en Río Negro por incumplimiento del cupo 80/20 y las fricciones en el NOA (RIGI vs. REPEM) destacan un riesgo creciente de licencia social y un mercado para consultoras especializadas en desarrollo de cadenas de valor locales y compliance laboral provincial.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -71,6 +73,8 @@ graph TD
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |US$ 51.000M| YPFLNG[Argentina LNG]
+    RIGI --> |US$ 891M| SanJorgeRIGI[San Jorge]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -113,9 +117,13 @@ graph TD
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
+    LosAzules -.-> |Cuello de Botella| Logistica[Escasez de Choferes]
+    Josemaría -.-> |Cuello de Botella| Logistica
     SanJorge --> OpCopper
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
+
+    CorredorBio[Corredor Bioceánico] --> |US$ 9.6B Propuesta| Tunel[Túnel Ferroviario]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
 ```
