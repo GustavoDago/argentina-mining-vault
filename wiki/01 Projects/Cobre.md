@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-03
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -20,7 +20,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
-    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
+    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026). Operaciones afectadas por escasez de choferes de camiones de alta montaña (Septiembre 2026).
     - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre".
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
@@ -30,6 +30,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
 - **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
+- **Logística (Septiembre 2026):** Operaciones afectadas por escasez crítica de choferes de camiones de alta montaña.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 

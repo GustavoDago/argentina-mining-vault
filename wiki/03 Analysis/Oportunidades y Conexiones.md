@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Crisis Logística en Alta Montaña y Ferrocarriles**:
+    - La escasez crítica de choferes de camiones de alta montaña en San Juan (afectando a Los Azules y Josemaría) y la dependencia de la privatización del Belgrano Cargas para el litio del NOA generan una oportunidad imperiosa para **empresas de capacitación, simulación (VR) de manejo y operadores logísticos multimodales**.
+21. **Fricción Regulatoria Local (RIGI vs. REPEM y 80/20)**:
+    - La paralización del proyecto Calcatreu en Río Negro por no cumplir la cuota del 80% de contratación local, y la tensión RIGI vs. REPEM en el NOA, crean un nicho crítico para **consultoras de compliance social, desarrollo de proveedores locales y gestión de licencia social comunitaria**.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -88,6 +92,7 @@ graph TD
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
     Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
+    RIGI --> |Aprobado US$ 891M| SanJorge
 
     Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
@@ -115,6 +120,12 @@ graph TD
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
     SanJorge --> OpCopper
     
+    LogisticsCrisis[Escasez Choferes Alta Montaña] --> |Afecta| LosAzules
+    LogisticsCrisis --> |Afecta| Const
+
+    SocialLicense[Licencia Social & REPEM] --> |Paralización| Calcatreu[Calcatreu - Río Negro]
+    SocialLicense --> |Fricción NOA| Litio
+
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
