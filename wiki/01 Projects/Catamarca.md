@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-11_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-11_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-05_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-05
 ---
 
 # Catamarca
@@ -18,6 +18,7 @@ Catamarca es el corazón histórico de la minería de litio en Argentina.
 - **[[Hombre Muerto Oeste]]** (Galan Lithium): Fase 1 completada, inversión de US$ 217M amparada por el RIGI.
 - **Proyecto Fénix** (Arcadium/Livent): Aprobación del RIGI (Resolución 431/2026) para la "Expansión Fase 1B" con una inversión de **US$ 251 millones**. El objetivo es aumentar la producción de 28.500 a 38.000 t/año de carbonato de litio para julio de 2026.
 - **Proyecto Sal de Oro** (POSCO)
+- **Tres Quebradas (3Q)** (LIEX): Aprobación del RIGI en septiembre de 2026 para una expansión con una inversión de **US$ 709 millones**, apuntando a una capacidad de 40.000 t/año de carbonato de litio.
 
 ## Marco Normativo
 Participa activamente en la Mesa del Litio junto a Salta y Jujuy.
