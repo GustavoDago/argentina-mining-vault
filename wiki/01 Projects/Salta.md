@@ -1,27 +1,44 @@
 ---
 type: project
-tags: [mining, lithium, copper]
-sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+tags: [mining, lithium, copper, salta, rigi]
+sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-23
+last_update: 2026-09-05
 ---
 
-# Salta
+# Provincia de Salta
 
-Salta se destaca por su seguridad jurídica y su potencial diversificado en **litio** y **cobre**. En 2026, la minería se consolidó como el principal motor exportador de la provincia.
+Salta se consolida como polo minero de referencia en Argentina, destacándose por su estabilidad jurídica, previsibilidad normativa y un portafolio equilibrado de megaproyectos en **litio** y **cobre**.
 
-## Hitos Recientes (2026)
-- **Avances de Infraestructura en Taca Taca (Julio 2026):** Se concretaron mesas de trabajo conjuntas entre el gobierno provincial y Corriente Argentina (First Quantum) para definir el trazado de las rutas de acceso vial, la línea de alta tensión y los resultados de las campañas de exploración de agua subterránea para garantizar el recurso de forma ambientalmente sustentable.
-- **Complejo Exportador Líder (16/04/2026):** La minería se consolidó como el principal complejo exportador de Salta, representando más de la mitad de las ventas externas en el primer bimestre de 2026, con un crecimiento interanual del 70%.
-- **Liderazgo en Litio (17/04/2026):** El Reporte Nacional 2026 ratificó a Salta como la provincia con la mayor cartera de proyectos de litio (14 desarrollos) y el mayor volumen de recursos medidos e indicados en la Puna.
-- **Taca Taca (15/04/2026):** Presentación del reporte NI 43-101 y preparación para la adhesión al [[RIGI]] del megaproyecto de cobre de First Quantum.
-- **POSCO:** Confirmación de que su primera planta ya opera al **70% de su capacidad nominal**, tras un encuentro estratégico con el gobernador Gustavo Sáenz.
+---
 
-## Proyectos Clave
-- [[Taca Taca]] (Cobre)
-- [[Rincón]] (Litio)
-- [[Posco]] (Litio)
-- [[Diablillos]] (Plata/Oro)
+## 1. Hitos Recientes (Agosto - Septiembre 2026)
+- **Aprobación RIGI Proyecto Rincón (Agosto 2026):** El gobierno nacional oficializó la aprobación del proyecto **[[Rincón]]** de Rio Tinto bajo el [[RIGI]], respaldando una inversión de **US$ 2.500 millones** para su planta a escala industrial.
+- **Avance Integral en Taca Taca:** Mesas técnicas entre el gobierno provincial, CAMMESA y First Quantum Minerals cerraron acuerdos clave sobre el tendido de la línea de alta tensión de 500 kV, accesos viales y gestión ambiental hídrica.
+- **Despegue Exportador:** Salta lidera el crecimiento de exportaciones mineras del NOA con un salto del **145% interanual**, explicado por los primeros despachos masivos de carbonato de litio y minerales metalíferos.
+- **Logística Ferroviaria y Ramal C-14:** Salta articula con el Estado nacional la inminente privatización/concesión del **Ferrocarril Belgrano Cargas** (Ramal C-14) para conectar los salares de la Puna con los puertos del norte chileno (Antofagasta/Mejillones) a través del Paso Socompa.
 
-## Infraestructura
-Es el nodo central para el [[Corredor Bioceanico]] y la [[Electrificacion Puna]].
+---
+
+## 2. Proyectos Clave
+- **[[Taca Taca]]** (First Quantum Minerals - Cobre/Oro/Molibdeno).
+- **[[Rincón]]** (Rio Tinto - Litio).
+- **[[Posco]] / Sal de Oro** (Litio).
+- **Centenario-Ratones** (Eramine / Tsingshan - Litio DLE).
+- **Pozuelos - Pastos Grandes** (Ganfeng Lithium - Litio).
+- **[[Diablillos]]** (AbraSilver - Plata/Oro).
+
+---
+
+## 3. Infraestructura y Logística
+Nodo central del [[Corredor Bioceanico]] mediante el nodo logístico de General Güemes y las rutas RN 51 y RN 34.
+
+---
+
+## Conexiones
+- [[Cobre]]
+- [[Litio]]
+- [[RIGI]]
+- [[Taca Taca]]
+- [[Rincón]]
+- [[Corredor Bioceanico]]

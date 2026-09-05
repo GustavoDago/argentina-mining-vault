@@ -1,31 +1,40 @@
 ---
 type: project
-tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]]
+tags: [mining, copper, gold, san-juan, rigi, peelp]
+sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]]
 confidence: high
-last_update: 2026-08-01
+last_update: 2026-09-05
 ---
 
-# San Juan
+# Provincia de San Juan
 
-San Juan es la provincia líder en minería metalífera en Argentina, especialmente en **cobre** y **oro**.
+San Juan es la provincia líder en minería metalífera en Argentina, concentrando los mayores depósitos de **cobre de clase mundial** y la principal producción de **oro**.
 
-## Hitos Recientes (2026)
-- **Infraestructura Eléctrica (Agosto 2026):** Se confirmó que la infraestructura eléctrica desarrollada para el [[Distrito Vicuña]] reforzará el sistema energético de toda la provincia de San Juan, mitigando los históricos cuellos de botella del SADI en la región.
-- **Tensión en Proveedores (Agosto 2026):** Las PyMEs sanjuaninas atraviesan un dilema estructural entre la "asfixia de costos" operativos y logísticos a corto plazo y la "esperanza minera" de los megaproyectos de cobre que prometen dinamizar la cadena de valor en los próximos años.
-- **Sistema Integral Minero (SIM) (Abril 2026):** Implementación obligatoria del pago del canon minero 100% online. La plataforma digital centraliza el padrón minero, deudas y estado técnico-legal, eliminando trámites presenciales y mejorando la trazabilidad en tiempo real.
+---
 
-## Desempeño Exportador (2026)
-- **Liderazgo Histórico:** En el primer bimestre de 2026, la minería representó el **92,5% de las exportaciones totales** de San Juan.
-- **Cifras:** En febrero de 2026, las ventas externas alcanzaron los **US$ 172 millones**, marcando un crecimiento interanual del **60,5%**.
-- **Predominio del Oro:** El oro explica el **96,6%** de las exportaciones mineras, traccionado principalmente por el proyecto [[Veladero]]. Los principales destinos son India y Suiza.
+## 1. Hitos Recientes (Agosto - Septiembre 2026)
+- **Aprobación RIGI PEELP Distrito Vicuña:** Aprobación histórica del megaproyecto de BHP y Lundin Mining por **US$ 9.737 millones** (con potencial de escalar a US$ 18.000M). Se ratificó el pacto fiscal provincial con tope de regalías al 3%, fideicomiso de infraestructura vial de US$ 250M y 1,5% de ventas brutas a partir del año 6.
+- **Cuello de Botella Crítico: Escasez de Choferes de Alta Montaña:** A fines de agosto y principios de septiembre de 2026, las empresas contratistas reportaron un déficit severo de choferes profesionales con certificación de manejo en alta montaña, lo que genera demoras y sobrecostos en el traslado de maquinaria pesada hacia los campamentos de [[Los Azules]] y [[Josemaría]].
+- **Infraestructura Energética:** La línea de 500 kV planificada para abastecer a Josemaría y Vicuña reforzará la estabilidad del sistema eléctrico en los valles sanjuaninos.
+- **Desempeño Exportador:** La minería explica más del 92% de las exportaciones provinciales, liderada por [[Veladero]] y los primeros trabajos masivos de exploración y preparación de yacimientos de cobre.
 
-## Proyectos Clave
-- [[Josemaría]] (Cobre)
-- [[Los Azules]] (Cobre Verde)
-- [[Veladero]] (Oro/Plata)
-- [[Distrito Vicuña]] (Hub Binacional)
-- [[Lunahuasi]] (Cobre de Alta Ley)
+---
 
-## Relevancia Estratégica
-Es pionera en la adhesión al [[RIGI]] y ha desarrollado un ecosistema de proveedores locales altamente especializado.
+## 2. Proyectos Clave
+- **[[Distrito Vicuña]]** (BHP / Lundin - Hub Cobre/Oro).
+- **[[Josemaría]]** (Lundin/BHP - Cobre/Oro).
+- **[[Los Azules]]** (McEwen Copper / Nuton - Cobre Verde).
+- **[[El Pachón]]** (Glencore - Cobre).
+- **[[Altar]]** (Aldebaran Resources - Cobre/Oro).
+- **[[Veladero]]** (Barrick / Shandong Gold - Oro/Plata).
+- **[[Gualcamayo]]** (Minas Argentinas - Oro/Carbonatos).
+- **[[Lunahuasi]]** (Filo Mining / Lundin - Cobre de Alta Ley).
+
+---
+
+## 3. Conexiones
+- [[Cobre]]
+- [[Distrito Vicuña]]
+- [[Josemaría]]
+- [[Los Azules]]
+- [[RIGI]]

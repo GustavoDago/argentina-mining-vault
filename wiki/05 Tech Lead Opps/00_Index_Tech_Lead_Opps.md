@@ -3,7 +3,7 @@ type: index
 tags: [tech-lead, business-opportunities, index, mining, energy, vaca-muerta, litio, cobre]
 sources: [[GEMINI.md]]
 confidence: high
-last_update: 2026-08-12
+last_update: 2026-09-05
 ---
 
 # Catálogo Integral de Oportunidades Tecnológicas (Tech Lead Opps)
@@ -99,6 +99,13 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Apalancamiento RIGI:** Garantiza la seguridad e integridad del flujo de exportación RIGI.
 * **Próximo Movimiento:** Validar tasa de compresión de datos Edge en cruces andinos.
 
+### [[VR_Simulacion_Choferes_Alta_Montana_SanJuan]] - Simulación VR y Certificación de Choferes de Alta Montaña ⭐ NUEVO
+* **Resumen del Play:** Plataforma de simulación inmersiva (Digital Twin de huellas cordilleranas) combinada con biometría de fatiga/hipoxia y micro-credenciales digitales para certificar choferes pesados en 4 semanas (vs 12-18 meses), resolviendo el cuello de botella crítico de Los Azules, Josemaría y Vicuña en San Juan.
+* **Tech Stack:** Unreal Engine / Unity VR, Eye-tracking & pulsioximetría, Blockchain / DLT credentialing.
+* **Riesgo Crítico:** Resistencia de contratistas tradicionales de transporte y demoras en homologación con aseguradoras.
+* **Apalancamiento RIGI:** Acelera los cronogramas de obra de megaproyectos PEELP de cobre en San Juan.
+* **Próximo Movimiento:** Presentar piloto a cámaras de transporte minero de San Juan y contratistas de McEwen Copper y Lundin.
+
 ---
 
 ## 4. Vector Economía Circular & Transición Energética
@@ -147,6 +154,7 @@ graph TD
     Log --> AndesLog[[AndesLogistics]]
     Log --> TIR[[Middleware eTIR]]
     Log --> SatEdge[[Sat-Edge Bioceánico]]
+    Log --> VRDriver[[VR Choferes Cordillera]]
 
     Circ --> Pasivos[[Pasivos Circulares]]
     Circ --> Geo[[Geotermia Pozos]]

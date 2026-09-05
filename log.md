@@ -1,7 +1,33 @@
-﻿# Log de Operaciones
+# Log de Operaciones
+
+## [2026-09-05] sync | Ingesta masiva y consolidación de 19 reportes Jules Intel (18 Ago - 05 Sep 2026)
+- **Ingesta Primaria:** Extraídos y armonizados 19 reportes diarios de Jules desde ramas remotas efímeras (`raw/2026-08-18_news_mining_energy.md` a `raw/2026-09-05_news_mining_energy.md` y `wiki/04 Daily/2026-08-18_Daily_Report.md` a `wiki/04 Daily/2026-09-05_Daily_Report.md`).
+- **Hitos Centrales de Inversión & RIGI:**
+    - **Hito RIGI US$ 100.000 Millones:** Las solicitudes acumuladas bajo el RIGI superaron formalmente los **US$ 100.000 millones**, con un pipeline consolidado que sobrepasa los **US$ 152.000 millones**.
+    - **Aprobaciones RIGI Formalizadas:**
+        - **Tecpetrol (Los Toldos II Este):** Aprobado por **US$ 6.400 millones** en Vaca Muerta shale oil.
+        - **Rio Tinto (Rincón - Salta):** Aprobado por **US$ 2.500 millones** para escala comercial de litio grado batería.
+        - **PSJ Cobre Mendocino (San Jorge - Mendoza):** Aprobación histórica de **US$ 891 millones**, destrabando la minería de cobre en Mendoza bajo la Ley 7722.
+        - **LIEX S.A. / Zijin Mining (Tres Quebradas - Catamarca):** Ratificación oficial de ampliación RIGI por **US$ 709 millones** (40.000 t/año LCE, 4.406 empleos, US$ 400M/año en divisas).
+        - **Compañía MEGA:** Aprobada ampliación midstream por **US$ 365 millones** en Bahía Blanca/Neuquén.
+        - **Arcadium Lithium (Fénix - Catamarca):** Aprobada Fase 1B por **US$ 251 millones**.
+- **Hitos Vaca Muerta & Midstream:**
+    - **Oleoducto VMOS:** Techint-Sacde finalizó el tramo terrestre (15 meses). Comienzo de fabricación del ducto offshore en Punta Colorada (Río Negro) y monoboyas en tránsito marítimo.
+    - **Récords Operativos:** Producción petrolera nacional récord de **914.900 bpd**; superación por primera vez de los **40 rigs activos**; perforación récord de Pluspetrol de 4.054 metros en una corrida (Bajo del Choique).
+    - **Desembarco Continental Resources:** Oferta por 6 áreas en Neuquén (US$ 4.000M proyectados) en alianza con Mercuria y 50% de Phoenix Global Resources.
+    - **Subastas Inversas Argentina LNG (US$ 51.000M):** Adjudicación de paquetes de ductos a Pumpco, Bonatti y Contreras.
+- **Cuellos de Botella y Fricciones de Segundo Orden (Red Team / CTO):**
+    - **Escasez de Choferes de Alta Montaña:** Déficit severo en San Juan que amenaza los cronogramas tempranos de Los Azules y Josemaría.
+    - **Tensión RIGI vs. REPEM:** Choque entre el 70% de compre local exigido en Catamarca/NOA y las franquicias aduaneras del RIGI.
+    - **Demanda Ferroviaria Belgrano Cargas:** Presión de las mineras del NOA para acelerar la concesión privada del Ramal C-14 para evacuar hacia Chile y desahogar la RN 51.
+- **Nuevas Tesis Tecnológicas (Tech Lead Opps):**
+    - Creado: `wiki/05 Tech Lead Opps/VR_Simulacion_Choferes_Alta_Montana_SanJuan.md` (Simulación VR y credenciales criptográficas de biometría/fatiga para choferes cordilleranos).
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/Vaca Muerta.md`, `wiki/01 Projects/VMOS.md`, `wiki/01 Projects/Tecpetrol.md`, `wiki/01 Projects/Cobre.md`, `wiki/01 Projects/San Jorge.md`, `wiki/01 Projects/Litio.md`, `wiki/01 Projects/Tres Quebradas.md`, `wiki/01 Projects/Catamarca.md`, `wiki/01 Projects/Salta.md`, `wiki/01 Projects/San Juan.md`, `wiki/01 Projects/Neuquén.md`, `wiki/01 Projects/Río Negro.md`, `wiki/02 Frameworks/RIGI.md`, `wiki/02 Frameworks/Corredor Bioceanico.md`, `wiki/03 Analysis/Oportunidades y Conexiones.md`, `wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md`, `index.md`, `log.md`.
+- **Consolidación Git & Saneamiento:** Ingesta limpia sin regresiones históricas sobre main; saneamiento seguro de 20 ramas remotas integradas.
 
 ## [2026-08-17] sync | Ingesta consolidada de Inteligencia Jules & Web (13 al 17 de Agosto 2026)
-- **Ingesta:** Procesados reportes primarios aw/2026-08-13_news_mining_energy.md, aw/2026-08-14_news_mining_energy.md, aw/2026-08-15_news_mining_energy.md, aw/2026-08-16_news_mining_energy.md y aw/2026-08-17_news_mining_energy.md.
+- **Ingesta:** Procesados reportes primarios aw/2026-08-13_news_mining_energy.md, aw/2026-08-14_news_mining_energy.md, aw/2026-08-15_news_mining_energy.md, aw/2026-08-16_news_mining_energy.md y aw/2026-08-17_news_mining_energy.md.
 - **Hitos Inversión & RIGI:**
     - **Argentina LNG (YPF / Eni / XRG):** Presentación formal al RIGI (Categoría PEELP) por **US$ 51.000 millones** (el mayor expediente de inversión privada en la historia argentina). Implementación del mecanismo de "Subasta Inversa Electrónica" para licitar infraestructura y gasoductos (527 km a Sierra Grande).
     - **Distrito Vicuña (BHP / Lundin Mining):** Oficialización del ingreso al RIGI en categoría PEELP por **US$ 9.737 millones** para cobre en San Juan. Firma de pacto integral con la provincia: regalías al 3%, fideicomiso vial de US$ 250M y aporte del 1,5% de ventas brutas a partir del año 6.
