@@ -1,14 +1,19 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-07_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-07
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
 **Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+
+## Hitos Recientes (Septiembre 2026)
+- **Aprobación RIGI Tres Quebradas (3Q):** LIEX S.A. aseguró la aprobación en el marco del RIGI para una inversión de US$ 709 millones en la expansión del proyecto 3Q en Catamarca, apuntando a 40.000 toneladas/año.
+- **Fricción Regulatoria NOA:** Tensión creciente entre el RIGI (nacional) y la ley REPEM (provincial) por exigencias de contratación local.
+- **Logística:** Dependencia creciente de la próxima privatización del ferrocarril Belgrano Cargas para las rutas de exportación en el NOA.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.

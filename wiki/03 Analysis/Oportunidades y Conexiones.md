@@ -1,14 +1,18 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-09-07_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-07
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - Septiembre 2026
 
 ## Oportunidades de Negocio Identificadas
+20. **Mitigación del Riesgo REPEM (Septiembre 2026)**:
+    - La creciente fricción en el NOA (Salta, Jujuy, Catamarca) entre el RIGI y la ley REPEM (contratación local) genera un cuello de botella. La paralización de Calcatreu en Río Negro por la regla 80/20 marca un precedente. Oportunidad para servicios de estructuración de supply chains locales certificadas y programas de capacitación exprés para cumplir con cuotas provinciales sin perder beneficios nacionales.
+21. **Logística y Ferrocarril (Septiembre 2026)**:
+    - La escasez de choferes en San Juan y la saturación de rutas aumentan la dependencia del Corredor Bioceánico y del Belgrano Cargas. La privatización de este último abrirá un mercado para operadores logísticos privados, integrando el litio del NOA con puertos del Atlántico y el túnel transandino propuesto (US$ 9.600M) hacia el Pacífico.
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
    - La ratificación del acuerdo entre **[[Taca Taca]]** y la IFC (Abril 2026) consolida el patrón de "escudos multilaterales". El cumplimiento de estándares de desempeño de la IFC se vuelve un requisito *de facto* para los megaproyectos que buscan financiamiento por deuda bajo el RIGI.
 2. **Infraestructura Eléctrica y Arbitraje de Despacho (ENRE)**:
@@ -70,7 +74,11 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
-    RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |Aprobado US$ 891M| SanJorge[San Jorge - Mendoza]
+    RIGI --> |Aprobado US$ 709M| LIEX[LIEX 3Q - Catamarca]
+    RIGI --> |Hito Alcanzado| CienMil[Inversión > US$ 100.000M]
+    RIGI --> |Aprobado US$ 6.400M| TecpetrolVM[Tecpetrol - Los Toldos II]
+    RIGI --> |Tensión Normativa| REPEM[Fricción con Leyes Provinciales]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -78,7 +86,9 @@ graph TD
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
+    VM --> |Megaproyecto US$ 51.000M| GNL_YPF[YPF Argentina LNG]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
+    VM --> |Licitación Continental| NeuquenBloques[6 Bloques Adjudicados - US$ 4.000M]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
@@ -105,8 +115,8 @@ graph TD
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
 
-    Chile[Integración con Chile] --> |Logística Pacífico| Cobre
-    Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Chile[Integración con Chile] --> |Propuesta US$ 9.600M| TunelTransandino[Túnel Ferroviario]
+    Chile --> |Logística Pacífico| Cobre
 
     Eval --> |Espera desde 2024| Posco
 

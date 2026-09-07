@@ -1,14 +1,18 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-11_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-11_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-07_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-07
 ---
 
 # Catamarca
 
 Catamarca es el corazón histórico de la minería de litio en Argentina.
+
+## Hitos Recientes (Septiembre 2026)
+- **Aprobación RIGI (07/09/2026):** LIEX S.A. obtuvo la aprobación en el marco del RIGI para una inversión de US$ 709 millones destinada a la expansión del proyecto de litio Tres Quebradas (3Q), apuntando a una capacidad de 40.000 toneladas anuales.
+- **Fricción Regulatoria:** Creciente tensión en el NOA entre los beneficios del RIGI y la ley provincial REPEM por cuotas de contratación local.
 
 ## Hitos Recientes (Abril 2026)
 - **Levantamiento de Cautelar Río Los Patos (27/04/2026):** La ratificación judicial sobre la cuenca del Río Los Patos valida los estudios de impacto acumulado del Gobierno, habilitando definitivamente la expansión de Arcadium y Posco en el Salar del Hombre Muerto.

@@ -1,6 +1,17 @@
+---
+type: framework
+tags: [infrastructure, mining, logistics]
+sources: [[2026-09-07_news_mining_energy.md]]
+confidence: medium
+last_update: 2026-09-07
+---
+
 # Corredor Bioceánico de Capricornio (CBC)
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
+
+## Hitos Recientes (Septiembre 2026)
+- **Túnel Transandino (07/09/2026):** Un consorcio privado presentó una propuesta formal para la construcción de un túnel ferroviario a través de la Cordillera de los Andes, con una inversión estimada de US$ 9.600 millones, destinado a facilitar las exportaciones mineras. Por su parte, Chile avanza con un plan paralelo para un corredor vial.
 
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**
