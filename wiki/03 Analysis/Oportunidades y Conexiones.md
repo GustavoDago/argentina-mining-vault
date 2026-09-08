@@ -1,12 +1,12 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-09-08_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-08
 ---
 
-# Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
+# Oportunidades de Negocio y Conexiones Ocultas - 2026
 
 ## Oportunidades de Negocio Identificadas
 1. **Des-riesgo Multilateral (Patrón IFC/BID)**:
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Crisis de Capital Humano Logístico (Septiembre 2026)**:
+    - La escasez crítica de conductores de camiones de alta montaña en San Juan (afectando a Los Azules/Josemaría) presenta una ventana para **empresas de capacitación especializada, automatización de flotas y transporte multimodal**.
+21. **Federalismo Tensionado (RIGI vs. Leyes Locales)**:
+    - La presión por el cumplimiento del "compre local" (REPEM, regla 80/20) frente al paraguas del RIGI nacional crea una oportunidad dorada para **servicios de compliance socio-laboral, desarrollo de proveedores Tier 3 y auditorías de cadenas de suministro**.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -80,6 +84,7 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Inversión US$ 4.000M| Continental[Continental Resources]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
@@ -114,11 +119,16 @@ graph TD
     ENRE --> |Conflicto| LosAzules
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
     SanJorge --> OpCopper
+    OpCopper --> |Déficit Logístico| Camiones[Falta de Choferes Alta Montaña]
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+
+    Litio --> |Expansión 3Q US$ 709M| LIEX[LIEX S.A.]
+    RIGI --> |Fricción 80/20| REPEM[Ley REPEM NOA]
+    Cobre --> |Ferrocarril US$ 9.6B| CorredorBio[Corredor Bioceánico]
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares y el marco nacional del RIGI. Sin embargo, surgen nuevos cuellos de botella no geológicos: la **tensión de federalismo** por las cuotas de empleo local (REPEM) y el **déficit crítico de infraestructura y capital humano** (logística de alta montaña). Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón, expansión de 3Q) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre, pero dependerá de destrabar la red logística transfronteriza y eléctrica para consolidar el ciclo operativo 2026-2030.

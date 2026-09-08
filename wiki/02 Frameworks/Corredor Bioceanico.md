@@ -22,6 +22,8 @@
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
+- **Integración Vial vs Ferroviaria (08/09/2026):** Con el RIGI superando los US$ 100.000 millones en anuncios, la infraestructura se vuelve un cuello de botella. Un consorcio privado ha propuesto un túnel ferroviario trasandino de US$ 9.600 millones y negocia compatibilidad con el corredor vial propuesto por Chile.
+- **Privatización del Belgrano Cargas (08/09/2026):** Inminente proceso de privatización que es visto por el sector minero (cobre/litio) como esencial para reducir fletes hacia los puertos.
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.
@@ -30,6 +32,7 @@
 - [[Mineria]] (Salta/Jujuy/Catamarca).
 - [[Taca Taca]]
 - [[Litio]]
+- [[RIGI]]
 
 ## Diagrama de Conectividad Estratégica (Extracto)
 ```mermaid

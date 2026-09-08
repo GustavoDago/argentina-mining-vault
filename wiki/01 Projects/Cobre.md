@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-08_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-08
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -20,7 +20,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
 - **Concepto:** Integración binacional (Argentina/Chile) liderada por **BHP** y **Lundin Mining**.
 - **Inversión Confirmada:** **US$ 18.000 millones** oficiales en abril 2026.
 - **Proyectos Clave:**
-    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026).
+    - **[[Josemaría]]**: DIA de explotación aprobada (Marzo 2026) y CAPEX inicial confirmado de **US$ 7.000 millones** (Abril 2026). Advertencias por severo déficit de conductores de camiones de alta montaña para la fase de construcción hacia 2029 (08/09/2026).
     - **[[Lunahuasi]]**: Descubrimiento de clase mundial con leyes récord de hasta **18,9% de cobre** (Abril 2026). Calificado como la "Vaca Muerta del Cobre".
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
@@ -31,7 +31,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
 - **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
-- **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
+- **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029. Enfrenta cuellos de botella logísticos por escasez de conductores de alta montaña (08/09/2026).
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
@@ -45,6 +45,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+### 6. [[San Jorge]] (Mendoza)
+- **Hito Reciente:** Aprobación de ingreso al RIGI con plan de US$ 891 millones. Inicio de licitación de estudios de ingeniería de detalle (08/09/2026).
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
