@@ -81,6 +81,8 @@ graph TD
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    VM --> |Inversión US$ 4.000M| Continental[Continental Resources]
+    VM --> |Oleoducto Terminado| VMOS[VMOS - Vaca Muerta Sur]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
@@ -88,6 +90,7 @@ graph TD
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
     Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
+    RIGI --> |Aprobado US$ 891M| SanJorge
 
     Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
@@ -98,6 +101,9 @@ graph TD
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
     Salta[Salta: Complejo Exportador #1] --> Litio
+    RIGI --> |Fricción 80/20| REPEM[REPEM - Ley Provincial NOA]
+    RIGI --> |Aprobado US$ 709M| LIEX[LIEX 3Q]
+    LIEX --> Litio
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
     Vicuña --> Lunahuasi
@@ -114,6 +120,7 @@ graph TD
     ENRE --> |Conflicto| LosAzules
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
     SanJorge --> OpCopper
+    OpCopper --> |Déficit Choferes| LogisticaCobre[Logística Cobre Alta Montaña]
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 

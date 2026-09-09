@@ -25,7 +25,7 @@ La minería de cobre en Argentina se concentra principalmente en la región de l
     - **Filo del Sol**: Recursos masivos de cobre, oro y plata en etapa de consolidación.
 
 ## Marco de Incentivos
-La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña.
+La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RIGI]]** para asegurar estabilidad fiscal y beneficios de exportación. Asimismo, la sanción de la reforma de la **[[Ley de Glaciares]]** (09/04/2026) se consolida como el catalizador normativo definitivo para viabilizar los proyectos de alta montaña. En Septiembre de 2026, el gobierno aprobó el ingreso de **[[San Jorge]]** (PSJ Cobre Mendocino) al RIGI, comprometiendo US$ 891 millones.
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
@@ -45,6 +45,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+## Logística y Recursos Humanos
+- **Cuello de Botella en San Juan (Septiembre 2026):** Operadores de [[Los Azules]] y [[Josemaría]] advierten sobre un déficit crónico de choferes de camiones de alta montaña capacitados, lo que amenaza con retrasar los cronogramas de construcción.
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).

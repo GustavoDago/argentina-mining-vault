@@ -40,6 +40,9 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
 ## La Mesa del Litio y Política Regional
+- **Fricciones RIGI vs. REPEM (Septiembre 2026):** Escala la tensión en el NOA entre los beneficios nacionales del [[RIGI]] y la aplicación de las leyes provinciales (REPEM), que exigen cuotas del 80% de contratación local.
+- **Reforma CAMYEN (Septiembre 2026):** Catamarca avanza en la modernización de su empresa estatal minera para agilizar joint ventures de litio.
+- **Expansión 3Q (Septiembre 2026):** LIEX S.A. logró la aprobación bajo el RIGI para invertir US$ 709 millones en la ampliación del proyecto Tres Quebradas (Catamarca) a 40.000 t/año.
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
