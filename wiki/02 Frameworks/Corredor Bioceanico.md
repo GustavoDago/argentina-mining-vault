@@ -18,6 +18,10 @@
 - **Alta operatividad anual:** Cierra solo 35 días al año por factores climáticos (vs. 120 días de Cristo Redentor).
 - **Conectividad estratégica:** Acceso directo a los puertos del norte de Chile (Antofagasta, Iquique).
 
+## Infraestructura
+- **Túnel Trasandino (11/09/2026):** Un consorcio privado propuso la construcción de un túnel ferroviario de USD 9.600 millones.
+- **Logística Litio (11/09/2026):** Aumenta la dependencia de la próxima privatización del ferrocarril Belgrano Cargas para las rutas de exportación del NOA.
+
 ## Infraestructura Energética Estratégica:
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 

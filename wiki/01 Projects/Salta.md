@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium, copper]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-09-11_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-09-11
 ---
 
 # Salta
@@ -17,6 +17,8 @@ Salta se destaca por su seguridad jurídica y su potencial diversificado en **li
 - **POSCO:** Confirmación de que su primera planta ya opera al **70% de su capacidad nominal**, tras un encuentro estratégico con el gobernador Gustavo Sáenz.
 
 ## Proyectos Clave
+- **Litio:** Ganfeng Lithium realizó su primera exportación comercial (11/09/2026).
+- **Taca Taca (Cobre):** Avanzan las campañas de exploración, aseguramiento de agua y tendido eléctrico (11/09/2026).
 - [[Taca Taca]] (Cobre)
 - [[Rincón]] (Litio)
 - [[Posco]] (Litio)

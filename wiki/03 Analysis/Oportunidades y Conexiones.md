@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-11
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -118,6 +118,22 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    %% Sept 11, 2026 Updates
+    RIGI --> |Aprobado US$ 891M| SanJorge
+    RIGI --> |Aprobado US$ 709M| Liex[LIEX Tres Quebradas]
+    RIGI --> |Presentación US$ 51.000M| YPFLNG[YPF Argentina LNG]
+    VM --> |Inversión US$ 4.000M| Continental[Continental Resources]
+    VM --> |Finalizado Oleoducto| VMOS[VMOS - Techint-Sacde]
+    VMOS --> |Offshore en Río Negro| OffshoreRN[Ducto Offshore RN]
+    Litio --> |1ra Exportación Salta| Ganfeng[Ganfeng Lithium]
+    RIGI --> |>US$ 100.000M Histórico| TotalRIGI[Total RIGI]
+    CorredorBio[Corredor Bioceánico] --> |Propuesta US$ 9.600M| TunelFerroviario[Túnel Trasandino]
+    Litio --> |Logística| BelgranoCargas[Ferrocarril Belgrano Cargas]
+    Logistics --> |Escasez Choferes SJ| LosAzules
+    RIGI -.-> |Fricción| REPEM[Ley REPEM NOA]
+    REPEM -.-> |Paralización Calcatreu 80/20| Calcatreu[Calcatreu - Río Negro]
+    Catamarca --> |Reforma Estatal| CAMYEN[CAMYEN]
+
 ```
 
 ## Conclusiones

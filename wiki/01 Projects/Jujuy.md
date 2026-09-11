@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium, regulatory]
-sources: [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-18_news_mining_energy.md]], [[2026-09-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-18
+last_update: 2026-09-11
 ---
 
 # Provincia de Jujuy
@@ -20,4 +20,4 @@ Jujuy es una provincia clave en el Triángulo del Litio y cuenta con importantes
 - **Mina Pirquitas / Chinchillas** (Plata/Plomo/Zinc)
 
 ## Marco Normativo
-Participa en la Mesa del Litio y promueve el desarrollo de proveedores locales mediante el nuevo mini-RIGI.
+Participa en la Mesa del Litio y promueve el desarrollo de proveedores locales mediante el nuevo mini-RIGI. Se registra creciente tensión en el NOA entre los beneficios del RIGI y leyes provinciales como REPEM que exigen cuotas de contratación local (11/09/2026).
