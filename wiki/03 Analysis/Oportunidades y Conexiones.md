@@ -46,7 +46,7 @@ graph TD
     ArgLNG --> |Cabecera Atlántica| RioNegro[Punta Colorada / Sierra Grande]
 
     VM[Vaca Muerta: >40 Rigs / 914k bpd / US$ 4.000M Continental] --> ArgLNG
-    VM --> |Tramo Onshore 100% / Offshore Soldadura| VMOS[Oleoducto VMOS US$ 2.500M]
+    VM --> |Tramo Onshore 100 pct / Offshore Soldadura| VMOS[Oleoducto VMOS US$ 2.500M]
     VMOS --> |Ducto Submarino & Monoboyas| RioNegro
 
     Vicuña --> |Cuello de Botella| Choferes[Escasez Choferes Alta Montaña]
