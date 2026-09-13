@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-09-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-09-13
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -39,11 +39,17 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
+### 5. Tres Quebradas (3Q) (LIEX S.A., Catamarca)
+- **RIGI (Septiembre 2026):** Obtuvo aprobación del RIGI para una inversión de US$ 709 millones, apuntando a una capacidad de 40.000 t/año de LCE.
+
 ## La Mesa del Litio y Política Regional
+- **Fricción RIGI vs. REPEM (Septiembre 2026):** Se intensifica el conflicto entre los beneficios nacionales del RIGI y la ley provincial REPEM, que exige cuotas de contratación local (ej. 80/20), generando tensiones en la cadena de suministro del NOA.
+- **Exportación en Salta (Septiembre 2026):** Ganfeng Lithium concretó su primera exportación de litio desde la provincia.
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
+- **Logística:** Fuerte dependencia de la futura privatización del Belgrano Cargas para abaratar los costos de exportación.
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
 ## Mercados y Precios

@@ -1,8 +1,17 @@
+---
+type: framework
+tags: [logistics, mining]
+sources: [[2026-09-13_news_mining_energy.md]]
+confidence: high
+last_update: 2026-09-13
+---
+
 # Corredor Bioceánico de Capricornio (CBC)
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (2026)
+- **Túnel Ferroviario (Septiembre 2026):** Presentación de una propuesta privada de US$ 9.600 millones para construir un megatúnel ferroviario transandino, compitiendo con la visión chilena enfocada en el corredor vial.
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
@@ -22,6 +31,7 @@
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
+- **Belgrano Cargas (Septiembre 2026):** La futura privatización de la red ferroviaria es observada con extrema atención por los productores de litio del NOA, ya que el tren es la clave para reducir los costos logísticos de exportación.
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.

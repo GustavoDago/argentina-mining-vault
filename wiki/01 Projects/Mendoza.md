@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper, regulatory]
-sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]]
+sources: [[2026-04-10_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-25_news_mining_energy.md]], [[2026-09-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-25
+last_update: 2026-09-13
 ---
 
 # Mendoza (Minería y Energía)
@@ -21,7 +21,7 @@ last_update: 2026-04-25
 
 ## Proyectos Clave
 - **Don Luis:** Proyecto de exploración de litio en el sur provincial.
-- **[[San Jorge]]:** Se proyecta el inicio de operaciones comerciales para 2029.
+- **[[San Jorge]]:** Aprobación del RIGI por US$ 891 millones en septiembre de 2026. Se proyecta el inicio de operaciones comerciales para 2029.
 - **Potasio Río Colorado:** Proyecto estratégico para la producción de fertilizantes, clave para la diversificación exportadora.
 
 ## Conexiones

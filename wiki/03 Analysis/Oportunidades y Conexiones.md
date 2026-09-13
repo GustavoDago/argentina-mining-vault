@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Crisis Logística en Cobre y Litio (Septiembre 2026)**:
+    - La escasez de choferes de alta montaña (San Juan) y la dependencia de la privatización del Belgrano Cargas (NOA) revelan cuellos de botella severos. Oportunidades inmensas en **automatización de flotas, escuelas de formación técnica acelerada y logística ferroviaria privada**.
+21. **Riesgos de Licencia Social y Fragmentación Regulatoria**:
+    - La paralización de Calcatreu por la regla 80/20 y el conflicto RIGI vs REPEM indican que el marco nacional no garantiza operaciones sin una gestión comunitaria local impecable. Oportunidades en **software de trazabilidad de contratación local y consultoría ESG de hiper-nichos provinciales**.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -80,6 +84,8 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |US$ 51.000M| YPFLNG[YPF Argentina LNG]
+    VM --> |Completado 2026| VMOS[Oleoducto Vaca Muerta Sur]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
@@ -94,12 +100,16 @@ graph TD
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
     Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
+    Litio --> |Fricción| REPEM[Ley REPEM vs RIGI]
+    Litio --> |Aprobado US$ 709M| LIEX[LIEX 3Q - Catamarca]
+    Litio --> |Logística| BelgranoCargas[Privatización Belgrano Cargas]
     Litio --> |Presidencia Mesa| Jujuy[Jujuy]
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
     Salta[Salta: Complejo Exportador #1] --> Litio
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
+    Cobre --> |Cuello de Botella| Logistica[Escasez Camioneros Alta Montaña]
     Vicuña --> Lunahuasi
 
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
@@ -121,4 +131,4 @@ graph TD
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares y el rebase de los **US$ 100.000 millones** en inversiones RIGI. Mientras Argentina acelera su fase comercial, los principales riesgos a corto y mediano plazo han mutado de la macroeconomía hacia la microeconomía y la política local: **cuellos de botella logísticos (choferes, trenes), infraestructura eléctrica (competencia en el ENRE) y fricciones de licencia social (RIGI vs normativas locales como REPEM o el 80/20 de Río Negro)**. La resolución de estos conflictos definirá si las promesas del RIGI se transforman en flujos reales de producción.
