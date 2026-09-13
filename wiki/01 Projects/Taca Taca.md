@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-07-23
+last_update: 2026-09-13
 ---
 
 # Proyecto Taca Taca (Cobre)
@@ -15,6 +15,7 @@ last_update: 2026-07-23
 Megaproyecto de cobre de clase mundial con una inversión estimada total de **US$ 5.250 millones** (compromiso RIGI de **US$ 4.200 millones**). Se posiciona en el primer cuartil de la curva de costos global.
 
 ## Hitos Recientes (2025-2026)
+- **Campañas de Exploración, Agua y Tendido Eléctrico (Septiembre 2026):** Se intensificaron las campañas de exploración de recarga de acuíferos, aseguramiento del suministro de agua industrial, trazado final de rutas viales de transporte pesado y definición de las trazas para las líneas de alta tensión necesarias para iniciar la etapa de construcción civil y montaje.
 - **Avances Técnicos de Infraestructura y Agua (Julio 2026):** Técnicos de la Secretaría de Minería y Energía de Salta y de la operadora Corriente Argentina S.A. (First Quantum) llevaron a cabo reuniones para repasar los diseños de la ruta de acceso vial, informes geotécnicos y el diseño del dique de colas. En particular, la campaña de exploración hídrica demostró caudales sólidos y excelente capacidad de recarga por precipitación, asegurando el recurso de agua industrial y salada de forma sostenible.
 - **Alianza Estratégica IFC (27/04/2026):** Acuerdo formal con la **Corporación Financiera Internacional** (brazo del Banco Mundial) para cumplir estándares de desempeño en sostenibilidad ambiental y social, fortaleciendo el acceso a financiamiento mediante deuda y ratificando la inversión total de **US$ 5.250 millones**.
 - **Ratificación de Inversión RIGI (19/04/2026):** Se confirmó una inversión de **US$ 4.200 millones** enfocada en el desarrollo de infraestructura y planta, vinculando el proyecto con el [[Corredor Bioceanico]] de Capricornio para la salida por el Pacífico.

@@ -1,5 +1,36 @@
 # Log de Operaciones
 
+## [2026-09-13] sync | Ingesta masiva y consolidación de 6 reportes Jules Intel (07 Sep - 13 Sep 2026)
+- **Ingesta Primaria:** Extraídos, armonizados y consolidados 6 reportes diarios crudos de noticias (
+aw/2026-09-07_news_mining_energy.md a 
+aw/2026-09-13_news_mining_energy.md) y 6 reportes diarios de wiki (wiki/04 Daily/2026-09-07_Daily_Report.md a wiki/04 Daily/2026-09-13_Daily_Report.md) provenientes de ramas remotas efímeras de Jules.
+- **Hitos Centrales de Inversión & RIGI:**
+    - **Hito RIGI US$ 100.000 Millones:** Ratificación oficial de compromisos y solicitudes bajo el marco del RIGI superando formalmente la barrera histórica de los **US$ 100.000 millones**, con un pipeline consolidado que sobrepasa los **US$ 152.000 millones**.
+    - **Vaca Muerta & Megaproyectos Energéticos:**
+        - **Continental Resources:** Oferta formal liderando 6 de los 8 bloques hidrocarburíferos licitados por GyP en Neuquén, proyectando un CAPEX de **US$ 4.000 millones** en shale oil de ciclo largo.
+        - **Oleoducto VMOS:** Concluida la traza onshore (437 km en 15 meses), la manufactura y tendido del ducto submarino/offshore en Punta Colorada (Río Negro) ingresó en fase de **soldadura avanzada**, preparando exportaciones masivas para fines de 2026 con arribo de monoboyas.
+        - **Argentina LNG (YPF / Eni / XRG):** Expediente formal PEELP por **US$ 51.000 millones** e implementación del mecanismo de subasta inversa electrónica para adjudicar paquetes de gasoductos dedicados.
+        - **Superávit Comercial:** Superávit energético mensual de **USD 900 millones** en Neuquén.
+    - **Minería de Cobre:**
+        - **San Jorge (Mendoza):** Tras la aprobación RIGI por **US$ 891 millones**, la operadora inició formalmente la licitación de los estudios de ingeniería de detalle.
+        - **Taca Taca (Salta):** Intensificación de campañas de exploración para asegurar agua industrial, trazado de accesos viales y tendido de 500 kV para construcción.
+    - **Minería de Litio:**
+        - **Tres Quebradas 3Q (Catamarca):** Aprobación formal RIGI por **US$ 709 millones** (40.000 t/año LCE).
+        - **Ganfeng Lithium:** Concretó su **primera exportación comercial de litio** desde Salta.
+        - **Reforma CAMYEN:** Profundización de la modernización estructural de la empresa minera estatal en Catamarca.
+- **Cuellos de Botella y Fricciones de Segundo Orden (Red Team / CTO):**
+    - **Precedente Calcatreu y la Regla 80/20:** Suspensión preventiva y paralización temporal del proyecto Calcatreu en Río Negro por infracción del cupo del 80% de mano de obra local. Demuestra empíricamente que el RIGI no confiere inmunidad frente a la policía laboral y administrativa provincial.
+    - **Tensión RIGI vs. REPEM en el NOA:** Fricción creciente entre la libre importación RIGI (cupo nacional 20%) y el régimen de compre/contratación local de Catamarca (70%) y provincias vecinas.
+    - **Déficit Crítico de Choferes de Alta Montaña:** San Juan reporta escasez severa que amenaza cronogramas de movimiento de suelos en Los Azules y Josemaría hacia 2029.
+    - **Megatúnel Trasandino (US$ 9.600M) vs. Belgrano Cargas:** Presentación de estudio de línea de base para un túnel ferroviario bioceánico por consorcio privado frente al pragmatismo del corredor vial chileno y la urgencia inmediata del pliego de privatización del Ferrocarril Belgrano Cargas (Ramal C-14).
+- **Nuevas Tesis Tecnológicas y Análisis Escépticos:**
+    - Creado: wiki/07 Analisis Esceptico/Esceptico_Calcatreu_Licencia_Social_REPEM.md (Red team sobre soberanía de policía provincial y riesgo de clausura).
+    - Creado: wiki/07 Analisis Esceptico/Esceptico_Megatunel_Bioceanico_Belgrano_Cargas.md (Evaluación de desfasaje temporal de megatúnel vs. privatización ferroviaria).
+    - Creado: wiki/05 Tech Lead Opps/Compliance_Compre_Local_8020_SaaS.md (Plataforma RegTech SaaS de auditoría continua de nóminas y compras locales).
+- **Entidades y Frameworks Actualizados:**
+    - wiki/01 Projects/Vaca Muerta.md, wiki/01 Projects/Cobre.md, wiki/01 Projects/Litio.md, wiki/01 Projects/San Jorge.md, wiki/01 Projects/Taca Taca.md, wiki/01 Projects/Catamarca.md, wiki/01 Projects/Salta.md, wiki/01 Projects/San Juan.md, wiki/01 Projects/Mendoza.md, wiki/01 Projects/Río Negro.md, wiki/01 Projects/Jujuy.md, wiki/02 Frameworks/RIGI.md, wiki/02 Frameworks/Corredor Bioceanico.md, wiki/03 Analysis/Oportunidades y Conexiones.md, wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md, index.md, wiki/index.md, log.md.
+- **Consolidación Git & Saneamiento:** Ingesta limpia sin regresiones sobre main y depuración de 6 ramas remotas de Jules.
+
 ## [2026-09-05] sync | Ingesta masiva y consolidación de 19 reportes Jules Intel (18 Ago - 05 Sep 2026)
 - **Ingesta Primaria:** Extraídos y armonizados 19 reportes diarios de Jules desde ramas remotas efímeras (`raw/2026-08-18_news_mining_energy.md` a `raw/2026-09-05_news_mining_energy.md` y `wiki/04 Daily/2026-08-18_Daily_Report.md` a `wiki/04 Daily/2026-09-05_Daily_Report.md`).
 - **Hitos Centrales de Inversión & RIGI:**
@@ -38,7 +69,12 @@
     - **Tensión de Cadena de Suministro:** Fuerte choque entre contratistas de primer orden (Halliburton) y cámaras pymes locales (FECENE/ACIPAN) en Añelo por recortes de tarifas unilaterales.
     - **Riesgo de Subasta Inversa:** La puja a la baja en licitaciones de gasoductos optimiza el CAPEX pero incrementa el riesgo de variaciones de costos y controversias operativas si no se audita criptográficamente el proceso.
 - **Entidades Creadas/Actualizadas:**
-    - **Creados:** aw/2026-08-13_news_mining_energy.md, aw/2026-08-14_news_mining_energy.md, aw/2026-08-15_news_mining_energy.md, aw/2026-08-16_news_mining_energy.md, aw/2026-08-17_news_mining_energy.md, wiki/04 Daily/2026-08-13_Daily_Report.md, wiki/04 Daily/2026-08-14_Daily_Report.md, wiki/04 Daily/2026-08-15_Daily_Report.md, wiki/04 Daily/2026-08-16_Daily_Report.md, wiki/04 Daily/2026-08-17_Daily_Report.md.
+    - **Creados:** 
+aw/2026-08-13_news_mining_energy.md, 
+aw/2026-08-14_news_mining_energy.md, 
+aw/2026-08-15_news_mining_energy.md, 
+aw/2026-08-16_news_mining_energy.md, 
+aw/2026-08-17_news_mining_energy.md, wiki/04 Daily/2026-08-13_Daily_Report.md, wiki/04 Daily/2026-08-14_Daily_Report.md, wiki/04 Daily/2026-08-15_Daily_Report.md, wiki/04 Daily/2026-08-16_Daily_Report.md, wiki/04 Daily/2026-08-17_Daily_Report.md.
     - **Actualizados:** wiki/01 Projects/Distrito Vicuña.md, wiki/01 Projects/Vaca Muerta.md, wiki/01 Projects/Cobre.md, wiki/01 Projects/Litio.md, wiki/01 Projects/Neuquén.md, wiki/01 Projects/Palermo Aike.md, wiki/02 Frameworks/RIGI.md, wiki/03 Analysis/Oportunidades y Conexiones.md, log.md.
 - **Consolidación Git & Saneamiento:** Integración en rama main, sincronización con remoto (git push origin main) y eliminación de ramas remotas efímeras (energon-daily-..., jules-..., 	ask-real-daily-..., setup-obsidian-...).
 
@@ -439,10 +475,12 @@
 - **Ingesta:** Registrados 23 reportes previos de Jules (del 2026-04-03 al 2026-04-26) ya procesados en la Wiki.
 
  # #   [ 2 0 2 6 - 0 8 - 1 2 ]   s y n c   |   P r o c e s a d o s   r e p o r t e s   r a w   d e   J u l e s   ( 0 9   a l   1 2   d e   A g o s t o )   s i n   c o n s o l i d a c i � n   g i t 
- -   A c t u a l i z a c i o n e s   e n   R I G I ,   V a c a   M u e r t a ,   L i t i o   y   D i s t r i t o   V i c u � a .  
+ -   A c t u a l i z a c i o n e s   e n   R I G I ,   V a c a   M u e r t a ,   L i t i o   y   D i s t r i t o   V i c u � a . 
+ 
  
  # #   [ 2 0 2 6 - 0 8 - 1 2 ]   f e a t   |   C r e a d o   d o c u m e n t o   � n d i c e   0 0 _ I n d e x _ T e c h _ L e a d _ O p p s . m d   e n   0 5   T e c h   L e a d   O p p s   c o n   l a   m a t r i z   i n t e g r a l   d e   1 3   o p o r t u n i d a d e s   c l a s i f i c a d a s   p o r   v e c t o r e s   i n d u s t r i a l e s 
- -   A c t u a l i z a d o   i n d e x . m d   c o n   t o d o s   l o s   e n l a c e s   d e   l a   s e c c i � n   0 5 .  
+ -   A c t u a l i z a d o   i n d e x . m d   c o n   t o d o s   l o s   e n l a c e s   d e   l a   s e c c i � n   0 5 . 
+ 
  
 ## [2026-08-12] sync | Consolidacion Supplier Day 2026 — Cadena de Valor Vaca Muerta
 - **Fuente:** `raw/Supplier_day_2026_Econojournal.md` (EconoJournal, 11 de agosto de 2026).

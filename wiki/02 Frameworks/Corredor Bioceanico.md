@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy, infrastructure, logistics, belgrano-cargas]
-sources: [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-05-10_news_mining_energy.md]], [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-06-29_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]]
+sources: [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-05-10_news_mining_energy.md]], [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-06-29_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-05
+last_update: 2026-09-13
 ---
 
 # Corredor Bioceánico de Capricornio (CBC)
@@ -28,6 +28,7 @@ last_update: 2026-09-05
 - **Ferrocarril Belgrano Cargas (Ramal C-14 / Puna):**
   - El sector minero de Salta, Jujuy y Catamarca elevó su presión sobre el Gobierno nacional ante la inminente **privatización / concesión integral del Belgrano Cargas**.
   - El ferrocarril es la pieza indispensable para evitar el colapso vial de la RN 51, permitiendo bajar hasta un 35% el costo logístico de insumos a granel (soda ash, cales, ácido sulfúrico) y concentrados hacia los puertos de Antofagasta y Mejillones.
+- **Iniciativa Privada de Megatúnel Ferroviario (US$ 9.600 Millones):** En septiembre de 2026, un consorcio privado formalizó estudios ambientales y diseño de base para un túnel ferroviario trasandino que perfore la cordillera, rivalizando con la visión chilena concentrada exclusivamente en la infraestructura vial.
 
 ---
 
@@ -42,6 +43,7 @@ last_update: 2026-09-05
 1. **El "Apagón Digital" Andino ([[Sat-Edge_Bioceanico]]):** Zona ciega de 130 km sin conectividad celular tras la frontera chilena; necesidad de tokens criptográficos offline para el MIC/DTA.
 2. **Conflicto Social y Convenio Camioneros ([[AndesLogistics_Puna_Logistica]]):** Tensiones por monitoreo telemático en cabina y exigencias de descanso en alta montaña.
 3. **Fricción Regulatoria REPEM vs. RIGI:** Restricciones al transporte interprovincial de insumos mineros por exigencias de compre local.
+4. **Desfasaje Temporal del Megatúnel vs. Belgrano Cargas ([[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]):** La promesa a 15 años de un túnel férreo de US$ 9.600M no resuelve la saturación vial inmediata; el foco excluyente debe ser la privatización del Belgrano Cargas y el material rodante propio.
 
 ---
 
@@ -55,3 +57,4 @@ last_update: 2026-09-05
 - [[General Güemes]]
 - [[Sat-Edge_Bioceanico]]
 - [[AndesLogistics_Puna_Logistica]]
+- [[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]

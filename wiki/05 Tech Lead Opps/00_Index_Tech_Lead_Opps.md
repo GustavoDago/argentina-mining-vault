@@ -3,7 +3,7 @@ type: index
 tags: [tech-lead, business-opportunities, index, mining, energy, vaca-muerta, litio, cobre]
 sources: [[GEMINI.md]]
 confidence: high
-last_update: 2026-09-05
+last_update: 2026-09-13
 ---
 
 # Catálogo Integral de Oportunidades Tecnológicas (Tech Lead Opps)
@@ -73,6 +73,13 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Riesgo Crítico:** Volatilidad de licencia social y política minera en Mendoza.
 * **Apalancamiento RIGI:** Encauzamiento de PyMEs locales en el esquema de compre local de proyectos mineros.
 * **Próximo Movimiento:** Mapear oferta industrial reconvertible en el parque industrial de Malargüe.
+
+### [[Compliance_Compre_Local_8020_SaaS]] - SaaS de Compliance Laboral y Compre Local (80/20 & REPEM) ⭐ NUEVO
+* **Resumen del Play:** Plataforma RegTech SaaS de auditoría y certificación continua de nóminas de personal y compras locales en tiempo real para proyectos mineros y energéticos, previniendo clausuras administrativas y suspensión de faenas por leyes provinciales de compre local (como el caso testigo de [[Calcatreu]] en Río Negro y el 70% del REPEM en Catamarca).
+* **Tech Stack:** Integración API ERP (SAP/Workday), Verificación cruzada AFIP/ARCA y padrones provinciales, Semáforo algorítmico de riesgo regulatorio.
+* **Riesgo Crítico:** Complejidad en la integración de datos de subcontratistas informales Tier 3.
+* **Apalancamiento RIGI:** Protege las inversiones RIGI contra multas y paralizaciones por poder de policía provincial.
+* **Próximo Movimiento:** Presentar prototipo de semáforo a cámaras mineras provinciales (CMS, CAEM) y operadoras de litio en Catamarca.
 
 ---
 
@@ -150,6 +157,7 @@ graph TD
     Puna --> HydroTrust[[HydroTrust Puna]]
     Puna --> VPP[[VPP San Juan]]
     Puna --> OffGrid[[OffGrid Mendoza]]
+    Puna --> Comp8020[[Compliance 80/20 & REPEM]]
 
     Log --> AndesLog[[AndesLogistics]]
     Log --> TIR[[Middleware eTIR]]

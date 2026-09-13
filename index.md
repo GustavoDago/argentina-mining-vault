@@ -1,4 +1,4 @@
-﻿# Argentina Mining & Energy Vault - Index
+# Argentina Mining & Energy Vault - Index
 
 ## 01 Projects
 - [[Agua Rica]]
@@ -98,6 +98,7 @@
 - [[2026-04-05_Evaluacion_Oportunidades_Tech]]
 - [[2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza]]
 - [[AndesLogistics_Puna_Logistica]]
+- [[Compliance_Compre_Local_8020_SaaS]]
 - [[HydroTrust_Puna_Hidrico]]
 - [[IA_Agentes_Proveedores_OilGas_VacaMuerta]]
 - [[Marketplace_Tier2_VacaMuerta]]
@@ -124,6 +125,7 @@
 
 ## 07 Analisis Esceptico
 - [[Esceptico_Aprobacion_RIGI_Res484]]
+- [[Esceptico_Calcatreu_Licencia_Social_REPEM]]
 - [[Esceptico_Choque_Vicuña_Azules]]
 - [[Esceptico_ENRE_Prioridad_Despacho]]
 - [[Esceptico_ENRGE_Acefalo]]
@@ -133,6 +135,7 @@
 - [[Esceptico_Litio_Argentina_Chile]]
 - [[Esceptico_LLL_Oil_YPF]]
 - [[Esceptico_Marketplace_Tier2_VacaMuerta]]
+- [[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]
 - [[Esceptico_MesaLitio_Regalias]]
 - [[Esceptico_Middleware_eTIR_Bioceanico]]
 - [[Esceptico_Sat-Edge_Bioceanico]]
@@ -159,6 +162,12 @@
 - [[PreMortem_VPP_SanJuan]]
 
 ## 04 Daily
+- [[2026-09-13_Daily_Report]]
+- [[2026-09-11_Daily_Report]]
+- [[2026-09-10_Daily_Report]]
+- [[2026-09-09_Daily_Report]]
+- [[2026-09-08_Daily_Report]]
+- [[2026-09-07_Daily_Report]]
 - [[2026-09-05_Daily_Report]]
 - [[2026-09-04_Daily_Report]]
 - [[2026-09-03_Daily_Report]]

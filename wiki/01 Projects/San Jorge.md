@@ -1,9 +1,9 @@
-﻿---
+---
 type: project
 tags: [mining, copper, rigi, mendoza]
-sources: [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]]
+sources: [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-05
+last_update: 2026-09-13
 ---
 
 # Proyecto San Jorge (PSJ Cobre Mendocino)
@@ -22,6 +22,7 @@ San Jorge es un yacimiento de pórfido de cobre y oro que históricamente enfren
 
 ## 2. Hitos Recientes (2026)
 - **Aprobación Formal bajo el RIGI (01/09/2026):** El Gobierno nacional oficializó la incorporación de PSJ Cobre Mendocino al esquema de beneficios fiscales, aduaneros y cambiarios del [[RIGI]], con una inversión comprometida de **US$ 891 millones**.
+- **Licitación de Ingeniería de Detalle (08/09/2026):** Tras asegurar el paraguas RIGI, la operadora inició formalmente la licitación de los estudios de ingeniería de detalle previos al movimiento de tierras.
 - **Desbloqueo de la Minería Mendocina:** Constituye el hito minero más significativo de Mendoza en más de una década, abriendo la puerta a la reactivación de proyectos metalíferos en el marco de la "Mesa del Cobre".
 - **Cronograma:** Se estima el inicio de construcción hacia 2027 y entrada en producción comercial para 2029.
 
