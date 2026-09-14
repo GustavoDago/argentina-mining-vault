@@ -21,6 +21,10 @@
 ## Infraestructura Energética Estratégica:
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
+## Avances Estructurales (Septiembre 2026)
+- **Túnel Ferroviario Trasandino:** Un consorcio privado propuso una inversión de **US$ 9.600 millones** para la construcción de un túnel ferroviario a través de los Andes. Simultáneamente, Chile avanza con una propuesta complementaria de corredor vial.
+- **Privatización del Belgrano Cargas:** El sostenido aumento de la producción de litio en el NOA ha generado una fuerte dependencia logística de la futura privatización y modernización del ferrocarril Belgrano Cargas para asegurar las rutas de exportación.
+
 ## Desafíos Logísticos y de Infraestructura:
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.

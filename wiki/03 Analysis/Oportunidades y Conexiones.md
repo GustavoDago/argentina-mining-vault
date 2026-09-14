@@ -47,6 +47,8 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Fricción Normativa (RIGI vs REPEM)**:
+    - La creciente tensión en el NOA entre los beneficios aduaneros nacionales del RIGI y las leyes provinciales de compre local (REPEM, regla 80/20) genera un mercado urgente para **consultoría legal y de compliance cruzado** para evitar paralizaciones de proyectos (ej. Calcatreu).
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -67,6 +69,9 @@ graph TD
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
+    RIGI --> |US$ 891M| SanJorge
+    RIGI --> |US$ 709M| LIEX3Q[Tres Quebradas 3Q]
+    RIGI --> |US$ 51.000M| YPFGNL[YPF GNL]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
@@ -80,6 +85,7 @@ graph TD
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Ducto Completado| VMOS[Vaca Muerta Oil Sur]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
@@ -91,6 +97,7 @@ graph TD
 
     Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
+    Litio --> |Exportación Salta| Ganfeng[Ganfeng Lithium]
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
     Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
@@ -118,7 +125,11 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    SJ --> |Escasez Logística| ChoferesAltaMontana[Choferes Alta Montaña]
+    LosAzules --> ChoferesAltaMontana
+    Josemaria --> ChoferesAltaMontana
+    ChoferesAltaMontana --> |Cuello de Botella| Cobre
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares y el rebase de los **US$ 100.000 millones** bajo el RIGI. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. Los principales riesgos identificados son la **fricción normativa local** (como la regla 80/20 de contratación que amenaza la licencia social) y los **cuellos de botella logísticos**, evidenciados por la escasez crítica de choferes para alta montaña y la dependencia de nuevas infraestructuras como el VMOS o la modernización del Belgrano Cargas.
