@@ -1,3 +1,11 @@
+---
+type: framework
+tags: [regulatory, logistics, mining, energy]
+sources: [[2026-09-16_news_mining_energy.md]]
+confidence: high
+last_update: 2026-09-16
+---
+
 # Corredor Bioceánico de Capricornio (CBC)
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
@@ -22,6 +30,8 @@
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
+- **Túnel Transandino (Septiembre 2026):** Formalización de una propuesta de iniciativa privada por **US$ 9.600 millones** para la construcción de un túnel ferroviario a través de los Andes.
+- **Belgrano Cargas (Septiembre 2026):** La logística del litio y del cobre desde el NOA hacia los puertos depende cada vez más del avance en la privatización y modernización del sistema ferroviario Belgrano Cargas.
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.
