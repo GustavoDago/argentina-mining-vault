@@ -22,6 +22,8 @@
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
+- **Túnel Ferroviario Transandino (17/09/2026):** El sector minero evalúa una propuesta privada de US$ 9.600 millones para construir un túnel ferroviario que conecte Argentina y Chile, impulsando la exportación de cobre y litio hacia el Pacífico.
+- **Privatización del Belgrano Cargas (17/09/2026):** Alta dependencia del sector minero del NOA respecto al inminente proceso de privatización ferroviaria, esencial para asegurar el flujo logístico de litio hacia los puertos del Atlántico y conectividad bioceánica.
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.

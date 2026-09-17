@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Tensión Normativa y Licencia Social (RIGI vs REPEM vs 80/20)**:
+    - La fricción en el NOA (Salta, Jujuy, Catamarca) entre el marco nacional RIGI y las leyes provinciales (como REPEM o la 80/20 en Río Negro que frenó Calcatreu) expone un riesgo inminente de judicialización laboral y paralización de obras si no se unifican criterios para la contratación local de proveedores y mano de obra.
+21. **Logística Transandina y Ferrocarriles (Septiembre 2026)**:
+    - El cuello de botella por la escasez de choferes en San Juan y la saturación vial en el NOA fuerzan el avance de soluciones estructurales como el túnel transandino de US$ 9.600M y aumentan la presión minera por el éxito en la privatización del Belgrano Cargas.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -107,6 +111,11 @@ graph TD
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Chile --> |Proyecto Túnel Ferroviario US$ 9.6B| Cobre
+    BelgranoCargas[Privatización Belgrano Cargas] --> |Dependencia Logística NOA| Litio
+
+    FriccionLaboral[RIGI vs REPEM] --> |Riesgo Licencia Social| Litio
+    FriccionLaboral --> |Freno Calcatreu| Mineria
 
     Eval --> |Espera desde 2024| Posco
 
@@ -121,4 +130,4 @@ graph TD
 ```
 
 ## Conclusiones
-La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía.
+La "economía a dos velocidades" se profundiza con la seguridad jurídica aportada por la reforma de la Ley de Glaciares. Mientras el mundo observa el hallazgo en EE.UU., Argentina acelera su fase comercial (Rio Tinto/Rincón) y expande su frontera minera con la incorporación de Mendoza a la Mesa del Cobre. El principal riesgo identificado es la **infraestructura eléctrica**, donde la competencia por la capacidad instalada (ENRE) puede ralentizar proyectos críticos si no se atraen inversiones específicas en transporte de energía. A esto se le suma un creciente **riesgo logístico y laboral**, evidenciado por la escasez de choferes en San Juan y el choque normativo (RIGI vs leyes provinciales de empleo local), lo que subraya la necesidad de un abordaje integral de la licencia social y el desarrollo de proveedores.
