@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas, neuquen, rigi, vaca-muerta]
-sources: [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]]
+sources: [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-05
+last_update: 2026-09-17
 ---
 
 # Provincia de Neuquén
@@ -38,3 +38,5 @@ Neuquén es el epicentro productivo de [[Vaca Muerta]] y la principal generadora
 - [[RIGI]]
 - [[VMOS]]
 - [[Tecpetrol]]
+- [[Continental Resources]]
+- [[Phoenix Global Resources]]

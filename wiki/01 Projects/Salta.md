@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium, copper, salta, rigi]
-sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]]
+sources: [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-13
+last_update: 2026-09-17
 ---
 
 # Provincia de Salta
@@ -42,4 +42,5 @@ Nodo central del [[Corredor Bioceanico]] mediante el nodo logístico de General 
 - [[RIGI]]
 - [[Taca Taca]]
 - [[Rincón]]
+- [[Ganfeng Lithium]]
 - [[Corredor Bioceanico]]

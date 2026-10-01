@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium, catamarca, rigi, repem]
-sources: [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]]
+sources: [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-13
+last_update: 2026-09-17
 ---
 
 # Provincia de Catamarca

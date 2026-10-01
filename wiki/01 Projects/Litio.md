@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium, rigi, noa, catamarca, salta, jujuy]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-19_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-19_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-13
+last_update: 2026-09-17
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -59,3 +59,5 @@ last_update: 2026-09-13
 - [[Jujuy]]
 - [[Corredor Bioceanico]]
 - [[Economía Circular]]
+- [[Ganfeng Lithium]]
+- [[Calcatreu]]

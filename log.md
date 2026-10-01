@@ -1,5 +1,18 @@
 # Log de Operaciones
 
+## [2026-09-30] sync | Ingesta y consolidación de 3 reportes Jules Intel (14, 16 y 17 Sep 2026)
+- **Ingesta Primaria:** Extraídos y armonizados 3 reportes diarios crudos de noticias (`raw/2026-09-14_news_mining_energy.md`, `raw/2026-09-16_news_mining_energy.md`, `raw/2026-09-17_news_mining_energy.md`) y 3 reportes diarios de wiki (`wiki/04 Daily/2026-09-14_Daily_Report.md`, `wiki/04 Daily/2026-09-16_Daily_Report.md`, `wiki/04 Daily/2026-09-17_Daily_Report.md`) provenientes de las ramas remotas de Jules (`energon-daily-2026-09-14-...`, `energon-daily-2026-09-16-...`, `energon-daily-20260917-...`).
+- **Nuevas Entidades y Resolución de Gaps:**
+    - Creado: `wiki/01 Projects/Calcatreu.md`: Proyecto de oro y plata en Río Negro, caso testigo por paralización ante la regla laboral 80/20 y los límites del blindaje RIGI frente a la policía de trabajo provincial.
+    - Creado: `wiki/01 Projects/Continental Resources.md`: Detalle del desembarco del operador independiente estadounidense en Neuquén (oferta por 6 bloques GyP, US$ 4.000M CAPEX) y alianza con Phoenix Global Resources / Mercuria.
+    - Creado: `wiki/01 Projects/Ganfeng Lithium.md`: Consolidación del perfil de la major china en Argentina (Cauchari-Olaroz, Mariana, Pozuelos-Pastos Grandes) y su primera exportación de litio desde Salta.
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/Litio.md`, `wiki/01 Projects/Cobre.md`, `wiki/01 Projects/Vaca Muerta.md`, `wiki/01 Projects/VMOS.md`, `wiki/01 Projects/Tres Quebradas.md`, `wiki/01 Projects/San Jorge.md`, `wiki/01 Projects/Río Negro.md`, `wiki/01 Projects/Neuquén.md`, `wiki/01 Projects/Salta.md`, `wiki/01 Projects/Catamarca.md`.
+    - `wiki/02 Frameworks/RIGI.md`, `wiki/02 Frameworks/Corredor Bioceanico.md`.
+    - `wiki/03 Analysis/Oportunidades y Conexiones.md`.
+    - `index.md`, `wiki/index.md`.
+- **Saneamiento y Control Git:** Depuración de ramas remotas de Jules consolidadas y preservación de la integridad del grafo sin sobreescrituras regresivas.
+
 ## [2026-09-13] sync | Ingesta masiva y consolidación de 6 reportes Jules Intel (07 Sep - 13 Sep 2026)
 - **Ingesta Primaria:** Extraídos, armonizados y consolidados 6 reportes diarios crudos de noticias (
 aw/2026-09-07_news_mining_energy.md a 
