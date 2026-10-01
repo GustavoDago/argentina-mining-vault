@@ -1,19 +1,21 @@
 ---
 type: project
 tags: [mining, lithium, rigi, noa, catamarca, salta, jujuy]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-19_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-19_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-17
+last_update: 2026-09-30
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
-**Contexto:** A septiembre de 2026, Argentina se consolida como el **segundo exportador global de litio**, con **8 proyectos comerciales en operación activa** en el NOA (Jujuy, Salta y Catamarca) y un fuerte paquete de expansiones aprobadas formalmente bajo el [[RIGI]].
+**Contexto:** A fines de septiembre de 2026, Argentina se consolida como potencia exportadora global de litio, con **7 yacimientos comerciales en operación activa** en el NOA y un salto inédito en volúmenes físicos despachados.
 
 ---
 
 ## 1. Métricas de Exportación y Crecimiento (2026)
-- **Desempeño Semestral:** Las exportaciones mineras del NOA crecieron **74,4% interanual**, con la provincia de Salta elevando un **145%** sus despachos mineros impulsados por el litio.
+- **Récord Acumulado (Enero - Agosto 2026):** Las exportaciones de litio alcanzaron **US$ 1.467 millones**, registrando un crecimiento del **190,5% interanual** en divisas y del **56,8% en volumen físico exportado**.
+- **Contexto Minero Global:** Las exportaciones mineras totales del país alcanzaron **US$ 6.059 millones** en los primeros ocho meses de 2026, igualando en solo 8 meses el récord de todo el año 2025.
+- **Desempeño Regional:** Las exportaciones mineras del NOA crecieron **74,4% interanual**, con la provincia de Salta elevando un **145%** sus despachos mineros impulsados por el litio.
 - **Proyección de Producción Anual:** La CAEM proyecta alcanzar **131.800 toneladas de LCE** para finales de 2026 (+77% interanual).
 
 ---
@@ -61,3 +63,4 @@ last_update: 2026-09-17
 - [[Economía Circular]]
 - [[Ganfeng Lithium]]
 - [[Calcatreu]]
+- [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]

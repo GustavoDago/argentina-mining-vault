@@ -1,23 +1,23 @@
 ---
 type: framework
 tags: [regulatory, mining, energy, rigi, peelp]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-11_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-15_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-17_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-19_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-17
+last_update: 2026-09-30
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
-**Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente para capturar la ventana de inversión minera y energética).  
+**Vigencia:** 2024 - **8 de Julio de 2027** (Prórroga formal ratificada por el Poder Ejecutivo).  
 **Objetivo:** Atraer proyectos de inversión superiores a **US$ 200 millones** mediante incentivos fiscales (alícuota reducida de Ganancias al 25%, amortización acelerada), cambiarios (libre disponibilidad progresiva de divisas) y estabilidad normativa y aduanera por 30 años.
 
 ---
 
 ## 1. Tablero de Control y Métricas Consolidadas (Septiembre 2026)
-- **Hito Histórico US$ 100.000 Millones:** Las solicitudes de adhesión y anuncios bajo el amparo de los beneficios del RIGI **superaron formalmente la marca histórica de US$ 100.000 millones** a principios de septiembre de 2026.
-- **Pipeline Global Total (Aprobados + Trámite):** Supera los **US$ 152.000 millones**, impulsado por el expediente récord de **Argentina LNG (US$ 51.000M)** y el ingreso al upstream y midstream no convencional.
-- **Proyectos Aprobados Formalmente:** Más de **20 megaproyectos aprobados oficialmente** por el Comité Evaluador (superando los US$ 38.000 millones en compromisos firmes de CAPEX).
-- **Distribución Geográfica:** Neuquén y Río Negro concentran la mayor masa de capital (>US$ 85.000M), seguidas por San Juan (cobre, >US$ 24.000M), Salta y Catamarca (litio y cobre, >US$ 18.000M) y Mendoza (reapertura cuprífera, US$ 891M).
+- **Cartera Global Consolidada:** Al cierre de septiembre de 2026, la cartera total acumulada bajo el marco del RIGI **superó los US$ 190.000 millones** (sumando proyectos aprobados y expedientes en trámite).
+- **Proyectos Aprobados Formalmente:** **23 proyectos aprobados** por el Comité Evaluador, comprometiendo inversiones firmes por **US$ 49.766 millones**. La minería (cobre y litio) concentra el **62,7%** del monto computable aprobado.
+- **Proyectos en Trámite:** **25 proyectos en evaluación**, con desembolsos proyectados por **US$ 159.713 millones**, donde el sector de petróleo y gas (GNL, VMOS, upstream) representa casi el **80% del volumen**.
+- **Distribución Geográfica:** Neuquén y Río Negro concentran la mayor masa de capital (>US$ 85.000M), seguidas por San Juan (cobre, >US$ 24.000M), Salta y Catamarca (litio y cobre, >US$ 18.000M) y Mendoza (reapertura cuprífera con San Jorge, US$ 891M).
 
 ---
 
@@ -58,6 +58,7 @@ Régimen especial para megaproyectos con impacto sistémico y horizonte de const
 - **RIGI vs. Leyes Provinciales de Compre Local (REPEM / Compre Neuquino):**
   La tensión jurídica de mayor impacto en la operación cotidiana es la discrepancia entre el régimen nacional (libre importación sin aranceles de bienes de capital e insumos con cupo del 20% nacional) y las legislaciones provinciales de compre local (como el 70% obligatorio en Catamarca bajo el REPEM). Esto genera litigios, multas cruzadas y demoras en aduanas interiores.
 - **El Precedente Calcatreu y la Regla 80/20:** La suspensión preventiva de obras en [[Calcatreu]] (Río Negro) por infringir el cupo de mano de obra local confirmó que el RIGI no confiere inmunidad frente a la policía laboral provincial, demandando herramientas de compliance continuo ([[Esceptico_Calcatreu_Licencia_Social_REPEM]] y [[Compliance_Compre_Local_8020_SaaS]]).
+- **Presión de la FAPM y Déficit de Garantías PyME:** La Federación Argentina de Proveedores Mineros y estudios del IAE cuestionaron el lento derrame real de compras hacia firmas locales, impulsando modelos de consorciamiento y garantías sindicadas para competir con proveedores multinacionales ([[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]).
 - **Subastas Inversas y Riesgo Contractual:** La puja a la baja en licitaciones de gasoductos (YPF GNL) reduce el CAPEX en el papel, pero incrementa el riesgo de retrasos y reclamos por sobrecostos si los contratistas ganadores operan con márgenes mínimos.
 
 ---
@@ -73,3 +74,4 @@ Régimen especial para megaproyectos con impacto sistémico y horizonte de const
 - [[Oportunidades y Conexiones]]
 - [[Esceptico_Calcatreu_Licencia_Social_REPEM]]
 - [[Compliance_Compre_Local_8020_SaaS]]
+- [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]

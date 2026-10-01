@@ -1,5 +1,22 @@
 # Log de Operaciones
 
+## [2026-09-30] batch-sync | Ingesta consolidada de inteligencia de mercado (18 al 30 de Septiembre 2026)
+- **Rastreo e Ingesta Primaria:** Compilado el reporte crudo `raw/2026-09-30_batch_news_mining_energy.md` y el reporte analítico `wiki/04 Daily/2026-09-30_Batch_Report.md` cubriendo la ventana del 18 al 30 de septiembre de 2026 a partir de fuentes especializadas (*EconoJournal*, *Vaca Muerta News*, *Panorama Minero*, *Tiempo de San Juan*, *Boletín Oficial*, *CONTRAT.AR*).
+- **Hitos Cuantitativos y Estratégicos:**
+    - **RIGI Cartera US$ 190.000 Millones:** Cartera consolidada alcanza US$ 190.000M (23 aprobados por US$ 49.766M y 25 en evaluación por US$ 159.713M). Prórroga oficial ratificada hasta el 8 de julio de 2027.
+    - **Vaca Muerta & Récord Nacional:** Pico histórico de producción petrolera nacional en agosto con 929.363 bpd (Neuquén 685.316 bpd) y superávit comercial energético acumulado en 8 meses de US$ 7.834 millones.
+    - **Cobre San Juan:** Autorización de línea de extra alta tensión 500 kV/220 kV para Distrito Vicuña ("el beneficiario paga") y cierre de préstamo senior de US$ 240 millones para Los Azules (Société Générale, FID 2027).
+    - **Litio:** Récord de exportaciones acumuladas a agosto por US$ 1.467 millones (+190,5% en divisas interanual; +56,8% en volumen físico).
+    - **Belgrano Cargas:** Publicación oficial de pliego de privatización (Resolución 1350/2026) para concesión por 50 años en modalidad open access (ofertas el 11/11/2026).
+- **Nueva Tesis Tecnológica:**
+    - Creado: `wiki/05 Tech Lead Opps/Fintech_Garantias_y_Sindicacion_Proveedores_Mineros.md`: Plataforma B2B de calificación digital y sindicación de cauciones/seguros para que PyMEs locales califiquen en licitaciones masivas de cobre y litio, respondiendo a la presión de la FAPM y blindando el compre local.
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/Vaca Muerta.md`, `wiki/01 Projects/Distrito Vicuña.md`, `wiki/01 Projects/Los Azules.md`, `wiki/01 Projects/Litio.md`.
+    - `wiki/02 Frameworks/RIGI.md`, `wiki/02 Frameworks/Corredor Bioceanico.md`.
+    - `wiki/03 Analysis/Oportunidades y Conexiones.md`.
+    - `wiki/05 Tech Lead Opps/00_Index_Tech_Lead_Opps.md`.
+    - `index.md`, `wiki/index.md`.
+
 ## [2026-09-30] sync | Ingesta y consolidación de 3 reportes Jules Intel (14, 16 y 17 Sep 2026)
 - **Ingesta Primaria:** Extraídos y armonizados 3 reportes diarios crudos de noticias (`raw/2026-09-14_news_mining_energy.md`, `raw/2026-09-16_news_mining_energy.md`, `raw/2026-09-17_news_mining_energy.md`) y 3 reportes diarios de wiki (`wiki/04 Daily/2026-09-14_Daily_Report.md`, `wiki/04 Daily/2026-09-16_Daily_Report.md`, `wiki/04 Daily/2026-09-17_Daily_Report.md`) provenientes de las ramas remotas de Jules (`energon-daily-2026-09-14-...`, `energon-daily-2026-09-16-...`, `energon-daily-20260917-...`).
 - **Nuevas Entidades y Resolución de Gaps:**

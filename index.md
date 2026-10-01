@@ -102,6 +102,7 @@
 - [[2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza]]
 - [[AndesLogistics_Puna_Logistica]]
 - [[Compliance_Compre_Local_8020_SaaS]]
+- [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]
 - [[HydroTrust_Puna_Hidrico]]
 - [[IA_Agentes_Proveedores_OilGas_VacaMuerta]]
 - [[Marketplace_Tier2_VacaMuerta]]
@@ -165,6 +166,7 @@
 - [[PreMortem_VPP_SanJuan]]
 
 ## 04 Daily
+- [[2026-09-30_Batch_Report]]
 - [[2026-09-17_Daily_Report]]
 - [[2026-09-16_Daily_Report]]
 - [[2026-09-14_Daily_Report]]

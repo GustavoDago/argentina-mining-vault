@@ -3,7 +3,7 @@ type: index
 tags: [tech-lead, business-opportunities, index, mining, energy, vaca-muerta, litio, cobre]
 sources: [[GEMINI.md]]
 confidence: high
-last_update: 2026-09-13
+last_update: 2026-09-30
 ---
 
 # Catálogo Integral de Oportunidades Tecnológicas (Tech Lead Opps)
@@ -74,12 +74,19 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Apalancamiento RIGI:** Encauzamiento de PyMEs locales en el esquema de compre local de proyectos mineros.
 * **Próximo Movimiento:** Mapear oferta industrial reconvertible en el parque industrial de Malargüe.
 
-### [[Compliance_Compre_Local_8020_SaaS]] - SaaS de Compliance Laboral y Compre Local (80/20 & REPEM) ⭐ NUEVO
+### [[Compliance_Compre_Local_8020_SaaS]] - SaaS de Compliance Laboral y Compre Local (80/20 & REPEM)
 * **Resumen del Play:** Plataforma RegTech SaaS de auditoría y certificación continua de nóminas de personal y compras locales en tiempo real para proyectos mineros y energéticos, previniendo clausuras administrativas y suspensión de faenas por leyes provinciales de compre local (como el caso testigo de [[Calcatreu]] en Río Negro y el 70% del REPEM en Catamarca).
 * **Tech Stack:** Integración API ERP (SAP/Workday), Verificación cruzada AFIP/ARCA y padrones provinciales, Semáforo algorítmico de riesgo regulatorio.
 * **Riesgo Crítico:** Complejidad en la integración de datos de subcontratistas informales Tier 3.
 * **Apalancamiento RIGI:** Protege las inversiones RIGI contra multas y paralizaciones por poder de policía provincial.
 * **Próximo Movimiento:** Presentar prototipo de semáforo a cámaras mineras provinciales (CMS, CAEM) y operadoras de litio en Catamarca.
+
+### [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]] - Fintech de Garantías y Sindicación de Oferta PyME ⭐ NUEVO
+* **Resumen del Play:** Plataforma Fintech B2B de scoring crediticio digital, mutualización de balances y emisión algorítmica de pólizas de caución sindicadas para consorcios de proveedores mineros locales en San Juan y el NOA, permitiéndoles calificar para paquetes de licitación masivos en [[Distrito Vicuña]] (US$ 18.000M) y [[Los Azules]] (US$ 3.170M).
+* **Tech Stack:** Scoring API AFIP/ARCA/BCRA, Smart Contracts de waterfall payments, Integración con SGRs y ERPs (SAP Ariba/Coupa).
+* **Riesgo Crítico:** Riesgo de insolvencia en cascada entre contratistas sindicados y límites de capacidad en SGRs locales.
+* **Apalancamiento RIGI:** Facilita a operadoras cumplir con el cupo de desarrollo de proveedores locales exigido por el RIGI sin asumir riesgo crediticio de contraparte.
+* **Próximo Movimiento:** Diseñar PoC de garantías sindicadas por US$ 15M con la Cámara Minera de San Juan (CMSJ).
 
 ---
 
@@ -158,6 +165,7 @@ graph TD
     Puna --> VPP[[VPP San Juan]]
     Puna --> OffGrid[[OffGrid Mendoza]]
     Puna --> Comp8020[[Compliance 80/20 & REPEM]]
+    Puna --> FintechGarantias[[Fintech Garantías PyME]]
 
     Log --> AndesLog[[AndesLogistics]]
     Log --> TIR[[Middleware eTIR]]

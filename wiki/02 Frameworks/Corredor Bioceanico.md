@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy, infrastructure, logistics, belgrano-cargas]
-sources: [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-05-10_news_mining_energy.md]], [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-06-29_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
+sources: [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-05-10_news_mining_energy.md]], [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-06-29_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-17
+last_update: 2026-09-30
 ---
 
 # Corredor Bioceánico de Capricornio (CBC)
@@ -25,9 +25,10 @@ last_update: 2026-09-17
   - El **Bypass de Campo Quijano** (interconexión RN 51 y RP 24) avanza superando el 75%, desviando el tránsito pesado minero fuera de los cascos urbanos del Valle de Lerma.
 - **Paso de Jama (Jujuy):**
   - Paso terrestre de mayor confiabilidad operativa (abierto ~330 días/año frente a los cierres climáticos frecuentes del Paso Cristo Redentor).
-- **Ferrocarril Belgrano Cargas (Ramal C-14 / Puna):**
-  - El sector minero de Salta, Jujuy y Catamarca elevó su presión sobre el Gobierno nacional ante la inminente **privatización / concesión integral del Belgrano Cargas**.
-  - El ferrocarril es la pieza indispensable para evitar el colapso vial de la RN 51, permitiendo bajar hasta un 35% el costo logístico de insumos a granel (soda ash, cales, ácido sulfúrico) y concentrados hacia los puertos de Antofagasta y Mejillones.
+- **Ferrocarril Belgrano Cargas (Licitación Resolución 1350/2026):**
+  - El Gobierno Nacional formalizó el llamado a **Licitación Pública Nacional e Internacional** para concesionar por **50 años** la infraestructura y operación de las líneas Belgrano, San Martín y Urquiza bajo el modelo de acceso abierto (*open access*).
+  - **Cronograma de Apertura:** Pliegos disponibles en CONTRAT.AR; consultas permitidas hasta el **28 de octubre de 2026** y recepción de ofertas técnicas/económicas el **11 de noviembre de 2026**.
+  - **Cláusulas Operativas:** Los concesionarios e inversores en material rodante podrán acogerse a los beneficios del [[RIGI]], con cláusula de salvaguarda que restringe el control directo de Estados extranjeros. El Ramal C-14 es la pieza indispensable para evitar el colapso vial de la RN 51 y abaratar hasta 35% el flete de soda ash y litio hacia los puertos de Antofagasta y Mejillones.
 - **Iniciativa Privada de Megatúnel Ferroviario (US$ 9.600 Millones):** En septiembre de 2026, un consorcio privado formalizó estudios ambientales y diseño de base para un túnel ferroviario trasandino que perfore la cordillera, rivalizando con la visión chilena concentrada exclusivamente en la infraestructura vial.
 
 ---
