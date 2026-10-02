@@ -3,7 +3,7 @@ type: index
 tags: [tech-lead, business-opportunities, index, mining, energy, vaca-muerta, litio, cobre]
 sources: [[GEMINI.md]]
 confidence: high
-last_update: 2026-09-30
+last_update: 2026-10-02
 ---
 
 # Catálogo Integral de Oportunidades Tecnológicas (Tech Lead Opps)
@@ -147,6 +147,50 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 
 ---
 
+## 5. Vector Nuevos Frentes (Oct 2026) — Sin cobertura previa
+
+### [[BelgranoTech_OpenAccess_SaaS]] - SaaS de Optimización Ferroviaria Open Access ⭐ NUEVO
+* **Resumen del Play:** Plataforma SaaS B2B de gestión de slots, routing multimodal y trazabilidad de cadena de custodia para el Belgrano Cargas bajo su nuevo régimen de concesión open access (Res. 1350/2026, licitación noviembre 2026). El NOA litífero (7 proyectos en operación + 12 bajo RIGI) depende críticamente de este ferrocarril para su logística de exportación.
+* **Tech Stack:** Algoritmo slot-allocation (MIP/CP-SAT), GIS ferroviario, API AFIP/ARCA, TAF-TSI adaptation, integración SAP Ariba/Coupa.
+* **Riesgo Crítico:** El modelo open access es inédito en Argentina. El concesionario puede resistir la digitalización del acceso de terceros para preservar poder de mercado.
+* **Apalancamiento RIGI:** Proyectos RIGI tienen prioridad de despacho implícita → el software que la certifique es obligatorio.
+* **Urgencia:** 🔴 MUY ALTA — Consultas al pliego cierran el 28/oct/2026.
+* **Próximo Movimiento:** Analizar pliego y presentar PoC a CAEM/FAPM en el período de consultas.
+
+### [[MicroGrid_Cordillera_BESSaaS]] - BESS-as-a-Service para Proyectos 100% Off-Grid en la Puna ⭐ NUEVO
+* **Resumen del Play:** Plataforma de Gestión Energética + Energy-as-a-Service (EaaS) con BESS + solar + backup GNL para proyectos mineros en la Puna y cordillera de Salta/Catamarca sin acceso al SADI. Informe Aggreko (jul/26): ahorro potencial de 40% de OPEX en diésel. Demanda eléctrica minera proyecta +428% hacia 2034 (OLACDE). Distinguir de [[VPP_Mineria_San_Juan]] que opera en red conectada.
+* **Tech Stack:** EMS con ML solar en alta montaña, SCADA Modbus/IEC 61850, Unit Commitment optimization, BMS integration, certificados RECs.
+* **Riesgo Crítico:** Alto CAPEX de BESS (~US$ 108/kWh). Requiere deuda de largo plazo con BID/CAF como garante multilateral.
+* **Apalancamiento RIGI/RIMI:** RIMI exime BESS de montos mínimos del RIGI, habilitando proveedores de escala media.
+* **Urgencia:** 🔴 MUY ALTA — 7 proyectos salmueras operativos con diésel son el cliente inmediato.
+* **Próximo Movimiento:** Presentar modelo EaaS a Aggreko + CAF/BID y contactar proyectos de salmueras operativos en Catamarca/Salta.
+
+### [[Stargate_Infra_Services]] - Stack Tech para Data Centers de IA en Patagonia ⭐ NUEVO
+* **Resumen del Play:** Suite de servicios tecnológicos B2B para el ecosistema de data centers de IA en la Patagonia: (A) PPA Brokering Platform para contratos 10-15 años a precio fijo en USD entre data centers y generadores de gas de Vaca Muerta, (B) Patagonia Free-Cooling SaaS para reducir OPEX de enfriamiento 15-25%, (C) Grid Resiliency Layer para garantizar uptime ≥ 99,99% con monitoreo 500kV.
+* **Tech Stack:** API CAMMESA, modelos meteorológicos WRF/ERA5 para Patagonia, programación lineal estocástica, Smart Contracts PPA.
+* **Riesgo Crítico:** Stargate Argentina aún en evaluación RIGI — riesgo de postergación. Mitigación: módulos modulares útiles también para data centers medianos.
+* **Apalancamiento RIGI:** Stargate presentado como PEELP bajo RIGI (US$ 25.000M) → demanda 500 MW de energía firme.
+* **Urgencia:** 🟠 ALTA.
+* **Próximo Movimiento:** Analizar pliego RIGI de Stargate cuando esté disponible. Contactar Sur Energy para Módulo A.
+
+### [[WaterLoop_VacaMuerta]] - SaaS de Trazabilidad y Reuso de Agua de Flowback ⭐ NUEVO
+* **Resumen del Play:** SaaS B2B de gestión integral del ciclo del agua de producción en Vaca Muerta: Digital Water Twin del yacimiento, IoT de calidad de agua (ATEX) para certificar reutilización en fractura, y gestión automatizada de permisos hídricos (Ley 25.688 / AIC). Con récord de producción de 929K bpd, el volumen de agua de producción supera 3-5M m³/día. Distinguir de [[Marketplace_y_Trazabilidad_de_Pasivos_Circulares]] que apunta a minería.
+* **Tech Stack:** IoT ATEX (LoRaWAN), SCADA Modbus/OPC-UA, Digital Twin (MODFLOW/Ansys Fluent), ML para parámetros de calidad, API AIC.
+* **Riesgo Crítico:** Asociación documentada de reinyección con microsismos en Vaca Muerta (El Trapial/Chevron, agosto 2026). El software debe gestionar este riesgo desde el diseño.
+* **Apalancamiento RIGI:** Certificación de reutilización de agua para reporte ASG/ESG de operadoras en proyectos RIGI.
+* **Urgencia:** 🟠 ALTA.
+* **Próximo Movimiento:** Contactar SIAM (Martín Gessler) para desarrollo conjunto. Presentar prototipo a YPF (Walter Actis).
+
+### [[GeoIntel_Andino_Platform]] - Plataforma de Due Diligence Geológico y Alertas M&A ⭐ NUEVO
+* **Resumen del Play:** SaaS de inteligencia geológica para inversores en el corredor andino: Drill Data Aggregator (NLP sobre NI 43-101/ASX), Resource Estimation Assistant (Kriging + ML sobre datos públicos), y M&A Signal Alerts (aggregación SEDAR+/ASX/Boletín Oficial para detectar posicionamientos de majors). Gatillo: Lunahuasi (37% CuEq en 8m), Rio Tinto en Mogotes/Filo Sur, First Quantum vendiendo participaciones en Taca Taca.
+* **Tech Stack:** NLP/LLM fine-tuned en NI 43-101, PyGS Kriging, SEDAR+/ASX API, Boletín Oficial RIGI scraper.
+* **Riesgo Crítico:** Confidencialidad de datos de perforación. El play funciona sobre datos públicos; la capa propietaria es premium.
+* **Apalancamiento RIGI:** El boom de aprobaciones RIGI genera necesidad masiva de due diligence técnico rápido.
+* **Urgencia:** 🟡 MEDIA.
+* **Próximo Movimiento:** MVP del Módulo de Alertas M&A con SEDAR+. Validar con fondo de royalties (Franco-Nevada/Wheaton).
+
+---
+
 ## Resumen de Cobertura y Matriz de Impacto
 
 ```mermaid
@@ -175,7 +219,14 @@ graph TD
     Circ --> Pasivos[[Pasivos Circulares]]
     Circ --> Geo[[Geotermia Pozos]]
     Circ --> EvalTech[[Evaluación Escéptica]]
+
+    Sub --> NuevosF["Vector Nuevos Frentes (Oct 2026)"]
+    NuevosF --> Belgrano[[BelgranoTech Open Access]]
+    NuevosF --> MicroGrid[[MicroGrid Cordillera BESSaaS]]
+    NuevosF --> Stargate[[Stargate Infra Services]]
+    NuevosF --> Water[[WaterLoop VacaMuerta]]
+    NuevosF --> GeoIntel[[GeoIntel Andino Platform]]
 ```
 
 ---
-**Backlinks:** [[GEMINI.md]], [[Oportunidades y Conexiones]], [[Vaca Muerta]], [[RIGI]], [[Litio]], [[Cobre]].
+**Backlinks:** [[GEMINI.md]], [[Oportunidades y Conexiones]], [[Vaca Muerta]], [[RIGI]], [[Litio]], [[Cobre]], [[Stargate Argentina]], [[Belgrano Cargas]], [[Lunahuasi]], [[Distrito Vicuña]], [[Taca Taca]].
