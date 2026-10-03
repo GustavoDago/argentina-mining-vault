@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-03
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -12,6 +12,10 @@ last_update: 2026-04-27
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.
+
+### Hitos Recientes (Octubre 2026)
+- **Aprobación RIGI - LIEX 3Q:** LIEX S.A. obtuvo la aprobación RIGI para su proyecto Tres Quebradas (3Q) en Catamarca, comprometiendo US$ 709 millones para expandir capacidad a 40.000 toneladas anuales.
+- **Exportación Ganfeng:** Ganfeng Lithium concretó su primera exportación de litio desde la provincia de Salta, reforzando la capacidad productiva del NOA.
 
 ### Estadísticas de Exportación (Enero 2026)
 - **Récord Mensual:** Exportaciones por **US$ 96 millones**, un incremento interanual del **74,5%**. Es el máximo histórico para un mes de enero.
@@ -45,6 +49,8 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
+- **Fricción Regulatoria (RIGI vs. REPEM) (Octubre 2026):** Aumenta la tensión en el NOA por el choque entre beneficios de importación del RIGI nacional y las obligaciones de contratación local de la ley provincial REPEM.
+- **Freno por Licencia Social (Octubre 2026):** El proyecto Calcatreu (oro/plata, Río Negro) fue paralizado por incumplir la regla de contratación del 80% de mano de obra local, sirviendo como advertencia para la minería de litio.
 
 ## Mercados y Precios
 - **Repunte de Precios (15/04/2026):** El carbonato de litio superó los **US$ 20.000 por tonelada**, duplicando los valores de octubre de 2025. El alza está impulsada por la demanda de sistemas BESS en China.

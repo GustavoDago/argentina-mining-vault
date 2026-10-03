@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-03
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -32,11 +32,13 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
+- **Cuello de Botella Logístico (Octubre 2026):** Escasez crítica de choferes de camiones de alta montaña capacitados en San Juan, convirtiéndose en un riesgo operativo para el inicio de construcción de Los Azules y Josemaría.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
+- **Avance de Exploración (Octubre 2026):** Avanzan las campañas asegurando recursos hídricos vitales, trazando rutas de acceso y proyectando líneas de alta tensión esenciales para la construcción.
 
 ### 4. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
@@ -50,6 +52,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
+- **Aprobación San Jorge RIGI (Octubre 2026):** El gobierno aprobó oficialmente el ingreso de San Jorge (Mendoza) al RIGI, con una inversión comprometida de US$ 891 millones.
 
 ## Conexiones
 - [[RIGI]]
