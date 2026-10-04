@@ -22,6 +22,7 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 1. [[Rincón]] (Rio Tinto, Salta)
 - **Hito de Exportación y Financiamiento (20/04/2026):** Se ratificó el financiamiento de **US$ 1.175 millones** y la primera exportación exitosa de 200 toneladas a China.
+- **Exportación Salta (04/10/2026):** Ganfeng Lithium completó la primera exportación de litio desde la provincia de Salta.
 - **Apoyo Regional (Abril 2026):** Reunión de la cúpula global de Rio Tinto con los gobernadores de la Mesa del Litio (Salta, Catamarca, Jujuy) para ratificar inversiones por US$ 2.500 millones.
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
@@ -39,7 +40,11 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
+### 5. Tres Quebradas (LIEX S.A., Catamarca)
+- **Aprobación RIGI (04/10/2026):** Aseguró su aprobación en el RIGI para una inversión de US$ 709 millones, apuntando a producir 40.000 t/año.
+
 ## La Mesa del Litio y Política Regional
+- **Fricción RIGI vs REPEM (04/10/2026):** Crecen las tensiones en el NOA entre los beneficios nacionales de importación (RIGI) y la ley provincial REPEM, que exige un 80% de contratación local.
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.

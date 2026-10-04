@@ -10,7 +10,11 @@ last_update: 2026-04-17
 
 Salta se destaca por su seguridad jurídica y su potencial diversificado en **litio** y **cobre**. En 2026, la minería se consolidó como el principal motor exportador de la provincia.
 
-## Hitos Recientes (Abril 2026)
+## Hitos Recientes (Octubre 2026)
+- **Exportación Histórica Litio (04/10/2026):** Ganfeng Lithium completó la primera exportación de litio desde la provincia.
+- **Taca Taca Exploración (04/10/2026):** Avanzan las campañas de exploración del proyecto para asegurar recursos hídricos y eléctricos.
+
+## Hitos Históricos (Abril 2026)
 - **Complejo Exportador Líder (16/04/2026):** La minería se consolidó como el principal complejo exportador de Salta, representando más de la mitad de las ventas externas en el primer bimestre de 2026, con un crecimiento interanual del 70%.
 - **Liderazgo en Litio (17/04/2026):** El Reporte Nacional 2026 ratificó a Salta como la provincia con la mayor cartera de proyectos de litio (14 desarrollos) y el mayor volumen de recursos medidos e indicados en la Puna.
 - **Taca Taca (15/04/2026):** Presentación del reporte NI 43-101 y preparación para la adhesión al [[RIGI]] del megaproyecto de cobre de First Quantum.

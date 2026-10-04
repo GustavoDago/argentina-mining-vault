@@ -25,5 +25,8 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - [[Distrito Vicuña]] (Hub Binacional)
 - [[Lunahuasi]] (Cobre de Alta Ley)
 
+## Desafíos Logísticos (Octubre 2026)
+- **Escasez de Conductores (04/10/2026):** La provincia reporta una escasez crítica de conductores profesionales para camiones de alta montaña, amenazando con ralentizar la logística de megaproyectos en construcción (Los Azules, Josemaría).
+
 ## Relevancia Estratégica
 Es pionera en la adhesión al [[RIGI]] y ha desarrollado un ecosistema de proveedores locales altamente especializado.

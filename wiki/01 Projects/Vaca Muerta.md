@@ -20,7 +20,11 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Contraste Convencional:** Retroceso del **7,8%**, evidenciando la transición estructural hacia el no convencional.
 - **Gas Natural:** Caída interanual del **3,3%**.
 
-### Hitos Recientes (Abril 2026)
+### Hitos Recientes (Octubre 2026)
+- **YPF GNL RIGI (04/10/2026):** YPF presentó oficialmente su mega-proyecto "Argentina LNG" bajo el marco del RIGI, con una inversión estimada de US$ 51.000 millones, consolidando el hub exportador en Sierra Grande, Río Negro.
+- **Continental Resources (04/10/2026):** La petrolera estadounidense proyecta una inversión de US$ 4.000 millones tras presentar ofertas por 6 de los 8 bloques licitados en Neuquén.
+
+### Hitos Históricos (Abril 2026)
 - **Análisis RIGI - Vista Energy (27/04/2026):** Miguel Galuccio confirmó que la empresa evalúa la aplicación del [[RIGI]] para bloques clave como Bandurria Norte, Águila Mora y Bajo del Toro.
 - **Planta de Fertilizantes (27/04/2026):** **Pampa Energía** solicitó formalmente el ingreso al [[RIGI]] para su planta de urea en Bahía Blanca (US$ 2.400M), que procesará gas de Vaca Muerta para producir 2,1 millones de toneladas anuales.
 - **Acuerdo Estratégico GNL (22/04/2026):** YPF selló un acuerdo con la italiana **ENI** para la exportación de gas, sumándola como socio clave en el proyecto de licuefacción.
@@ -36,8 +40,8 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
+- **Oleoducto Vaca Muerta Sur (VMOS):** (04/10/2026) Techint-Sacde completó con éxito la construcción terrestre del ducto. En Río Negro ha comenzado la manufactura del ducto offshore en Punta Colorada, asegurando la salida atlántica.
+- **Argentina LNG:** Presentado al RIGI con una inversión de US$ 51.000M. Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción.
 
 ## Conexiones
 - [[RIGI]]

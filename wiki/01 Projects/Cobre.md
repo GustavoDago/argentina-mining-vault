@@ -30,10 +30,12 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
 - **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
+- **Logística (04/10/2026):** La provincia de San Juan reporta escasez crítica de conductores profesionales de alta montaña, ralentizando la logística de los megaproyectos en construcción.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
+- **Exploración (04/10/2026):** Avanzan fuertemente las campañas para asegurar recursos hídricos, trazar rutas y establecer líneas de alta tensión.
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
@@ -48,6 +50,7 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
+- **Mendoza (04/10/2026):** El gobierno nacional aprobó la inclusión del proyecto de cobre PSJ Cobre Mendocino (San Jorge) en el RIGI (inversión de US$ 891 millones), destrabando la parálisis histórica de la provincia en minería metalífera.
 - **PDAC 2026 (27/04/2026):** Interés sin precedentes de las *majors* globales en el cobre argentino, con el "Argentina Day" batiendo récords de asistencia (470 representantes).
 - **Mesa del Cobre:** Integrada por San Juan, Salta, Catamarca y la reciente incorporación de **[[Mendoza]]**. Los gobernadores actúan en bloque para impulsar la infraestructura y el marco normativo nacional.
 

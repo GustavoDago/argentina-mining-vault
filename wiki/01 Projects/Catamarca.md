@@ -10,7 +10,10 @@ last_update: 2026-04-27
 
 Catamarca es el corazón histórico de la minería de litio en Argentina.
 
-## Hitos Recientes (Abril 2026)
+## Hitos Recientes (Octubre 2026)
+- **Tres Quebradas (LIEX S.A.) RIGI (04/10/2026):** El proyecto Tres Quebradas aseguró su aprobación en el RIGI para una inversión de US$ 709 millones, apuntando a producir 40.000 t/año.
+
+## Hitos Históricos (Abril 2026)
 - **Levantamiento de Cautelar Río Los Patos (27/04/2026):** La ratificación judicial sobre la cuenca del Río Los Patos valida los estudios de impacto acumulado del Gobierno, habilitando definitivamente la expansión de Arcadium y Posco en el Salar del Hombre Muerto.
 - **Hombre Muerto Oeste (15/04/2026):** Galan Lithium anunció el inicio del procesamiento de litio para fines de abril, convirtiendo al proyecto en el 8vo en producción en Argentina.
 

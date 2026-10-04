@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Fricciones de "Licencia Social" y Supply Chain Local (Efecto REPEM / 80-20)**:
+    - La paralización del proyecto Calcatreu en Río Negro y la tensión RIGI vs. REPEM en el NOA evidencian un riesgo crítico. La oportunidad es el desarrollo acelerado de **capacitación técnica masiva** y **plataformas de homologación de proveedores locales** para cumplir los cupos provinciales sin comprometer los tiempos del RIGI.
+21. **Logística Crítica (Cobre y Bioceánico)**:
+    - La escasez de choferes de alta montaña en San Juan y la dependencia del túnel de US$ 9.6B respecto al Belgrano Cargas muestran que el cuello de botella argentino pasó de la macroeconomía a la **logística física y el capital humano**.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -70,6 +74,10 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
+    RIGI --> |Hito Octubre| Hito100B[> US$ 100.000M Anunciados]
+    RIGI --> |Aprobado US$ 891M| SanJorge
+    RIGI --> |Presentado US$ 51.000M| YPFLNG[YPF Argentina LNG]
+    RIGI --> |Aprobado US$ 709M| LIEX[Tres Quebradas LIEX]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
 
     VM --> |Modelo Replicado| PA
@@ -98,6 +106,9 @@ graph TD
     Jujuy --> MiniRIGI
     Posco --> |Capacidad| P70[70% Planta Salta]
     Salta[Salta: Complejo Exportador #1] --> Litio
+    Litio --> |Exportación Histórica| Ganfeng[Ganfeng - Salta]
+    Litio -.-> |Conflicto Legal| REPEM[Ley REPEM NOA]
+    RIGI -.-> |Fricción 80/20| REPEM
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
     Vicuña --> Lunahuasi
@@ -107,6 +118,7 @@ graph TD
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Logistics --> |Escasez Choferes| SJ
 
     Eval --> |Espera desde 2024| Posco
 
