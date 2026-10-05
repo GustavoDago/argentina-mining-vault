@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-05_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-05
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -11,8 +11,11 @@ last_update: 2026-04-27
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
-## Tablero de Control (Abril 2026)
-En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
+## Hito Histórico (Octubre 2026)
+El régimen ha superado formalmente la barrera de los **US$ 100.000 millones** en inversiones anunciadas y presentadas, consolidándose como el principal motor de desarrollo de infraestructura, energía y minería en el país.
+
+## Tablero de Control (2026)
+El RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
 - **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
@@ -28,22 +31,22 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
     - Desembolsos mínimos por etapa: **US$ 1.000 millones**.
     - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
 
-### Listado de Adhesiones y Evaluaciones (Abril 2026):
-1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M** (paquete financiamiento US$ 1.175M).
-2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
-3.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]].
-4.  **[[Los Azules]]** (McEwen, San Juan, Cobre) - Proyecto lixiviación estratégica.
-5.  **[[Southern Energy]]** (Río Negro, GNL) - Inversión: **US$ 6.900M**.
-6.  **[[TGS]]** (Neuquén, Energía) - Industrialización de líquidos. Inversión: **US$ 3.000M**.
-7.  **[[Pampa Energía]]** (Neuquén, Oil) - Upstream no convencional. Inversión: **US$ 4.500M**.
-8.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 2.400M; GeoPark, US$ 1.000M).
-9.  **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
-10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
-11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
-12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
-13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
-14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
-15. **[[Posco]]** (Hombre Muerto Norte, Salta) - Inversión inicial tras adquisición: US$ 65M. En espera de aprobación final para planta de litio (>18 meses).
+### Listado de Adhesiones y Evaluaciones:
+1.  **Argentina LNG** (YPF, GNL) - Presentación de megaproyecto industrial de GNL. Inversión: **US$ 51.000M**.
+2.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M**.
+3.  **[[Southern Energy]]** (Río Negro, GNL) - Inversión: **US$ 6.900M**.
+4.  **[[TGS]]** (Neuquén, Energía) - Industrialización de líquidos. Inversión: **US$ 3.000M**.
+5.  **[[Pampa Energía]]** (Neuquén, Oil) - Upstream no convencional. Inversión: **US$ 4.500M**.
+6.  **Proyectos Vaca Muerta** (Phoenix Global, US$ 6.000M; Tecpetrol, US$ 6.400M).
+7.  **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
+8.  **Proyecto San Jorge** (Mendoza, Cobre) - Aprobado con inversión inicial: **US$ 891M**.
+9.  **Tres Quebradas - 3Q** (LIEX S.A., Catamarca, Litio) - Aprobado para expansión a 40ktpa. Inversión: **US$ 709M**.
+10. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada. Inversión: **US$ 251M**.
+11. **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
+12. **[[Diablillos]]** (AbraSilver, Salta, Plata/Oro) - Aprobado Feb 2026. Inversión: **US$ 760M**.
+13. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
+14. **[[Josemaría]]** & **[[Los Azules]]** (San Juan, Cobre) - Proyectos clave en evaluación constante.
+15. **[[Posco]]** (Hombre Muerto Norte, Salta) - En espera de aprobación final para planta de litio (>18 meses).
 16. **Pampa Energía** (Bahía Blanca, Fertilizantes) - Solicitud de adhesión para planta de urea de US$ 2.400M.
 
 ## Impacto Macroeconómico (2026)

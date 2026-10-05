@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-05_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-05
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -35,16 +35,22 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
 - **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
-- **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
-- **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
+- **Avance Exploratorio (Octubre 2026):** Continúa intensas campañas de exploración, enfocadas en asegurar recursos hídricos, trazar rutas y avanzar en el tendido de líneas de alta tensión esenciales.
+- **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
-### 4. El Pachón (San Juan) - Gigante de Glencore
+### 4. [[San Jorge]] (Mendoza) - Desbloqueo Regional
+- **RIGI Aprobado (Octubre 2026):** El gobierno nacional aprobó formalmente el ingreso de PSJ Cobre Mendocino (San Jorge) al RIGI, con una inversión inicial estimada en **US$ 891 millones**.
+
+### 5. El Pachón (San Juan) - Gigante de Glencore
 - **Inversión:** **US$ 9.500 millones** (Evaluada según reporte 18/04/2026).
 - **Proyección:** Producción de 280.000 t/año. El grupo Luksic (Antofagasta Minerals) mantiene interés estratégico en el proyecto.
 
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+## Cuellos de Botella Logísticos
+- **Déficit de Choferes (Octubre 2026):** En San Juan, el boom del cobre ha evidenciado un agravamiento en la escasez de choferes profesionales de camiones de alta montaña. Este déficit logístico impacta directamente en los cronogramas de proyectos como **Los Azules** y **Josemaría**.
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).

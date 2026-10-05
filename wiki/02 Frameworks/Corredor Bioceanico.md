@@ -9,6 +9,7 @@
     - **Convenio TIR (Abril 2026):** Brasil ratificó la Convención TIR, lo que simplificará drásticamente los trámites de tránsito aduanero internacional a lo largo del corredor.
 - **Paraguay:** El BID ratificó el financiamiento de **US$ 200 millones** para el tramo clave de la PY15 (Ruta Bioceánica).
 - **Argentina:** El Paso de Jama (Jujuy) se consolida como el nodo logístico estratégico con un crecimiento exponencial de carga (**7.000 camiones adicionales** entre 2024 y 2025).
+- **Megaproyecto Transandino (Octubre 2026):** Avanza la propuesta de un consorcio privado para construir un **túnel ferroviario de US$ 9.600 millones**, buscando una salida eficiente hacia el Pacífico, aunque supeditado logísticamente a la privatización del Belgrano Cargas.
 - **Salta (Abril 2026):**
     - **Relevancia del Cobre (20/04/2026):** La ratificación de la inversión en [[Taca Taca]] (US$ 4.200M) posiciona al proyecto como el principal usuario proyectado del Corredor para exportar concentrado de cobre por el Pacífico.
     - La obra del **bypass de Campo Quijano** (enlace RN51 y RP24) alcanza el **70% de avance**, permitiendo desviar el tránsito pesado minero de las zonas urbanas de la provincia.
@@ -36,6 +37,8 @@
 graph TD
     A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
     A --> C[RN 51 - Salta]
+    A --> Tunel[Proyecto Túnel Ferroviario US$ 9.6B]
+    Tunel --> BC[Belgrano Cargas Privatización]
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
     B --> F[Proyectos de Litio]

@@ -47,9 +47,15 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Escalada GNL (Efecto Argentina LNG)**:
+    - La presentación al RIGI del proyecto de **US$ 51.000 millones** por parte de YPF consolida la mega-escala de exportación, traccionando a toda la cadena de valor de ductos, licuefacción y servicios offshore en Río Negro.
+21. **Fricciones y Licencia Social en el NOA y Patagonia**:
+    - El choque normativo entre las exenciones de importación del RIGI y las leyes provinciales de "Compre Local" (ej. REPEM), sumado a paros por la regla 80/20 (ej. Calcatreu), abren un nicho indispensable para consultoras especializadas en mediación comunitaria, desarrollo de proveedores locales y cumplimiento ASG.
+22. **Logística Transandina**:
+    - El proyecto privado del túnel ferroviario (US$ 9.600M) atado a la privatización del Belgrano Cargas redefine la matriz de transporte de larga distancia. Se visualizan oportunidades tempranas en estudios de impacto ambiental y pre-factibilidad de enlaces ferroviarios.
 
 ## Conexiones Estratégicas y Ocultas
-Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
+Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio** y un nuevo hub de **mega-proyectos energéticos (US$ 100.000 millones en RIGI)**. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
 
 ### Visualización de Conexiones (Mermaid)
 
@@ -65,6 +71,9 @@ graph TD
     RIGI --> |Pampa US$ 2.400M| Urea[Planta Urea - Bahía Blanca]
     RIGI --> |Inversión US$ 18.000M| Vicuña[Distrito Vicuña]
     RIGI --> |Financiamiento US$ 1.175M| Rincon[Rincón - Salta]
+    RIGI --> |US$ 51.000M| ArgLNG[Argentina LNG - YPF]
+    RIGI --> |Aprobado US$ 891M| SanJorge
+    RIGI --> |Aprobado US$ 709M| LIEX[LIEX 3Q - Catamarca]
     RIGI --> |Aluvión Petrolero| VM[Vaca Muerta]
     RIGI --> |$762M Liquidados| BCRA[Reservas BCRA]
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
@@ -107,6 +116,10 @@ graph TD
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+
+    Logistics --> |Déficit Choferes| SJ
+    Tunel[Túnel Ferroviario US$ 9.6B] --> |Logística Pacífico| Cobre
+    Tunel --> |Supeditado| BC[Belgrano Cargas]
 
     Eval --> |Espera desde 2024| Posco
 
