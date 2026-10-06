@@ -47,6 +47,8 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Tensión RIGI vs Leyes Locales (Octubre 2026)**:
+    - El choque entre las exenciones del RIGI y leyes provinciales como el **REPEM** o cuotas como el **80/20** rionegrino marcan una nueva etapa de riesgo social. Existen oportunidades para consultorías de mediación comunitaria, desarrollo local de proveedores y estrategias de "licencia social corporativa".
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -81,6 +83,8 @@ graph TD
     VM --> |Acuerdo GNL| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
+    VM --> |US$ 51.000M RIGI| YPFLNG[Argentina LNG]
+    YPFLNG --> |Subasta Inversa| ConstruccionGNL[Eficiencia Capex]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
     LG --> |18/04: Test Río Los Patos| Catamarca[Catamarca - Seguridad Jurídica]
@@ -101,12 +105,17 @@ graph TD
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
     Vicuña --> Lunahuasi
+    Cobre --> |US$ 891M| SanJorge[San Jorge Cobre]
+    SanJorge --> |RIGI Mendoza| Mendoza
 
     PriceLit[Precio Litio > US$ 20k] --> |Impulso| Litio
     BESS[Demanda BESS China] --> |Sostiene| PriceLit
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Chile --> |Túnel US$ 9.600M| TrenTrans[Corredor Ferroviario]
+    TrenTrans --> |Soporte| BelgranoCargas[Privatización Cargas]
+    BelgranoCargas --> Litio
 
     Eval --> |Espera desde 2024| Posco
 
@@ -118,6 +127,11 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    Logistics --> |Escasez Choferes| SJ
+
+    RIGI -.-> |Tensión Regulatoria| REPEM[Leyes Locales / REPEM]
+    REPEM -.-> |Riesgo Social| Litio
+    REPEM -.-> |Riesgo Social| Cobre
 ```
 
 ## Conclusiones

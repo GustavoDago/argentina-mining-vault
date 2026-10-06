@@ -25,6 +25,7 @@
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.
+- **Túnel Ferroviario Transandino (06/10/2026):** Consorcio privado propuso la construcción de un túnel ferroviario por la Cordillera de los Andes con un estimado de **US$ 9.600 millones**, postulándolo para el RIGI y dependiendo fuertemente de la privatización de **Belgrano Cargas** para la viabilidad de la logística de litio.
 
 ## Conexiones
 - [[Mineria]] (Salta/Jujuy/Catamarca).
@@ -36,6 +37,10 @@
 graph TD
     A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
     A --> C[RN 51 - Salta]
+    A --> H[Túnel Ferroviario Transandino]
+    H --> |US$ 9.600M| E
+    H -.-> I[Belgrano Cargas Privatización]
+    I --> F
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
     B --> F[Proyectos de Litio]
