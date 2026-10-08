@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas, infrastructure, vmos, rione negro, rigi]
-sources: [[raw/2026-07-02_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
+sources: [[raw/2026-07-02_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-17
+last_update: 2026-10-07
 ---
 
 # VMOS (Vaca Muerta Sur)

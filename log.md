@@ -1,5 +1,29 @@
 # Log de Operaciones
 
+## [2026-10-07] sync | Ingesta consolidada de 5 reportes Jules Intel (03 al 07 de Octubre 2026)
+- **Ingesta Primaria:** Extraídos, armonizados e integrados 5 reportes diarios crudos de noticias (`raw/2026-10-03_news_mining_energy.md` a `raw/2026-10-07_news_mining_energy.md`) y 5 reportes diarios analíticos (`wiki/04 Daily/2026-10-03_Daily_Report.md` a `wiki/04 Daily/2026-10-07_Daily_Report.md`) provenientes de las ramas remotas de Jules (`update-oct-3-8112079525004374864`, `energon-daily-update-2026-10-04-2432444058318918092`, `daily-update-2026-10-05-3884962763747431546`, `energon-daily-2026-10-06-5220172259370845098`, `energon-daily-2026-10-07-1917107354504271143`).
+- **Hitos Cuantitativos y Estratégicos Consolidados:**
+    - **RIGI Superación Hito US$ 100.000 Millones:** Ratificación del récord de presentaciones y anuncios acumulados bajo el régimen de grandes inversiones, con una cartera global que continúa su tracción hacia US$ 190.000M.
+    - **Aprobaciones Formales RIGI:**
+        - **San Jorge (Mendoza):** Aprobado por **US$ 891 millones**, marcando el desbloqueo histórico de la minería metalífera en Mendoza bajo la Ley 7722.
+        - **Tres Quebradas / LIEX 3Q (Catamarca):** Aprobado por **US$ 709 millones** para expandir a 40.000 t/año LCE.
+        - **Argentina LNG (YPF / Eni / XRG):** Presentación formal PEELP por **US$ 51.000 millones** e implementación del esquema de subasta inversa para ductos e infraestructura.
+    - **Vaca Muerta & VMOS:** Finalización del tramo terrestre de 437 km del oleoducto VMOS tras 15 meses de obra (Techint-Sacde); etapa offshore en Punta Colorada en soldadura avanzada con monoboyas en tránsito. Oferta formal de Continental Resources por 6 bloques GyP Neuquén (US$ 4.000M proyectados).
+    - **Litio:** Primera exportación comercial de Ganfeng Lithium desde Salta; escalamiento de proyectos en marcha.
+    - **Corredor Bioceánico & Logística:** Propuesta de consorcio privado por US$ 9.600 millones para un túnel ferroviario transandino; ratificación de que la logística inmediata depende críticamente de la licitación del Belgrano Cargas (Ramal C-14, 11/11/2026).
+- **Fricciones Operativas y Diagnóstico Escéptico (Red Team):**
+    - **Escasez de Choferes de Alta Montaña en San Juan:** Déficit severo de conductores especializados que amenaza los cronogramas tempranos de Los Azules y Josemaría, acelerando la necesidad de simulación VR y biometría ([[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]).
+    - **Tensión RIGI vs. REPEM y Precedente Calcatreu (80/20):** La suspensión preventiva en Río Negro ratifica que el paraguas RIGI no inhibe la policía laboral ni administrativa provincial, validando plataformas RegTech de auditoría continua ([[Compliance_Compre_Local_8020_SaaS]]).
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/Cobre.md`, `Litio.md`, `Vaca Muerta.md`, `San Jorge.md`, `Taca Taca.md`, `Tres Quebradas.md`, `Calcatreu.md`, `Continental Resources.md`, `Ganfeng Lithium.md`, `VMOS.md`, `Catamarca.md`, `Salta.md`, `San Juan.md`, `Río Negro.md`, `Jujuy.md`.
+    - `wiki/02 Frameworks/RIGI.md`, `Corredor Bioceanico.md`.
+    - `wiki/03 Analysis/Oportunidades y Conexiones.md`.
+    - `wiki/04 Daily/` (estandarizados frontmatters y fuentes en los 5 reportes diarios).
+    - `index.md`, `wiki/index.md`.
+- **Saneamiento y Control Git:**
+    - Consolidación limpia sobre `main` sin regresiones históricas ni sobrescrituras destructivas.
+    - Depuración y eliminación segura de 5 ramas remotas de Jules procesadas y la rama remota de setup obsoleta.
+
 ## [2026-09-30] batch-sync | Ingesta consolidada de inteligencia de mercado (18 al 30 de Septiembre 2026)
 - **Rastreo e Ingesta Primaria:** Compilado el reporte crudo `raw/2026-09-30_batch_news_mining_energy.md` y el reporte analítico `wiki/04 Daily/2026-09-30_Batch_Report.md` cubriendo la ventana del 18 al 30 de septiembre de 2026 a partir de fuentes especializadas (*EconoJournal*, *Vaca Muerta News*, *Panorama Minero*, *Tiempo de San Juan*, *Boletín Oficial*, *CONTRAT.AR*).
 - **Hitos Cuantitativos y Estratégicos:**

@@ -102,20 +102,25 @@
 - [[2026-04-05_Evaluacion_Oportunidades_Tech]]
 - [[2026-04-10_Arbitraje_OffGrid_y_Servicios_Mendoza]]
 - [[AndesLogistics_Puna_Logistica]]
+- [[BelgranoTech_OpenAccess_SaaS]]
 - [[Compliance_Compre_Local_8020_SaaS]]
 - [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]
+- [[GeoIntel_Andino_Platform]]
 - [[HydroTrust_Puna_Hidrico]]
 - [[IA_Agentes_Proveedores_OilGas_VacaMuerta]]
 - [[Marketplace_Tier2_VacaMuerta]]
 - [[Marketplace_y_Trazabilidad_de_Pasivos_Circulares]]
+- [[MicroGrid_Cordillera_BESSaaS]]
 - [[Middleware_eTIR_Bioceanico]]
 - [[Midstream_Gas_Day_2026_Opps]]
 - [[Reconversión Pozos Petroleros a Geotermia]]
 - [[SandLogistics_Ruta_Arenas_VacaMuerta]]
 - [[Sat-Edge_Bioceanico]]
 - [[ShaleFlow_Anelo_Supply]]
+- [[Stargate_Infra_Services]]
 - [[VPP_Mineria_San_Juan]]
 - [[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]
+- [[WaterLoop_VacaMuerta]]
 
 ### ⚡ [[06 Shadow APIs|Shadow APIs e Ingeniería Inversa]]
 - [[Aduana Paso de Jama]]
@@ -166,6 +171,12 @@
 - [[PreMortem_VPP_SanJuan]]
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
+- [[2026-10-07_Daily_Report]]
+- [[2026-10-06_Daily_Report]]
+- [[2026-10-05_Daily_Report]]
+- [[2026-10-04_Daily_Report]]
+- [[2026-10-03_Daily_Report]]
+- [[2026-10-02_nuevas_opp_tech_lead]]
 - [[2026-09-30_Batch_Report]]
 - [[2026-09-17_Daily_Report]]
 - [[2026-09-16_Daily_Report]]
@@ -278,4 +289,4 @@
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-09-13*
+*Última actualización: 2026-10-07*

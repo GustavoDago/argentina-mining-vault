@@ -1,9 +1,9 @@
 ---
 type: company
 tags: [mining, lithium, salta, jujuy, noa, exports]
-sources: [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]]
+sources: [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-17
+last_update: 2026-10-07
 ---
 
 # Ganfeng Lithium
