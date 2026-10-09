@@ -47,6 +47,12 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Fricciones Regulatorias y Licencia Social (RIGI vs REPEM)**:
+    - La escalada de tensión entre los beneficios de importación e impositivos del RIGI frente a las cuotas de empleo local de leyes provinciales como el REPEM (80/20) en el NOA crea oportunidades para consultoras de RRHH, relaciones comunitarias y asuntos legales que puedan estructurar planes de capacitación masiva para cumplir con las normativas locales sin perder las ventajas nacionales.
+21. **Crisis de Capital Humano Logístico**:
+    - La reportada escasez de choferes de alta montaña en San Juan para proyectos clave (Josemaría, Los Azules, Veladero) subraya una falla de mercado. Oportunidad inminente para escuelas de conducción técnica especializada, simulación logística con VR y adopción de tecnologías de conducción autónoma en circuitos cerrados.
+22. **Dependencia Logística del Belgrano Cargas**:
+    - La potencial privatización del Belgrano Cargas posiciona a este activo como la arteria vital para hacer competitivo el litio y cobre del NOA a nivel global. Consorcios mineros podrían buscar integrarse verticalmente o formar *joint-ventures* logísticos para asegurar el control de la red ferroviaria.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -70,7 +76,9 @@ graph TD
     RIGI --> |Decreto 105/2026| PA[Palermo Aike]
     RIGI -.-> |Complemento| RIMI[RIMI: Medianas Inversiones]
     RIGI -.-> |Catalizador| MiniRIGI[Mini RIGI Jujuy > US$ 5M]
+    RIGI -.-> |Tensión 80/20| REPEM[Leyes Provinciales de Empleo Local]
     RIGI --> |Evaluación: US$ 22.960M| Eval[11 Proyectos en Curso]
+    RIGI --> |US$ 51.000M| YPFLNG[YPF Argentina LNG]
 
     VM --> |Modelo Replicado| PA
     VM --> |US$ 4.500M| Pampa[Pampa Energía]
@@ -94,8 +102,10 @@ graph TD
     Litio --> |Adquisición HMN| Posco[Posco - Corea del Sur]
     Litio --> |18/04: Jujuy Mini-RIGI| PYMES[Desarrollo Proveedores]
     Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
+    Litio --> |Aprobación RIGI US$ 709M| LIEX[3Q - LIEX S.A.]
     Litio --> |Presidencia Mesa| Jujuy[Jujuy]
     Jujuy --> MiniRIGI
+    Litio --> |Privatización Clave| Belgrano[Belgrano Cargas]
     Posco --> |Capacidad| P70[70% Planta Salta]
     Salta[Salta: Complejo Exportador #1] --> Litio
 
@@ -113,7 +123,8 @@ graph TD
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
-    SanJorge --> OpCopper
+    SanJorge --> |Aprobación RIGI US$ 891M| OpCopper
+    OpCopper --> |Escasez de Choferes| Logistica[Logística de Alta Montaña]
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
