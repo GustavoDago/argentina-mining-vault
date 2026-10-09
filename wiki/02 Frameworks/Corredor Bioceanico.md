@@ -25,6 +25,8 @@
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.
+- **Ferrocarril Trasandino (09/10/2026):** El proyecto privado para construir un túnel ferroviario bioceánico de US$ 9.600 millones a través de los Andes continúa en el foco del sector minero como posible solución a largo plazo.
+- **Belgrano Cargas (09/10/2026):** La anunciada privatización de la red Belgrano Cargas es evaluada críticamente por los proyectos del NOA, quienes dependen de su modernización para la reducción de costos logísticos a puerto.
 
 ## Conexiones
 - [[Mineria]] (Salta/Jujuy/Catamarca).

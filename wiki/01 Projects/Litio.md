@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-09_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-09
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -39,10 +39,17 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
 
+### 5. Tres Quebradas (3Q) (LIEX S.A., Catamarca)
+- **Aprobación RIGI (09/10/2026):** El gobierno oficializó la aprobación de la inversión de US$ 709 millones propuesta por LIEX S.A. para ampliar y consolidar el proyecto 3Q.
+
+### 6. Proyectos en Salta (Ganfeng Lithium)
+- **Exportación (09/10/2026):** Ganfeng superó un nuevo hito al despachar otro cargamento de exportación, reforzando a Salta como nodo exportador clave.
+
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.
 - **Desafío Geopolítico (EE.UU.):** El hallazgo de un megayacimiento en la caldera de McDermitt (Nevada/Oregón, >40 MTn) plantea un nuevo escenario de precios y competencia tecnológica que acelera la necesidad de eficiencia en los salares locales.
 - **Consolidación Rio Tinto/Arcadium (Abril 2026):** La aprobación del [[RIGI]] para la expansión de **Fénix** (US$ 251M) refuerza la posición de Rio Tinto como el actor dominante en el NOA tras la absorción de Arcadium.
+- **Tensión Regulatoria (Octubre 2026):** Se registran cortocircuitos entre el gobierno nacional (RIGI) y los gobiernos del NOA por la incompatibilidad con las leyes provinciales (REPEM), que exigen cuotas mínimas de contratación y empleo local (80/20).
 - **Mesa del Litio (16/04/2026):** Jujuy asumió la presidencia del Comité Regional. Salta, Jujuy y Catamarca coordinan una regalía unificada, armonización normativa y políticas de "valor agregado local".
 - **Electrificación:** El acuerdo YPF Luz / Central Puerto para la **Interconexión Puna** ([[Electrificacion Puna]]) es crítico para reducir los costos operativos y la huella de carbono del sector.
 
