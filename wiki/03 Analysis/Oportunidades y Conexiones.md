@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI]
-sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md]
+sources: [2026-04-03_news_mining_energy.md, 2026-04-10_news_mining_energy.md, 2026-04-11_news_mining_energy.md, 2026-04-12_news_mining_energy.md, 2026-04-13_news_mining_energy.md, 2026-04-14_news_mining_energy.md, 2026-04-15_news_mining_energy.md, 2026-04-16_news_mining_energy.md, 2026-04-17_news_mining_energy.md, 2026-04-18_news_mining_energy.md, 2026-04-19_news_mining_energy.md, 2026-04-20_news_mining_energy.md, 2026-04-22_news_mining_energy.md, 2026-04-25_news_mining_energy.md, 2026-04-27_news_mining_energy.md, 2026-10-10_news_mining_energy.md]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-10
 ---
 
 # Oportunidades de Negocio y Conexiones Ocultas - Abril 2026
@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Crisis Logística vs Expansión Minera (Octubre 2026)**:
+    - La escasez crítica de choferes para transporte de alta montaña en San Juan (afectando a Josemaría y Los Azules) resalta un cuello de botella no técnico. Se abre una oportunidad inmediata para **programas de capacitación técnica y empresas de servicios de transporte pesado** que puedan escalar para satisfacer la demanda de los megaproyectos.
+21. **Fricción Regulatoria RIGI vs REPEM**:
+    - Las tensiones en el NOA entre el marco nacional (RIGI) y las leyes de contratación local (REPEM) revelan un riesgo regulatorio a nivel provincial. Oportunidad para firmas de **consultoría en asuntos gubernamentales y compliance** que puedan arbitrar y facilitar operaciones ininterrumpidas en Catamarca y Salta.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -118,6 +122,11 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+
+    Logistics[Crisis Logística Choferes] --> |Retrasos Construcción| LosAzules
+    Logistics --> |Retrasos Construcción| Josemaria
+
+    RIGI_Tension[Fricción RIGI vs REPEM] --> |Cuello de botella licitaciones| Litio
 ```
 
 ## Conclusiones

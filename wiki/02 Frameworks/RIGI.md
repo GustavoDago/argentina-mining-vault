@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-10_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-10
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
@@ -11,8 +11,11 @@ last_update: 2026-04-27
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
 
-## Tablero de Control (Abril 2026)
-En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
+## Tablero de Control (Octubre 2026)
+El RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos, habiendo superado un hito histórico:
+
+- **Hito de los USD 100.000 Millones (10/10/2026):** Consolidación del récord de inversiones anunciadas, con Minería y Energía capitalizando la mayoría de los flujos.
+- **Tensión Regional vs. Leyes Locales (10/10/2026):** Creciente fricción en el NOA entre los beneficios nacionales del RIGI y leyes provinciales como el REPEM, que imponen cuotas de contratación local.
 
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
 - **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
@@ -28,7 +31,7 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
     - Desembolsos mínimos por etapa: **US$ 1.000 millones**.
     - Proyectos como **Argentina LNG** y **Southern Energy** se encuadran en esta categoría para maximizar beneficios.
 
-### Listado de Adhesiones y Evaluaciones (Abril 2026):
+### Listado de Adhesiones y Evaluaciones:
 1.  **[[Rincón]]** (Rio Tinto, Salta, Litio) - Primer proyecto minero en adherir y exportar (200t a Shanghái). Inversión: **US$ 2.500M** (paquete financiamiento US$ 1.175M).
 2.  **[[Hombre Muerto Oeste]]** (Galan Lithium, Catamarca, Litio) - Fase 1 operativa. Inversión: **US$ 217M**.
 3.  **[[Josemaría]]** (Lundin, San Juan, Cobre) - Clave del [[Distrito Vicuña]].
@@ -41,10 +44,11 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 10. **[[Veladero]]** (Barrick, San Juan, Oro/Plata) - Aprobado Feb 2026. Inversión: **US$ 380M**.
 11. **Proyecto Fénix** (Rio Tinto/Arcadium, Catamarca, Litio) - Expansión Fase 1B aprobada Abr 2026. Inversión: **US$ 251M**.
 12. **[[Taca Taca]]** (First Quantum, Salta, Cobre) - Ratificación de inversión: **US$ 4.200M**.
-13. **Proyecto San Jorge** (Mendoza, Cobre) - Reactivado gracias al nuevo marco provincial y RIGI.
+13. **Proyecto San Jorge** (Mendoza, Cobre) - Aprobado el ingreso al RIGI por USD 891 millones (10/10/2026).
 14. **Galan Lithium** (Catamarca, Litio) - Ampliación de fase aprobada Jul 2025.
 15. **[[Posco]]** (Hombre Muerto Norte, Salta) - Inversión inicial tras adquisición: US$ 65M. En espera de aprobación final para planta de litio (>18 meses).
 16. **Pampa Energía** (Bahía Blanca, Fertilizantes) - Solicitud de adhesión para planta de urea de US$ 2.400M.
+17. **Proyecto 3Q** (LIEX S.A., Catamarca, Litio) - Primeros desembolsos recibidos tras aprobación RIGI por USD 709 millones (10/10/2026).
 
 ## Impacto Macroeconómico (2026)
 El RIGI está consolidando una **"economía a dos velocidades"** o crecimiento en forma de "K". Mientras los sectores adheridos (Minería y Energía) muestran un crecimiento del **+15,3%** sobre niveles de 2023, los sectores dependientes del mercado interno (Construcción, Comercio e Industria) enfrentan un estancamiento con una caída del **-4,9%**.
