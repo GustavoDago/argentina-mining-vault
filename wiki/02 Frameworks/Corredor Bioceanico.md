@@ -1,8 +1,17 @@
+---
+type: framework
+tags: [infrastructure, logistics, regional]
+sources: [[2026-04-27_news_mining_energy.md]], [[2026-10-10_news_mining_energy.md]]
+confidence: high
+last_update: 2026-10-10
+---
+
 # Corredor Bioceánico de Capricornio (CBC)
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
-## Estado de la Traza (Abril 2026)
+## Estado de la Traza (Octubre 2026)
+- **Túnel Ferroviario Transandino (10/10/2026):** Presentación del estudio de pre-factibilidad por un consorcio privado para un túnel ferroviario de USD 9.600 millones. El proyecto compite con la propuesta chilena de un corredor exclusivamente vial y su éxito logístico depende fuertemente de la privatización del Belgrano Cargas.
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.
     - **Puente sobre el Río Apa (27/04/2026):** Ratificación oficial de la construcción del puente que conectará Porto Murtinho con Concepción (Paraguay) y avances en la pavimentación del Chaco paraguayo.
@@ -22,6 +31,7 @@
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
+- **Dependencia del Ferrocarril (10/10/2026):** La incertidumbre en torno al proceso de privatización del ferrocarril Belgrano Cargas amenaza con generar un cuello de botella logístico en la salida hacia el Pacífico para los megaproyectos mineros del NOA.
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.
@@ -36,6 +46,8 @@
 graph TD
     A[Corredor Bioceánico] --> B[Paso de Jama - Jujuy]
     A --> C[RN 51 - Salta]
+    A --> T[Túnel Ferroviario Transandino US$ 9.6B]
+    T --> BC[Dependencia: Privatización Belgrano Cargas]
     C --> D[[Taca Taca]]
     D --> E[Exportación vía Chile/Pacífico]
     B --> F[Proyectos de Litio]
