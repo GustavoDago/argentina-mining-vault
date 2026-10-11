@@ -22,6 +22,7 @@
 - **Interconexión Puna (YPF Luz & Central Puerto):** Acuerdo para desarrollar una línea de extra alta tensión (US$ 250M - US$ 400M) que conectará los salares de Pastos Grandes y Hombre Muerto al sistema nacional, fundamental para la sostenibilidad de los proyectos de [[Litio]].
 
 ## Desafíos Logísticos y de Infraestructura:
+- **Túnel Trasandino y Belgrano Cargas (11/10/2026):** Un consorcio privado presentó la prefactibilidad para un túnel ferroviario de US$ 9.600 millones. Sin embargo, su viabilidad y el éxito general del Corredor hacia el Pacífico dependen críticamente de la modernización de la red nacional del Belgrano Cargas, actualmente en un incierto proceso de privatización.
 - **Conectividad Digital (18/04/2026):** Se reportó un "apagón" de conectividad (internet y telefonía) en los 130 km de territorio chileno posteriores al Paso de Jama, lo que impide el uso de documentos electrónicos (Certificado de Origen Digital, MIC/DTA) y afecta la seguridad logística.
 - **Unificación Normativa:** Necesidad de estandarizar pesos y dimensiones de camiones.
 - **Tecnología en Fronteras:** Requerimiento de escáneres y digitalización total de procesos.

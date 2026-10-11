@@ -47,15 +47,20 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Fricciones RIGI vs REPEM (Agosto-Octubre 2026)**:
+    - Las crecientes tensiones operativas en NOA (ej. Catamarca) respecto al **Régimen de Promoción de Empleo Minero (REPEM)** revelan una vulnerabilidad estructural en el modelo RIGI. Aunque la Nación garantiza libre disponibilidad de contrataciones, las provincias exigen la regla del 80/20 (80% mano de obra y proveeduría local). Esta fricción genera retrasos en las contrataciones y abre oportunidades para **consultoras de cumplimiento (compliance) socio-laboral local** y plataformas de intermediación de proveedores provinciales.
+21. **Déficit Logístico en San Juan y Belgrano Cargas (Octubre 2026)**:
+    - La ejecución simultánea de proyectos como Josemaría y Los Azules ha creado un cuello de botella logístico (escasez de choferes de alta montaña). A su vez, el proyecto de túnel trasandino del Corredor Bioceánico y la evacuación del cobre del NOA dependen críticamente de la modernización del ferrocarril **Belgrano Cargas**, actualmente bajo incertidumbre por su proceso de privatización.
 
 ## Conexiones Estratégicas y Ocultas
-Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
+Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno, aunque debe sortear la escasez crítica de infraestructura logística.
 
 ### Visualización de Conexiones (Mermaid)
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    RIGI[RIGI: >US$ 105.000M] --> |Fricción Regulatoria| REPEM[Leyes Provinciales - REPEM]
+    RIGI --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
     TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
@@ -107,6 +112,9 @@ graph TD
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Logistics --> |Déficit Choferes| SanJuanDéficit[Cuello de Botella San Juan]
+    Logistics --> |Dependencia Ferroviaria| BelgranoCargas[Privatización Belgrano Cargas]
+    BelgranoCargas --> CorredorBio[Corredor Bioceánico / Túnel Trasandino]
 
     Eval --> |Espera desde 2024| Posco
 

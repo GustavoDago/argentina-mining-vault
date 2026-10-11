@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-11
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -26,7 +26,8 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 - **Financiamiento:** Aseguró US$ 1.175 millones de un consorcio internacional (IFC, BID Invest, JBIC).
 - **Marco:** Primer proyecto minero de litio en Argentina en obtener la adhesión definitiva al [[RIGI]].
 
-### 2. [[Posco]] (Hombre Muerto Norte, Salta)
+### 2. [[Posco]] (Hombre Muerto Norte, Salta/Catamarca)
+- **Fase 2 Inaugurada (11/10/2026):** Posco Argentina inauguró formalmente la Fase 2 del proyecto Sal de Oro, incrementando significativamente la capacidad de producción en la región.
 - **Consolidación (27/04/2026):** Integración del 100% de HMN para optimizar el proyecto Sal de Oro.
 - **Adquisición (13/04/2026):** Posco compró el activo a Lithium South por **US$ 65 millones**.
 - **Potencial:** 15.600 toneladas/año de LCE.

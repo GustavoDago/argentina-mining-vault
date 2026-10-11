@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-11_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-11
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -45,6 +45,9 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 ### 5. MARA (Catamarca)
 - **Operador:** Glencore.
 - **Hito:** Reactivación de la infraestructura de Bajo de la Alumbrera prevista para fines de 2026.
+
+## Desafíos Logísticos y Operativos (Octubre 2026)
+- **Cuello de Botella en San Juan (11/10/2026):** El desarrollo simultáneo de megaproyectos (como Josemaría y Los Azules) ha generado un déficit logístico crítico, evidenciado por la escasez de choferes especializados en alta montaña. Las empresas evalúan capacitaciones conjuntas y esquemas de transporte compartido.
 
 ## Mesa del Cobre y Contexto de Precios
 - **Mercado:** Precios récord superando los **u$s 13.000/ton** en la LME (Abril 2026).
