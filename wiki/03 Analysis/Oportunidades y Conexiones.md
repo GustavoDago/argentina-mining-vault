@@ -55,8 +55,8 @@ Argentina ha pasado de ser un actor regional a una **potencia exportadora global
 
 ```mermaid
 graph TD
-    RIGI[RIGI: Motor de Inversión] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
-    TacaTaca --> |Alianza 12/04| IFC[IFC - Banco Mundial]
+    RIGI[RIGI: Motor de Inversión > US$ 105B] --> |US$ 4.200M Ratificado| TacaTaca[Taca Taca - Salta]
+    TacaTaca --> |Audiencias Públicas| IFC[IFC - Banco Mundial]
     RIGI --> |Aprobado US$ 2.700M| LosAzules[Los Azules - San Juan]
     LosAzules --> |Inicio 2026| Const[Construcción]
     RIGI --> |Res. 413/2026| Veladero
@@ -78,8 +78,9 @@ graph TD
     VM --> |US$ 6.000M| Phoenix[Phoenix Resources]
     VM --> |US$ 3.000M| TGS[TGS Industrialización]
     VM --> |Récord 1700 Etapas| Fractura[Eficiencia Operativa]
-    VM --> |Acuerdo GNL| ENI[ENI - Italia]
+    VM --> |Acuerdo GNL FEED| ENI[ENI - Italia]
     VM --> |Análisis RIGI| Vista[Vista Energy]
+    VM --> |Operación Comercial| VMOS[Oleoducto Vaca Muerta Sur]
     TGS --> |Ampliación| GPM[Gasoducto Perito Moreno]
 
     LG[Reforma Ley de Glaciares] --> |Desbloqueo US$ 30.000M| Cobre[Cobre de Clase Mundial]
@@ -88,6 +89,7 @@ graph TD
     LG --> |Seguridad Jurídica| Mendoza[Mendoza - San Jorge]
     Mendoza --> |Litio| DonLuis[Don Luis - DIA en Legislatura]
     Mendoza --> |Horizonte 2029| SanJorge[San Jorge]
+    Cobre --> |Emergencia Logística| SJLogistics[Déficit Choferes San Juan]
 
     Litio[Litio Argentina] --> |Catamarca: Río Los Patos| Catamarca
     Litio --> |Exportación 200t| RioTinto[Rio Tinto Rincón]
@@ -96,7 +98,7 @@ graph TD
     Litio --> |92% Avance| HMW[Hombre Muerto Oeste - Galan]
     Litio --> |Presidencia Mesa| Jujuy[Jujuy]
     Jujuy --> MiniRIGI
-    Posco --> |Capacidad| P70[70% Planta Salta]
+    Posco --> |Fase 2 y Capacidad 70%| P70[Planta Salta y Expansión]
     Salta[Salta: Complejo Exportador #1] --> Litio
 
     Cobre --> |Descubrimiento Récord| Lunahuasi
@@ -107,6 +109,7 @@ graph TD
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Chile --> |Pre-factibilidad| Bioceanico[Túnel Trasandino]
 
     Eval --> |Espera desde 2024| Posco
 

@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, regulatory]
-sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]]
+sources: [[2026-04-12_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-10-12_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-20
+last_update: 2026-10-12
 ---
 
 # San Juan
@@ -19,8 +19,8 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 - **Predominio del Oro:** El oro explica el **96,6%** de las exportaciones mineras, traccionado principalmente por el proyecto [[Veladero]]. Los principales destinos son India y Suiza.
 
 ## Proyectos Clave
-- [[Josemaría]] (Cobre)
-- [[Los Azules]] (Cobre Verde)
+- [[Josemaría]] (Cobre) - *Bajo emergencia logística por falta de choferes (12/10/2026)*
+- [[Los Azules]] (Cobre Verde) - *Bajo emergencia logística por falta de choferes (12/10/2026)*
 - [[Veladero]] (Oro/Plata)
 - [[Distrito Vicuña]] (Hub Binacional)
 - [[Lunahuasi]] (Cobre de Alta Ley)
