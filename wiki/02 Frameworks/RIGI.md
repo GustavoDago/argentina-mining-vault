@@ -17,8 +17,8 @@ En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor princ
 - **Argentina Week (13/04/2026):** Fuerte recepción del régimen en la comunidad financiera de Nueva York, con compromisos ratificados por TGS (US$ 3.000M) y Pampa Energía (US$ 4.500M).
 - **Liquidación de Divisas (22/04/2026):** El BCRA informó que los proyectos RIGI ya liquidaron **US$ 762 millones netos** (US$ 1.205 millones brutos), validando el impacto inmediato en las reservas.
 - **Proyectos Aprobados/En Evaluación:** +35 proyectos bajo evaluación formal (con hitos como las 11 presentaciones confirmadas el 16/04/2026).
-- **Inversión Total Comprometida:** > **US$ 52.000 millones** (estimación actualizada tras ampliación de upstream, GNL y ratificación de Taca Taca). El 98% de las solicitudes se concentran en Minería y Energía.
-- **Sectores Críticos:** GNL (28%), Cobre (35%), Litio (20%), Oil/Gas Upstream (17%).
+- **Inversión Total Comprometida:** > **US$ 105.000 millones** (superó formalmente el hito el 13/10/2026 impulsado por presentaciones en Oil & Gas y Cobre). El 98% de las solicitudes se concentran en Minería y Energía.
+- **Sectores Críticos:** GNL, Cobre, Litio, Oil/Gas Upstream.
 - **Sinergia Regional (16/04/2026):** Los gobernadores del NOA (Jalil, Sadir, Sáenz) destacan el RIGI como el catalizador principal de la aceleración de inversiones, complementándolo con marcos locales (ej. "mini RIGI" en Jujuy para inversiones >US$ 5M).
 
 ### Categorías Especiales

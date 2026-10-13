@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Crisis Logística en San Juan**:
+    - La escasez de choferes calificados para transporte de alta montaña amenaza con retrasar las etapas de construcción de Los Azules y Josemaría. Esto crea una oportunidad crítica e inmediata para **empresas de capacitación, escuelas de manejo industrial y soluciones logísticas automatizadas**.
+21. **Fricción Regulatoria Litio (RIGI vs REPEM)**:
+    - La colisión entre las garantías del RIGI y las obligaciones provinciales de la Ley REPEM (Catamarca, Salta) plantea un riesgo de judicialización que demandará **consultoría legal especializada y gestores de asuntos gubernamentales** capaces de triangular entre provincias y Nación.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -118,6 +122,11 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    SJ --> |Déficit Choferes| CrisisLog[Crisis Logística Alta Montaña]
+    CrisisLog --> |Retraso| LosAzules
+
+    RIGI --> |Conflicto Legal| REPEM[Ley REPEM NOA]
+    REPEM --> |Riesgo Inversión| Litio
 ```
 
 ## Conclusiones

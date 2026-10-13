@@ -34,10 +34,11 @@ El yacimiento de shale continúa consolidándose como el principal generador de 
 - **Integración Estratégica con Chile (15/04/2026):** Tras la reunión Milei-Kast, se planteó avanzar en cooperación bilateral en logística e inversión minera/energética, lo que podría abrir nuevas rutas de exportación por el Pacífico.
 - **Ampliación de Transporte (14/04/2026):** **[[TGS]]** inició la expansión del Gasoducto Perito Moreno, habilitando nueva capacidad de evacuación para el shale gas.
 - **Aluvión de Inversiones RIGI (11/04/2026):** Las petroleras escalan sus planes de inversión para aprovechar los beneficios del régimen (Pampa US$ 4.500M, Tecpetrol US$ 2.400M, Phoenix US$ 6.000M).
+- **YPF Planta GNL (13/10/2026):** YPF firmó los contratos FEED para la primera fase de la planta de GNL, ratificando la inversión de **US$ 51.000 millones** bajo el [[RIGI]].
 
 ## Infraestructura Crítica
-- **Oleoducto Vaca Muerta Sur (VMOS):** Registra un **58% de avance**. Se proyecta el inicio de exportaciones para diciembre de 2026, fundamental para evacuar el incremento de producción previsto por el RIGI.
-- **Argentina LNG:** Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
+- **Oleoducto Vaca Muerta Sur (VMOS):** Inició **operación comercial (13/10/2026)**, inyectando volúmenes significativos hacia Río Negro tras su finalización por Techint-Sacde, aliviando el principal cuello de botella de evacuación.
+- **Argentina LNG:** YPF firmó contratos de ingeniería básica (FEED) para la Fase 1, avanzando en la licuefacción tras meses de evaluación técnica. Sumó a **ENI** y **XRG** como socios estratégicos para la licuefacción. Ratificación del acuerdo con ENI el 22/04/2026.
 
 ## Conexiones
 - [[RIGI]]

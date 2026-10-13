@@ -24,6 +24,7 @@ Megaproyecto de cobre de clase mundial con una inversión estimada total de **US
 - **Reporte Técnico NI 43-101 (Abril 2026):** El informe proyecta una capacidad inicial de 40 Mtpa y una producción promedio de **291.000 t/año de cobre** en la primera década.
 - **Fase Decisiva (13/04/2026):** El gobernador Gustavo Sáenz confirmó que el proyecto entra en una etapa determinante. El llamado a **audiencia pública** es inminente.
 - **Avance Institucional (Abril 2026):** Presentación ante el Senado de Salta. Necesidad de aprobación definitiva del EIA y concesiones de uso de agua antes de julio de 2026 para cumplir requisitos del RIGI.
+- **Audiencias Públicas EIA (13/10/2026):** El gobierno de Salta y First Quantum inauguraron las audiencias públicas definitivas para el Estudio de Impacto Ambiental. El respaldo comunitario habilita el inicio de construcción para principios de 2027.
 
 ## Conexiones
 - [[Cobre]]

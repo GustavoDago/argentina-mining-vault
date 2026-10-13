@@ -12,6 +12,7 @@ San Juan es la provincia líder en minería metalífera en Argentina, especialme
 
 ## Modernización y Transparencia (Abril 2026)
 - **Sistema Integral Minero (SIM):** Implementación obligatoria del pago del canon minero 100% online. La plataforma digital centraliza el padrón minero, deudas y estado técnico-legal, eliminando trámites presenciales y mejorando la trazabilidad en tiempo real.
+- **Emergencia Logística Transitoria (13/10/2026):** La Cámara Minera declaró una emergencia debido a la escasez de choferes calificados de alta montaña, lo que retrasa los cronogramas tempranos en [[Los Azules]] y [[Josemaría]].
 
 ## Desempeño Exportador (2026)
 - **Liderazgo Histórico:** En el primer bimestre de 2026, la minería representó el **92,5% de las exportaciones totales** de San Juan.
