@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-10-15_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-18
+last_update: 2026-10-15
 ---
 
 # Proyecto Los Azules (Cobre)
@@ -22,6 +22,9 @@ last_update: 2026-04-18
 - **PDAC 2026:** Reuniones estratégicas en Toronto con autoridades provinciales para acelerar permisos.
 - **Adhesión al RIGI:** El proyecto cuenta con aprobación del [[RIGI]], asegurando estabilidad fiscal.
 - **Socios Estratégicos:** Stellantis y Rio Tinto (a través de Nuton).
+
+### Hitos Recientes (Octubre 2026)
+- **Emergencia Logística Regional:** Se declara emergencia logística en San Juan debido a la escasez crítica de conductores de camiones de alta montaña, retrasando el aprovisionamiento de insumos críticos para la construcción.
 
 ## Conexiones
 - [[Cobre]]

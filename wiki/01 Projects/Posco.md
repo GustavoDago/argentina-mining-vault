@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-15_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-15
 ---
 
 # Posco (Sal de Oro / Hombre Muerto Norte)
@@ -21,6 +21,9 @@ Posco desarrolla el megaproyecto **Sal de Oro**. Tras la adquisición del 100% d
 - **Estado Operativo (14/04/2026):** Posco confirmó que su primera planta comercial ya opera al **70% de su capacidad nominal**.
 - **Adquisición Estratégica (13/04/2026):** Cierre de la operación con Lithium South.
 - **Marco RIGI (16/04/2026):** El proyecto de Posco para una planta de litio en Salta se encuentra entre las 11 presentaciones bajo evaluación formal del [[RIGI]], con una espera reportada desde 2024 para su aprobación final.
+
+### Hitos Recientes (Octubre 2026)
+- **Fase 2 de Sal de Oro:** Acelera su construcción, apalancada por los beneficios del RIGI.
 
 ## Producción Estimada
 - Potencial de producción: **15.600 toneladas anuales** de carbonato de litio equivalente (LCE).

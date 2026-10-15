@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]]
+sources: [[2026-04-14_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-10-15_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-18
+last_update: 2026-10-15
 ---
 
 # Proyecto Josemaría (Cobre)
@@ -21,6 +21,9 @@ Megaproyecto de cobre, oro y plata ubicado en el extremo norte de San Juan. Es p
 - **Integración Vicuña:** El proyecto se confirma como la punta de lanza del [[Distrito Vicuña]], con un plan de desarrollo por etapas que prioriza la puesta en marcha de Josemaría para apalancar el desarrollo de Filo del Sol.
 - **Reducción de Requerimientos:** Los condicionantes ambientales se reorganizaron de 120 a 65 ítems para optimizar la gestión y fiscalización.
 - El proyecto se posiciona como una pieza clave en la "revolución del cobre" impulsada por el [[RIGI]].
+
+### Hitos Recientes (Octubre 2026)
+- **Emergencia Logística Regional:** Se declara emergencia logística en San Juan debido a la escasez crítica de conductores de camiones de alta montaña, retrasando el aprovisionamiento de insumos críticos para la construcción.
 
 ## Conexiones
 - [[Cobre]]
