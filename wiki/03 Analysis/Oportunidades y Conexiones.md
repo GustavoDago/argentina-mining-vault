@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Escasez de Logística de Alta Montaña y Fricciones Regulatorias (Octubre 2026)**:
+    - La emergencia logística por la falta de choferes en San Juan (afectando a Los Azules/Josemaría) subraya la necesidad de inversión privada en capacitación especializada. Al mismo tiempo, las tensiones en Catamarca y Salta (RIGI vs. REPEM) y el parate de Calcatreu por el "80/20" refuerzan que la licencia social y los encadenamientos productivos locales deben gestionarse proactivamente, no depender únicamente de las exenciones nacionales.
+21. **Logística Transandina y Túnel Ferroviario**:
+    - El avance del túnel ferroviario (US$ 9.600M) en el Corredor Bioceánico y la expectativa por Belgrano Cargas presentan oportunidades inéditas para consorcios de ingeniería ferroviaria y de túneles en roca dura.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -109,15 +113,22 @@ graph TD
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
 
     Eval --> |Espera desde 2024| Posco
+    Eval --> |Infra y Renovables| RIGI
 
     ENRE[ENRE Res. 079/2026] --> |Prioridad 90%| Vicuña
     ENRE --> |Conflicto| LosAzules
     LosAzules --> |Horizonte 2029| OpCopper[Operación Cobre 2029]
     SanJorge --> OpCopper
+    SanJorge --> |Logística| CBC[Corredor Bioceánico]
     
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+
+    Choferes[Escasez Choferes Alta Montaña] --> |Emergencia Logística| SJ
+    REPEM[Ley REPEM/80-20] --> |Fricción con RIGI| Litio
+    CBC --> |Túnel Ferroviario US$ 9.600M| Chile
+    BelgranoCargas[Privatización Belgrano Cargas] --> CBC
 ```
 
 ## Conclusiones
