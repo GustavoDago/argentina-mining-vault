@@ -47,6 +47,10 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Fuerza de Tarea de Logística en San Juan**:
+    - La escasez de choferes de alta montaña en San Juan impulsó una fuerza de tarea de emergencia. Oportunidad para empresas de entrenamiento, simuladores y logística especializada.
+21. **Fricción RIGI vs. REPEM en el NOA**:
+    - La tensión en Jujuy entre los beneficios nacionales del RIGI y las cuotas de contratación local de la ley REPEM genera barreras administrativas. Oportunidad para consultoría legal, compliance y relaciones institucionales.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -118,6 +122,11 @@ graph TD
     OffGrid[Microgrids & Solar] --> |Bypass Energético| ProyectosPuna[Proyectos en Puna]
 
     SIM[San Juan SIM: Canon Online] --> |Transparencia| SJ[San Juan]
+    LogisticsTaskForce[Fuerza de Tarea Logística] --> |Entrenamiento Choferes| SJ
+    LosAzules --> LogisticsTaskForce
+    Josemaria[Josemaría] --> LogisticsTaskForce
+
+    RIGI_REPEM_Friction[Fricción RIGI vs REPEM] --> |Barreras Administrativas| Jujuy
 ```
 
 ## Conclusiones
