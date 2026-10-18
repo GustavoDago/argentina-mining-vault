@@ -2,6 +2,9 @@
 
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
 
+## Hitos Recientes (Octubre 2026)
+- **Túnel Ferroviario Transandino (18/10/2026):** El BID, en conjunto con consorcios privados, comprometió US$ 2.500 millones destinados a la prefactibilidad y primeros movimientos de tierra para el túnel ferroviario transandino. Esta obra es considerada la solución definitiva para evitar el colapso del transporte por camión que enfrentan las exportaciones de litio y cobre del NOA hacia el Pacífico.
+
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**
     - El Puente de la Bioceánica (Porto Murtinho - Carmelo Peralta) alcanzó un **82,5% de avance** físico a fines de abril 2026. Se mantiene la meta de inauguración para junio de 2026.

@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-18
 ---
 
 # Litio en Argentina: El Triángulo de Oro
@@ -38,6 +38,11 @@ La Cámara Argentina de Empresas Mineras (CAEM) proyecta un aumento del **77%** 
 
 ### 4. Salar de Olaroz / Caucharí (Jujuy)
 - Continúa como el polo productivo más estable del país, exportando a mercados automotrices de Europa y Asia.
+
+## Hitos Recientes (Octubre 2026)
+- **Catamarca (18/10/2026):** LIEX S.A. completó la primera fase de la expansión de su proyecto Tres Quebradas (3Q) (US$ 709M vía RIGI). Sin embargo, persisten las fricciones entre los incentivos del RIGI y la ley provincial REPEM que exige cuotas de empleo local.
+- **Salta (18/10/2026):** Posco informa que la Fase 2 de la expansión en Hombre Muerto Norte alcanzó el 50% de avance, acelerando los tiempos del proyecto y presionando la logística del NOA.
+- **Jujuy (18/10/2026):** Ganfeng Lithium realizó el mayor despacho de exportación hasta la fecha desde Caucharí-Olaroz, utilizando mejoras recientes en la logística ferroviaria hacia Chile.
 
 ## La Mesa del Litio y Política Regional
 - **Seguridad Jurídica en Catamarca (27/04/2026):** El levantamiento de la cautelar sobre el Río Los Patos valida los estudios de impacto acumulado y permite la expansión de Arcadium y Posco.

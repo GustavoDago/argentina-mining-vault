@@ -1,15 +1,19 @@
 ---
 type: framework
 tags: [regulatory, mining, energy]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-11_news_mining_energy.md]], [[2026-04-12_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-17_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-19_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-18
 ---
 
 # RIGI (Régimen de Incentivo para Grandes Inversiones)
 
 **Vigencia:** 2024 - Julio 2027 (Prorrogado formalmente el 11/04/2026 para capturar la ventana de inversión minera/energética).
 **Objetivo:** Atraer proyectos de inversión mayores a **US$ 200 millones** mediante beneficios impositivos, cambiarios y estabilidad jurídica por 30 años.
+
+## Hitos Recientes (Octubre 2026)
+- **Umbral Superado (18/10/2026):** El volumen total de inversiones procesadas y aprobadas superó oficialmente los **US$ 108.000 millones**, consolidando el RIGI como la base del modelo macroeconómico de infraestructura.
+- **Tensión Local:** En regiones productoras de litio como Catamarca, persiste la fricción regulatoria con leyes provinciales como REPEM (Registro de Proveedores y Empleo Minero), que colisionan con las flexibilidades de contratación del RIGI.
 
 ## Tablero de Control (Abril 2026)
 En el primer cuatrimestre de 2026, el RIGI se ha consolidado como el motor principal de la reactivación económica en sectores estratégicos:
