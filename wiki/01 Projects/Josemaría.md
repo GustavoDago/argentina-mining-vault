@@ -1,29 +1,39 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-14_news_mining_energy]], [[2026-04-18_news_mining_energy]], [[2026-05-21_news_mining_energy]]
+sources: [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-05-21_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-05-21
+last_update: 2026-10-18
 ---
 
 # Proyecto Josemaría (Cobre)
 
-**Ubicación:** Departamento Iglesia, San Juan, Argentina.
-**Operadora:** Lundin Mining (a través de Deprominsa).
+**Ubicación:** Departamento Iglesia, San Juan, Argentina.  
+**Operadora:** Lundin Mining / BHP (a través de Deprominsa).  
+**Inversión Integrada:** Parte central del desembolso de **US$ 9.737 millones** (categoría PEELP) para el [[Distrito Vicuña]].
 
-## Descripción
-Megaproyecto de cobre, oro y plata ubicado en el extremo norte de San Juan. Es parte fundamental del **Distrito Vicuña**, una región de clase mundial que comparte con Chile.
+---
 
-## Hitos Recientes (Mayo 2026)
-- **Destrabe Logístico en La Rioja (21/05/2026):** Se resolvió formalmente el conflicto jurisdiccional e interprovincial de acceso vial en los límites con la provincia de La Rioja. Este acuerdo destraba el corredor logístico e infraestructura vial crítica para el movimiento de carga pesada y equipos hacia el emplazamiento de la mina y el Distrito Vicuña en general.
-- **Cronograma de Construcción:** El CEO de Lundin Mining, Jack Lundin, confirmó que el inicio de la construcción de la Fase 1 está previsto para el **primer trimestre de 2027**.
-- **Presupuesto 2026:** Se asignaron **US$ 800 millones** para este año, destinados a ingeniería, preparación del sitio y actividades pre-construcción.
-- **Actualización de la DIA:** El Gobierno de San Juan aprobó formalmente la primera y segunda actualización de la Declaración de Impacto Ambiental (DIA) para la fase de explotación. Este hito consolida el marco legal para el inicio de las obras mayores.
-- **Integración Vicuña:** El proyecto se confirma como la punta de lanza del [[Distrito Vicuña]], con un plan de desarrollo por etapas que prioriza la puesta en marcha de Josemaría para apalancar el desarrollo de Filo del Sol.
-- **Reducción de Requerimientos:** Los condicionantes ambientales se reorganizaron de 120 a 65 ítems para optimizar la gestión y fiscalización.
-- El proyecto se posiciona como una pieza clave en la "revolución del cobre" impulsada por el [[RIGI]].
+## 1. Descripción
+Megaproyecto de pórfido de cobre, oro y plata ubicado en el extremo norte de San Juan. Constituye la punta de lanza del **Distrito Vicuña**, articulándose con Filo del Sol y Lunahuasi para posicionar a Argentina entre los grandes exportadores cupríferos globales.
+
+---
+
+## 2. Hitos Recientes (2026)
+- **Aprobación RIGI PEELP (Agosto 2026):** Integración formal de Josemaría al paraguas PEELP del [[RIGI]] dentro del clúster Vicuña (BHP / Lundin Mining) por **US$ 9.737 millones** iniciales (escalable a US$ 18.000M).
+- **Pacto Fiscal San Juan:** Regalías provinciales topadas al 3%, constitución de fideicomiso vial de US$ 250M y aporte del 1,5% de ventas brutas a partir del año 6.
+- **Línea de Extra Alta Tensión 500 kV:** Proyecto de interconexión eléctrica bajo esquema "el beneficiario paga" para abastecer las faenas de alta montaña.
+- **Crisis de Choferes de Alta Montaña (Octubre 2026):** La Cámara Minera de San Juan declaró la **"emergencia logística transitoria"** ante el grave déficit de conductores profesionales certificados en alta montaña. Lundin Mining y McEwen Copper coordinaron planes de capacitación conjunta y turnos compartidos.
+- **Task Force San Juan y Brecha Laboral (18/10/2026):** El gobierno provincial creó un comité de emergencia que graduó una primera camada de 500 choferes especializados; sin embargo, Lundin Mining advirtió que esto solo satisface el **20% de la fuerza laboral logística requerida** para la construcción temprana de Josemaría.
+- **Cronograma:** Inicio de construcción de obras mayores previsto para **2027**.
+
+---
 
 ## Conexiones
 - [[Cobre]]
 - [[RIGI]]
 - [[Distrito Vicuña]]
+- [[San Juan]]
+- [[Los Azules]]
+- [[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]
+- [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]

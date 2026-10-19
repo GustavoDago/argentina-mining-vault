@@ -171,6 +171,15 @@
 - [[PreMortem_VPP_SanJuan]]
 
 ### 📅 [[04 Daily|Operaciones Diarias]]
+- [[2026-10-18_Daily_Report]]
+- [[2026-10-17_Daily_Report]]
+- [[2026-10-16_Daily_Report]]
+- [[2026-10-15_Daily_Report]]
+- [[2026-10-13_Daily_Report]]
+- [[2026-10-12_Daily_Report]]
+- [[2026-10-11_Daily_Report]]
+- [[2026-10-10_Daily_Report]]
+- [[2026-10-09_Daily_Report]]
 - [[2026-10-07_Daily_Report]]
 - [[2026-10-06_Daily_Report]]
 - [[2026-10-05_Daily_Report]]
@@ -289,4 +298,4 @@
 - [[log|Log de Operaciones]]
 
 ---
-*Última actualización: 2026-10-07*
+*Última actualización: 2026-10-18*

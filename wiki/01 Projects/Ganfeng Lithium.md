@@ -1,9 +1,9 @@
 ---
 type: company
 tags: [mining, lithium, salta, jujuy, noa, exports]
-sources: [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]]
+sources: [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-07
+last_update: 2026-10-18
 ---
 
 # Ganfeng Lithium
@@ -21,9 +21,10 @@ last_update: 2026-10-07
 
 ---
 
-## 2. Hito Exportador (Septiembre 2026)
-- **Primera Exportación Comercial desde Salta:** En septiembre de 2026, Ganfeng concretó formalmente su primer despacho de exportación comercial de litio procesado desde la provincia de Salta, marcando la maduración operativa de su cadena logística hacia los puertos del Pacífico por el Paso de Sico y el Corredor Bioceánico.
-- **Integración Logística:** Ganfeng es uno de los principales impulsores del uso del Ramal C-14 del Ferrocarril Belgrano Cargas y el hub de General Güemes para el movimiento masivo de insumos y carbonato.
+## 2. Hitos Exportadores y Logística (2026)
+- **Primera Exportación Comercial desde Salta (Septiembre 2026):** Despacho comercial pionero de litio procesado desde Salta hacia los puertos del Pacífico por el Paso de Sico y el Corredor Bioceánico.
+- **Récord Histórico de Despacho desde Jujuy (18/10/2026):** Ganfeng concretó su mayor cargamento de exportación a la fecha desde la planta de Cauchari-Olaroz, utilizando mejoras en el enlace ferroviario hacia la frontera con Chile.
+- **Integración Logística:** Impulso estratégico al Ramal C-14 del Ferrocarril Belgrano Cargas y el hub de General Güemes para el movimiento masivo de insumos y carbonato de litio.
 
 ---
 

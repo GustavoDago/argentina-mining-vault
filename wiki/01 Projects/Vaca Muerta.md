@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [oil-gas, energy, rigi, neuquen, vmos, rione negro]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-12_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-07
+last_update: 2026-10-18
 ---
 
 # Vaca Muerta (Cuenca Neuquina)
@@ -14,28 +14,27 @@ last_update: 2026-10-07
 
 ---
 
-## 1. Métricas Clave y Récords Operativos (Agosto-Septiembre 2026)
+## 1. Métricas Clave y Récords Operativos (Agosto-Octubre 2026)
 - **Recursos Recuperables:** Estimación técnica oficial que **duplica los recursos recuperables a casi 30.000 millones de barriles de petróleo equivalente (Mboe)**.
-- **Récord Histórico de Producción Nacional (Agosto 2026):** Argentina alcanzó el máximo histórico absoluto de **929.363 bpd** de crudo, traccionada por el shale oil de Vaca Muerta que aporta ya el **74% del total país**.
-- **Récord en Cuenca Neuquina (Agosto 2026):** Neuquén alcanzó los **685.316 bpd**, con un récord de shale oil de **671.609 bpd** (+4% mensual).
-- **Rumbo al Millón de Barriles:** La industria proyecta que la puesta a punto del oleoducto [[VMOS]] permitirá cruzar formalmente la barrera del **1.000.000 bpd** antes de fin de año.
-- **Superávit Comercial Acumulado:** Entre enero y agosto de 2026, la balanza comercial energética registró un superávit récord de **US$ 7.834 millones**, superando holgadamente el resultado de todo el año 2025.
-- **Récord de Actividad:** La actividad de fractura hidráulica creció un 18% interanual y se sostienen más de **40 equipos de perforación (rigs) activos** simultáneos.
-- **Eficiencia Operativa:** [[Pluspetrol]] registró un récord de perforación en *Bajo del Choique* al completar **4.054 metros en una sola corrida**, fijando un nuevo benchmark de velocidad y costo unitario.
-- **Tight Gas en Expansión:** El tight gas gana protagonismo en [[YPF]], explicando 1 de cada 5 m³ de gas producidos.
+- **Récord Histórico de Producción Nacional:** Argentina consolidó picos por encima de los **929.000 bpd** de crudo, con la Cuenca Neuquina aportando más de **685.000 bpd** (shale oil >671.000 bpd).
+- **Rumbo al Millón de Barriles:** La entrada en operación comercial del oleoducto [[VMOS]] y el primer embarque marítimo offshore (18/10/2026) inician formalmente el sendero para superar el **1.000.000 bpd** antes de fin de año.
+- **Superávit Comercial Acumulado:** La balanza comercial energética supera los **US$ 7.834 millones** de saldo favorable acumulado.
+- **Récord de Actividad y Fractura:** Sostenidos más de **40 equipos de perforación (rigs)** activos; Continental Resources acelera etapas de fractura y "site prep" en sus 6 nuevos bloques.
+- **Eficiencia Operativa:** [[Pluspetrol]] benchmark de 4.054 metros perforados en una sola corrida en *Bajo del Choique*.
 
 ---
 
 ## 2. Megaproyectos de Evacuación e Infraestructura RIGI
 - **Oleoducto Vaca Muerta Sur ([[VMOS]]):**
-  - Techint-Sacde finalizó exitosamente la **construcción del tramo onshore (terrestre)** tras 15 meses de ejecución ininterrumpida.
-  - Se inició la fabricación y tendido del ducto offshore/submarino en **Punta Colorada** (Río Negro) —ingresando en fase de soldadura avanzada en septiembre de 2026— y se confirmó el arribo de las monoboyas de amarre marítimo tras superar el Estrecho de Ormuz. Capacidad inicial de 180.000 bpd (escalable a 500.000 bpd) para comenzar exportaciones masivas a fines de 2026.
-- **Argentina LNG ([[YPF]] / Eni / XRG):** Solicitud formal al [[RIGI]] (Categoría PEELP) por **US$ 51.000 millones**. Se implementó el mecanismo de **subasta inversa electrónica** para la adjudicación de gasoductos dedicados (527 km a Sierra Grande), resultando adjudicatarias firmas como Pumpco, Bonatti y Contreras Hermanos.
-- **[[Tecpetrol]] (Los Toldos II Este):** Aprobación formal bajo el [[RIGI]] con una inversión de **US$ 6.400 millones** para escalar producción de crudo no convencional en el hub norte.
-- **[[Compañía MEGA]]:** Aprobación de inversión RIGI por **US$ 365 millones** para expandir la capacidad de fraccionamiento y transporte de gas hacia Bahía Blanca.
-- **Licitación Neuquén y Capitales Estadounidenses:** GyP recibió ofertas para 8 áreas hidrocarburíferas. **[[Continental Resources]]** (Harold Hamm) ofertó por 6 bloques proyectando inversiones por **US$ 4.000 millones**, tras aliarse con Mercuria y adquirir el 50% de [[Phoenix Global Resources]].
-- **[[GeoPark Hub No Convencional]]:** Solicitud RIGI por más de **US$ 1.000 millones** para desarrollar *Loma Jarillosa Este* y *Puesto Silva Oeste*, proyectando alcanzar 20.000 bpd en tres años.
-- **[[Pampa Energía]] / Rincón de Aranda:** Aprobado bajo RIGI por **US$ 4.521 millones**; actualización de la planta petroquímica de fertilizantes en Bahía Blanca a **US$ 2.700 millones**.
+  - Techint-Sacde entregó formalmente la obra tras completar presurización y pruebas hidráulicas a inicios de octubre de 2026.
+  - **Operación Comercial Plena y Exportación Offshore (18/10/2026):** Primer embarque de crudo cargado exitosamente desde la monoboya/terminal offshore de Punta Colorada (Río Negro). Capacidad inicial de 180.000 bpd, escalable a 500.000 bpd.
+- **Argentina LNG ([[YPF]] / Eni / XRG):** 
+  - Expediente formal PEELP por **US$ 51.000 millones** bajo el [[RIGI]].
+  - En octubre de 2026 se concretó la **firma de los contratos de ingeniería básica (FEED)** y contratos finales FEED para la primera fase de licuefacción, acelerando hacia la Decisión Final de Inversión (FID) prevista para inicios de 2027.
+- **[[Tecpetrol]] (Los Toldos II Este):** Aprobación formal bajo el [[RIGI]] con inversión de **US$ 6.400 millones**.
+- **[[Continental Resources]]:** Desembarco con inversión comprometida de **US$ 4.000 millones** en 6 bloques licitados por GyP Neuquén; llegada de equipos de alta especificación y récords de preparación de locaciones en octubre de 2026.
+- **[[Compañía MEGA]]:** Aprobación RIGI por **US$ 365 millones** para capacidad de fraccionamiento hacia Bahía Blanca.
+- **[[Pampa Energía]] / Rincón de Aranda:** Aprobado bajo RIGI por **US$ 4.521 millones**.
 - **[[Palermo Aike]]:** YPF y CGC reactivaron la frontera shale austral con la programación de un segundo pozo no convencional en Santa Cruz.
 
 ---

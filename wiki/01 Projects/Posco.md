@@ -1,26 +1,30 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-13_news_mining_energy.md]], [[2026-04-14_news_mining_energy.md]], [[2026-04-16_news_mining_energy.md]], [[2026-04-18_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[raw/2026-04-13_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-22_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-18
 ---
 
 # Posco (Sal de Oro / Hombre Muerto Norte)
 
-**Operadora:** Posco Argentina (Subsidiaria de Posco Holdings, Corea del Sur).
-**Ubicación:** Salar del Hombre Muerto (Salta y Catamarca), Argentina.
+**Operadora:** Posco Argentina (Subsidiaria de Posco Holdings, Corea del Sur).  
+**Ubicación:** Salar del Hombre Muerto (Salta y Catamarca), Argentina.  
+**Inversión Integrada:** **US$ 800M+** (con aprobación RIGI para Fase 2).
 
-## Descripción
-Posco desarrolla el megaproyecto **Sal de Oro**. Tras la adquisición del 100% de **Hombre Muerto Norte (HMN)**, la empresa consolida una de las mayores reservas de litio de la Puna.
+---
 
-## Hitos Recientes (2026)
-- **Levantamiento de Cautelar (27/04/2026):** La ratificación judicial en Catamarca sobre la cuenca del Río Los Patos despeja el camino para la expansión de las operaciones hídricas necesarias para el proyecto.
-- **Demoras RIGI (27/04/2026):** Se reporta que la aprobación de la planta de litio en Salta bajo el marco del [[RIGI]] lleva más de 18 meses en evaluación, siendo uno de los proyectos pioneros en postularse.
-- **Consolidación HMN (18/04/2026):** Se ratificó la integración total de Hombre Muerto Norte a la cartera de Posco, tras la compra por US$ 65 millones. La empresa ahora controla el bloque completo para optimizar la infraestructura de Sal de Oro.
-- **Estado Operativo (14/04/2026):** Posco confirmó que su primera planta comercial ya opera al **70% de su capacidad nominal**.
-- **Adquisición Estratégica (13/04/2026):** Cierre de la operación con Lithium South.
-- **Marco RIGI (16/04/2026):** El proyecto de Posco para una planta de litio en Salta se encuentra entre las 11 presentaciones bajo evaluación formal del [[RIGI]], con una espera reportada desde 2024 para su aprobación final.
+## 1. Descripción
+Posco desarrolla el megaproyecto de litio **Sal de Oro**. Tras la integración total de **Hombre Muerto Norte (HMN)**, la compañía consolida un hub de extracción y refinación de carbonato e hidróxido de litio grado batería en el límite interprovincial de Salta y Catamarca.
+
+---
+
+## 2. Hitos Recientes (2026)
+- **Inauguración y Avance Constructivo Fase 2 (Octubre 2026):** Posco inauguró formalmente la Fase 2 y colocó la piedra fundacional en Hombre Muerto. Al 18 de octubre de 2026, las obras alcanzaron el **50% de avance físico**, superando el cronograma original y afianzando al NOA como hub de litio surcoreano.
+- **Tecnología de Extracción Directa (DLE):** La Fase 2 prioriza la tecnología DLE de adsorción para maximizar la tasa de recuperación de litio y sortear la escasez hídrica superficial de la cuenca del Río Los Patos.
+- **Fricción Regulatoria RIGI vs. REPEM (Octubre 2026):** Ante las exigencias de cuotas de contratación de proveedores locales impuestas por las provincias del NOA (REPEM), Posco elevó consultas formales de seguridad jurídica al Gobierno Nacional para clarificar la jerarquía entre los beneficios de libre importación del RIGI y las normativas locales.
+- **Aprobación RIGI Fase 2:** Proyecto incorporado al régimen con beneficios fiscales y cambiarios para asegurar la amortización acelerada.
+- **Estado Operativo Planta Comercial 1:** En régimen constante superando el 70% de capacidad de diseño.
 
 ## Producción Estimada
 - Potencial de producción: **15.600 toneladas anuales** de carbonato de litio equivalente (LCE).

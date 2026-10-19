@@ -1,17 +1,17 @@
 ---
 type: project
 tags: [energy, oil-gas, infrastructure, vmos, rione negro, rigi]
-sources: [[raw/2026-07-02_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]]
+sources: [[raw/2026-07-02_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-07
+last_update: 2026-10-18
 ---
 
 # VMOS (Vaca Muerta Sur)
 
 **Tipo:** Oleoducto Estratégico y Terminal Portuaria de Exportación de Crudo Liviano.
 **Inversión Total:** **US$ 2.500 millones**.
-**Operador Líder:** [[YPF]] en consorcio con las principales operadoras de la cuenca ([[Pan American Energy]], [[Vista Energy]], [[Pampa Energía]], [[Pluspetrol]], [[Chevron]], [[Shell]]).
-**Estado:** Tramo Onshore 100% construido; Fabricación y tendido de ducto Offshore en marcha (Agosto-Septiembre 2026).
+**Operador Líder:** [[YPF]] en consorcio con las principales operadoras de la cuenca ([[Pan American Energy]], [[Vista Energy]], [[Pampa Energía]], [[Pluspetrol]], [[Chevron]], [[Shell]], [[Continental Resources]]).
+**Estado:** **En Operación Comercial Plena** (Octubre 2026); Primer embarque marítimo offshore despachado desde Punta Colorada.
 
 ---
 
@@ -20,11 +20,11 @@ El oleoducto **Vaca Muerta Sur (VMOS)** es la obra de infraestructura midstream 
 
 ---
 
-## 2. Hitos Recientes (Agosto - Septiembre 2026)
-- **Finalización del Tramo Onshore (28/08/2026):** El consorcio constructor integrado por Techint y Sacde completó exitosamente el tendido terrestre de la tubería tras **15 meses de obras ininterrumpidas**.
-- **Inicio de Obras Offshore y Ducto Submarino:** Se inició formalmente la fabricación del ducto offshore en la provincia de Río Negro y el despliegue de barcazas de tendido submarino.
-- **Llegada de Monoboyas:** El CEO de YPF, Horacio Marín, confirmó que las monoboyas de amarre y carga en aguas profundas superaron el Estrecho de Ormuz y se encuentran en tránsito hacia Punta Colorada.
-- **Gestión Portuaria:** **Adani Group** formalizó su participación en los servicios portuarios de la terminal marítima a través del control del 51% de Meridian.
+## 2. Hitos Operativos y Entrada en Servicio (Octubre 2026)
+- **Pruebas Hidráulicas y Presurización de Línea (09-11/10/2026):** El consorcio Techint-Sacde concluyó satisfactoriamente las pruebas de presión y llenado de la traza onshore de 437 km, presurizando la tubería troncal.
+- **Inicio Formal de Operación Comercial (12-13/10/2026):** Techint-Sacde entregó formalmente la obra finalizada a los operadores, iniciando la inyección continua de crudo no convencional desde Neuquén hacia la costa de Río Negro.
+- **Primer Embarque de Exportación Offshore (18/10/2026):** Se concretó con éxito el amarre y carga del **primer buque tanquero de exportación** desde la terminal offshore de monoboyas en Punta Colorada, inaugurando formalmente la nueva ruta de salida atlántica de crudo para Vaca Muerta.
+- **Gestión Portuaria y Logística:** **Adani Group** consolidó su operación en la terminal marítima a través de su participación en Meridian.
 
 ---
 

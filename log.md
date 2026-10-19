@@ -1,5 +1,38 @@
 # Log de Operaciones
 
+## [2026-10-18] sync | Ingesta masiva y consolidación de 9 reportes Jules Intel (09 al 18 de Octubre 2026)
+- **Ingesta Primaria:** Extraídos, armonizados e integrados 9 reportes diarios crudos de noticias (`raw/2026-10-09_news_mining_energy.md` a `raw/2026-10-18_news_mining_energy.md`) y 9 reportes diarios analíticos (`wiki/04 Daily/2026-10-09_Daily_Report.md` a `wiki/04 Daily/2026-10-18_Daily_Report.md`) provenientes de las ramas remotas de Jules (`energon-daily-2026-10-09-...` a `energon-daily-2026-10-18-...`, etc.).
+- **Hitos Cuantitativos y Estratégicos Consolidados:**
+    - **RIGI Superación Hito US$ 108.000 Millones:** Ratificación del récord acumulado de proyectos presentados y aprobados formalmente bajo el régimen federal de grandes inversiones, con una cartera en proceso hacia los US$ 190.000M.
+    - **Oleoducto VMOS en Operación Comercial Plena:** Transición de construcción onshore a operación comercial plena con la carga del primer buque petrolero de exportación offshore en Punta Colorada (Río Negro) el 18 de octubre de 2026, abriendo la vía marítima directa de exportación de crudo de Vaca Muerta sin pasar por Puerto Rosales.
+    - **Argentina LNG (YPF / Eni / XRG):** Firma formal de contratos FEED (Front-End Engineering Design) bajo el paraguas PEELP del RIGI, consolidando la ruta hacia la Decisión Final de Inversión (FID) prevista para inicios de 2027.
+    - **Continental Resources en Neuquén:** Adjudicación y toma de posesión formal de los 6 bloques licitados por GyP (CAPEX comprometido de US$ 4.000 millones), llegada de equipos de alta especificación técnica (high-spec rigs) y fijación de nuevos récords de pad preparation y fracturas en shale oil.
+    - **Cobre:**
+        - **Taca Taca (First Quantum, Salta):** Conclusión exitosa de las audiencias públicas de línea de base ambiental (EIA) e inicio de movilización de maquinaria pesada a la Puna bajo compromiso RIGI por US$ 4.200M.
+        - **San Jorge (Mendoza):** Adjudicación y avance de la ingeniería de detalle tras la aprobación RIGI de US$ 891M bajo la Ley 7722.
+        - **Distrito Vicuña y Los Azules (San Juan):** Movilización temprana para la temporada estival 2026-2027.
+    - **Litio:**
+        - **Sal de Oro / Posco (Salta/Catamarca):** Fase 2 alcanzó el 50% de avance físico anticipado con tecnología DLE y despliegue de módulos comerciales en el Salar del Hombre Muerto.
+        - **Tres Quebradas / Zijin (Catamarca):** Conclusión de obras de la Fase 1 y recepción de los primeros desembolsos financieros bajo el RIGI (US$ 709M).
+        - **Ganfeng Lithium:** Récord de envíos de exportación desde Cauchari-Olaroz hacia puertos chilenos a través de las vías reacondicionadas del Ferrocarril Belgrano Cargas.
+    - **Corredor Bioceánico & Logística Transandina:**
+        - Presentación formal de los estudios de prefactibilidad para el megatúnel ferroviario de baja altura que proyecta ahorros de hasta 25% en costos de flete, complementado por una manifestación de interés y compromiso de financiamiento por **US$ 2.500 millones** del BID y socios privados (18/10/2026).
+- **Fricciones Operativas y Diagnóstico Escéptico (Red Team):**
+    - **Declaración de Emergencia Logística de Choferes en San Juan:** La Cámara Minera de San Juan (CMSJ) declaró formalmente la "Emergencia Logística Transitoria" por falta de conductores habilitados para alta montaña. Si bien el Task Force público-privado graduó a 500 conductores en tiempo récord, McEwen Copper y Lundin Mining confirmaron que la oferta sólo cubre el **20% de la demanda temprana**, ratificando la necesidad urgente de soluciones deep tech ([[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]).
+    - **Escalada Jurídica RIGI vs. REPEM (Cupos Locales 70-80%):** Consorcios asiáticos ([[Posco]], [[Zijin Mining]]) elevaron presentaciones formales de consulta y seguridad jurídica ante el gobierno nacional por la colisión entre el régimen de compre y empleo local del NOA (REPEM 70%) y el blindaje federal RIGI, amenazando con ralentizar el ramp-up 2027 ([[Esceptico_Calcatreu_Licencia_Social_REPEM]]).
+    - **Dilema Ferroviario Bioceánico:** Contraste entre el horizonte de largo plazo del megatúnel (2035+) y el hito inmediato e ineludible de la licitación del Belgrano Cargas (Ramal C-14, ofertas el 11/11/2026) ([[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]).
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/VMOS.md`, `Vaca Muerta.md`, `Continental Resources.md`, `Josemaría.md`, `Los Azules.md`, `San Juan.md`, `Cobre.md`, `Taca Taca.md`, `Posco.md`, `Litio.md`, `Tres Quebradas.md`, `Ganfeng Lithium.md`, `Salta.md`, `Catamarca.md`, `Jujuy.md`, `Río Negro.md`.
+    - `wiki/02 Frameworks/RIGI.md`, `Corredor Bioceanico.md`.
+    - `wiki/03 Analysis/Oportunidades y Conexiones.md`.
+    - `wiki/05 Tech Lead Opps/VR_Simulacion_Choferes_Alta_Montana_SanJuan.md`.
+    - `wiki/07 Analisis Esceptico/Esceptico_Calcatreu_Licencia_Social_REPEM.md`, `Esceptico_Megatunel_Bioceanico_Belgrano_Cargas.md`.
+    - `wiki/04 Daily/` (9 reportes diarios armonizados e incorporados).
+    - `index.md`, `wiki/index.md`.
+- **Saneamiento y Control Git:**
+    - Consolidación limpia sobre rama `main` sin regresiones ni sobreescrituras destructivas.
+    - Depuración de ramas remotas de Jules procesadas.
+
 ## [2026-10-07] sync | Ingesta consolidada de 5 reportes Jules Intel (03 al 07 de Octubre 2026)
 - **Ingesta Primaria:** Extraídos, armonizados e integrados 5 reportes diarios crudos de noticias (`raw/2026-10-03_news_mining_energy.md` a `raw/2026-10-07_news_mining_energy.md`) y 5 reportes diarios analíticos (`wiki/04 Daily/2026-10-03_Daily_Report.md` a `wiki/04 Daily/2026-10-07_Daily_Report.md`) provenientes de las ramas remotas de Jules (`update-oct-3-8112079525004374864`, `energon-daily-update-2026-10-04-2432444058318918092`, `daily-update-2026-10-05-3884962763747431546`, `energon-daily-2026-10-06-5220172259370845098`, `energon-daily-2026-10-07-1917107354504271143`).
 - **Hitos Cuantitativos y Estratégicos Consolidados:**

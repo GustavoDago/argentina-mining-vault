@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [energy, oil-gas, mining, regulatory, rione negro, vmos, gnl]
-sources: [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]]
+sources: [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-07
+last_update: 2026-10-18
 ---
 
 # Provincia de Río Negro
@@ -14,9 +14,9 @@ Río Negro se consolida como la cabecera marítima y de exportación atlántica 
 
 ## 1. Proyectos Energéticos Clave (Midstream & GNL)
 - **Oleoducto Vaca Muerta Sur ([[VMOS]]) (Punta Colorada):**
-  - Finalizado el tramo terrestre de 437 km (inversión de **US$ 2.500 millones**) por Techint-Sacde tras 15 meses de obras.
-  - En marcha la fabricación y tendido del ducto submarino/offshore en Punta Colorada (Golfo San Matías) —en fase de soldadura avanzada en septiembre de 2026— con arribo confirmado de monoboyas.
-- **[[Argentina LNG]] ([[YPF]] / Eni / XRG):** Proyecto PEELP presentado bajo el [[RIGI]] por **US$ 51.000 millones**, con terminal de licuefacción en Sierra Grande y gasoducto troncal dedicado de 527 km.
+  - Obra entregada formalmente por Techint-Sacde; presurización de línea completada.
+  - **Operación Comercial y Primer Embarque Offshore (18/10/2026):** Se concretó con éxito la carga del primer buque petrolero desde la terminal de monoboyas en Punta Colorada (Golfo San Matías).
+- **[[Argentina LNG]] ([[YPF]] / Eni / XRG):** Proyecto PEELP presentado bajo el [[RIGI]] por **US$ 51.000 millones**, con terminal de licuefacción en Sierra Grande y gasoducto troncal dedicado de 527 km. En octubre de 2026 se concretó la firma de contratos FEED definitivos hacia la FID 2027.
 - **[[Southern Energy]] (Planta GNL):** Licuefacción flotante en el Golfo San Matías (inversión de **US$ 6.900 millones** amparada por el RIGI).
 - **Operador Portuario en Punta Colorada:** **Adani Group** asumió los servicios portuarios a través del 51% de Meridian por 10 años.
 - **Extensión de Frontera Exploratoria:** [[Phoenix Global Resources]] completó un pozo exploratorio récord que extiende la productividad de la formación Vaca Muerta hacia el este rionegrino.

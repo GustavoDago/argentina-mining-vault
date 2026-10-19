@@ -1,9 +1,9 @@
 ---
 type: company
 tags: [energy, oil-gas, neuquen, us-investors, rigi, vmos]
-sources: [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]]
+sources: [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-07
+last_update: 2026-10-18
 ---
 
 # Continental Resources
@@ -16,9 +16,10 @@ last_update: 2026-10-07
 
 ## 1. Entrada Estratégica en Vaca Muerta (2026)
 - **Alianza con Mercuria y [[Phoenix Global Resources]]:** En 2026 Continental Resources formalizó su desembarco masivo en Argentina adquiriendo el **50% de las acciones de Phoenix Global Resources**, operadora clave en los bloques *Mata Mora Norte* y *Confluencia*.
-- **Licitación Provincial GyP Neuquén (Septiembre 2026):** Presentó ofertas formales liderando la puja por **6 de las 8 nuevas áreas hidrocarburíferas** licitadas por Gas y Petróleo del Neuquén (GyP).
-- **Compromiso de Inversión:** Proyecta desembolsos de capital (CAPEX) por **US$ 4.000 millones** en shale oil de ciclo largo.
-- **Participación en Evacuación ([[VMOS]]):** Continental y Phoenix se integraron a la capacidad de evacuación reservada en el oleoducto Vaca Muerta Oil Sur para colocar su producción en el mercado internacional a través de la terminal de Punta Colorada.
+- **Licitación Provincial GyP Neuquén (Septiembre-Octubre 2026):** Se adjudicó formalmente **6 de los 8 bloques hidrocarburíferos** licitados por GyP en Neuquén.
+- **Compromiso de Inversión RIGI:** Proyecta desembolsos de capital (CAPEX) por **US$ 4.000 millones** en shale oil de ciclo largo.
+- **Despliegue Operativo de Campo (Octubre 2026):** Llegada de los primeros equipos de perforación de alta especificación a Neuquén, batiendo récords de preparación de locaciones (*site prep*) en los seis bloques e impulsando nuevos picos en etapas de fractura mensuales.
+- **Participación en Evacuación ([[VMOS]]):** Continental y Phoenix integraron su producción a la capacidad reservada en el oleoducto Vaca Muerta Oil Sur para exportar a través de Punta Colorada.
 
 ---
 
