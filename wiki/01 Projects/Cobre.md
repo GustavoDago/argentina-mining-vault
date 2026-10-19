@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-19_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-19
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -29,12 +29,14 @@ La mayoría de estos proyectos han solicitado o ya están admitidos en el **[[RI
 
 ### 2. [[Los Azules]] (San Juan) - Cobre Verde
 - **Innovación:** Lixiviación en pilas para producir cátodos de "cobre verde".
+- **Crisis Logística (19/10/2026):** San Juan declaró "alerta naranja" por déficit de conductores de camiones de alta montaña, a pesar del programa que egresó a 500 choferes, lo que amenaza con retrasar suministros.
 - **Financiamiento:** Inversión comprometida de **US$ 2.670 millones** (Ratificado 18/04/2026). McEwen Copper apunta a iniciar construcción a fines de 2026.
 - **Conflicto Eléctrico (Abril 2026):** Disputa ante el ENRE con el [[Distrito Vicuña]] por la prioridad de uso de la línea de 500 kV.
 - **Horizonte 2029 (16/04/2026):** Proyectado para entrar en operación comercial en 2029.
 
 ### 3. [[Taca Taca]] (Salta) - Gigante del Norte
-- **Inversión:** Solicitud RIGI por **US$ 5.250 millones**, con una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Inversión:** Incorporado formalmente al RIGI (19/10/2026) con una solicitud por **US$ 5.250 millones**, y una ratificación de ejecución por **US$ 4.200 millones** (Abril 2026).
+- **Avance Social (19/10/2026):** Concluyó exitosamente la fase de audiencias públicas vinculantes, despejando el último obstáculo para su Estudio de Impacto Ambiental.
 - **Hito Reciente (27/04/2026):** Acuerdo con la IFC para asegurar estándares ASG y facilitar el financiamiento bancario.
 - **Hito Reciente:** Proyecta inversiones por **US$ 790 millones** para el año 2026. Presentación ante el Senado de Salta para acelerar aprobación de EIA y conecesiones de agua antes del vencimiento del plazo RIGI.
 
