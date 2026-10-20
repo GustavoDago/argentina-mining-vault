@@ -1,15 +1,15 @@
 ---
 type: analysis
 tags: [mining, regulatory, rione-negro, noa, repem, rigi, risk-assessment]
-sources: [[2026-09-07_news_mining_energy.md]], [[2026-09-08_news_mining_energy.md]], [[2026-09-09_news_mining_energy.md]], [[2026-09-10_news_mining_energy.md]], [[2026-09-11_news_mining_energy.md]], [[2026-09-13_news_mining_energy.md]], [[2026-10-10_news_mining_energy.md]], [[2026-10-15_news_mining_energy.md]], [[2026-10-18_news_mining_energy.md]]
+sources: [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-18
+last_update: 2026-10-20
 ---
 
 # Red Team: El Precedente Calcatreu y la Tensión RIGI vs. REPEM (Riesgo 80/20)
 
 ## 1. Idea central
-La suspensión temporal de operaciones en el proyecto de oro y plata [[Calcatreu]] por parte del Gobierno de [[Río Negro]], fundamentada en el incumplimiento reiterado del cupo de mano de obra local del 80% (regla 80/20), dinamitó la premisa operativa de que el paraguas del [[RIGI]] confiere blindaje integral frente al poder de policía provincial. Hacia mediados de octubre de 2026, este conflicto escaló al plano institucional mayor: consorcios multinacionales asiáticos (liderados por [[Posco]] y [[Zijin Mining]] en [[Tres Quebradas]]) elevaron presentaciones formales de consulta y seguridad jurídica ante la Secretaría de Minería de la Nación y carteras provinciales, advirtiendo sobre la colisión directa entre las garantías federales de libre contratación/importación del RIGI y los regímenes provinciales de compre y empleo local (como el 70% del REPEM en [[Catamarca]] y normas análogas en [[Salta]] y [[Jujuy]]). La licencia social y la policía de trabajo provincial conservan el poder efectivo de detener o ralentizar un yacimiento sin importar el volumen de CAPEX comprometido.
+La suspensión temporal de operaciones en el proyecto de oro y plata [[Calcatreu]] por parte del Gobierno de [[Río Negro]], fundamentada en el incumplimiento reiterado del cupo de mano de obra local del 80% (regla 80/20), dinamitó la premisa operativa de que el paraguas del [[RIGI]] confiere blindaje integral frente al poder de policía provincial. Hacia el 19-20 de octubre de 2026, este conflicto escaló al plano administrativo y judicial: la Secretaría de Minería de [[Catamarca]] cursó intimaciones formales contra [[Posco]] y [[Tres Quebradas]] (LIEX/Zijin) por infringir los cupos del REPEM (70%), mientras el Gobierno Nacional sugirió dirimir en sede judicial la primacía del marco RIGI frente a ordenanzas y leyes subnacionales. La licencia social y la policía de trabajo provincial conservan el poder efectivo de detener o ralentizar un yacimiento sin importar el volumen de CAPEX comprometido.
 
 ## 2. Trade-offs
 - **Eficiencia Operativa / Talento Especializado vs. Cumplimiento de Cupos Territoriales:** Las operadoras mineras y sus contratistas Tier 1 enfrentan una disyuntiva crítica: contratar personal altamente calificado de otras provincias o del exterior para sostener los cronogramas constructivos de alta exigencia, arriesgando multas y paralizaciones provinciales; o contratar mano de obra local no capacitada, aumentando los costos de inducción, la tasa de siniestralidad laboral y el retraso en la curva de aprendizaje.

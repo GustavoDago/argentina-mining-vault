@@ -1,5 +1,37 @@
 # Log de Operaciones
 
+## [2026-10-20] sync | Ingesta consolidada de 2 reportes Jules Intel (19 y 20 de Octubre 2026)
+- **Ingesta Primaria:** Extraídos, armonizados e integrados 2 reportes diarios crudos de noticias (`raw/2026-10-19_news_mining_energy.md` y `raw/2026-10-20_news_mining_energy.md`) y 2 reportes diarios analíticos (`wiki/04 Daily/2026-10-19_Daily_Report.md` y `wiki/04 Daily/2026-10-20_Daily_Report.md`) provenientes de las ramas remotas de Jules (`energon-oct-19-2026-15184069707829784553` y `jules-55598344068276082-4b6d7d14`).
+- **Hitos Cuantitativos y Estratégicos Consolidados:**
+    - **RIGI Superación Récord US$ 110.000 Millones:** Oficialización por el Ministerio de Economía en el Boletín Oficial de un portafolio de proyectos admitidos y aprobados superior a los **US$ 110.000 millones** (tras cruzar los US$ 106.000M el 19/10), impulsado por la formalización del megaproyecto de cobre [[Taca Taca]] (US$ 4.200M) y el desembarco operativo de [[Continental Resources]] (US$ 4.000M) en Vaca Muerta.
+    - **Vaca Muerta & Estabilidad VMOS:**
+        - **Oleoducto VMOS en Operación Continua:** El oleoducto Vaca Muerta Sur completó su primera semana de operación comercial continua y estable, superando con éxito las pruebas de carga inicial e inyección hacia la terminal offshore en Punta Colorada (Río Negro).
+        - **Continental Resources en Perforación Activa:** La operadora independiente inició formalmente la perforación de sus primeros pozos exploratorios no convencionales en los 6 bloques licitados por GyP en Neuquén, tras batir récords en preparación de locaciones (*site prep*).
+        - **Argentina LNG (YPF / Eni / XRG):** Adjudicación formal de los contratos de diseño de ingeniería básica (FEED) para la planta de licuefacción en Río Negro bajo el régimen PEELP del RIGI hacia el FID previsto para inicios de 2027.
+    - **Cobre:**
+        - **Taca Taca (First Quantum Minerals, Salta):** Conclusión exitosa y vinculante de las audiencias públicas definitivas del Estudio de Impacto Ambiental (EIA) con rotundo respaldo social y provincial, despejando el camino para la Declaración de Impacto Ambiental (DIA) final y la movilización de maquinaria pesada para obras 2027.
+        - **Distrito Vicuña y Los Azules (San Juan):** Preparativos finales de movilización para la temporada estival 2026-2027.
+    - **Litio:**
+        - **Posco (Sal de Oro / Hombre Muerto):** Inicio formal del movimiento de tierras para la Fase 2 en el Salar del Hombre Muerto para duplicar producción mediante tecnología DLE, alcanzando el 50% de avance físico general.
+        - **Tres Quebradas / LIEX (Catamarca):** Consolidación de Fase 1 completada y tracción de los primeros desembolsos financieros bajo el marco RIGI (US$ 709M).
+    - **Corredor Bioceánico & Logística Transandina:**
+        - **Aprobación de Crédito BID por US$ 2.500 Millones:** El Banco Interamericano de Desarrollo aprobó formalmente el financiamiento destinado a la licitación del estudio de prefactibilidad técnica/ambiental y primeros diseños de ingeniería para el túnel ferroviario transandino (Baja Altura), asegurando la viabilidad multilateral de largo plazo para la evacuación minera hacia puertos del Pacífico.
+- **Fricciones Operativas y Diagnóstico Escéptico (Red Team):**
+    - **Escalada a Alerta Naranja Logística en San Juan:** La Mesa Logística provincial declaró la **"alerta naranja"** por el déficit crítico de conductores de alta montaña. Pese al programa conjunto de capacitación acelerada entre el gobierno y las operadoras ([[Los Azules]], [[Josemaría]]), la oferta cubre apenas el **20% de la demanda**, validando la urgencia de deep tech de simulación inmersiva y biometría ([[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]).
+    - **Tensión RIGI vs. REPEM e Intimaciones en Catamarca:** La Secretaría de Minería de Catamarca cursó intimaciones formales a [[Posco]] y [[Tres Quebradas]] para exigir el cumplimiento del cupo de mano de obra y compre local del REPEM (70%). Ante la colisión entre el régimen federal y las normativas subnacionales, el Gobierno Nacional sugirió dirimir en sede judicial la preeminencia del RIGI ([[Esceptico_Calcatreu_Licencia_Social_REPEM]] y [[Compliance_Compre_Local_8020_SaaS]]).
+    - **Paradoja Temporal Bioceánica:** Ratificación de la prioridad inmediata de la licitación del Ferrocarril Belgrano Cargas (Ramal C-14, 11/11/2026) frente al horizonte decenal del megatúnel trasandino ([[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]).
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/RIGI.md`, `Cobre.md`, `Litio.md`, `Vaca Muerta.md`, `VMOS.md`, `Continental Resources.md`, `Taca Taca.md`, `Posco.md`, `Tres Quebradas.md`, `San Juan.md`, `Los Azules.md`, `Josemaría.md`.
+    - `wiki/02 Frameworks/Corredor Bioceanico.md`.
+    - `wiki/03 Analysis/Oportunidades y Conexiones.md`.
+    - `wiki/05 Tech Lead Opps/VR_Simulacion_Choferes_Alta_Montana_SanJuan.md`.
+    - `wiki/07 Analisis Esceptico/Esceptico_Calcatreu_Licencia_Social_REPEM.md`, `Esceptico_Megatunel_Bioceanico_Belgrano_Cargas.md`.
+    - `wiki/04 Daily/2026-10-19_Daily_Report.md`, `wiki/04 Daily/2026-10-20_Daily_Report.md`.
+    - `index.md`, `wiki/index.md`.
+- **Saneamiento y Control Git:**
+    - Ingesta selectiva y consolidación sin regresiones destructivas sobre `main` (neutralizando el desfasaje de ramas remotas bifurcadas de abril).
+    - Depuración de ramas remotas obsoletas (`energon-oct-19-2026-15184069707829784553`, `jules-55598344068276082-4b6d7d14`, `setup-obsidian-energy-mining-vault-argentina-16474138635082252238`).
+
 ## [2026-10-18] sync | Ingesta masiva y consolidación de 9 reportes Jules Intel (09 al 18 de Octubre 2026)
 - **Ingesta Primaria:** Extraídos, armonizados e integrados 9 reportes diarios crudos de noticias (`raw/2026-10-09_news_mining_energy.md` a `raw/2026-10-18_news_mining_energy.md`) y 9 reportes diarios analíticos (`wiki/04 Daily/2026-10-09_Daily_Report.md` a `wiki/04 Daily/2026-10-18_Daily_Report.md`) provenientes de las ramas remotas de Jules (`energon-daily-2026-10-09-...` a `energon-daily-2026-10-18-...`, etc.).
 - **Hitos Cuantitativos y Estratégicos Consolidados:**

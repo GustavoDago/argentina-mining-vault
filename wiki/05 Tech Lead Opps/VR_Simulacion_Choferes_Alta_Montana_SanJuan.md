@@ -1,9 +1,9 @@
 ---
 type: tech-lead-opp
 tags: [mining, copper, logistics, san-juan, software, vr, edtech, safety]
-sources: [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
+sources: [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-18
+last_update: 2026-10-20
 ---
 
 # Simulación VR y Certificación de Choferes de Alta Montaña — San Juan Cobre
@@ -21,7 +21,7 @@ last_update: 2026-10-18
 
 ## 2. Señal de Mercado y Diagnóstico del Cuello de Botella
 
-- **Validación Empírica del Cuello de Botella (Octubre 2026):** La Cámara Minera de San Juan declaró la **"emergencia logística transitoria"**. El gobierno provincial articuló un **Task Force de Emergencia** que graduó a sus primeros 500 conductores; no obstante, [[McEwen Copper]] y [[Lundin Mining]] advirtieron formalmente que esta cohorte cubre apenas el **20% de la fuerza laboral requerida**, demostrando que los métodos analógicos de capacitación no logran cerrar la brecha a la velocidad que exige el RIGI.
+- **Validación Empírica del Cuello de Botella (Octubre 2026):** La Mesa Logística de San Juan escaló la situación declarando el estado de **"alerta naranja"**. Si bien el gobierno provincial y las operadoras ([[McEwen Copper]], [[Lundin Mining]]) articularon programas de capacitación acelerada, la primera camada de 500 egresados cubre apenas el **20% de la fuerza laboral requerida**, demostrando que los métodos analógicos de capacitación en ruta no logran cerrar la brecha a la velocidad que exige el RIGI ni mitigar los riesgos de siniestralidad invernal.
 - **Riesgo Operativo Extremo:** El ascenso con tolvas, bateas y carretones de gran porte por huellas de ripio cordillerano expone a las compañías a riesgos severos: congelamiento de frenos, hielo negro, caída de rocas, falta de oxígeno (*puna*) y fatiga del conductor. Un siniestro vial en cordillera paraliza la ruta por días y encarece exponencialmente las pólizas de seguro.
 - **Competencia Intersectorial:** Vaca Muerta y el litio del NOA también disputan choferes profesionales, generando canibalización salarial y rotación excesiva.
 

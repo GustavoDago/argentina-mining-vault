@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-14_news_mining_energy.md]], [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-18
+last_update: 2026-10-20
 ---
 
 # Proyecto Los Azules (Cobre)
@@ -27,7 +27,7 @@ last_update: 2026-10-18
   - **Puesta en Marcha Comercial:** Proyectada para **2030**.
 - **Proyecciones de Producción:** Vida útil de más de 22 años con una producción promedio de **148.000 toneladas anuales** de cátodos, con picos de 204.000 t/año en los primeros 5 años.
 - **Socios Estratégicos:** Stellantis (participación en capital para asegurar suministro de cátodos para vehículos eléctricos) y Rio Tinto (tecnología de lixiviación Nuton).
-- **Emergencia Logística por Choferes de Alta Montaña (Octubre 2026):** La Cámara Minera de San Juan declaró la emergencia ante el déficit crítico de conductores para la ruta cordillerana hacia Calingasta. Pese a la graduación de 500 conductores por el Task Force provincial de San Juan, McEwen Copper advirtió que la cifra cubre apenas el **20% de la dotación requerida** para la construcción temprana y transporte de insumos pesados.
+- **Alerta Naranja y Programa Acelerado de Choferes (Octubre 2026):** La Mesa Logística declaró "alerta naranja" ante el déficit de conductores para la ruta cordillerana hacia Calingasta. McEwen Copper y el gobierno lanzaron esquemas de capacitación acelerada, advirtiendo que la cohorte actual de 500 choferes cubre apenas el **20% de la dotación requerida** para la construcción temprana y transporte de insumos pesados.
 
 ---
 
