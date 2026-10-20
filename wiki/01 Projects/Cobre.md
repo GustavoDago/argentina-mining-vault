@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-22_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-20
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -12,6 +12,10 @@ last_update: 2026-04-27
 
 ## Potencial Geológico (Abril 2026)
 Según el informe de la Secretaría de Minería de la Nación, Argentina cuenta con recursos por **117,91 millones de toneladas (MTn)** de cobre, de los cuales **53,83 MTn** ya se encuentran en la categoría de "Medidos e Indicados", garantizando certeza técnica para la inversión inmediata.
+
+## Hitos de Octubre 2026
+- **Taca Taca avanza a su DIA (20/10/2026):** Concluyeron exitosamente las audiencias públicas ambientales, un paso fundamental para su aprobación final.
+- **Logística en San Juan (20/10/2026):** Ante la escasez de choferes de alta montaña, el gobierno provincial junto con Los Azules y Josemaría lanzaron un programa de capacitación acelerada.
 
 ## La Cuenca del Cobre (2026)
 La minería de cobre en Argentina se concentra principalmente en la región de la Puna y los Andes Centrales (San Juan, Salta y Mendoza).

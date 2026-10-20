@@ -1,14 +1,19 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]]
+sources: [[2026-04-03_news_mining_energy.md]], [[2026-04-10_news_mining_energy.md]], [[2026-04-13_news_mining_energy.md]], [[2026-04-15_news_mining_energy.md]], [[2026-04-20_news_mining_energy.md]], [[2026-04-27_news_mining_energy.md]], [[2026-10-20_news_mining_energy.md]]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-10-20
 ---
 
 # Litio en Argentina: El Triángulo de Oro
 
 **Contexto:** En abril de 2026, Argentina se consolidó como el **segundo exportador mundial de litio**, superando a Chile. El "Triángulo del Litio" (Salta, Jujuy y Catamarca) atrae el 60% de la inversión minera del país.
+
+## Hitos de Octubre 2026
+- **Posco Fase 2 (20/10/2026):** Posco inició el movimiento de tierras para la Fase 2 en el Salar del Hombre Muerto, buscando duplicar su capacidad productiva.
+- **Fricciones Logísticas RIGI vs REPEM (20/10/2026):** Se registran tensiones en Catamarca y Jujuy entre los beneficios aduaneros del RIGI y las cuotas locales exigidas por el REPEM.
+- **LIEX S.A. Avanza (20/10/2026):** El proyecto 3Q reportó avances operativos dentro del marco del nuevo régimen de incentivos.
 
 ## Proyectos y Producción (2026)
 A comienzos de 2026, la Argentina cuenta con **8 proyectos en operación comercial**, tras la reciente activación de nuevos yacimientos estratégicos.

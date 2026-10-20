@@ -1,6 +1,11 @@
 # Corredor Bioceánico de Capricornio (CBC)
 
+**Fuentes:** [[2026-10-20_news_mining_energy.md]]
+
 **Extensión:** ~2.400 kilómetros que conectan el Océano Atlántico (Brasil) con el Océano Pacífico (Chile) a través de Paraguay y Argentina.
+
+## Hitos de Octubre 2026
+- **Financiamiento BID (20/10/2026):** El BID aprobó un fondo no reembolsable para completar los estudios de pre-factibilidad técnica y ambiental del túnel ferroviario transandino (estimado en USD 2.500M), clave para exportar concentrado de cobre y litio hacia el Pacífico.
 
 ## Estado de la Traza (Abril 2026)
 - **Brasil - Paraguay:**

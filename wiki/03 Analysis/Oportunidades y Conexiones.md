@@ -47,6 +47,8 @@ last_update: 2026-04-27
     - El aumento del umbral de rentabilidad al 35% es una señal directa para el sector de hidrocarburos y la infraestructura eléctrica. La oportunidad reside en proyectos de **recuperación terciaria, shale oil de ciclo largo y líneas de transmisión** que ahora encuadran mejor en el régimen de incentivos.
 19. **Industrialización de Gas (Fertilizantes)**:
     - El pedido de RIGI de **Pampa Energía** para su planta de urea en Bahía Blanca (US$ 2.400M) marca el inicio de la fase de valor agregado para el gas de Vaca Muerta, abriendo oportunidades para proveedores de ingeniería y servicios industriales complejos.
+20. **Mitigación del Déficit Logístico (Octubre 2026)**:
+    - El lanzamiento de programas de capacitación acelerada para choferes de alta montaña en San Juan refleja una intervención directa ante el cuello de botella logístico. Se abre una ventana para **empresas de simulación, entrenamiento y certificación de operaciones pesadas**.
 
 ## Conexiones Estratégicas y Ocultas
 Argentina ha pasado de ser un actor regional a una **potencia exportadora global de litio**, superando a Chile en 2026. La tríada **Cobre + Litio + Federalismo Ambiental (Ley de Glaciares)** configura un ecosistema de inversión blindado que trasciende la volatilidad del mercado interno.
@@ -107,6 +109,11 @@ graph TD
 
     Chile[Integración con Chile] --> |Logística Pacífico| Cobre
     Chile --> |18/04: SatCom Starlink| Logistics[Logística Minera]
+    Logistics --> |Déficit Choferes| DriverTraining[Capacitación Acelerada San Juan]
+    DriverTraining --> |Mitiga Riesgo| LosAzules
+    DriverTraining --> |Mitiga Riesgo| Josemaria[Josemaría]
+    BID[Financiamiento BID USD 2.5B] --> |Pre-factibilidad| Tunnel[Túnel Transandino]
+    Tunnel --> Chile
 
     Eval --> |Espera desde 2024| Posco
 
