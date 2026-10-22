@@ -1,5 +1,11 @@
 # Log de Operaciones
 
+## [2026-10-22] sync | Sincronización Jules Intel
+- **Ingesta:** Creado reporte de noticias `raw/2026-10-22_news_mining_energy.md` y reporte diario `wiki/04 Daily/2026-10-22_Daily_Report.md`.
+- **Hitos Inversión:** Continental avanza con su primer pozo en Vaca Muerta, obras tempranas en Taca Taca, financiamiento Fase 2 Cauchari-Olaroz.
+- **Hitos Regulatorios:** Acuerdos preliminares RIGI-REPEM en Catamarca, inicio pruebas "Aduana Green Channel", subsidios capacitación choferes en San Juan.
+- **Actualizaciones:** `wiki/03 Analysis/Oportunidades y Conexiones.md`.
+
 ## [2026-10-20] sync | Ingesta consolidada de 2 reportes Jules Intel (19 y 20 de Octubre 2026)
 - **Ingesta Primaria:** Extraídos, armonizados e integrados 2 reportes diarios crudos de noticias (`raw/2026-10-19_news_mining_energy.md` y `raw/2026-10-20_news_mining_energy.md`) y 2 reportes diarios analíticos (`wiki/04 Daily/2026-10-19_Daily_Report.md` y `wiki/04 Daily/2026-10-20_Daily_Report.md`) provenientes de las ramas remotas de Jules (`energon-oct-19-2026-15184069707829784553` y `jules-55598344068276082-4b6d7d14`).
 - **Hitos Cuantitativos y Estratégicos Consolidados:**
