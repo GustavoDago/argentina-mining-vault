@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI, supply-chain, reverse-auctions, belgrano-cargas, high-mountain]
-sources: [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-10_news_mining_energy.md]], [[raw/2026-08-11_news_mining_energy.md]], [[raw/2026-08-12_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
+sources: [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-10_news_mining_energy.md]], [[raw/2026-08-11_news_mining_energy.md]], [[raw/2026-08-12_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]], [[raw/2026-10-23_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-20
+last_update: 2026-10-23
 ---
 
 # Oportunidades de Negocio y Conexiones Estratégicas - Octubre 2026
@@ -48,11 +48,15 @@ graph TD
     RIGI --> |Formalizado US$ 4.200M / EIA Audiencias Concluidas| TacaTaca[Taca Taca First Quantum]
     RIGI --> |Aprobado Fase 2 / Movimiento Tierras| PoscoLitio[Posco Sal de Oro DLE]
 
+    RIGI --> |Acelerador| CanalVerde[Canal Verde Aduanero Operativo]
+    CanalVerde -.-> 3Q
+    CanalVerde -.-> Continental
+
     ArgLNG --> |Mecanismo| SubastaInversa[Subastas Inversas Electrónicas]
     ArgLNG --> |Cabecera Atlántica| RioNegro[Punta Colorada / Sierra Grande]
 
     VM[Vaca Muerta: >40 Rigs / Récord Producción / Superávit US$ 7.834M] --> ArgLNG
-    VM --> |1ra Semana Comercial Estable & Embarques Offshore| VMOS[Oleoducto VMOS US$ 2.500M]
+    VM --> |Capacidad Maxima Inicial 180k bpd| VMOS[Oleoducto VMOS US$ 2.500M]
     VMOS --> |Terminal Offshore Monoboyas| RioNegro
 
     Vicuña --> |Línea Privada 500 kV| Transmision[Línea Dedicada 500 kV Beneficiario Paga]
@@ -71,7 +75,7 @@ graph TD
     Calcatreu --> FriccionLocal[Fricción RIGI vs Compre Local REPEM/80-20 & Intimaciones]
     3Q --> FriccionLocal
     PoscoLitio --> FriccionLocal
-    FriccionLocal --> ComplianceSaaS[[Compliance Compre Local 80/20 SaaS]]
+    FriccionLocal --> |Tregua Técnica Alcanzada| ComplianceSaaS[[Compliance Compre Local 80/20 SaaS]]
     FriccionLocal --> FintechGarantias[[Fintech Garantías & Sindicación PyME]]
 ```
 
