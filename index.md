@@ -122,6 +122,7 @@
 - [[WaterLoop_VacaMuerta]]
 
 ## 06 Shadow APIs
+- [[Aduana Green Channel]]
 - [[Aduana Paso de Jama]]
 - [[Aprobacion RIGI Upstream Res 484-2026]]
 - [[Compliance Compre Local REPEM Catamarca vs RIGI]]
@@ -171,6 +172,7 @@
 - [[PreMortem_VPP_SanJuan]]
 
 ## 04 Daily
+- [[2026-10-25_Daily_Report]]
 - [[2026-10-20_Daily_Report]]
 - [[2026-10-19_Daily_Report]]
 - [[2026-10-18_Daily_Report]]
