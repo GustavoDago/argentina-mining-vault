@@ -615,3 +615,12 @@ aw/2026-08-17_news_mining_energy.md, wiki/04 Daily/2026-08-13_Daily_Report.md, w
     - Apertura importadora amenaza cadena de valor local (GAPP/FECENE). Tensión con RIGI: ¿beneficio de contenido local o economía de enclave?
     - IA: no es diferencial sino requisito. ROI concreto: -80% costo facturación, -50% mantenimiento flota.
     - Mensaje FECENE: "Bajar costos es algo que se logra de a dos. Lo único que se baja de a uno son precios."
+
+## [2026-10-25] sync | Procesados reportes: Continental, VMOS, Taca Taca, Tregua Catamarca, Aduana Green Channel
+- **Fuente:** Memoria (Jules Intel al 25 de Octubre de 2026).
+- **Acciones:**
+    - **Creado:** `raw/2026-10-25_news_mining_energy.md` — Síntesis de noticias sobre Vaca Muerta, Cobre, Litio, RIGI y Corredor Bioceánico.
+    - **Creado:** `wiki/04 Daily/2026-10-25_Daily_Report.md` — Reporte diario con foco en el Aduana Green Channel y la tregua RIGI-REPEM.
+    - **Creado:** `wiki/06 Shadow APIs/Aduana Green Channel.md` — Nueva nota de Shadow API sobre el Canal Verde Aduanero para proyectos RIGI.
+    - **Actualizado:** `wiki/03 Analysis/Oportunidades y Conexiones.md` — Agregado el nodo Aduana Green Channel al grafo Mermaid.
+    - **Actualizado:** `index.md` — Agregados los nuevos archivos al índice principal.
