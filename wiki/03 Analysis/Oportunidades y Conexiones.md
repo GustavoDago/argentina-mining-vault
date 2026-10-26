@@ -45,7 +45,7 @@ graph TD
     RIGI --> |Aprobado US$ 709M / Fase 1 Hecha| 3Q[Tres Quebradas Zijin/LIEX]
     RIGI --> |Aprobado US$ 4.521M| RinconAranda[Rincón de Aranda Pampa]
     RIGI --> |Formalizado US$ 4.000M / Perforación Activa| Continental[Continental Resources Shale]
-    RIGI --> |Formalizado US$ 4.200M / EIA Audiencias Concluidas| TacaTaca[Taca Taca First Quantum]
+    RIGI --> |Formalizado US$ 4.200M / DIA Obtenida| TacaTaca[Taca Taca First Quantum]
     RIGI --> |Aprobado Fase 2 / Movimiento Tierras| PoscoLitio[Posco Sal de Oro DLE]
 
     ArgLNG --> |Mecanismo| SubastaInversa[Subastas Inversas Electrónicas]
@@ -59,9 +59,9 @@ graph TD
     Vicuña --> |Alerta Naranja| Choferes[San Juan: Alerta Naranja Logística Choferes]
     SanJuan[San Juan Cobre] --> LosAzules[Los Azules McEwen US$ 240M Senior Loan]
     LosAzules --> Choferes
-    Choferes --> |500 Egresados cubren solo 20 pct| VRSolution[[VR Simulación & Biometría]]
+    Choferes --> |500 Egresados cubren solo 20 pct / 2da Cohorte| VRSolution[[VR Simulación & Biometría]]
 
-    3Q --> |Cuello Logístico / RN 51| BelgranoCargas[Licitación Belgrano Cargas Res 1350/2026 50 Años Open Access]
+    3Q --> |Cuello Logístico / RN 51| BelgranoCargas[Licitación Belgrano Cargas Res 1350/2026 / Ofertas Presentadas]
     Rincon --> BelgranoCargas
     TacaTaca --> BelgranoCargas
     BelgranoCargas --> Bioceanico[Corredor Bioceánico / Ramal C-14]
