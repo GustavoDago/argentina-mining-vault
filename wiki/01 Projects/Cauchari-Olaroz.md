@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-05-17_news_mining_energy]], [[2026-05-21_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]]
+sources: [[2026-05-17_news_mining_energy]], [[raw/2026-10-27_news_mining_energy.md]], [[2026-05-21_news_mining_energy]], [[2026-05-27_news_mining_energy]], [[2026-05-29_news_mining_energy]], [[2026-05-30_news_mining_energy]], [[2026-05-31_news_mining_energy]], [[2026-06-05_news_mining_energy]], [[2026-06-06_news_mining_energy]], [[2026-06-07_news_mining_energy]]
 confidence: high
-last_update: 2026-06-08
+last_update: 2026-10-27
 ---
 
 # Proyecto Cauchari-Olaroz (Litio)

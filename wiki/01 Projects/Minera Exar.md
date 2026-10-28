@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, lithium]
-sources: [[2026-06-28_news_mining_energy.md]]
+sources: [[raw/2026-06-28_news_mining_energy.md]], [[raw/2026-10-27_news_mining_energy.md]]
 confidence: high
-last_update: 2026-06-28
+last_update: 2026-10-27
 ---
 
 # Minera Exar (Cauchari-Olaroz)
