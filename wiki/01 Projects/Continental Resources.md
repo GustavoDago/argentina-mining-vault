@@ -1,9 +1,9 @@
 ---
 type: company
 tags: [energy, oil-gas, neuquen, us-investors, rigi, vmos]
-sources: [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
+sources: [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]], [[raw/2026-10-21_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-20
+last_update: 2026-10-21
 ---
 
 # Continental Resources
@@ -18,7 +18,7 @@ last_update: 2026-10-20
 - **Alianza con Mercuria y [[Phoenix Global Resources]]:** En 2026 Continental Resources formalizó su desembarco masivo en Argentina adquiriendo el **50% de las acciones de Phoenix Global Resources**, operadora clave en los bloques *Mata Mora Norte* y *Confluencia*.
 - **Licitación Provincial GyP Neuquén (Septiembre-Octubre 2026):** Se adjudicó formalmente **6 de los 8 bloques hidrocarburíferos** licitados por GyP en Neuquén.
 - **Compromiso de Inversión RIGI:** Proyecta desembolsos de capital (CAPEX) por **US$ 4.000 millones** en shale oil de ciclo largo.
-- **Despliegue Operativo y Perforación Activa (Octubre 2026):** Tras batir récords de preparación de locaciones (*site prep*) en los seis bloques, inició formalmente la perforación de sus primeros pozos no convencionales exploratorios con equipos de alta especificación técnica (*high-spec rigs*), marcando un hito en la inyección de capital extranjero bajo el paraguas del RIGI.
+- **Despliegue Operativo y Perforación Activa (Octubre 2026):** Tras batir récords de preparación de locaciones (*site prep*) en los seis bloques, la empresa comenzó oficialmente la perforación de su primer pozo exploratorio tras el arribo de sus equipos de alta especificación técnica (*high-spec rigs*), marcando un hito en la inyección de capital extranjero bajo el paraguas del RIGI.
 - **Participación en Evacuación ([[VMOS]]):** Continental y Phoenix integraron su producción a la capacidad reservada en el oleoducto Vaca Muerta Oil Sur para exportar a través de Punta Colorada.
 
 ---
