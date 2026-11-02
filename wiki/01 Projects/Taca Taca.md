@@ -32,3 +32,4 @@ Megaproyecto de cobre de clase mundial con una inversión estimada total de **US
 - [[RIGI]]
 - [[Corredor Bioceanico]]
 - [[Salta]]
+- **2026-11-02**: Tras concluir las audiencias públicas, se espera la inminente resolución de la Declaración de Impacto Ambiental (DIA) para el proyecto. [[raw/2026-11-02_news_mining_energy.md]]

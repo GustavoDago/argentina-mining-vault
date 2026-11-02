@@ -38,3 +38,4 @@ San Juan es la provincia líder en minería metalífera en Argentina, concentran
 - [[Josemaría]]
 - [[Los Azules]]
 - [[RIGI]]
+- **2026-11-02**: Inició la capacitación de la segunda cohorte de 500 conductores de camiones de alto tonelaje para los proyectos mineros como Los Azules y Josemaría. [[raw/2026-11-02_news_mining_energy.md]]

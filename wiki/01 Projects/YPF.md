@@ -60,3 +60,4 @@ Focalización en activos de alta rentabilidad (shale) y desinversión en áreas 
 - [[Palermo Aike]]
 - [[Litio]]
 - [[SupplierDay_2026_VacaMuerta_Cadena_de_Valor]]
+- **2026-11-02**: Se adjudicaron los contratos para el movimiento de suelo y avanzan las obras preliminares de la planta de GNL en Sierra Grande. [[raw/2026-11-02_news_mining_energy.md]]

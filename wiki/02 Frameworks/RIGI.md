@@ -77,3 +77,4 @@ Régimen especial para megaproyectos con impacto sistémico y horizonte de const
 - [[Esceptico_Calcatreu_Licencia_Social_REPEM]]
 - [[Compliance_Compre_Local_8020_SaaS]]
 - [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]
+- **2026-11-02**: El Ministerio de Economía confirmó que el portafolio superó los US$ 115.000 millones. Además, AFIP procesó en 48hs el primer lote a través del Canal Verde Aduanero exclusivo para proyectos RIGI. [[raw/2026-11-02_news_mining_energy.md]]

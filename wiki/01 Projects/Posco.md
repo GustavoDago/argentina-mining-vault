@@ -35,3 +35,4 @@ Posco desarrolla el megaproyecto de litio **Sal de Oro**. Tras la integración t
 - [[RIGI]]
 - [[Salta]]
 - [[Catamarca]]
+- **2026-11-02**: Las obras civiles de la Fase 2 en el salar aceleraron su ritmo, tras el acuerdo RIGI-REPEM. Se proyecta adelantar la producción en tres meses. [[raw/2026-11-02_news_mining_energy.md]]

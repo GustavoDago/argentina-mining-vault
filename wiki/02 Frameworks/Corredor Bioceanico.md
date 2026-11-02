@@ -61,3 +61,4 @@ last_update: 2026-10-20
 - [[Sat-Edge_Bioceanico]]
 - [[AndesLogistics_Puna_Logistica]]
 - [[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]
+- **2026-11-02**: Tres consorcios internacionales se presentaron a la licitación de 'Open Access' para operar los ramales del Belgrano Cargas vinculados al corredor. Adicionalmente, el BID aprobó los desembolsos iniciales del crédito de US$ 2.500 millones para el túnel trasandino. [[raw/2026-11-02_news_mining_energy.md]]

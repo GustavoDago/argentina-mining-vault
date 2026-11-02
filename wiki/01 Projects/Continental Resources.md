@@ -35,3 +35,4 @@ last_update: 2026-10-20
 - [[Neuquén]]
 - [[VMOS]]
 - [[RIGI]]
+- **2026-11-02**: Continental Resources anunció el éxito de sus dos primeros pozos exploratorios, confirmando la viabilidad de la inversión inicial de US$ 4.000 millones. [[raw/2026-11-02_news_mining_energy.md]]

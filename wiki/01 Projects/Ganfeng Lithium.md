@@ -36,3 +36,4 @@ last_update: 2026-10-18
 - [[Salta]]
 - [[Jujuy]]
 - [[Corredor Bioceanico]]
+- **2026-11-02**: Reportó volumen récord mensual de exportación de litio desde sus plantas en la región NOA gracias a las mejoras de integración logística. [[raw/2026-11-02_news_mining_energy.md]]

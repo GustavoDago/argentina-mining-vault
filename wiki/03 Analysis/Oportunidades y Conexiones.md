@@ -93,3 +93,4 @@ graph TD
 - [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]
 - [[Esceptico_Calcatreu_Licencia_Social_REPEM]]
 - [[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]
+- **2026-11-02**: El financiamiento BID (US$ 2.5B) para el túnel transandino y la licitación del sistema Open Access del Belgrano Cargas refuerzan el modelo macro-logístico para litio y cobre, interconectando al NOA con el Pacífico. [[raw/2026-11-02_news_mining_energy.md]]

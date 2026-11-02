@@ -41,3 +41,4 @@ El oleoducto **Vaca Muerta Sur (VMOS)** es la obra de infraestructura midstream 
 - [[Río Negro]]
 - [[YPF]]
 - [[Southern Energy]]
+- **2026-11-02**: El oleoducto alcanzó un flujo sostenido de 200,000 barriles por día, un hito para la exportación de crudo desde Río Negro. [[raw/2026-11-02_news_mining_energy.md]]
