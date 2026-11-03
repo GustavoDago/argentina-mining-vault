@@ -1,9 +1,9 @@
 ---
 type: tech-lead-opp
 tags: [mining, energy, software, compliance, repem, rigi, saas, regtech]
-sources: [[2026-09-07_news_mining_energy.md]], [[2026-09-08_news_mining_energy.md]], [[2026-09-09_news_mining_energy.md]], [[2026-09-10_news_mining_energy.md]], [[2026-09-11_news_mining_energy.md]], [[2026-09-13_news_mining_energy.md]]
+sources: [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-11-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-13
+last_update: 2026-11-03
 ---
 
 # SaaS de Compliance Laboral y Compre Local (Regla 80/20 & REPEM)
@@ -23,6 +23,7 @@ last_update: 2026-09-13
 
 - **El Precedente Calcatreu (Septiembre 2026):** El gobierno de Río Negro suspendió las operaciones del proyecto de oro y plata Calcatreu (Patagonia Gold) debido a infracciones sistemáticas en la contratación de mano de obra local (regla 80/20). Este evento encendió alarmas rojas en toda la industria minera y petrolera nacional.
 - **Tensión RIGI vs. Leyes Subnacionales:** El RIGI federal garantiza libre importación y un cupo de compre nacional del 20%, pero las provincias retienen la policía laboral y ambiental (Art. 124 CN). El Registro Provincial de Empresas Mineras (REPEM) en Catamarca exige hasta 70% de compras y mano de obra local, mientras que Salta y Jujuy aumentan sus controles.
+- **La Disputa de CAPPROMIN en Catamarca (Noviembre 2026):** La Cámara de Proveedores Mineros denunció formalmente ante la Secretaría de Minería a las operadoras de [[Tres Quebradas]] (Zijin) y [[Posco]] por triangular contratos con proveedores radicados fuera de la provincia. La provincia respondió aumentando inspecciones in situ y activando líneas de crédito blandas. Queda probado que las "treguas" políticas son insostenibles sin un motor objetivo y auditable de compliance continuo.
 - **Asimetría de Datos:** Las operadoras mineras delegan contrataciones en contratistas EPC o Tier 1 que a su vez subcontratan personal foráneo o falsean residencias, dejando a la minera expuesta a clausuras operativas con lucro cesante millonario.
 
 ---

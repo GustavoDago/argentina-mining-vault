@@ -1,5 +1,24 @@
 # Log de Operaciones
 
+## [2026-11-03] intel | Ronda de inteligencia Antigravity: Récord de fracturas Vaca Muerta, adenda Ramal C-14 y tensión REPEM
+- **Investigación Web Dual en Vivo:** Búsqueda y verificación de fuentes reales en 5 vectores (`raw/2026-11-03_news_mining_energy.md`):
+    - *Vaca Muerta & O&G:* Proyección de fracturas cerrando 2026 en >28.000 etapas con salto a 39.000 etapas en 2027 (+39%), tensionando frack sets y consumo de arena (>8 Mt); oleoducto VMOS superó el 80% de avance físico, cruce del Río Negro completado, ONs por US$ 233M colocadas, llenado de ducto fijado para enero de 2027 y primer buque VLCC para marzo-abril de 2027.
+    - *Cobre:* First Quantum estructura adhesión RIGI PEELP para Taca Taca por US$ 4.100M - US$ 5.250M atada a la operatividad del Ramal C-14; Los Azules avanza obras tempranas con RIGI aprobado y crédito de US$ 240M.
+    - *Litio:* Tensión en Catamarca por reclamos de CAPPROMIN contra empresas foráneas en Posco y Zijin-Liex (3Q); intervención del Ministerio de Minería con auditorías y líneas crediticias subsidiadas CFI / Banco Nación para proveedores locales.
+    - *Infraestructura / Corredor Bioceánico:* Licitación de 50 años de Belgrano Cargas Open Access: Grupo México (GMX) desiste por rechazo a la no exclusividad de vía; presión de Salta y operadoras mineras logra adenda obligatoria en pliegos garantizando obras en el Ramal C-14 hacia Chile.
+    - *RIGI & Regulatorio:* Fricción de competencias federales vs provinciales (paraguas RIGI vs poder de policía local y leyes de compre provincial).
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/`: `VMOS.md`, `Vaca Muerta.md`, `Cobre.md`, `Taca Taca.md`, `Catamarca.md`, `Litio.md`.
+    - `wiki/02 Frameworks/`: `Corredor Bioceanico.md`, `RIGI.md`.
+    - `wiki/03 Analysis/`: `Oportunidades y Conexiones.md` (grafo Mermaid y análisis actualizado con adenda C-14, fracturas 28k->39k y CAPPROMIN).
+    - `wiki/04 Daily/`: Creado `wiki/04 Daily/2026-11-03_Daily_Report.md` con los 5 puntos estrictos de `Prompt escéptico.md`.
+- **Refinamiento Tech Lead Opps (`wiki/05 Tech Lead Opps/`):**
+    - `BelgranoTech_OpenAccess_SaaS.md`: Actualizado con la baja de GMX, adenda vinculante en Ramal C-14 y restricciones físicas de vía única andina.
+    - `SandLogistics_Ruta_Arenas_VacaMuerta.md`: Incorporada métrica de 39k etapas para 2027 y sincronización algorítmica con SCADA de pozos para evitar costos de stand-by.
+    - `Compliance_Compre_Local_8020_SaaS.md`: Incorporado el conflicto CAPPROMIN/Catamarca como caso testigo de necesidad de compliance continuo en tiempo real.
+    - `00_Index_Tech_Lead_Opps.md`: Catálogo maestro sincronizado.
+- **Índice General:** Registrado `2026-11-03_Daily_Report` en `index.md`.
+
 ## [2026-11-03] governance | Transición de Jules a Antigravity: Creación de Skill `energon-intel` y nueva Constitución `GEMINI.md`
 - **Propósito Rector (North Star):** Consolidado el enfoque del repositorio como Radar de Oportunidades Tecnológicas B2B de Alto Apalancamiento (*High-Leverage Tech Plays*: SaaS, Shadow APIs, RegTech, FinTech, IA/IoT) con validación *Red Team* implacable.
 - **Nuevo Skill del Workspace:** Creado `.agents/skills/energon-intel/SKILL.md` que reemplaza la recolección asincrónica de Jules por un flujo *end-to-end* ejecutado por Antigravity a la orden del usuario:

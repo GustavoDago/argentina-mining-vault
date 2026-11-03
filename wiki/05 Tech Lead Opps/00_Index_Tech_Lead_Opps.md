@@ -3,7 +3,7 @@ type: index
 tags: [tech-lead, business-opportunities, index, mining, energy, vaca-muerta, litio, cobre]
 sources: [[GEMINI.md]]
 confidence: high
-last_update: 2026-11-02
+last_update: 2026-11-03
 ---
 
 # Catálogo Integral de Oportunidades Tecnológicas (Tech Lead Opps)
@@ -29,11 +29,11 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Próximo Movimiento:** Modelar el costo de hora ociosa y presentar piloto cerrado YPF-Vista Energy.
 
 ### [[SandLogistics_Ruta_Arenas_VacaMuerta]] - Trazabilidad & Despacho de Arenas de Fractura
-* **Resumen del Play:** SaaS de despacho y reserva de slots de descarga *just-in-time* para camiones de arena de fractura (demanda de 8M tn para 2027), reduciendo los fletes que representan el 80% del costo en pozo y coordinando la "Ruta de las Arenas" en Río Negro.
-* **Tech Stack:** Slot reservation algorithm, Geofencing IoT, Blockchain/Ledger de QA/QC de proppants.
-* **Riesgo Crítico:** Fricción con cámaras de transporte y falta de conectividad continua en rutas provinciales.
-* **Apalancamiento RIGI:** Reducción directa de OPEX logístico en proyectos masivos de shale (ej. Phoenix Global, Vista).
-* **Próximo Movimiento:** Validar prototipo de agendamiento con canteras locales en Río Negro y de frack crews en Añelo.
+* **Resumen del Play:** SaaS de despacho y reserva de slots de descarga *just-in-time* para camiones de arena de fractura ante el récord de >28.000 etapas en 2026 y un salto proyectado a 39.000 etapas en 2027 (demanda >8M tn), reduciendo fletes que representan el 80% del costo puesto en pozo y optimizando hubs en Río Negro y Neuquén.
+* **Tech Stack:** Slot reservation algorithm, Telemetría manifold de fractura, Geofencing IoT, QA/QC de proppants.
+* **Riesgo Crítico:** Resistencia de transportistas tradicionales a turnos estrictos y falta de conectividad continua en rutas provinciales.
+* **Apalancamiento RIGI:** Reducción directa de OPEX y costos de stand-by en proyectos masivos de shale (ej. Phoenix Global, Vista, Continental).
+* **Próximo Movimiento:** Validar prototipo de agendamiento sincronizado con SCADA de pozos y hubs de transferencia en Río Negro.
 
 ### [[Midstream_Gas_Day_2026_Opps]] - Evaluación Tecnológica Midstream & Gas
 * **Resumen del Play:** Análisis de oportunidades tecnológicas surgidas en el evento Midstream Gas Day 2026 (monitoreo de ductos, detección de fugas de metano y software de despacho de gas natural).
@@ -75,8 +75,8 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Próximo Movimiento:** Mapear oferta industrial reconvertible en el parque industrial de Malargüe.
 
 ### [[Compliance_Compre_Local_8020_SaaS]] - SaaS de Compliance Laboral y Compre Local (80/20 & REPEM)
-* **Resumen del Play:** Plataforma RegTech SaaS de auditoría y certificación continua de nóminas de personal y compras locales en tiempo real para proyectos mineros y energéticos, previniendo clausuras administrativas y suspensión de faenas por leyes provinciales de compre local (como el caso testigo de [[Calcatreu]] en Río Negro y el 70% del REPEM en Catamarca).
-* **Tech Stack:** Integración API ERP (SAP/Workday), Verificación cruzada AFIP/ARCA y padrones provinciales, Semáforo algorítmico de riesgo regulatorio.
+* **Resumen del Play:** Plataforma RegTech SaaS de auditoría y certificación continua de nóminas de personal y compras locales en tiempo real para proyectos mineros y energéticos, previniendo clausuras administrativas y suspensión de faenas por leyes provinciales de compre local (reafirmado por el conflicto CAPPROMIN vs Zijin/Posco en Catamarca y el precedente [[Calcatreu]] en Río Negro).
+* **Tech Stack:** Integración API ERP (SAP/Workday), Verificación cruzada AFIP/ARCA, REPEM y padrones provinciales, Semáforo algorítmico de riesgo regulatorio.
 * **Riesgo Crítico:** Complejidad en la integración de datos de subcontratistas informales Tier 3.
 * **Apalancamiento RIGI:** Protege las inversiones RIGI contra multas y paralizaciones por poder de policía provincial.
 * **Próximo Movimiento:** Presentar prototipo de semáforo a cámaras mineras provinciales (CMS, CAEM) y operadoras de litio en Catamarca.
@@ -150,12 +150,12 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 ## 5. Vector Nuevos Frentes (Oct 2026) — Sin cobertura previa
 
 ### [[BelgranoTech_OpenAccess_SaaS]] - SaaS de Optimización Ferroviaria Open Access ⭐ NUEVO
-* **Resumen del Play:** Plataforma SaaS B2B de gestión de slots, routing multimodal y trazabilidad de cadena de custodia para el Belgrano Cargas bajo su nuevo régimen de concesión open access (Res. 1350/2026, licitación noviembre 2026). El NOA litífero (7 proyectos en operación + 12 bajo RIGI) depende críticamente de este ferrocarril para su logística de exportación.
-* **Tech Stack:** Algoritmo slot-allocation (MIP/CP-SAT), GIS ferroviario, API AFIP/ARCA, TAF-TSI adaptation, integración SAP Ariba/Coupa.
-* **Riesgo Crítico:** El modelo open access es inédito en Argentina. El concesionario puede resistir la digitalización del acceso de terceros para preservar poder de mercado.
-* **Apalancamiento RIGI:** Proyectos RIGI tienen prioridad de despacho implícita → el software que la certifique es obligatorio.
-* **Urgencia:** 🔴 MUY ALTA — Consultas al pliego cierran el 28/oct/2026.
-* **Próximo Movimiento:** Analizar pliego y presentar PoC a CAEM/FAPM en el período de consultas.
+* **Resumen del Play:** Plataforma SaaS B2B de gestión de slots, routing multimodal y trazabilidad de cadena de custodia para el Belgrano Cargas bajo concesión open access por 50 años. La baja de Grupo México ratifica el modelo de acceso abierto estricto, mientras que la adenda obligatoria en el Ramal C-14 garantiza obras prioritarias para evacuar litio del NOA y el concentrado de cobre de [[Taca Taca]].
+* **Tech Stack:** Algoritmo slot-allocation (MIP/CP-SAT con restricciones de vía única andina), GIS ferroviario, API AFIP/ARCA, adaptación TAF-TSI, integración SAP Ariba/Coupa.
+* **Riesgo Crítico:** Complejidad de coordinación operativa en vía única de alta montaña con múltiples cargadores y retornos de material rodante.
+* **Apalancamiento RIGI:** Proyectos RIGI tienen prioridad de despacho implícita → el software que certifique y audite esta equidad de acceso es crítico para las mineras.
+* **Urgencia:** 🔴 MUY ALTA — Definición de consorcios y adjudicación en marcha.
+* **Próximo Movimiento:** Presentar modelo de optimización de vía única andina a consorcios oferentes, CAEM y Secretaría de Transporte.
 
 ### [[MicroGrid_Cordillera_BESSaaS]] - BESS-as-a-Service para Proyectos 100% Off-Grid en la Puna ⭐ NUEVO
 * **Resumen del Play:** Plataforma de Gestión Energética + Energy-as-a-Service (EaaS) con BESS + solar + backup GNL para proyectos mineros en la Puna y cordillera de Salta/Catamarca sin acceso al SADI. Informe Aggreko (jul/26): ahorro potencial de 40% de OPEX en diésel. Demanda eléctrica minera proyecta +428% hacia 2034 (OLACDE). Distinguir de [[VPP_Mineria_San_Juan]] que opera en red conectada.

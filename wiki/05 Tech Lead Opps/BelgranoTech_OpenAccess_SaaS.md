@@ -5,8 +5,9 @@ sources:
   - [[raw/2026-09-30_batch_news_mining_energy.md]]
   - [[raw/2026-09-01_news_mining_energy.md]]
   - [[raw/2026-09-03_news_mining_energy.md]]
+  - [[raw/2026-11-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-02
+last_update: 2026-11-03
 ---
 
 # BelgranoTech — SaaS de Optimización Ferroviaria (Open Access)
@@ -17,9 +18,14 @@ last_update: 2026-10-02
 
 El **30 de septiembre de 2026**, el Ministerio de Economía emitió la **Resolución 1350/2026** convocando a Licitación Pública Nacional e Internacional para la concesión por **50 años** de las líneas ferroviarias General Belgrano, General San Martín y General Urquiza bajo modalidad **open access** (acceso abierto a la infraestructura por cualquier operador habilitado).
 
-- **Período de consultas al pliego:** hasta el 28 de octubre de 2026.
-- **Apertura de ofertas técnicas/económicas:** 11 de noviembre de 2026.
+- **Período de consultas al pliego:** cerrado a finales de octubre de 2026.
+- **Apertura de ofertas técnicas/económicas:** noviembre de 2026.
 - **Condición clave:** Inclusión de beneficios RIGI para inversiones en modernización de vías y material rodante.
+
+### Actualización Crítica (Noviembre 2026)
+1. **Baja de Grupo México:** GMX desistió de participar al no concedérsele exclusividad de vía. Esto confirma que el concesionario final operará bajo acceso abierto estricto, requiriendo un árbitro tecnológico neutral para la asignación de capacidad.
+2. **Adenda Obligatoria Ramal C-14:** Tras el reclamo de la Provincia de Salta y las mineras ([[Taca Taca]], litio), se eliminó la optatividad de las obras en la traza andina. Las obras de rehabilitación del Ramal C-14 son ahora contractuales y vinculantes para el consorcio ganador.
+3. **Restricción Física Extrema:** El C-14 opera en vía única con pendientes pronunciadas (viaducto La Polvorilla, zig-zags). Un error en la asignación de slots o en los tiempos de retorno de material rodante genera parálisis total. El slot-management algorítmico es una necesidad física, no un lujo administrativo.
 
 ### Contexto Crítico
 El litio del NOA (Salta, Jujuy, Catamarca) depende estructuralmente de esta infraestructura para sus rutas de exportación. Con 7 proyectos de salmueras en producción activa y al menos 12 más aprobados bajo RIGI, el Belgrano Cargas es el cuello de botella logístico definitivo del sector. La creciente dependencia ya fue alertada recurrentemente en el `raw/` desde septiembre de 2026 por CAEM, FAPM e incluso el BID.
@@ -52,7 +58,7 @@ El modelo open access es **inédito en Argentina**. El concesionario puede resis
 - Potencial de calificación como software de alta tecnología bajo Súper RIGI (compre local).
 
 ## Próximo Movimiento
-Analizar el pliego publicado (plazo hasta 28/oct) para verificar si se especifican APIs de acceso de terceros. Presentar PoC de slot management a CAEM y FAPM durante el período de consultas. Contactar al concesionario ganador en diciembre de 2026.
+Presentar el diseño de arquitectura del módulo de slot allocation y simulación de tráfico en vía única (Ramal C-14) a los 3 consorcios oferentes y a CAEM/Secretaría de Transporte. Posicionar el software no sólo como herramienta para el concesionario, sino como la plataforma que las mineras ([[Taca Taca]], Zijin, Posco, Rio Tinto) exigirán contractualmente para auditar la equidad de acceso y evitar abusos de posición dominante.
 
 ---
 **Backlinks:** [[Middleware_eTIR_Bioceanico]], [[AndesLogistics_Puna_Logistica]], [[Litio]], [[Taca Taca]], [[RIGI]], [[Belgrano Cargas]].

@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, energy, infrastructure, RIGI, supply-chain, reverse-auctions, belgrano-cargas, high-mountain, aduana, green-channel]
-sources: [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-10_news_mining_energy.md]], [[raw/2026-08-11_news_mining_energy.md]], [[raw/2026-08-12_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]], [[raw/2026-10-21_news_mining_energy.md]], [[raw/2026-10-22_news_mining_energy.md]], [[raw/2026-10-23_news_mining_energy.md]], [[raw/2026-10-24_news_mining_energy.md]], [[raw/2026-10-25_news_mining_energy.md]], [[raw/2026-10-26_news_mining_energy.md]], [[raw/2026-10-27_news_mining_energy.md]], [[raw/2026-11-01_news_mining_energy.md]], [[raw/2026-11-02_news_mining_energy.md]]
+sources: [[raw/2026-07-08_news_mining_energy.md]], [[raw/2026-07-09_news_mining_energy.md]], [[raw/2026-07-10_news_mining_energy.md]], [[raw/2026-07-11_news_mining_energy.md]], [[raw/2026-07-12_news_mining_energy.md]], [[raw/2026-07-13_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-10_news_mining_energy.md]], [[raw/2026-08-11_news_mining_energy.md]], [[raw/2026-08-12_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-15_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-27_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-05_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]], [[raw/2026-10-21_news_mining_energy.md]], [[raw/2026-10-22_news_mining_energy.md]], [[raw/2026-10-23_news_mining_energy.md]], [[raw/2026-10-24_news_mining_energy.md]], [[raw/2026-10-25_news_mining_energy.md]], [[raw/2026-10-26_news_mining_energy.md]], [[raw/2026-10-27_news_mining_energy.md]], [[raw/2026-11-01_news_mining_energy.md]], [[raw/2026-11-02_news_mining_energy.md]], [[raw/2026-11-03_news_mining_energy.md]]
 confidence: high
-last_update: 2026-11-02
+last_update: 2026-11-03
 ---
 
 # Oportunidades de Negocio y Conexiones Estratégicas - Octubre/Noviembre 2026
@@ -20,13 +20,13 @@ last_update: 2026-11-02
    - Ante la "Alerta Naranja" en San Juan, la graduación de la primera cohorte de 500 conductores y el inicio de la segunda cohorte, las mineras ([[Los Azules]], [[Josemaría]]) y el gobierno provincial subsidian programas de entrenamiento inmersivo con simuladores VR para comprimir los tiempos de aprendizaje y abastecer la construcción temprana (ver [[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]).
 
 4. **Plataforma RegTech SaaS de Auditoría de Compre y Empleo Local (Regla 80/20 & REPEM)**:
-   - La tregua institucional y acuerdo operativo RIGI-REPEM en Catamarca confirma la validez de la tesis: las operadoras ([[Posco]], [[Tres Quebradas]]) y el Estado requieren una suite RegTech objetiva que certifique en tiempo real nóminas de RRHH y facturación local para sostener la paz social sin paralizaciones cautelares (ver [[Compliance_Compre_Local_8020_SaaS]] y [[Esceptico_Calcatreu_Licencia_Social_REPEM]]).
+   - La reactivación de protestas por parte de CAPPROMIN en Catamarca contra la subcontratación foránea en [[Tres Quebradas]] y [[Posco]] demuestra que la "tregua" RIGI-REPEM es precaria sin monitoreo en tiempo real. La presión gremial y las nuevas líneas de crédito del CFI/Banco Nación exigen que las operadoras adopten suites RegTech objetivas para certificar nóminas y compre local antes de inspecciones provinciales (ver [[Compliance_Compre_Local_8020_SaaS]] y [[Esceptico_Calcatreu_Licencia_Social_REPEM]]).
 
 5. **Software de Optimización Ferroviaria Open Access para el Belgrano Cargas (Ramal C-14 / Litio NOA)**:
-   - Con la presentación de 3 consorcios internacionales en la licitación *Open Access* del Belgrano Cargas y el inicio de desembolsos del BID (crédito de US$ 2.500M para el túnel trasandino), surge una oportunidad crítica para plataformas SaaS de gestión de slots, ruteo multimodal tren-camión y trazabilidad aduanera hacia los puertos del Pacífico ([[BelgranoTech_OpenAccess_SaaS]]).
+   - Con la baja de Grupo México (por rechazo al Open Access puro) y la imposición de una **adenda obligatoria para el Ramal C-14** exigida por Salta y las mineras, los 3 consorcios en carrera deberán coordinar capacidad compartida de vías. Se afianza la necesidad crítica de software para asignación de slots, subastas dinámicas y tracking multimodal tren-camión hacia el Pacífico ([[BelgranoTech_OpenAccess_SaaS]]).
 
 6. **Logística Multimodal y Ruteo de Arenas de Cercanía en Río Negro y Neuquén**:
-   - [[Continental Resources]] aceleró la perforación con resultados exploratorios exitosos y movilizó 3 nuevos rigs; con el oleoducto [[VMOS]] operando a 200.000 bpd sostenidos y una demanda de arena de 8M tn para 2027, el ruteo de bateas y hubs en Río Negro resulta prioritario.
+   - Con el récord de más de **28.000 etapas de fractura en 2026** y una proyección oficial de **39.000 etapas en 2027 (+39%)**, el consumo de arena superará los **8 millones de toneladas**. El cuello de botella en hubs de transferencia y rutas provinciales consolida la urgencia de middlewares de ruteo y slots de descarga *just-in-time* en pozo ([[SandLogistics_Ruta_Arenas_VacaMuerta]]).
 
 7. **Microredes Híbridas y Arbitraje BESS para Salares de la Puna**:
    - Con 8 proyectos de litio en producción continua, la expansión de Fase 2 en [[Cauchari-Olaroz]] (US$ 220M) y [[Posco]] acelerando obra civil, la integración de sistemas BESS off-grid soluciona la saturación de líneas en alta montaña ([[MicroGrid_Cordillera_BESSaaS]]).
@@ -59,22 +59,25 @@ graph TD
     VM --> |Operación Estable 200k bpd| VMOS[Oleoducto VMOS US$ 2.500M]
     VMOS --> RioNegro
     Continental --> VMOS
+    VM --> |2026: >28k Fracturas / 2027: 39k| FracSets[Tensión en Frac Sets y 8M tn Arenas]
+    FracSets --> SandSaaS[[SandLogistics Ruta Arenas SaaS]]
 
     Vicuña --> |Alerta Naranja| Choferes[San Juan: Alerta Naranja Logística Choferes]
     SanJuan[San Juan Cobre] --> LosAzules[Los Azules McEwen Senior Loan]
     LosAzules --> Choferes
     Choferes --> |1ra Cohorte Activa / 2da Cohorte en VR| VRSolution[[VR Simulación & Biometría]]
 
-    TacaTaca --> BelgranoCargas[Licitación Belgrano Cargas Open Access: 3 Consorcios]
+    TacaTaca --> BelgranoCargas[Belgrano Cargas: GMX Desiste / Adenda C-14 Obligatoria]
     3Q --> BelgranoCargas
     Rincon --> BelgranoCargas
     BelgranoCargas --> Bioceanico[Corredor Bioceánico / Ramal C-14]
+    BelgranoCargas --> BelgranoSaaS[[BelgranoTech OpenAccess SaaS]]
     Bioceanico -.-> |Desembolso BID US$ 2.500M| Megatunel[Megatúnel Ferroviario Trasandino]
 
-    PoscoLitio --> TreguaCat[Tregua Institucional RIGI vs REPEM Catamarca]
-    3Q --> TreguaCat
-    TreguaCat --> ComplianceSaaS[[Compliance Compre Local 80/20 SaaS]]
-    TreguaCat --> FintechGarantias[[Fintech Garantías & Sindicación PyME]]
+    PoscoLitio --> ConflictoREPEM[Conflicto CAPPROMIN vs Contratistas Foráneos]
+    3Q --> ConflictoREPEM
+    ConflictoREPEM --> ComplianceSaaS[[Compliance Compre Local 80/20 SaaS]]
+    ConflictoREPEM --> FintechGarantias[[Fintech Garantías & Sindicación PyME]]
 ```
 
 ---
