@@ -3,7 +3,7 @@ type: index
 tags: [tech-lead, business-opportunities, index, mining, energy, vaca-muerta, litio, cobre]
 sources: [[GEMINI.md]]
 confidence: high
-last_update: 2026-10-02
+last_update: 2026-11-02
 ---
 
 # Catálogo Integral de Oportunidades Tecnológicas (Tech Lead Opps)
@@ -189,6 +189,14 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Urgencia:** 🟡 MEDIA.
 * **Próximo Movimiento:** MVP del Módulo de Alertas M&A con SEDAR+. Validar con fondo de royalties (Franco-Nevada/Wheaton).
 
+### [[GreenChannel_AuditTrail_SaaS]] - SaaS de Trazabilidad y Compliance para el Aduana Green Channel RIGI ⭐ NUEVO
+* **Resumen del Play:** Suite B2B que conecta ERPs (SAP/Oracle) con el SIM aduanero y telemetría IoT de activos pesados en sitio para generar un registro inmutable de afectación exclusiva al VPU del RIGI. Neutraliza el riesgo de auditorías ex-post de AFIP/DGA tras el despacho ultra-acelerado (<48hs) del Canal Verde.
+* **Tech Stack:** Middleware SIM/AFIP, Geofencing IoT (LoRaWAN/Satcom), Matching algorítmico VPU-ERP, Bóveda criptográfica audit-ready.
+* **Riesgo Crítico:** Resistencia de contratistas EPC a compartir telemetría vehicular o rotación indebida de maquinaria entre yacimientos.
+* **Apalancamiento RIGI:** Protege directamente las exenciones arancelarias multimillonarias de proyectos como Continental Resources, Taca Taca, Posco y VMOS.
+* **Urgencia:** 🔴 MUY ALTA — Canal Verde ya activo y procesando importaciones críticas.
+* **Próximo Movimiento:** Presentar PoC a directores de supply chain de operadoras RIGI activas y validar conector SIM.
+
 ---
 
 ## Resumen de Cobertura y Matriz de Impacto
@@ -226,7 +234,8 @@ graph TD
     NuevosF --> Stargate[[Stargate Infra Services]]
     NuevosF --> Water[[WaterLoop VacaMuerta]]
     NuevosF --> GeoIntel[[GeoIntel Andino Platform]]
+    NuevosF --> GreenChannel[[GreenChannel AuditTrail SaaS]]
 ```
 
 ---
-**Backlinks:** [[GEMINI.md]], [[Oportunidades y Conexiones]], [[Vaca Muerta]], [[RIGI]], [[Litio]], [[Cobre]], [[Stargate Argentina]], [[Belgrano Cargas]], [[Lunahuasi]], [[Distrito Vicuña]], [[Taca Taca]].
+**Backlinks:** [[GEMINI.md]], [[Oportunidades y Conexiones]], [[Vaca Muerta]], [[RIGI]], [[Litio]], [[Cobre]], [[Stargate Argentina]], [[Belgrano Cargas]], [[Lunahuasi]], [[Distrito Vicuña]], [[Taca Taca]], [[Aduana Green Channel]], [[GreenChannel_AuditTrail_SaaS]].

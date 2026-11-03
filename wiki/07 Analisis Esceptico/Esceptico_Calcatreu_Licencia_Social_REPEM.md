@@ -1,9 +1,9 @@
 ---
 type: analysis
 tags: [mining, regulatory, rione-negro, noa, repem, rigi, risk-assessment]
-sources: [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
+sources: [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]], [[raw/2026-10-21_news_mining_energy.md]], [[raw/2026-10-24_news_mining_energy.md]], [[raw/2026-10-26_news_mining_energy.md]], [[raw/2026-10-27_news_mining_energy.md]], [[raw/2026-11-01_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-20
+last_update: 2026-11-02
 ---
 
 # Red Team: El Precedente Calcatreu y la Tensión RIGI vs. REPEM (Riesgo 80/20)
@@ -24,7 +24,7 @@ La suspensión temporal de operaciones en el proyecto de oro y plata [[Calcatreu
 ## 4. Efectos de segundo orden
 - **Cartelización y Monopolio de Contratistas Locales:** La exigencia rígida de cuotas (80/20 o 70% REPEM) reduce artificialmente la oferta de proveedores calificados, permitiendo que un puñado de firmas provinciales cartelizadas fijen tarifas arbitrarias con sobreprecios de hasta el 40% sobre los valores de mercado.
 - **Auditoría Forense de Nóminas:** Las secretarías de minería y carteras de trabajo provinciales intensifican los operativos sorpresa, auditando domicilios reales, certificados de residencia y facturación cruzada de subcontratistas.
-- **Judicialización Preventiva de Operadores Asiáticos:** Las quejas formales de Posco y Zijin marcan el inicio de una fase de arbitraje preventivo que forzará al gobierno nacional a negociar mesas de coordinación federal minera para armonizar RIGI con leyes provinciales de proveedores.
+- **Institucionalización de Mesas de Diálogo (Precedente Catamarca Oct/Nov 2026):** La tregua sellada en Catamarca entre operadoras (Posco, LIEX) y la provincia demuestra que ante el riesgo de paralización, ambas partes prefieren acuerdos operativos prácticos que armonicen la importación rápida vía [[Aduana Green Channel]] con cuotas locales, lo que vuelve indispensable el uso de plataformas SaaS neutrales de auditoría en tiempo real.
 
 ## 5. Próximo movimiento recomendado
 Para los operadores y el equipo del Tech Lead, la recomendación inmediata es no apoyarse ciegamente en el "escudo RIGI". Se debe desplegar una plataforma de software de compliance socio-laboral automatizado ([[Compliance_Compre_Local_8020_SaaS]]) que verifique en tiempo real la nómina de personal y la cadena de subcontratistas contra el padrón provincial, estructurando simultáneamente programas de formación acelerada en conjunto con gremios y escuelas técnicas locales para transformar el compre local de una traba burocrática a una ventaja operativa blindada.

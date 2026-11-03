@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper, rigi, san-juan, salta, mendoza]
-sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
+sources: [[raw/2026-04-03_news_mining_energy.md]], [[raw/2026-04-10_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-04-22_news_mining_energy.md]], [[raw/2026-04-27_news_mining_energy.md]], [[raw/2026-07-15_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-17_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-13_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-28_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]], [[raw/2026-10-21_news_mining_energy.md]], [[raw/2026-10-22_news_mining_energy.md]], [[raw/2026-10-23_news_mining_energy.md]], [[raw/2026-10-24_news_mining_energy.md]], [[raw/2026-10-25_news_mining_energy.md]], [[raw/2026-10-26_news_mining_energy.md]], [[raw/2026-10-27_news_mining_energy.md]], [[raw/2026-11-01_news_mining_energy.md]], [[raw/2026-11-02_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-20
+last_update: 2026-11-02
 ---
 
 # Cobre en Argentina: El Despertar del Gigante
@@ -32,22 +32,21 @@ last_update: 2026-10-20
 
 ### 2. Salta
 - **[[Taca Taca]] (First Quantum Minerals):**
-  - Proyecto a cielo abierto con inversión confirmada de **US$ 4.200 millones** (compromiso RIGI) y capacidad de 250.000 t Cu/año.
-  - **Hito Ambiental (Octubre 2026):** Conclusión exitosa y vinculante de las audiencias públicas definitivas para el Estudio de Impacto Ambiental (EIA) con amplio respaldo social y provincial. First Quantum avanza hacia la Declaración de Impacto Ambiental (DIA) final y prepara la movilización de equipos pesados hacia la Puna para obras preliminares.
+  - Inversión de **US$ 5.250 millones** (compromiso RIGI de **US$ 4.200 millones**) y capacidad proyectada de 250.000 t Cu/año.
+  - **Hito Ambiental y Obras Tempranas (Octubre - Noviembre 2026):** Tras concluir con amplio respaldo las audiencias públicas, obtuvo la Declaración de Impacto Ambiental (DIA) formalmente, iniciando la movilización masiva de equipos y obras de tierra preliminares (*earthworks* y campamentos) respaldadas por el [[Aduana Green Channel]].
 
 ### 3. Mendoza
 - **[[San Jorge]] (PSJ Cobre Mendocino):**
-  - **Aprobación Oficial RIGI:** El gobierno nacional aprobó formalmente el ingreso del proyecto al RIGI con una inversión comprometida de **US$ 891 millones**.
-  - **Ingeniería de Detalle y Logística:** Licitación de estudios de ingeniería de detalle en marcha y adaptación de planes logísticos para exportación de concentrados sin uso de sustancias prohibidas bajo la Ley 7722.
-- **Exploración Kobrea / BHP:** BHP ingresó como socio estratégico en proyectos de exploración cuprífera en el sur mendocino.
+  - **Aprobación Oficial RIGI:** Inversión comprometida de **US$ 891 millones**.
+  - **Ingeniería de Detalle y Logística:** Licitación de estudios en marcha para exportación de concentrados sin uso de sustancias prohibidas bajo la Ley 7722.
+- **Exploración Kobrea / BHP:** BHP ingresó como socio estratégico en exploración cuprífera en el sur mendocino.
 
 ---
 
 ## Cuellos de Botella y Desafíos Transversales
-- **Alerta Naranja y Déficit Crónico de Choferes de Alta Montaña (Octubre 2026):** La Mesa Logística de San Juan declaró el estado de "alerta naranja". El Task Force provincial graduó a 500 conductores y el gobierno junto a las operadoras de [[Los Azules]] y [[Josemaría]] lanzaron programas de capacitación acelerada; sin embargo, las mineras advierten que esto cubre apenas el **20% de la demanda**, ralentizando la fase temprana de movimiento de suelos y transporte de insumos pesados (ver [[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]).
-- **Infraestructura Eléctrica:** El abastecimiento de energía limpia en alta cordillera requiere la ampliación urgente del sistema de 500 kV y soluciones de microredes aisladas.
-- **Insumos Críticos (Cales y Áridos):** La demanda de cales de alta pureza (San Juan) superará la capacidad productiva actual, demandando ampliaciones de hornos industriales.
-- **Integración Logística Binacional:** Habilitación de pasos fronterizos y corredores hacia puertos chilenos de aguas profundas (Coquimbo, Antofagasta) para evacuar concentrados.
+- **Alerta Naranja y Capacitación Acelerada de Choferes (San Juan):** La Mesa Logística declaró la "alerta naranja". Tras graduar la primera cohorte de 500 conductores de alta montaña —actualmente operativos en ruta—, el Gobierno de San Juan emitió subsidios para acelerar una segunda cohorte de 500 choferes con simuladores de Realidad Virtual (VR) para suplir a [[Los Azules]] y [[Josemaría]] (ver [[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]).
+- **Infraestructura Eléctrica:** El abastecimiento en alta cordillera requiere la ampliación del sistema de 500 kV ("el beneficiario paga").
+- **Logística Ferroviaria (Belgrano Cargas Open Access):** Tres consorcios internacionales presentaron ofertas técnicas/económicas para operar el Ramal C-14, clave para el cobre de Taca Taca hacia el Pacífico.
 
 ---
 
@@ -59,5 +58,8 @@ last_update: 2026-10-20
 - [[Los Azules]]
 - [[Josemaría]]
 - [[Taca Taca]]
+- [[Aduana Green Channel]]
+- [[GreenChannel_AuditTrail_SaaS]]
+- [[VR_Simulacion_Choferes_Alta_Montana_SanJuan]]
+- [[Corredor Bioceanico]]
 - [[Economía Circular]]
-- [[Sinergias Logisticas Puna]]

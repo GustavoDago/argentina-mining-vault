@@ -1,9 +1,9 @@
 ---
 type: framework
 tags: [regulatory, mining, energy, infrastructure, logistics, belgrano-cargas]
-sources: [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-05-10_news_mining_energy.md]], [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-06-29_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]]
+sources: [[raw/2026-04-18_news_mining_energy.md]], [[raw/2026-04-25_news_mining_energy.md]], [[raw/2026-05-10_news_mining_energy.md]], [[raw/2026-06-19_news_mining_energy.md]], [[raw/2026-06-29_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-20_news_mining_energy.md]], [[raw/2026-08-21_news_mining_energy.md]], [[raw/2026-08-23_news_mining_energy.md]], [[raw/2026-08-24_news_mining_energy.md]], [[raw/2026-08-25_news_mining_energy.md]], [[raw/2026-08-26_news_mining_energy.md]], [[raw/2026-08-29_news_mining_energy.md]], [[raw/2026-08-30_news_mining_energy.md]], [[raw/2026-08-31_news_mining_energy.md]], [[raw/2026-09-01_news_mining_energy.md]], [[raw/2026-09-02_news_mining_energy.md]], [[raw/2026-09-03_news_mining_energy.md]], [[raw/2026-09-04_news_mining_energy.md]], [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-09-14_news_mining_energy.md]], [[raw/2026-09-16_news_mining_energy.md]], [[raw/2026-09-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-10-03_news_mining_energy.md]], [[raw/2026-10-04_news_mining_energy.md]], [[raw/2026-10-05_news_mining_energy.md]], [[raw/2026-10-06_news_mining_energy.md]], [[raw/2026-10-07_news_mining_energy.md]], [[raw/2026-10-09_news_mining_energy.md]], [[raw/2026-10-10_news_mining_energy.md]], [[raw/2026-10-11_news_mining_energy.md]], [[raw/2026-10-12_news_mining_energy.md]], [[raw/2026-10-13_news_mining_energy.md]], [[raw/2026-10-15_news_mining_energy.md]], [[raw/2026-10-16_news_mining_energy.md]], [[raw/2026-10-17_news_mining_energy.md]], [[raw/2026-10-18_news_mining_energy.md]], [[raw/2026-10-19_news_mining_energy.md]], [[raw/2026-10-20_news_mining_energy.md]], [[raw/2026-10-21_news_mining_energy.md]], [[raw/2026-10-22_news_mining_energy.md]], [[raw/2026-10-23_news_mining_energy.md]], [[raw/2026-10-24_news_mining_energy.md]], [[raw/2026-10-25_news_mining_energy.md]], [[raw/2026-10-26_news_mining_energy.md]], [[raw/2026-10-27_news_mining_energy.md]], [[raw/2026-11-01_news_mining_energy.md]], [[raw/2026-11-02_news_mining_energy.md]]
 confidence: high
-last_update: 2026-10-20
+last_update: 2026-11-02
 ---
 
 # Corredor Bioceánico de Capricornio (CBC)
@@ -22,42 +22,42 @@ last_update: 2026-10-20
 ### 2. Argentina - Chile (Eje Puna Andina & Ferroviario)
 - **Ruta Nacional 51 (Salta) & Paso de Sico:** 
   - Financiamiento del BID por **US$ 100 millones** para pavimentar e integrar 91 km críticos entre Campo Amarillo y el Paso de Sico.
-  - El **Bypass de Campo Quijano** (interconexión RN 51 y RP 24) avanza superando el 75%, desviando el tránsito pesado minero fuera de los cascos urbanos del Valle de Lerma.
+  - El **Bypass de Campo Quijano** avanza superando el 75%, desviando el tránsito pesado fuera del Valle de Lerma.
 - **Paso de Jama (Jujuy):**
-  - Paso terrestre de mayor confiabilidad operativa (abierto ~330 días/año frente a los cierres climáticos frecuentes del Paso Cristo Redentor).
-- **Ferrocarril Belgrano Cargas (Licitación Resolución 1350/2026):**
-  - El Gobierno Nacional formalizó el llamado a **Licitación Pública Nacional e Internacional** para concesionar por **50 años** la infraestructura y operación de las líneas Belgrano, San Martín y Urquiza bajo el modelo de acceso abierto (*open access*).
-  - **Cronograma de Apertura:** Pliegos disponibles en CONTRAT.AR; consultas permitidas hasta el **28 de octubre de 2026** y recepción de ofertas técnicas/económicas el **11 de noviembre de 2026**.
-  - **Cláusulas Operativas:** Los concesionarios e inversores en material rodante podrán acogerse a los beneficios del [[RIGI]], con cláusula de salvaguarda que restringe el control directo de Estados extranjeros. El Ramal C-14 es la pieza indispensable para evitar el colapso vial de la RN 51 y abaratar hasta 35% el flete de soda ash y litio hacia los puertos de Antofagasta y Mejillones.
-- **Megatúnel Ferroviario Trasandino (Financiamiento BID / Consorcio - Octubre 2026):** 
-  - El consorcio promotor presentó el estudio de prefactibilidad técnico-económica para un túnel ferroviario transandino (estimado en **US$ 9.600 millones** de costo de capital integral), proyectando una reducción del 25% en los costos logísticos del NOA hacia puertos del Pacífico.
-  - El **Banco Interamericano de Desarrollo (BID) aprobó formalmente el financiamiento por US$ 2.500 millones** para la licitación del estudio de prefactibilidad técnica/ambiental y primeros diseños de ingeniería, validando la dimensión institucional de la salida al Pacífico para el cobre y litio del noroeste argentino.
+  - Paso terrestre de mayor confiabilidad operativa (~330 días/año abierto).
+- **Ferrocarril Belgrano Cargas (Licitación Open Access - Octubre/Noviembre 2026):**
+  - Se abrieron los sobres de la licitación pública internacional para operar bajo el modelo *Open Access*.
+  - **Tres consorcios internacionales** integrados por operadoras mineras y logísticas presentaron propuestas técnicas y económicas formalmente, condicionando sus compromisos de carga a la modernización obligatoria del **Ramal C-14** para evacuar litio y el concentrado de cobre de [[Taca Taca]].
+- **Megatúnel Ferroviario Trasandino (Desembolso BID):** 
+  - El Banco Interamericano de Desarrollo (BID) inició los primeros desembolsos del crédito de **US$ 2.500 millones** destinado a financiar los estudios de prefactibilidad técnica/ambiental y proyectos ejecutivos del túnel transandino.
 
 ---
 
 ## ⚡ Megaproyectos Traccionadores (Demanda Minera)
-1. **[[Taca Taca]] (First Quantum, Salta):** Demanda masiva proyectada sobre el Ramal C14 y el Paso de Sico para evacuar 250.000 t Cu/año.
-2. **Complejos de Litio ([[Cauchari-Olaroz]], [[Rincón]], [[Tres Quebradas]]):** Despachos consolidados de carbonato de litio vía Jama directo al Puerto de Angamos (Mejillones), ahorrando hasta 10 días de navegación a los mercados asiáticos.
-3. **Nodo Logístico Multimodal General Güemes (Salta):** Articulación nodal carretera-ferroviaria con terminales aduaneras secas.
+1. **[[Taca Taca]] (First Quantum, Salta):** DIA aprobada y obras tempranas activas; requiere capacidad masiva en el Ramal C14 y el Paso de Sico.
+2. **Complejos de Litio ([[Cauchari-Olaroz]], [[Rincón]], [[Tres Quebradas]], [[Posco]]):** Despachos consolidados de carbonato de litio vía Jama directo al Puerto de Angamos (Mejillones).
+3. **Nodo Logístico Multimodal General Güemes (Salta):** Articulación nodal carretera-ferroviaria.
 
 ---
 
 ## ⚠️ Diagnóstico Escéptico y Vulnerabilidades (Red Team)
 1. **El "Apagón Digital" Andino ([[Sat-Edge_Bioceanico]]):** Zona ciega de 130 km sin conectividad celular tras la frontera chilena; necesidad de tokens criptográficos offline para el MIC/DTA.
-2. **Conflicto Social y Convenio Camioneros ([[AndesLogistics_Puna_Logistica]]):** Tensiones por monitoreo telemático en cabina y exigencias de descanso en alta montaña.
-3. **Fricción Regulatoria REPEM vs. RIGI:** Restricciones al transporte interprovincial de insumos mineros por exigencias de compre local.
-4. **Desfasaje Temporal del Megatúnel vs. Belgrano Cargas ([[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]):** La promesa a 15 años de un túnel férreo de US$ 9.600M no resuelve la saturación vial inmediata; el foco excluyente debe ser la privatización del Belgrano Cargas y el material rodante propio.
+2. **Conflicto Social y Convenio Camioneros ([[AndesLogistics_Puna_Logistica]]):** Tensiones por monitoreo telemático en cabina y descanso en alta montaña.
+3. **Desfasaje Temporal del Megatúnel vs. Belgrano Cargas ([[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]):** La solución urgente es la digitalización de slots y material rodante en el Belgrano Cargas ([[BelgranoTech_OpenAccess_SaaS]]).
 
 ---
 
 ## 🔗 Conexiones Relacionadas
 - [[Taca Taca]]
 - [[Litio]]
+- [[Cobre]]
 - [[Paso de Jama]]
 - [[Cauchari-Olaroz]]
 - [[Rincón]]
 - [[Tres Quebradas]]
+- [[Posco]]
 - [[General Güemes]]
+- [[BelgranoTech_OpenAccess_SaaS]]
 - [[Sat-Edge_Bioceanico]]
 - [[AndesLogistics_Puna_Logistica]]
 - [[Esceptico_Megatunel_Bioceanico_Belgrano_Cargas]]
