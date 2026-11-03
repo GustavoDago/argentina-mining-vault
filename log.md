@@ -1,5 +1,13 @@
 # Log de Operaciones
 
+## [2026-11-03] governance | Transición de Jules a Antigravity: Creación de Skill `energon-intel` y nueva Constitución `GEMINI.md`
+- **Propósito Rector (North Star):** Consolidado el enfoque del repositorio como Radar de Oportunidades Tecnológicas B2B de Alto Apalancamiento (*High-Leverage Tech Plays*: SaaS, Shadow APIs, RegTech, FinTech, IA/IoT) con validación *Red Team* implacable.
+- **Nuevo Skill del Workspace:** Creado `.agents/skills/energon-intel/SKILL.md` que reemplaza la recolección asincrónica de Jules por un flujo *end-to-end* ejecutado por Antigravity a la orden del usuario:
+    - **Búsqueda 100% Real (`search_web`):** Prohibición absoluta de noticias simuladas; exigencia de URL real verificable y enfoque dual (Macro-Hitos + Dolor Operativo/Regulatorio en Boletín Oficial, licitaciones y fricciones de proveedores).
+    - **Gobernanza Append-Only en `raw/`:** Antigravity genera `raw/YYYY-MM-DD_news_mining_energy.md` y cada archivo creado permanece inmutable.
+    - **Umbral de Calidad Estricto en `05-07`:** Refinamiento por defecto de tesis existentes y creación selectiva de nuevas notas en `05 Tech Lead Opps`, `06 Shadow APIs` y `07 Analisis Esceptico` solo ante señales fuertes que superen el filtro de `Prompt escéptico.md`.
+- **Actualización de Constitución:** Reescrito `GEMINI.md` alineando las 7 carpetas reales de `wiki/` y los protocolos de ejecución y cierre en Git.
+
 ## [2026-11-02] sync | Ingesta masiva y consolidación de 9 reportes Jules Intel (21 Octubre - 02 Noviembre 2026)
 - **Ingesta Primaria:** Extraídos, armonizados y consolidados 9 reportes diarios crudos de noticias (`raw/2026-10-21_news_mining_energy.md` a `raw/2026-11-02_news_mining_energy.md`) y 9 reportes analíticos diarios (`wiki/04 Daily/2026-10-21_Daily_Report.md` a `wiki/04 Daily/2026-11-02_Daily_Report.md`) provenientes de 10 ramas remotas de Jules.
 - **Nuevas Shadow APIs, Tech Lead Opps y Análisis Escéptico:**
