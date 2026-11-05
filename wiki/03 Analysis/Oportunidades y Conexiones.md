@@ -47,6 +47,8 @@ graph TD
     RIGI --> |Formalizado US$ 4.000M / Perforación Activa| Continental[Continental Resources Shale]
     RIGI --> |Formalizado US$ 4.200M / EIA Audiencias Concluidas| TacaTaca[Taca Taca First Quantum]
     RIGI --> |Aprobado Fase 2 / Movimiento Tierras| PoscoLitio[Posco Sal de Oro DLE]
+    RIGI --> |Canal Verde Aduanero / <48hs| AduanaGreenChannel[Aduana Green Channel VUD]
+
 
     ArgLNG --> |Mecanismo| SubastaInversa[Subastas Inversas Electrónicas]
     ArgLNG --> |Cabecera Atlántica| RioNegro[Punta Colorada / Sierra Grande]
