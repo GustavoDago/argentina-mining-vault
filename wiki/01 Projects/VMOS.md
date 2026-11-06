@@ -20,7 +20,8 @@ El oleoducto **Vaca Muerta Sur (VMOS)** es la obra de infraestructura midstream 
 
 ---
 
-## 2. Hitos Operativos y Entrada en Servicio (Octubre 2026)
+## 2. Hitos Operativos y Entrada en Servicio (Octubre/Noviembre 2026)
+- **Operación Comercial Estable (06/11/2026):** Se confirma un flujo continuo de 200.000 bpd. Las estaciones de bombeo operan a régimen. (Fuente: [[raw/2026-11-06_news_mining_energy.md]])
 - **Pruebas Hidráulicas y Presurización de Línea (09-11/10/2026):** El consorcio Techint-Sacde concluyó satisfactoriamente las pruebas de presión y llenado de la traza onshore de 437 km, presurizando la tubería troncal.
 - **Inicio Formal de Operación Comercial (12-13/10/2026):** Techint-Sacde entregó formalmente la obra finalizada a los operadores, iniciando la inyección continua de crudo no convencional desde Neuquén hacia la costa de Río Negro.
 - **Primer Embarque Offshore y Estabilidad Operativa (18-20/10/2026):** Se concretó con éxito el amarre y carga del primer buque tanquero de exportación desde la terminal offshore de monoboyas en Punta Colorada. El sistema completó su **primera semana completa de operación comercial estable**, superando las pruebas de carga y flujo continuo.
