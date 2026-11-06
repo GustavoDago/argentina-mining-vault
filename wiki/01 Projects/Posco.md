@@ -20,6 +20,7 @@ Posco desarrolla el megaproyecto de litio **Sal de Oro**. Tras la integración t
 ---
 
 ## 2. Hitos Recientes (2026)
+- **Avance Fase 2 al 85% tras Tregua (06/11/2026):** La tregua alcanzada entre el RIGI nacional y las normativas locales (REPEM) permitió destrabar operaciones. La Fase 2 (tecnología DLE) reporta un avance físico del 85% en las obras de movimiento de suelos. (Fuente: [[raw/2026-11-06_news_mining_energy.md]])
 - **Movimiento de Suelos y Avance Constructivo Fase 2 (Octubre 2026):** Posco inició formalmente los trabajos de movimiento de tierras para la Fase 2 en Hombre Muerto con el objetivo de duplicar su capacidad productiva. Al 20 de octubre de 2026, las obras alcanzaron el **50% de avance físico**, superando los plazos programados.
 - **Tecnología de Extracción Directa (DLE):** La Fase 2 prioriza la tecnología DLE de adsorción para maximizar la tasa de recuperación de litio y sortear la escasez hídrica superficial de la cuenca del Río Los Patos.
 - **Fricción Regulatoria RIGI vs. REPEM (Octubre 2026):** Tras intimaciones de la Secretaría de Minería de Catamarca para cumplir con los cupos laborales del REPEM, Posco elevó consultas de seguridad jurídica al Gobierno Nacional, sugiriéndose la intervención judicial para dirimir la prevalencia del régimen federal frente a restricciones subnacionales.
