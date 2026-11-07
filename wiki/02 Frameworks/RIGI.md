@@ -14,7 +14,7 @@ last_update: 2026-10-20
 ---
 
 ## 1. Tablero de Control y Métricas Consolidadas (Octubre 2026)
-- **Hito Histórico RIGI (>US$ 110.000 Millones):** Al 20 de octubre de 2026, el Ministerio de Economía confirmó formalmente a través del Boletín Oficial que las inversiones consolidadas, admitidas y aprobadas bajo el marco del RIGI **han superado oficialmente los US$ 110.000 millones** (tras superar la marca de US$ 106.000M el 19/10), impulsado por la formalización del megaproyecto cuprífero [[Taca Taca]] (US$ 4.200M) y el desembarco operativo de [[Continental Resources]] (US$ 4.000M) en la Cuenca Neuquina.
+- **Hito Histórico RIGI (>US$ 116.000 Millones):** Al 20 de octubre de 2026, el Ministerio de Economía confirmó formalmente a través del Boletín Oficial que las inversiones consolidadas, admitidas y aprobadas bajo el marco del RIGI **han superado oficialmente los US$ 116.000 millones** (tras superar la marca de US$ 106.000M el 19/10), impulsado por la formalización del megaproyecto cuprífero [[Taca Taca]] (US$ 4.200M) y el desembarco operativo de [[Continental Resources]] (US$ 4.000M) en la Cuenca Neuquina.
 - **Proyectos Aprobados Formalmente:** Más de 23 proyectos con aprobación ministerial firme, concentrando un flujo directo de más de **US$ 50.000 millones**.
 - **Liderazgo Sectorial:** La minería de cobre y litio y los megaproyectos energéticos (GNL, VMOS, shale oil de ciclo largo) concentran más del **90%** del capital comprometido.
 - **Distribución Geográfica:** Neuquén y Río Negro encabezan la captación energética (>US$ 88.000M sumando GNL y upstream), seguidas por San Juan (cobre, >US$ 24.000M), Salta y Catamarca (litio y cobre, >US$ 19.000M) y Mendoza (reapertura cuprífera con San Jorge, US$ 891M).
