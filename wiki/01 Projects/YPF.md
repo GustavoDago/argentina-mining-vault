@@ -1,9 +1,9 @@
 ---
 type: company
 tags: [energy, oil-gas]
-sources: [[2026-06-28_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/Supplier_day_2026_Econojournal.md]]
+sources: [[2026-06-28_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/Supplier_day_2026_Econojournal.md]], [[raw/2026-11-08_news_mining_energy.md]]
 confidence: high
-last_update: 2026-08-12
+last_update: 2026-11-08
 ---
 
 # YPF S.A.
