@@ -1,3 +1,17 @@
+## [2026-11-11] sync | Ingesta de noticias diarias y actualización de frameworks (Energon)
+- **Ingesta Primaria:** Se procesaron las noticias del 11 de noviembre de 2026. Archivo crudo generado: `raw/2026-11-11_news_mining_energy.md`.
+- **Hitos Cuantitativos y Estratégicos Consolidados:**
+    - **Vaca Muerta:** El oleoducto VMOS mantuvo 200k bpd de flujo continuo. Continental Resources aceleró perforación exploratoria. YPF avanza en diseño FEED para LNG.
+    - **Cobre:** Taca Taca inició fase temprana de obras. San Juan continúa enfrentando déficit de choferes a pesar de nuevas capacitaciones.
+    - **Litio:** Posco avanzó significativamente con movimiento de tierras para Fase 2 DLE. Tregua operativa en Catamarca entre RIGI y requerimientos REPEM.
+    - **Infraestructura y RIGI:** El RIGI cruzó el hito histórico de US$ 120.000 Millones. Tiempos menores a 48hs en Aduana Green Channel. Gran interés en el Open Access del Belgrano Cargas y comienzo de prefactibilidad para túnel transandino (BID).
+- **Entidades y Frameworks Actualizados:**
+    - `wiki/01 Projects/VMOS.md`, `Continental Resources.md`, `YPF.md`, `Taca Taca.md`, `San Juan.md`, `Posco.md`.
+    - `wiki/02 Frameworks/RIGI.md`, `Corredor Bioceanico.md`.
+    - `wiki/03 Analysis/Oportunidades y Conexiones.md`.
+    - `wiki/04 Daily/2026-11-11_Daily_Report.md`.
+    - `index.md`, `log.md`.
+
 # Log de Operaciones
 
 ## [2026-10-20] sync | Ingesta consolidada de 2 reportes Jules Intel (19 y 20 de Octubre 2026)
