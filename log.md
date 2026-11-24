@@ -1,5 +1,25 @@
 # Log de Operaciones
 
+## [2026-11-24] intel | Ronda de inteligencia Antigravity (04-24 Nov 2026): Decreto 1366/2026, Res 1984/2026 Open Access, RIGI TGS US$ 3.244M y FID Argentina LNG
+- **Investigación Web Dual en Vivo (Ventana 04–24 Nov 2026):** Búsqueda y verificación de fuentes reales en los 5 vectores (`raw/2026-11-24_news_mining_energy.md`):
+    - *Vaca Muerta & O&G:* Acumulado ene–oct 2026 de **24.028 etapas de fractura** (superando todo 2025 con dos meses de anticipación; oct 2.403 punciones; YPF ~60%); [[YPF]] fijó el **26/11/2026** para el FID de Argentina LNG Etapa 1 (~US$ 30.000M iniciales, obras feb 2027) y el **01/01/2027** para el llenado del [[VMOS]] (primeras exportaciones marzo 2027); [[TGS]] obtuvo aprobación RIGI mediante **Resoluciones 1976/2026 y 1977/2026** para su proyecto NGL (**US$ 3.244 millones+**).
+    - *Cobre:* Audiencia pública ambiental de [[Taca Taca]] realizada el **12/11/2026** en Tolar Grande (Salta), manteniendo solicitud RIGI proyectada antes de fin de 2026 tras permisos de agua y DIA *(corrección de linting sobre reportes previos)*; fricción en [[Distrito Vicuña]] por licitación de módulos habitacionales importados, saturación de residuos municipales en San Juan y escasez de mandos medios.
+    - *Litio:* Lake Resources solicitó ingreso al [[RIGI]] para [[Kachi]] (Catamarca, **US$ 1.160 millones** Fase 1) tras obtener DIA en sep 2026; Rio Tinto desplegó portales digitales de abastecimiento en el NOA; EXAR avanza expansión DLE en [[Cauchari-Olaroz]].
+    - *RIGI & Marco Regulatorio:* **Decreto 1366/2026** (BO 16/11/2026) eliminó el requisito del 51% de capital/votos nacionales para calificar como "proveedor local" bajo RIGI (habilitando filiales de multinacionales), preservando origen MERCOSUR ACE N° 18 para bienes y flexibilizando plazos/M&A de VPUs; fuerte rechazo de la FAPM y cámaras locales.
+    - *Infraestructura / Corredor Bioceánico:* **Resolución 1984/2026** (BO 16/11/2026) reglamentó el *Open Access* ferroviario (30 días hábiles solicitud, 60 días convenio, umbrales anti-discriminación >15% en horarios y >10% en peajes, reserva de capacidad para inversores en vía y control sancionatorio CNRT); apertura de ofertas del Belgrano Cargas prorrogada del 11/11 al **21/12/2026** manteniendo adenda obligatoria del Ramal C-14 y financiamiento para C-15.
+- **Nuevas Notas Creadas:**
+    - `wiki/01 Projects/Kachi.md` (proyecto de litio Lake Resources en Catamarca, US$ 1.160M).
+    - `wiki/06 Shadow APIs/Open Access Ferroviario Res 1984-2026 CNRT.md` (ingeniería inversa de SLAs 30/60 días y umbrales 15%/10%).
+    - `wiki/04 Daily/2026-11-24_Daily_Report.md` (reporte consolidado de la ventana con análisis escéptico en 5 puntos).
+- **Entidades, Frameworks y Tesis Actualizadas:**
+    - `wiki/01 Projects/`: `Vaca Muerta.md`, `VMOS.md`, `YPF.md`, `TGS.md`, `Taca Taca.md`, `Cobre.md`, `Distrito Vicuña.md`, `Catamarca.md`, `Litio.md`.
+    - `wiki/02 Frameworks/`: `RIGI.md`, `Corredor Bioceanico.md`.
+    - `wiki/03 Analysis/`: `Oportunidades y Conexiones.md`.
+    - `wiki/05 Tech Lead Opps/`: `BelgranoTech_OpenAccess_SaaS.md`, `Compliance_Compre_Local_8020_SaaS.md`, `00_Index_Tech_Lead_Opps.md`.
+    - `wiki/06 Shadow APIs/`: `Compliance Compre Local REPEM Catamarca vs RIGI.md`.
+    - `wiki/07 Analisis Esceptico/`: `Esceptico_Calcatreu_Licencia_Social_REPEM.md`.
+- **Índice General:** Actualizado `index.md` (`[[Kachi]]`, `[[Open Access Ferroviario Res 1984-2026 CNRT]]`, `[[2026-11-24_Daily_Report]]`).
+
 ## [2026-11-03] intel | Ronda de inteligencia Antigravity: Récord de fracturas Vaca Muerta, adenda Ramal C-14 y tensión REPEM
 - **Investigación Web Dual en Vivo:** Búsqueda y verificación de fuentes reales en 5 vectores (`raw/2026-11-03_news_mining_energy.md`):
     - *Vaca Muerta & O&G:* Proyección de fracturas cerrando 2026 en >28.000 etapas con salto a 39.000 etapas en 2027 (+39%), tensionando frack sets y consumo de arena (>8 Mt); oleoducto VMOS superó el 80% de avance físico, cruce del Río Negro completado, ONs por US$ 233M colocadas, llenado de ducto fijado para enero de 2027 y primer buque VLCC para marzo-abril de 2027.

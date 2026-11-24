@@ -3,7 +3,7 @@ type: index
 tags: [tech-lead, business-opportunities, index, mining, energy, vaca-muerta, litio, cobre]
 sources: [[GEMINI.md]]
 confidence: high
-last_update: 2026-11-03
+last_update: 2026-11-24
 ---
 
 # Catálogo Integral de Oportunidades Tecnológicas (Tech Lead Opps)
@@ -74,12 +74,12 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 * **Apalancamiento RIGI:** Encauzamiento de PyMEs locales en el esquema de compre local de proyectos mineros.
 * **Próximo Movimiento:** Mapear oferta industrial reconvertible en el parque industrial de Malargüe.
 
-### [[Compliance_Compre_Local_8020_SaaS]] - SaaS de Compliance Laboral y Compre Local (80/20 & REPEM)
-* **Resumen del Play:** Plataforma RegTech SaaS de auditoría y certificación continua de nóminas de personal y compras locales en tiempo real para proyectos mineros y energéticos, previniendo clausuras administrativas y suspensión de faenas por leyes provinciales de compre local (reafirmado por el conflicto CAPPROMIN vs Zijin/Posco en Catamarca y el precedente [[Calcatreu]] en Río Negro).
-* **Tech Stack:** Integración API ERP (SAP/Workday), Verificación cruzada AFIP/ARCA, REPEM y padrones provinciales, Semáforo algorítmico de riesgo regulatorio.
-* **Riesgo Crítico:** Complejidad en la integración de datos de subcontratistas informales Tier 3.
+### [[Compliance_Compre_Local_8020_SaaS]] - SaaS de Compliance Laboral y Compre Local Dual (Decreto 1366/2026 vs. REPEM & 80/20)
+* **Resumen del Play:** Plataforma RegTech SaaS de auditoría dual en tiempo real (Filtro Federal RIGI + ACE 18 tras el **Decreto 1366/2026** vs. Filtro Provincial REPEM 70/30 y regla 80/20) para nóminas y compras de operadoras y filiales EPC, previniendo clausuras administrativas y bloqueos de cámaras locales ([[Calcatreu]], CAPPROMIN en Catamarca, módulos en [[Distrito Vicuña]]).
+* **Tech Stack:** Motor de reglas dual + validación ACE 18, Integración API ERP (SAP/Workday), Verificación AFIP/ARCA y padrones provinciales, Armador de UTEs híbridas.
+* **Riesgo Crítico:** Complejidad de datos en subcontratistas Tier 3 y endurecimiento reactivo de ordenanzas provinciales tras el Decreto 1366/2026.
 * **Apalancamiento RIGI:** Protege las inversiones RIGI contra multas y paralizaciones por poder de policía provincial.
-* **Próximo Movimiento:** Presentar prototipo de semáforo a cámaras mineras provinciales (CMS, CAEM) y operadoras de litio en Catamarca.
+* **Próximo Movimiento:** Presentar prototipo de compliance dual a filiales EPC y operadoras de litio/cobre (Vicuña, Kachi, Posco) y cámaras provinciales.
 
 ### [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]] - Fintech de Garantías y Sindicación de Oferta PyME ⭐ NUEVO
 * **Resumen del Play:** Plataforma Fintech B2B de scoring crediticio digital, mutualización de balances y emisión algorítmica de pólizas de caución sindicadas para consorcios de proveedores mineros locales en San Juan y el NOA, permitiéndoles calificar para paquetes de licitación masivos en [[Distrito Vicuña]] (US$ 18.000M) y [[Los Azules]] (US$ 3.170M).
@@ -149,13 +149,13 @@ Este documento centraliza y clasifica la totalidad de las tesis de inversión y 
 
 ## 5. Vector Nuevos Frentes (Oct 2026) — Sin cobertura previa
 
-### [[BelgranoTech_OpenAccess_SaaS]] - SaaS de Optimización Ferroviaria Open Access ⭐ NUEVO
-* **Resumen del Play:** Plataforma SaaS B2B de gestión de slots, routing multimodal y trazabilidad de cadena de custodia para el Belgrano Cargas bajo concesión open access por 50 años. La baja de Grupo México ratifica el modelo de acceso abierto estricto, mientras que la adenda obligatoria en el Ramal C-14 garantiza obras prioritarias para evacuar litio del NOA y el concentrado de cobre de [[Taca Taca]].
-* **Tech Stack:** Algoritmo slot-allocation (MIP/CP-SAT con restricciones de vía única andina), GIS ferroviario, API AFIP/ARCA, adaptación TAF-TSI, integración SAP Ariba/Coupa.
-* **Riesgo Crítico:** Complejidad de coordinación operativa en vía única de alta montaña con múltiples cargadores y retornos de material rodante.
-* **Apalancamiento RIGI:** Proyectos RIGI tienen prioridad de despacho implícita → el software que certifique y audite esta equidad de acceso es crítico para las mineras.
-* **Urgencia:** 🔴 MUY ALTA — Definición de consorcios y adjudicación en marcha.
-* **Próximo Movimiento:** Presentar modelo de optimización de vía única andina a consorcios oferentes, CAEM y Secretaría de Transporte.
+### [[BelgranoTech_OpenAccess_SaaS]] - SaaS de Optimización Ferroviaria Open Access y Auditor CNRT ⭐ NUEVO
+* **Resumen del Play:** Plataforma SaaS B2B de gestión de slots, auditoría anti-discriminación CNRT (**Resolución 1984/2026**, BO 16/11/2026: plazos 30/60 días, desvíos >15% en horarios / >10% en peajes, reserva de capacidad) y routing multimodal para el Belgrano Cargas (apertura prorrogada al **21/12/2026**, con adenda obligatoria en Ramal C-14 para litio y [[Taca Taca]]).
+* **Tech Stack:** Algoritmo slot-allocation (MIP/CP-SAT con restricciones de vía única andina), Auditor SLA & Tarifas CNRT ([[Open Access Ferroviario Res 1984-2026 CNRT]]), GIS ferroviario, API AFIP/ARCA, integración SAP Ariba/Coupa.
+* **Riesgo Crítico:** Falta de telemetría unificada en la CNRT para auditar peajes y horarios en tiempo real, y riesgo de nuevas prórrogas licitatorias.
+* **Apalancamiento RIGI:** Proyectos RIGI e inversores en vía tienen reserva de capacidad garantizada por Res. 1984/2026 → el software que certifique equidad es clave para las mineras.
+* **Urgencia:** 🔴 MUY ALTA — Apertura de ofertas prorrogada al 21/12/2026.
+* **Próximo Movimiento:** Presentar el módulo de slot allocation + auditor CNRT (Res. 1984/2026) a consorcios oferentes antes del 21 de diciembre, CAEM y Secretaría de Transporte.
 
 ### [[MicroGrid_Cordillera_BESSaaS]] - BESS-as-a-Service para Proyectos 100% Off-Grid en la Puna ⭐ NUEVO
 * **Resumen del Play:** Plataforma de Gestión Energética + Energy-as-a-Service (EaaS) con BESS + solar + backup GNL para proyectos mineros en la Puna y cordillera de Salta/Catamarca sin acceso al SADI. Informe Aggreko (jul/26): ahorro potencial de 40% de OPEX en diésel. Demanda eléctrica minera proyecta +428% hacia 2034 (OLACDE). Distinguir de [[VPP_Mineria_San_Juan]] que opera en red conectada.

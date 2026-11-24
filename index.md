@@ -27,6 +27,7 @@
 - [[Hombre Muerto Oeste]]
 - [[Josemaría]]
 - [[Jujuy]]
+- [[Kachi]]
 - [[La Coipita]]
 - [[La Rioja]]
 - [[Litio]]
@@ -130,6 +131,7 @@
 - [[Convencion TIR Logistica Bioceanica]]
 - [[ENRE Prioridad de Despacho]]
 - [[Evaluacion RIGI Filtro Inversion Nueva]]
+- [[Open Access Ferroviario Res 1984-2026 CNRT]]
 - [[Prioridad Nodal BESS AlmaSADI CAMMESA]]
 - [[SIM San Juan Canon Minero]]
 - [[Ventanilla Unica Importacion PyME Decretos 482-483]]
@@ -174,6 +176,7 @@
 - [[PreMortem_VPP_SanJuan]]
 
 ## 04 Daily
+- [[2026-11-24_Daily_Report]]
 - [[2026-11-03_Daily_Report]]
 - [[2026-11-02_Daily_Report]]
 - [[2026-11-01_Daily_Report]]

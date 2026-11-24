@@ -1,9 +1,9 @@
 ---
 type: tech-lead-opp
 tags: [mining, energy, software, compliance, repem, rigi, saas, regtech]
-sources: [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-11-03_news_mining_energy.md]]
+sources: [[raw/2026-09-07_news_mining_energy.md]], [[raw/2026-09-08_news_mining_energy.md]], [[raw/2026-09-09_news_mining_energy.md]], [[raw/2026-09-10_news_mining_energy.md]], [[raw/2026-09-11_news_mining_energy.md]], [[raw/2026-09-13_news_mining_energy.md]], [[raw/2026-11-03_news_mining_energy.md]], [[raw/2026-11-24_news_mining_energy.md]]
 confidence: high
-last_update: 2026-11-03
+last_update: 2026-11-24
 ---
 
 # SaaS de Compliance Laboral y Compre Local (Regla 80/20 & REPEM)
@@ -22,27 +22,30 @@ last_update: 2026-11-03
 ## 2. Señal de Mercado y Diagnóstico del Cuello de Botella
 
 - **El Precedente Calcatreu (Septiembre 2026):** El gobierno de Río Negro suspendió las operaciones del proyecto de oro y plata Calcatreu (Patagonia Gold) debido a infracciones sistemáticas en la contratación de mano de obra local (regla 80/20). Este evento encendió alarmas rojas en toda la industria minera y petrolera nacional.
-- **Tensión RIGI vs. Leyes Subnacionales:** El RIGI federal garantiza libre importación y un cupo de compre nacional del 20%, pero las provincias retienen la policía laboral y ambiental (Art. 124 CN). El Registro Provincial de Empresas Mineras (REPEM) en Catamarca exige hasta 70% de compras y mano de obra local, mientras que Salta y Jujuy aumentan sus controles.
+- **Tensión RIGI vs. Leyes Subnacionales y Decreto 1366/2026 (Noviembre 2026):** El **Decreto 1366/2026** (BO 16/11/2026) eliminó el requisito del 51% de capital social nacional para calificar como "proveedor local" bajo el RIGI federal (manteniendo reglas de origen **ACE N° 18 MERCOSUR** para bienes). Sin embargo, la FAPM y las cámaras provinciales rechazaron la reforma y las provincias retienen la policía laboral y ambiental (Art. 124 CN), preparándose para endurecer el REPEM (70% en Catamarca), la regla 80/20 (Río Negro) y controles sobre importación de campamentos/módulos (como el conflicto en [[Distrito Vicuña]]).
 - **La Disputa de CAPPROMIN en Catamarca (Noviembre 2026):** La Cámara de Proveedores Mineros denunció formalmente ante la Secretaría de Minería a las operadoras de [[Tres Quebradas]] (Zijin) y [[Posco]] por triangular contratos con proveedores radicados fuera de la provincia. La provincia respondió aumentando inspecciones in situ y activando líneas de crédito blandas. Queda probado que las "treguas" políticas son insostenibles sin un motor objetivo y auditable de compliance continuo.
-- **Asimetría de Datos:** Las operadoras mineras delegan contrataciones en contratistas EPC o Tier 1 que a su vez subcontratan personal foráneo o falsean residencias, dejando a la minera expuesta a clausuras operativas con lucro cesante millonario.
+- **Asimetría de Datos:** Las operadoras mineras delegan contrataciones en contratistas EPC o Tier 1 (ahora incluidas filiales multinacionales habilitadas por Decreto 1366/2026) que subcontratan personal foráneo, dejando a la minera expuesta a clausuras operativas con lucro cesante millonario.
 
 ---
 
-## 3. La Solución Tecnológica: Local Content & Labor Compliance Engine
+## 3. La Solución Tecnológica: Dual Local Content & Labor Compliance Engine
 
-Una plataforma SaaS Multi-Tenant orientada a operadoras mineras y de O&G:
+Una plataforma SaaS Multi-Tenant orientada a operadoras mineras, de O&G y filiales EPC:
 
-1. **Ingesta y Validación Continua de Nóminas:**
+1. **Motor Dual de Reglas (Federal RIGI/ACE 18 vs. Provincial REPEM/80-20):**
+   - Evalúa cada orden de compra y subcontrato en dos capas paralelas: validez como proveedor domiciliado bajo Decreto 1366/2026 + origen MERCOSUR ACE 18 para bienes (cumplimiento 20% RIGI) versus composición accionarial y radicación real exigida por registros provinciales (REPEM / 80-20).
+   - Recomienda conformación automatizada de UTEs híbridas entre filiales EPC internacionales y PyMEs locales homologadas para superar ambos filtros simultáneamente.
+2. **Ingesta y Validación Continua de Nóminas:**
    - Conectores API automáticos con sistemas ERP de operadoras y contratistas (SAP, Workday, Meta4).
    - Verificación cruzada automatizada de residencias efectivas contra padrones electorales provinciales, altas de AFIP/ARCA y registros de municipios de influencia directa.
-2. **Tablero de Control de Cuotas en Tiempo Real (Semáforo Regulatorio):**
+3. **Tablero de Control de Cuotas en Tiempo Real (Semáforo Regulatorio):**
    - Monitoreo del ratio exacto de mano de obra local vs. no local en cada yacimiento y frente de obra (ej. seguimiento continuo del umbral 80/20 en Río Negro o 70/30 en Catamarca).
    - Alertas tempranas automatizadas si una nueva contratación de contratistas aproxima a la operadora a la zona de infracción administrativa.
-3. **Módulo de Compras Locales & Scoring de Proveedores:**
-   - Auditoría algorítmica de facturación local versus importada para asegurar el cumplimiento de compras en el REPEM y cámaras pymes locales.
+4. **Módulo de Compras Locales & Scoring de Proveedores:**
+   - Auditoría algorítmica de facturación local versus importada para asegurar el cumplimiento de compras en el REPEM y cámaras pymes locales (ej. [[Distrito Vicuña]], [[Kachi]]).
    - Portal de autoservicio para que pymes comunitarias carguen certificados y homologaciones rápidamente.
-4. **Certificación de Compliance Exportable (Audit-Ready):**
-   - Generación de informes criptográficamente sellados para presentar ante las Secretarías de Minería y Ministerios de Trabajo provinciales con trazabilidad inalterable.
+5. **Certificación de Compliance Exportable (Audit-Ready):**
+   - Generación de informes criptográficamente sellados para presentar ante el Comité Evaluador RIGI, Secretarías de Minería y Ministerios de Trabajo provinciales con trazabilidad inalterable.
 
 ---
 

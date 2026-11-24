@@ -1,9 +1,9 @@
 ---
 type: project
 tags: [mining, copper, rigi, san-juan]
-sources: [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]]
+sources: [[raw/2026-04-16_news_mining_energy.md]], [[raw/2026-04-20_news_mining_energy.md]], [[raw/2026-07-16_news_mining_energy.md]], [[raw/2026-07-23_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/2026-08-05_news_mining_energy.md]], [[raw/2026-08-09_news_mining_energy.md]], [[raw/2026-08-14_news_mining_energy.md]], [[raw/2026-08-16_news_mining_energy.md]], [[raw/2026-08-17_news_mining_energy.md]], [[raw/2026-09-30_batch_news_mining_energy.md]], [[raw/2026-11-24_news_mining_energy.md]]
 confidence: high
-last_update: 2026-09-30
+last_update: 2026-11-24
 ---
 
 # Distrito Vicuña (San Juan)
@@ -48,6 +48,8 @@ Vicuña Corp. y el Gobierno de la Provincia de San Juan sellaron un acuerdo marc
 
 ## 5. Análisis Escéptico y Cuellos de Botella (Red Team)
 - **Riesgo de Concentración de Capacidad:** El fallo del ENRE otorgando prioridad de despacho eléctrico a Vicuña generó tensiones con proyectos vecinos ([[Los Azules]]). La garantía del suministro continuo dependerá de la ejecución en tiempo y forma de las líneas de 500 kV.
+- **Disputa por Módulos Habitacionales e Importación (Noviembre 2026):** Cámaras metalmecánicas argentinas cuestionaron a los desarrolladores de Vicuña por la licitación y contratación de módulos habitacionales y campamentos fabricados en el exterior, profundizando la fricción sobre el compre nacional tras el **Decreto 1366/2026**.
+- **Saturación Municipal y Escasez de Talento:** Se reportan alertas críticas sobre la capacidad de gestión y disposición final de residuos en municipios cordilleranos de San Juan ante el aluvión demográfico de campamentos, sumado a una competencia feroz por gerentes de proyecto y mandos medios de construcción con Vaca Muerta.
 - **Logística y Cadena PyME:** La escala descomunal del proyecto demandará miles de toneladas de cales de alta calidad y cemento, exigiendo a los proveedores sanjuaninos una modernización acelerada para no quedar marginados ante la importación con arancel 0% habilitada por el RIGI (ver [[Fintech_Garantias_y_Sindicacion_Proveedores_Mineros]]).
 
 ---

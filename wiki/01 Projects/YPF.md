@@ -1,9 +1,9 @@
 ---
 type: company
 tags: [energy, oil-gas]
-sources: [[2026-06-28_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/Supplier_day_2026_Econojournal.md]], [[raw/2026-11-01_news_mining_energy.md]], [[raw/2026-11-02_news_mining_energy.md]]
+sources: [[2026-06-28_news_mining_energy.md]], [[raw/2026-08-01_news_mining_energy.md]], [[raw/Supplier_day_2026_Econojournal.md]], [[raw/2026-11-01_news_mining_energy.md]], [[raw/2026-11-02_news_mining_energy.md]], [[raw/2026-11-24_news_mining_energy.md]]
 confidence: high
-last_update: 2026-11-02
+last_update: 2026-11-24
 ---
 
 # YPF S.A.
@@ -12,9 +12,9 @@ last_update: 2026-11-02
 **Estado:** Mayor operadora de energía de Argentina, liderando el desarrollo de [[Vaca Muerta]].
 
 ## Hitos Recientes (2026)
-- **Récords de Producción:** Lideró el pico de producción en Neuquén (634k bpd de crudo) y el récord de gas de mayo 2026.
-- **Proyecto VMOS:** Consolidó junto al consorcio la entrada en operación comercial plena del Oleoducto Vaca Muerta Sur, alcanzando 200.000 bpd sostenidos exportados por Punta Colorada.
-- **Argentina LNG:** Lidera el consorcio para la planta de licuefacción de gas en Río Negro (PEELP US$ 51.000M). Tras la adjudicación de los contratos FEED, en noviembre de 2026 se adjudicaron las obras preliminares y de movimiento de suelos en la terminal de Sierra Grande.
+- **Récords de Actividad y Producción:** Lideró el pico de producción en Neuquén y concentra aproximadamente el **60% de las etapas de fractura** de [[Vaca Muerta]] (operando junto a Halliburton sobre un acumulado cuenca de **24.028 etapas** entre enero y octubre de 2026).
+- **Proyecto VMOS:** En su recta final de ejecución; YPF fijó oficialmente el **1 de enero de 2027** para iniciar el llenado del sistema y **marzo de 2027** para los primeros envíos formales de exportación desde Punta Colorada.
+- **Argentina LNG:** Lidera el consorcio para el megaproyecto de licuefacción en Río Negro (programa integral de hasta **US$ 50.000 millones** bajo [[RIGI]]). Horacio Marín confirmó que el **26 de noviembre de 2026** se firmará la **Decisión Final de Inversión (FID)** de la Etapa 1 (inversión inicial ~**US$ 30.000 millones**), con inicio de obras civiles e infraestructura estipulado para **febrero de 2027**.
 - **Palermo Aike:** YPF, en conjunto con CGC, fijó fecha para el inicio de perforación del segundo pozo shale en la cuenca de Santa Cruz.
 - **RIGI:** Ha presentado múltiples proyectos bajo el esquema [[RIGI]], incluyendo infraestructura de transporte y desarrollos de upstream no convencional.
 - **Transmisión Eléctrica:** A través de **YPF Luz**, firmó un acuerdo con Central Puerto por US$ 250M-450M para electrificar la Puna, facilitando proyectos de [[Litio]] y [[Cobre]].
